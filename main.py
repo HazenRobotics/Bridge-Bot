@@ -15,9 +15,9 @@ help = ["!msg (text) messages other app",
         "!mass(ask C1nner for the other half) Does a very cool thing"
         ]
 
-token_app = 'xapp-1-A041WRBKX8E-4088132000401-45c7ddf98e15a7a888d0c4897d5b22092db96bbb2ff933015b1a0b17e34585e5'
-token_slack = 'xoxb-1032863990657-4071370518627-ZmZ2ZB6Di4vfqrev5Z2k1wPq'
-token_discord = 'MTAxOTI0MzU0NzA0OTg3MzUyOQ.Gh4R60.CA9rY-u5kO2ySgNI7i6iOZolrHrFsDdeH1-480'
+token_app = 'xapp-1-A041WRBKX8E-4363930560688-aaf6a085e6d4b893b8c4221515fc1e6438d88b949de2e885609eeddc5468c8bd'
+token_slack = 'xoxb-1032863990657-4071370518627-ZVecpFlXu3VTED9t3mdX9Dby'
+token_discord = 'MTAxOTI0MzU0NzA0OTg3MzUyOQ.G9un4F.gg3bGB-MWefDciRUCfYEvF3KgDrQYmkBoowZyE'
 
 slack = WebClient(token=token_slack)
 app = App(token=token_slack, signing_secret="")
