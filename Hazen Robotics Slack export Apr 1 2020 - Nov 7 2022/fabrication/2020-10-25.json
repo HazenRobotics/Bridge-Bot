@@ -1,0 +1,88 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01DZDJK0C8",
+                "created": 1603610379,
+                "timestamp": 1603610379,
+                "name": "File from iOS.MOV",
+                "title": "File from iOS",
+                "mimetype": "video\/quicktime",
+                "filetype": "mov",
+                "pretty_type": "QuickTime Movie",
+                "user": "U012BUXVC6B",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 4617190,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F01DZDJK0C8\/file_from_ios.mov?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F01DZDJK0C8\/download\/file_from_ios.mov?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "video",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01DZDJK0C8-d335ce4635\/file_from_ios_thumb_video.jpeg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U012BUXVC6B\/F01DZDJK0C8\/file_from_ios.mov",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F01DZDJK0C8-9df22a1993",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U012BUXVC6B",
+        "display_as_bot": false,
+        "ts": "1603610384.024200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LPp",
+                "elements": []
+            }
+        ],
+        "client_msg_id": "346CE5B4-E336-493C-90FB-BF58C905B417"
+    },
+    {
+        "client_msg_id": "A7597D1B-3CE6-476B-A914-4CBB52BE3808",
+        "type": "message",
+        "text": "Ground clearance is for rookies",
+        "user": "U012BUXVC6B",
+        "ts": "1603610391.024600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SaLY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ground clearance is for rookies"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

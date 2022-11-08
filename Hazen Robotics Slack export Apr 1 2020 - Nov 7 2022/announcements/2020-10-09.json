@@ -1,0 +1,133 @@
+[
+    {
+        "client_msg_id": "5eaeacd2-b4ca-4405-a6e4-29ee26042615",
+        "type": "message",
+        "text": "Are we still meeting today?",
+        "user": "U0118UR0J72",
+        "ts": "1602266321.067700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "72I1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are we still meeting today?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bb12b816-99db-4717-863e-ed7072fa6a5f",
+        "type": "message",
+        "text": "Does anyone check slack?",
+        "user": "U0118UR0J72",
+        "ts": "1602276543.068100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DEb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone check slack?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "C5F5AF4D-D918-42D9-AB11-DDB4F69CE25B",
+        "type": "message",
+        "text": "Idk...if it depends on how many ppl can make it. If you can(t) make it thumbs up\/down this message ",
+        "user": "U0118LQKKEZ",
+        "ts": "1602277622.069400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v+gqT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Idk...if it depends on how many ppl can make it. If you can(t) make it thumbs up\/down this message "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "ca034fd1769e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-02\/2115489678439_ca034fd1769e0a72e2f9_72.png",
+            "first_name": "Ellen",
+            "real_name": "Ellen Huynh",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "ellen.huynh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0118UR0J72"
+                ],
+                "count": 1
+            },
+            {
+                "name": "-1",
+                "users": [
+                    "U018QFHSHJS",
+                    "U010WTHDW5Q"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

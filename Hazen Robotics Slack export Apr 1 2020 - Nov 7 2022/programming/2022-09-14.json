@@ -1,0 +1,128 @@
+[
+    {
+        "client_msg_id": "8328dc24-c9cb-4e8a-ac22-e7776ed287c9",
+        "type": "message",
+        "text": "yo <@U0119239VCY> any clue what the login\/passwords are for the computers you installed CentOS on?",
+        "user": "U022WGTQ602",
+        "ts": "1663187339.848149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AvPId",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yo "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " any clue what the login\/passwords are for the computers you installed CentOS on?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1663187368.000000"
+        }
+    },
+    {
+        "client_msg_id": "7887f210-854b-4ad0-adb3-ba6a96db0242",
+        "type": "message",
+        "text": "I only created a root user on them, so the username is root and the password is probably either admin or darthpeck",
+        "user": "U0119239VCY",
+        "ts": "1663188130.342809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gb=BA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I only created a root user on them, so the username is root and the password is probably either admin or darthpeck"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dc6e74cf-89dc-4194-8684-d3ae5532e313",
+        "type": "message",
+        "text": "Or NetAcad1 maybe",
+        "user": "U0119239VCY",
+        "ts": "1663188267.551009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MBkjP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or NetAcad1 maybe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

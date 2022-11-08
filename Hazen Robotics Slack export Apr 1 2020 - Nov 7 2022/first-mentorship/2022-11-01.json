@@ -1,0 +1,128 @@
+[
+    {
+        "client_msg_id": "5DBB8D5C-A13B-428F-AFC3-0A0277B41DC1",
+        "type": "message",
+        "text": "i’m going to be late to risdon, had to do something first",
+        "user": "U01AGHWTKFF",
+        "ts": "1667338416.287489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dc2J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i’m going to be "
+                            },
+                            {
+                                "type": "text",
+                                "text": "l"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ate to risdon, had to do something first"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "6490e6d401d2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-30\/1491271419888_6490e6d401d20a8b37b4_72.png",
+            "first_name": "Etasha",
+            "real_name": "Etasha Thareja",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "eta.tha000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "CA63C213-7343-4BD5-8A68-457707FAA574",
+        "type": "message",
+        "text": "<@U02DVNN88UE> did you get the stuff you need for risdon?",
+        "user": "U01AGHWTKFF",
+        "ts": "1667338438.854379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qu9OX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02DVNN88UE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " did you get the stuff you need for risdon?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "6490e6d401d2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-30\/1491271419888_6490e6d401d20a8b37b4_72.png",
+            "first_name": "Etasha",
+            "real_name": "Etasha Thareja",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "eta.tha000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "09b8c6e8-6ce5-4ecf-a20a-608625ed00ed",
+        "type": "message",
+        "text": "yea he got everything",
+        "user": "U022WGTQ602",
+        "ts": "1667338495.691259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e2z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yea he got everything"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

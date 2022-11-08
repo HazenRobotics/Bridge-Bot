@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "0b4ccd8b-d225-42a5-8089-d8fe1a2041d2",
+        "type": "message",
+        "text": "<https:\/\/go.codetogether.com\/#\/dDHObE3Op2U2U0Z4nO3XeE\/1i95jfwQCgZKvvVn0cUAdl>",
+        "user": "U0118UR0J72",
+        "ts": "1622669005.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I1e6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/go.codetogether.com\/#\/dDHObE3Op2U2U0Z4nO3XeE\/1i95jfwQCgZKvvVn0cUAdl"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1622669052.000400",
+        "user": "U022WGTQ602",
+        "text": "<@U022WGTQ602> has joined the channel"
+    }
+]

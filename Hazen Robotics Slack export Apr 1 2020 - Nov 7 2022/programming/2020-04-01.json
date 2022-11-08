@@ -1,0 +1,97 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585779846.000200",
+        "user": "U0118UR0J72",
+        "text": "<@U0118UR0J72> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585779853.000400",
+        "user": "U010YRDV4TT",
+        "text": "<@U010YRDV4TT> has joined the channel",
+        "inviter": "U0118UR0J72"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585779941.000600",
+        "user": "U0118LQKKEZ",
+        "text": "<@U0118LQKKEZ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585781104.000800",
+        "user": "U0119239VCY",
+        "text": "<@U0119239VCY> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "\/github subscribe HazenRobotics",
+        "user": "U0119239VCY",
+        "ts": "1585781520.001100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iJIX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\/github subscribe HazenRobotics"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "bot_id": "B01189UU2CC",
+        "type": "message",
+        "text": "",
+        "user": "U01189UTPNG",
+        "ts": "1585781520.001200",
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B01189UU2CC",
+            "deleted": true,
+            "name": "GitHub (Legacy)",
+            "updated": 1621285656,
+            "app_id": "A8GBNUWU8",
+            "icons": {
+                "image_36": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-12-19\/288981919427_f45f04edd92902a96859_36.png",
+                "image_48": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-12-19\/288981919427_f45f04edd92902a96859_48.png",
+                "image_72": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-12-19\/288981919427_f45f04edd92902a96859_72.png"
+            },
+            "team_id": "T010YRDV4KB"
+        },
+        "attachments": [
+            {
+                "text": "Subscribed to <https:\/\/github.com\/HazenRobotics|HazenRobotics>",
+                "id": 1,
+                "color": "24292f",
+                "fallback": "Subscribed to <https:\/\/github.com\/HazenRobotics|HazenRobotics>"
+            }
+        ]
+    }
+]

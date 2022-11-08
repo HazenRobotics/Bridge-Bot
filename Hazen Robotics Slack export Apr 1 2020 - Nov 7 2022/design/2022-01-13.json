@@ -1,0 +1,254 @@
+[
+    {
+        "client_msg_id": "258F8470-6245-48B2-9144-6E319AD795E0",
+        "type": "message",
+        "text": "<@U0135LQT8TB> Are we gonna use your design for the switch mount? Cause if not then I can work on it rn.",
+        "user": "U02ENRPMDCZ",
+        "ts": "1642134308.005800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wpjg4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0135LQT8TB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Are we gonna use your design for the switch mount? Cause if not then I can work on it rn."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "17b66d5a2701",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-13\/2483249218853_17b66d5a270198b7755b_72.jpg",
+            "first_name": "Vincent",
+            "real_name": "Vincent Luc",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "samuraivincent10",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Try and do something like this",
+        "files": [
+            {
+                "id": "F02U0LJHLEP",
+                "created": 1642134440,
+                "timestamp": 1642134440,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U0135LQT8TB",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 1385280,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02U0LJHLEP\/image_from_ios.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02U0LJHLEP\/download\/image_from_ios.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02U0LJHLEP-43f140a366\/image_from_ios_64.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02U0LJHLEP-43f140a366\/image_from_ios_80.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02U0LJHLEP-43f140a366\/image_from_ios_360.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02U0LJHLEP-43f140a366\/image_from_ios_480.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02U0LJHLEP-43f140a366\/image_from_ios_160.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02U0LJHLEP-43f140a366\/image_from_ios_720.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02U0LJHLEP-43f140a366\/image_from_ios_800.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02U0LJHLEP-43f140a366\/image_from_ios_960.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02U0LJHLEP-43f140a366\/image_from_ios_1024.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACR7ExH26ipElVxwahuJBujI6Z5qtMDFMyrnHUEVNikyzdxFgHXqOvuKZBM0KkNjaeqtUUd0wOGOfTIolaNiSpKtnt0NNA9dSXz4j0iH5mjz4\/8AnkPzNVRnsR+dLz7fnTJJMMw57etKoYncQScdaajHGBj8acXZBhhk+x4NPQBd6SAgAnHqKLaQIJRtHAJqEExglTjPX3qSNg7SYGCYyOalpPcYExdh+tG6P\/JqIKe+M+mKNp\/yKBF6aVQ5Qr\/DkGooIt+znjmrDRhiG6EZGakVVUAADgYFAyvcW48okDpzUNuoDYOMkEZq+67kI45FV2XDfdxz0A6CgQokQgYYEfWjevqPzFVHXynK56Hik3f7RrL2RXMf\/9k=",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U0135LQT8TB\/F02U0LJHLEP\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02U0LJHLEP-e4a3d4123c",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0135LQT8TB",
+        "display_as_bot": false,
+        "ts": "1642134448.006100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iaj\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Try and do something like this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5511B68B-8201-4B19-933C-284138FDF5D6"
+    },
+    {
+        "client_msg_id": "D9678A54-F4EA-48CF-B2E8-E61209A03D79",
+        "type": "message",
+        "text": "Oh alr ",
+        "user": "U02ENRPMDCZ",
+        "ts": "1642134469.006500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ltc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh alr "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "17b66d5a2701",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-13\/2483249218853_17b66d5a270198b7755b_72.jpg",
+            "first_name": "Vincent",
+            "real_name": "Vincent Luc",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "samuraivincent10",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "A17427B7-C7CA-4125-BCBE-297FB97B39A3",
+        "type": "message",
+        "text": "I got a design for the mount it should be in the robot design folder",
+        "user": "U02ENRPMDCZ",
+        "ts": "1642139951.007100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TcFR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I got a design for the mount it should be in the robot design folder"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "17b66d5a2701",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-13\/2483249218853_17b66d5a270198b7755b_72.jpg",
+            "first_name": "Vincent",
+            "real_name": "Vincent Luc",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "samuraivincent10",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1642139951.007100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1642284225.000400",
+        "reply_users": [
+            "U012BUXVC6B"
+        ],
+        "replies": [
+            {
+                "user": "U012BUXVC6B",
+                "ts": "1642284225.000400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "BB882F22-824D-433E-8704-8C5E90B3BE38",
+        "type": "message",
+        "text": "If there are any issues with it lmk",
+        "user": "U02ENRPMDCZ",
+        "ts": "1642139974.007600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RpTNO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If there are any issues with it lmk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "17b66d5a2701",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-13\/2483249218853_17b66d5a270198b7755b_72.jpg",
+            "first_name": "Vincent",
+            "real_name": "Vincent Luc",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "samuraivincent10",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

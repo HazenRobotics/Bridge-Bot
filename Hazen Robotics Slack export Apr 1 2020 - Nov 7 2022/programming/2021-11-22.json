@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "38c572a6-1a94-4130-915e-510a0cca7cff",
+        "type": "message",
+        "text": "Note for when we actually get to testing the vision model on the robot: <https:\/\/deltacv.gitbook.io\/eocv-sim\/|https:\/\/deltacv.gitbook.io\/eocv-sim\/>",
+        "user": "U0119239VCY",
+        "ts": "1637633516.083100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+ie",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Note for when we actually get to testing the vision model on the robot: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/deltacv.gitbook.io\/eocv-sim\/",
+                                "text": "https:\/\/deltacv.gitbook.io\/eocv-sim\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/deltacv.gitbook.io\/eocv-sim\/",
+                "title": "Welcome!",
+                "title_link": "https:\/\/deltacv.gitbook.io\/eocv-sim\/",
+                "text": "Introduction to EOCV-Sim",
+                "thumb_url": "https:\/\/app.gitbook.com\/share\/space\/thumbnail\/-Mj4bZXgCUnwOLKFxDRi.png?color=%2303D1EB&logo=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fgitbook-28427.appspot.com%2Fo%2Fspaces%252F-Mj4bZXgCUnwOLKFxDRi%252Favatar-1631108533974.png%3Fgeneration%3D1631108534216700%26alt%3Dmedia&theme=none",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "fallback": "Welcome!",
+                "service_name": "deltacv.gitbook.io",
+                "id": 1,
+                "original_url": "https:\/\/deltacv.gitbook.io\/eocv-sim\/"
+            }
+        ]
+    }
+]

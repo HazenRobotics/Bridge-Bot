@@ -1,0 +1,407 @@
+[
+    {
+        "client_msg_id": "BC02468A-2278-4FE7-B1CC-C62116A31AFF",
+        "type": "message",
+        "text": "How much space should I have to make an axel free spinning?",
+        "user": "U038SBX0FJM",
+        "ts": "1649954286.042719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZTmk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How much space should I have to make an axel free spinning?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "388e8c9e68d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3282906370181_388e8c9e68d4853f6e10_72.jpg",
+            "first_name": "Peter",
+            "real_name": "Peter Koenig",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "absolutebesttrombone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F7AF84A9-7F20-4075-A54E-E24A3FA12426",
+        "type": "message",
+        "text": "You'll want a bearing around it so 14mm I think",
+        "user": "U018B1TFE3Y",
+        "ts": "1649954306.382599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FLju",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You'll want a bearing around it so 14mm I think"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "C12C47A0-A94D-43AE-9F87-43457B640AF0",
+        "type": "message",
+        "text": "It’s less about the free space and more about the material used around it. You want as little free space as possible so that the axel doesn’t shift relative to the mount, so using a bearing or bushing is best",
+        "user": "U012BUXVC6B",
+        "ts": "1649954337.987049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1VxR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It’s less about the free space and more about the material used around it. You want as little free space as possible so that the axel doesn’t shift relative to the mount, so using a bearing or bushing is best"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "925FCD39-E618-430C-8677-78BE2E863957",
+        "type": "message",
+        "text": "I guess it’s not exactly free spinning, it would be rotated by a sirvo and gear, but I need to make sure that it can still turn even when attached to the bracket ",
+        "user": "U038SBX0FJM",
+        "ts": "1649954387.021659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nqYk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I guess it’s not exactly free spinning, it would be rotated by a sirvo and gear, but I need to make sure that it can still turn even when attached to the bracket "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "388e8c9e68d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3282906370181_388e8c9e68d4853f6e10_72.jpg",
+            "first_name": "Peter",
+            "real_name": "Peter Koenig",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "absolutebesttrombone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "69E6DDE1-B6B9-43A3-988A-5CDE671A3373",
+        "type": "message",
+        "text": "Or would I still use a bearing for it?",
+        "user": "U038SBX0FJM",
+        "ts": "1649954437.462679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aw7bh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or would I still use a bearing for it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "388e8c9e68d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3282906370181_388e8c9e68d4853f6e10_72.jpg",
+            "first_name": "Peter",
+            "real_name": "Peter Koenig",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "absolutebesttrombone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0B4D96A7-7033-4DB6-8859-DF6516D7B44D",
+        "type": "message",
+        "text": "Probably still using a bearing to support it, if it’s moving slowly a bushing or even a tetrix hub in a bar is fine. The important thing is making sure there is as little gap as possible and using two materials that slide against each other \n\n<https:\/\/www.pitsco.com\/TETRIX-MAX-11-mm-Bronze-Bushing|https:\/\/www.pitsco.com\/TETRIX-MAX-11-mm-Bronze-Bushing>\n\n<https:\/\/www.gobilda.com\/1611-series-flanged-ball-bearing-6mm-id-x-14mm-od-5mm-thickness-2-pack\/|https:\/\/www.gobilda.com\/1611-series-flanged-ball-bearing-6mm-id-x-14mm-od-5mm-thickness-2-pack\/>\n\n<https:\/\/www.amazon.com\/uxcell-Bearing-3x7x3mm-Shielded-Bearings\/dp\/B07Z3DRZX9\/ref=mp_s_a_1_3?crid=1CWLT6AHIGG4M&amp;keywords=3mm+flanged+bearing&amp;qid=1649954462&amp;sprefix=3mm+flanged+bearinf%2Caps%2C114&amp;sr=8-3|https:\/\/www.amazon.com\/uxcell-Bearing-3x7x3mm-Shielded-Bearings\/dp\/B07Z3DRZX9\/ref=mp_s_a_1_3?crid=1CWLT6AHIGG4M&amp;keywords=3mm+flanged+bearing&amp;qid=1649954462&amp;sprefix=3mm+flanged+bearinf%2Caps%2C114&amp;sr=8-3>",
+        "user": "U012BUXVC6B",
+        "ts": "1649954550.315689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HXet",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Probably still using a bearing to support it, if it’s moving slowly a bushing or even a tetrix hub in a bar is fine. The important thing is making sure there is as little gap as possible and using two materials that slide against each other \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.pitsco.com\/TETRIX-MAX-11-mm-Bronze-Bushing",
+                                "text": "https:\/\/www.pitsco.com\/TETRIX-MAX-11-mm-Bronze-Bushing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.gobilda.com\/1611-series-flanged-ball-bearing-6mm-id-x-14mm-od-5mm-thickness-2-pack\/",
+                                "text": "https:\/\/www.gobilda.com\/1611-series-flanged-ball-bearing-6mm-id-x-14mm-od-5mm-thickness-2-pack\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.com\/uxcell-Bearing-3x7x3mm-Shielded-Bearings\/dp\/B07Z3DRZX9\/ref=mp_s_a_1_3?crid=1CWLT6AHIGG4M&keywords=3mm+flanged+bearing&qid=1649954462&sprefix=3mm+flanged+bearinf%2Caps%2C114&sr=8-3",
+                                "text": "https:\/\/www.amazon.com\/uxcell-Bearing-3x7x3mm-Shielded-Bearings\/dp\/B07Z3DRZX9\/ref=mp_s_a_1_3?crid=1CWLT6AHIGG4M&keywords=3mm+flanged+bearing&qid=1649954462&sprefix=3mm+flanged+bearinf%2Caps%2C114&sr=8-3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.gobilda.com\/1611-series-flanged-ball-bearing-6mm-id-x-14mm-od-5mm-thickness-2-pack\/",
+                "thumb_url": "https:\/\/cdn11.bigcommerce.com\/s-eem7ijc77k\/products\/1046\/images\/21083\/1611-0514-0006__43636.1534281260.500.750.jpg?c=2",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "id": 1,
+                "original_url": "https:\/\/www.gobilda.com\/1611-series-flanged-ball-bearing-6mm-id-x-14mm-od-5mm-thickness-2-pack\/",
+                "fallback": "goBILDA: 1611 Series Flanged Ball Bearing (6mm ID x 14mm OD, 5mm Thickness) - 2 Pack",
+                "text": "goBILDA is a modern build system designed for engineers, artists, students and makers. It's metric, lightweight, and has an ever-growing library of parts",
+                "title": "1611 Series Flanged Ball Bearing (6mm ID x 14mm OD, 5mm Thickness) - 2 Pack",
+                "title_link": "https:\/\/www.gobilda.com\/1611-series-flanged-ball-bearing-6mm-id-x-14mm-od-5mm-thickness-2-pack\/",
+                "service_name": "goBILDA"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B4889E53-6463-475A-95F7-E68B78AE8266",
+        "type": "message",
+        "text": "There are gobilda pieces with holes for bearings",
+        "user": "U018B1TFE3Y",
+        "ts": "1649954593.580649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sBtVw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are gobilda pieces with holes for bearings"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "D3DDA9EB-D332-44D2-B853-63648F323C1E",
+        "type": "message",
+        "text": "<https:\/\/www.gobilda.com\/1120-series-u-channel\/|https:\/\/www.gobilda.com\/1120-series-u-channel\/>",
+        "user": "U018B1TFE3Y",
+        "ts": "1649954647.232349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j+j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.gobilda.com\/1120-series-u-channel\/",
+                                "text": "https:\/\/www.gobilda.com\/1120-series-u-channel\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.gobilda.com\/1120-series-u-channel\/",
+                "id": 1,
+                "original_url": "https:\/\/www.gobilda.com\/1120-series-u-channel\/",
+                "fallback": "STRUCTURE - Channel - 1120 Series U-Channel - goBILDA",
+                "text": "goBILDA is a modern build system designed for engineers, artists, students and makers. It's metric, lightweight, and has an ever-growing library of parts",
+                "title": "STRUCTURE - Channel - 1120 Series U-Channel - goBILDA",
+                "title_link": "https:\/\/www.gobilda.com\/1120-series-u-channel\/",
+                "service_name": "gobilda.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9205522B-888C-4102-B532-A197E9E6C95A",
+        "type": "message",
+        "text": "Yee, if you’re using a bearing or bushing size the hole in your part to the outer diameter of the bearing ",
+        "user": "U012BUXVC6B",
+        "ts": "1649954676.787909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ycw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yee, if you’re using a bearing or bushing size the hole in your part to the outer diameter of the bearing "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

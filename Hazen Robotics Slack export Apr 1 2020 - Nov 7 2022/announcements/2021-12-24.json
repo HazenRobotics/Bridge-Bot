@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "70ea99af-6bc4-4fc9-bfea-e49f89deeea2",
+        "type": "message",
+        "text": "nope, none here",
+        "user": "U01BCRC513K",
+        "ts": "1640374504.025600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sjMh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nope, none here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g1a3742ccdba",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a3742ccdbaa11b20e19f18ba9c093d7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Alex Ross",
+            "display_name": "Alex Ross",
+            "team": "T010YRDV4KB",
+            "name": "ale.ros001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

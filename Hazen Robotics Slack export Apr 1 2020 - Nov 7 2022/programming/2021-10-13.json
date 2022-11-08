@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "210BCD01-A63B-4943-BA41-856851165640",
+        "type": "message",
+        "text": "It’s in an Amazon bag on the right cabinet counter <@U0118UR0J72> ",
+        "user": "U012BUXVC6B",
+        "ts": "1634160049.173200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/u9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It’s in an Amazon bag on the right cabinet counter "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0118UR0J72"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3b9bc978-fd8f-42c5-83e6-0b78eecf48a3",
+        "type": "message",
+        "text": "Those bags are empty",
+        "user": "U0118UR0J72",
+        "ts": "1634162291.173400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YC\/d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Those bags are empty"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

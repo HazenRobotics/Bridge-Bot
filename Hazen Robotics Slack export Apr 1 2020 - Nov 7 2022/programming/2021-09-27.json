@@ -1,0 +1,327 @@
+[
+    {
+        "client_msg_id": "4ca56057-5a5e-44b1-9182-2ac7ae2dd9e5",
+        "type": "message",
+        "text": "First provides a model for the duck. I think this is an image showing how well that model works on identifying a block vs a duck. You get more points for identifying your shipping element because you have to train your own model which I can review with you guys today or when needed.",
+        "user": "U018WC9RM3K",
+        "ts": "1632763164.125200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9hbFW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "First provides a model for the duck. I think this is an image showing how well that model works on identifying a block vs a duck. You get more points for identifying your shipping element because you have to train your own model which I can review with you guys today or when needed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "04d08579-9e53-496b-82c0-66bc5df6d15e",
+        "type": "message",
+        "text": "ah ok",
+        "user": "U022WGTQ602",
+        "ts": "1632764127.125500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pv1g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fd9d622d-7177-42fa-a26e-785e956ac4dd",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=1_tFzuxQ-FM>",
+        "user": "U018WC9RM3K",
+        "ts": "1632767483.125700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NTd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=1_tFzuxQ-FM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "FTC TensorFlow Object Detection Training Tutorial",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=1_tFzuxQ-FM",
+                "author_name": "Shengming Y.",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCK_fUQomjIm8Vj_IvhjPjpw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/1_tFzuxQ-FM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: FTC TensorFlow Object Detection Training Tutorial",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/1_tFzuxQ-FM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=1_tFzuxQ-FM",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=1_tFzuxQ-FM"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b49b2e4b-e138-4813-823a-077398de69d4",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=57E4jSlyRhw>",
+        "user": "U018WC9RM3K",
+        "ts": "1632767552.126000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3d6\/+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=57E4jSlyRhw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "FTC TensorFlow Lite - Setup and Example Code Tutorial - Rover Ruckus",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=57E4jSlyRhw",
+                "author_name": "Recharged Robotics",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCYqOZfJkw57Z1Jpo4WWa5Ow",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/57E4jSlyRhw\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: FTC TensorFlow Lite - Setup and Example Code Tutorial - Rover Ruckus",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/57E4jSlyRhw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=57E4jSlyRhw",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=57E4jSlyRhw"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2ff9e105-a921-4f86-9891-686128f0bc11",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=aeMWWvteF2U>",
+        "user": "U018WC9RM3K",
+        "ts": "1632767650.126300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zzF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=aeMWWvteF2U"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Robotic Eagles - Custom FTC Image Recognition Tutorial",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=aeMWWvteF2U",
+                "author_name": "Robotic Eagles",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCDyaXSM0mqQ7KLNyQ2etN0w",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/aeMWWvteF2U\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Robotic Eagles - Custom FTC Image Recognition Tutorial",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/aeMWWvteF2U?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=aeMWWvteF2U",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=aeMWWvteF2U"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02E16UU4J0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d5b8586c-b812-4669-b508-b670fa81797b",
+        "type": "message",
+        "text": "If you want to learn more indepth <https:\/\/www.youtube.com\/watch?v=yqkISICHH-U>",
+        "user": "U018WC9RM3K",
+        "ts": "1632767772.126700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qVs+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you want to learn more indepth "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=yqkISICHH-U"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Tensorflow Object Detection in 5 Hours with Python | Full Course with 3 Projects",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=yqkISICHH-U",
+                "author_name": "Nicholas Renotte",
+                "author_link": "https:\/\/www.youtube.com\/c\/NicholasRenotte",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/yqkISICHH-U\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Tensorflow Object Detection in 5 Hours with Python | Full Course with 3 Projects",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/yqkISICHH-U?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=yqkISICHH-U",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=yqkISICHH-U"
+            }
+        ]
+    }
+]

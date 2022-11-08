@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "FA98A022-740F-4732-97FF-C9FD62279191",
+        "type": "message",
+        "text": "<@U01GV1PRQF9> did you get the parts I emailed to you?",
+        "user": "U012BUXVC6B",
+        "ts": "1608664002.069700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=QNXv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01GV1PRQF9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " did you get the parts I emailed to you?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5394FD09-1B4A-49C1-828F-8C78549A775B",
+        "type": "message",
+        "text": "No. Did you sent it to my home or school email ",
+        "user": "U01GV1PRQF9",
+        "ts": "1608664724.071000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d7kX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No. Did you sent it to my home or school email "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gb4c024f8b6c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b4c024f8b6cff6c475129bf5f0213f59.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "Dave Goldy",
+            "display_name": "Dave Goldy",
+            "team": "T010YRDV4KB",
+            "name": "davegoldy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

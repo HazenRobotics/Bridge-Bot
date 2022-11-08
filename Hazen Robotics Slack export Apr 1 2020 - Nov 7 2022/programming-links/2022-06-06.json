@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "11f769f3-b7e3-4785-b735-a2810214bbec",
+        "type": "message",
+        "text": "my dad saw this, thought y’all might be interested <https:\/\/aws.amazon.com\/deepracer\/student\/>",
+        "user": "U022WGTQ602",
+        "ts": "1654530164.760249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Bom",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my dad saw this, thought y’all might be interested "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/aws.amazon.com\/deepracer\/student\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1654530179.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/aws.amazon.com\/deepracer\/student\/",
+                "thumb_url": "https:\/\/a0.awsstatic.com\/libra-css\/images\/logos\/aws_logo_smile_179x109.png",
+                "thumb_width": 179,
+                "thumb_height": 109,
+                "service_icon": "https:\/\/a0.awsstatic.com\/libra-css\/images\/site\/touch-icon-iphone-114-smile.png",
+                "id": 1,
+                "original_url": "https:\/\/aws.amazon.com\/deepracer\/student\/",
+                "fallback": "Amazon Web Services, Inc.: AWS DeepRacer Student | AI\/ML Racing League | Amazon Web Services",
+                "text": "Learn, practice, and apply machine learning skills as you compete with other students in a global virtual autonomous racing league, presented by Intel.",
+                "title": "AWS DeepRacer Student | AI\/ML Racing League | Amazon Web Services",
+                "title_link": "https:\/\/aws.amazon.com\/deepracer\/student\/",
+                "service_name": "Amazon Web Services, Inc."
+            }
+        ]
+    }
+]

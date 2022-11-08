@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "d4d8f193-f9b6-447e-845b-343b9e68c5e8",
+        "type": "message",
+        "text": "Here's the homework for everyone who will be programming or would like to learn how we control general movement of the robot on the fjeld: Go to <https:\/\/learnroadrunner.com\/|https:\/\/learnroadrunner.com\/> and read through as much of the documentation as you can. (If you get far enough, know that we will probably be using a three dead wheel encoder setup without encoders on the 4 main mecanum wheels)",
+        "user": "U0118UR0J72",
+        "ts": "1632499957.119100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wD0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's the homework for everyone who will be programming or would like to learn how we control general movement of the robot on the fjeld: Go to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/learnroadrunner.com\/",
+                                "text": "https:\/\/learnroadrunner.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and read through as much of the documentation as you can. (If you get far enough, know that we will probably be using a three dead wheel encoder setup without encoders on the 4 main mecanum wheels)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Learn Road Runner",
+                "title_link": "https:\/\/learnroadrunner.com\/",
+                "text": "Level up your auto. Road Runner made easy.",
+                "fallback": "Learn Road Runner",
+                "thumb_url": "https:\/\/www.learnroadrunner.com\/assets\/baby\/baby-rr-150ppi.png",
+                "from_url": "https:\/\/learnroadrunner.com\/",
+                "thumb_width": 346,
+                "thumb_height": 470,
+                "service_icon": "https:\/\/learnroadrunner.com\/assets\/favicons\/apple-touch-icon.png",
+                "service_name": "learnroadrunner.com",
+                "id": 1,
+                "original_url": "https:\/\/learnroadrunner.com\/"
+            }
+        ]
+    }
+]

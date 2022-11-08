@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "66d9dddf-5da6-4310-a8d0-17be9f71b527",
+        "type": "message",
+        "text": "<@U0119239VCY>, could you send me a picture of all the configurations?",
+        "user": "U0118UR0J72",
+        "ts": "1611635279.000800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e1ND9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", could you send me a picture of all the configurations?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

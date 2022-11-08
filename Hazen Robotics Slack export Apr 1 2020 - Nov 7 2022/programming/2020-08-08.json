@@ -1,0 +1,107 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1596908292.000200",
+        "user": "U018B1TFE3Y",
+        "text": "<@U018B1TFE3Y> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1596908328.000400",
+        "user": "U018WC9RM3K",
+        "text": "<@U018WC9RM3K> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1596909151.000600",
+        "user": "U018B209ELW",
+        "text": "<@U018B209ELW> has joined the channel"
+    },
+    {
+        "client_msg_id": "66e2e299-447c-44e5-90a5-4572a7ef0315",
+        "type": "message",
+        "text": "Could we get together sometime and work on organizing code?",
+        "user": "U0118UR0J72",
+        "ts": "1596909436.001000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DxU0\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Could we get together sometime and work on organizing code?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1596909679.001100",
+        "user": "U0118UR0J72",
+        "text": "set the channel topic: programming duh",
+        "topic": "programming duh"
+    },
+    {
+        "client_msg_id": "f45de567-bbb2-4542-88cf-503719f30584",
+        "type": "message",
+        "text": "Yeah we should go through all of it and see which parts we want to keep for future use or which parts to get rid of or change",
+        "user": "U0119239VCY",
+        "ts": "1596931988.002700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4GKe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah we should go through all of it and see which parts we want to keep for future use or which parts to get rid of or change"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

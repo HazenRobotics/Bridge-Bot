@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "3B538872-5C13-489E-A2BB-2B82E99F5307",
+        "type": "message",
+        "text": "<@U018WC9RM3K> have you heard anything back today?",
+        "user": "U012BUXVC6B",
+        "ts": "1614033058.017000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hvdS5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U018WC9RM3K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " have you heard anything back today?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "80851ed0-9a03-48f6-a289-c97ac44f658c",
+        "type": "message",
+        "text": "Not yet",
+        "user": "U018WC9RM3K",
+        "ts": "1614033089.017400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ywC+3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not yet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

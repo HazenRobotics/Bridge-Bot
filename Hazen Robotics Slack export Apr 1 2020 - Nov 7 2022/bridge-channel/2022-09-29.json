@@ -1,0 +1,113 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1664489618.133529",
+        "user": "U038SBX0FJM",
+        "text": "<@U038SBX0FJM> has joined the channel"
+    },
+    {
+        "client_msg_id": "827CE5F5-E766-49D4-96AE-A255A95256D2",
+        "type": "message",
+        "text": "!find string",
+        "user": "U038SBX0FJM",
+        "ts": "1664489664.129509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=WHkJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!find string"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "388e8c9e68d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3282906370181_388e8c9e68d4853f6e10_72.jpg",
+            "first_name": "Peter",
+            "real_name": "Peter Koenig",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "absolutebesttrombone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664489664.129509",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1664561004.740049",
+        "reply_users": [
+            "U02DWDDVAP7",
+            "U038SBX0FJM"
+        ],
+        "replies": [
+            {
+                "user": "U02DWDDVAP7",
+                "ts": "1664551273.184669"
+            },
+            {
+                "user": "U02DWDDVAP7",
+                "ts": "1664551300.347649"
+            },
+            {
+                "user": "U038SBX0FJM",
+                "ts": "1664560096.919169"
+            },
+            {
+                "user": "U02DWDDVAP7",
+                "ts": "1664561004.740049"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "105B68E3-C394-4624-8AC7-D5454001F917",
+        "type": "message",
+        "text": "!find charge",
+        "user": "U038SBX0FJM",
+        "ts": "1664489672.594589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y4h9F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!find charge"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "388e8c9e68d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3282906370181_388e8c9e68d4853f6e10_72.jpg",
+            "first_name": "Peter",
+            "real_name": "Peter Koenig",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "absolutebesttrombone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

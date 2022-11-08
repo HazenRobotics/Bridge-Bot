@@ -1,0 +1,83 @@
+[
+    {
+        "client_msg_id": "be5d02a4-d040-4790-9e46-dab18b592026",
+        "type": "message",
+        "text": "but like",
+        "user": "U01CZUZA4F3",
+        "ts": "1629482111.000600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6kPU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but like"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "2340daecb5c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-14\/1429586810659_2340daecb5c97157acec_72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Nguyen",
+            "display_name": "Derek Nguyen",
+            "team": "T010YRDV4KB",
+            "name": "derek.nguyen1028",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2cada7c6-7017-40b2-9797-f44ae72ffef4",
+        "type": "message",
+        "text": "bidding is closed :disappointed:",
+        "user": "U01CZUZA4F3",
+        "ts": "1629482115.000800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rOV83",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bidding is closed "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "2340daecb5c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-14\/1429586810659_2340daecb5c97157acec_72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Nguyen",
+            "display_name": "Derek Nguyen",
+            "team": "T010YRDV4KB",
+            "name": "derek.nguyen1028",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

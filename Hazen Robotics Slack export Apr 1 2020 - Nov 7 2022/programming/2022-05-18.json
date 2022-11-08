@@ -1,0 +1,375 @@
+[
+    {
+        "client_msg_id": "62dda160-84f1-496b-b66d-ba649873f49b",
+        "type": "message",
+        "text": "is there a way to use the EncoderTracker class from the utils folder in my code?",
+        "user": "U02535ABH2A",
+        "ts": "1652884743.981599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tjM1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is there a way to use the EncoderTracker class from the utils folder in my code?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c809acd0-612c-4950-9f48-77b3d2df6070",
+        "type": "message",
+        "text": "not really, the EncoderTracker class concerns deadwheels which you don’t have",
+        "user": "U022WGTQ602",
+        "ts": "1652884809.507429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V1Bf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not really, the EncoderTracker class concerns deadwheels which you don’t have"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0f78ed4c-89b0-49b0-90c4-a2cef4799855",
+        "type": "message",
+        "text": "oh ok",
+        "user": "U02535ABH2A",
+        "ts": "1652884815.865549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U64N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "01bffafa-3203-43aa-b7a3-975ece836dce",
+        "type": "message",
+        "text": "in theory though, how would I do that?",
+        "user": "U02535ABH2A",
+        "ts": "1652885041.844569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F43d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "in theory though, how would I do that?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e6d44004-47ea-4a97-af85-59f728474afd",
+        "type": "message",
+        "text": "wdym? like if you did have deadwheels you could just make an EncoderTracker object and pass in your deadwheel encoders",
+        "user": "U022WGTQ602",
+        "ts": "1652885105.940609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NOcCD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wdym? like if you did have deadwheels you could just make an EncoderTracker object and pass in your deadwheel encoders"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c16c383f-3709-47de-90bf-fd6aa9ed952e",
+        "type": "message",
+        "text": "oh that, I forgot",
+        "user": "U02535ABH2A",
+        "ts": "1652885117.016469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4R6K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh that, I forgot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3458180f-42ba-4c62-9ed8-432f0b9d2092",
+        "type": "message",
+        "text": "ok",
+        "user": "U02535ABH2A",
+        "ts": "1652885117.744329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z1==",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03GELUA83B",
+                "created": 1652912742,
+                "timestamp": 1652912742,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0118UR0J72",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 1042228,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F03GELUA83B\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F03GELUA83B\/download\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GELUA83B-f986e04fc2\/image_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GELUA83B-f986e04fc2\/image_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GELUA83B-f986e04fc2\/image_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 163,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GELUA83B-f986e04fc2\/image_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 218,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GELUA83B-f986e04fc2\/image_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GELUA83B-f986e04fc2\/image_720.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 720,
+                "thumb_720_h": 327,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GELUA83B-f986e04fc2\/image_800.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 363,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GELUA83B-f986e04fc2\/image_960.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 960,
+                "thumb_960_h": 436,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GELUA83B-f986e04fc2\/image_1024.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 465,
+                "original_w": 1435,
+                "original_h": 651,
+                "thumb_tiny": "AwAVADCBnzklRk+lC5UHYQSR1I6VKICV5GD7Go\/kyACV2+1VdMY0MYTjG4nk+tPNwRwIzuPSg4J4ZWx0zwaeFbO7AzjAOc07tDLcChQGc5kK859KY8ETvvDDnqAcVXjBSOVi2CBgYquNxIAPJpIRo4ppjVuqg\/hT6KkCu0Cdhj6GmNFtHDVO1Mk+7RdgRwMQzA8jHQ1NtjPzeWoI9Kgh+81Tj7hoYH\/\/2Q==",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U0118UR0J72\/F03GELUA83B\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F03GELUA83B-0cf09c8ecd",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0118UR0J72",
+        "display_as_bot": false,
+        "ts": "1652912747.473759",
+        "client_msg_id": "e8e7f73a-dc79-430d-9ac3-5a6d08aa9b19",
+        "thread_ts": "1652390561.894529",
+        "parent_user_id": "U0118UR0J72"
+    },
+    {
+        "client_msg_id": "29de643b-bf13-44c0-b37b-5ba87fc249a4",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/redirect?event=video_description&amp;redir_token=QUFFLUhqbDFTaFJNVjVIWlhfNExFSUVMOWVMaGtvZ3Zad3xBQ3Jtc0trcmc2VVhPRll2eXY3Rmk2ZkNYa0ZSV09VeW55SmlOY3hDVmZnOUpqSnhMdUNPRW04bXE5NHZHQk1UZFVJanMtOVY4cUJVaG1LWkkyLW4xMzVPQjdaX0JaWWFrTHRWTTZmR1N4dG1yWUJyc1ZNcXRIbw&amp;q=https%3A%2F%2Fa360.co%2F2W0GtFJ&amp;v=aETaRclTDDo|https:\/\/www.youtube.com\/redirect?event=video_description&amp;redir_token=QUFFLUhqbDFTaFJ[…]UJyc1ZNcXRIbw&amp;q=https%3A%2F%2Fa360.co%2F2W0GtFJ&amp;v=aETaRclTDDo>",
+        "user": "U0118UR0J72",
+        "ts": "1652912891.123369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Os94",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/redirect?event=video_description&redir_token=QUFFLUhqbDFTaFJNVjVIWlhfNExFSUVMOWVMaGtvZ3Zad3xBQ3Jtc0trcmc2VVhPRll2eXY3Rmk2ZkNYa0ZSV09VeW55SmlOY3hDVmZnOUpqSnhMdUNPRW04bXE5NHZHQk1UZFVJanMtOVY4cUJVaG1LWkkyLW4xMzVPQjdaX0JaWWFrTHRWTTZmR1N4dG1yWUJyc1ZNcXRIbw&q=https%3A%2F%2Fa360.co%2F2W0GtFJ&v=aETaRclTDDo",
+                                "text": "https:\/\/www.youtube.com\/redirect?event=video_description&redir_token=QUFFLUhqbDFTaFJ[…]UJyc1ZNcXRIbw&q=https%3A%2F%2Fa360.co%2F2W0GtFJ&v=aETaRclTDDo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1652390561.894529",
+        "parent_user_id": "U0118UR0J72"
+    }
+]

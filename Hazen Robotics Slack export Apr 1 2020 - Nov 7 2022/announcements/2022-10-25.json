@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "6197a15f-3991-4e0e-92a7-2bab4a69ca42",
+        "type": "message",
+        "text": "<!everyone> With competitions coming up, we need y’all to sign up on the FIRST website and join the team if you would like to compete at competition. Please follow this short playlist along with a parent tonight to get registered for FIRST <https:\/\/youtube.com\/playlist?list=PLVThirog71ioXX8HhOEM-5X5QH1x5iCUq>",
+        "user": "U022WGTQ602",
+        "ts": "1666715124.616239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cmP1X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " With competitions coming up, we need y’all to sign up on the FIRST website and join the team if you would like to compete at competition. Please follow this short playlist along with a parent tonight to get registered for FIRST "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtube.com\/playlist?list=PLVThirog71ioXX8HhOEM-5X5QH1x5iCUq"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtube.com\/playlist?list=PLVThirog71ioXX8HhOEM-5X5QH1x5iCUq",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/HgXj7sofj94\/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCiACDkFo5Hv_53BVXINq6gC9gUNA&days_since_epoch=19290",
+                "thumb_width": 168,
+                "thumb_height": 94,
+                "service_icon": "https:\/\/www.youtube.com\/s\/desktop\/0759de80\/img\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/youtube.com\/playlist?list=PLVThirog71ioXX8HhOEM-5X5QH1x5iCUq",
+                "fallback": "YouTube: FIRST Sign-Up Tutorials",
+                "text": "Share your videos with friends, family, and the world",
+                "title": "FIRST Sign-Up Tutorials",
+                "title_link": "https:\/\/youtube.com\/playlist?list=PLVThirog71ioXX8HhOEM-5X5QH1x5iCUq",
+                "service_name": "YouTube"
+            }
+        ]
+    }
+]

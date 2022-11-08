@@ -1,0 +1,801 @@
+[
+    {
+        "client_msg_id": "74465f05-a964-4763-9ee2-d28ec69e2bcd",
+        "type": "message",
+        "text": "Yes Kotlin is really good for displaying stuff",
+        "user": "U018WC9RM3K",
+        "ts": "1631297581.029200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nS673",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes Kotlin is really good for displaying stuff"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b45e28aa-c12f-4b52-a764-c1540f27d2f0",
+        "type": "message",
+        "text": "bro someone help",
+        "user": "U01CZUZA4F3",
+        "ts": "1631322735.029400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YM\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bro someone help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "2340daecb5c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-14\/1429586810659_2340daecb5c97157acec_72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Nguyen",
+            "display_name": "Derek Nguyen",
+            "team": "T010YRDV4KB",
+            "name": "derek.nguyen1028",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dbeb58fc-ca8b-4978-a11e-bbe77711b255",
+        "type": "message",
+        "text": "i can't connect my github account to android studio",
+        "user": "U01CZUZA4F3",
+        "ts": "1631322742.029800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fxaXh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i can't connect my github account to android studio"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "2340daecb5c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-14\/1429586810659_2340daecb5c97157acec_72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Nguyen",
+            "display_name": "Derek Nguyen",
+            "team": "T010YRDV4KB",
+            "name": "derek.nguyen1028",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e9308035-cd15-4977-9456-ff24517d07d0",
+        "type": "message",
+        "text": "every time i try it sends me to this thing",
+        "user": "U01CZUZA4F3",
+        "ts": "1631322748.030000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kMOnQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "every time i try it sends me to this thing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "2340daecb5c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-14\/1429586810659_2340daecb5c97157acec_72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Nguyen",
+            "display_name": "Derek Nguyen",
+            "team": "T010YRDV4KB",
+            "name": "derek.nguyen1028",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "hopefully i didn't send something rather important",
+        "files": [
+            {
+                "id": "F02E3TNPWN7",
+                "created": 1631322749,
+                "timestamp": 1631322749,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01CZUZA4F3",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 7109,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02E3TNPWN7\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02E3TNPWN7\/download\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02E3TNPWN7-ea4069875a\/image_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02E3TNPWN7-ea4069875a\/image_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02E3TNPWN7-ea4069875a\/image_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 162,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02E3TNPWN7-ea4069875a\/image_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "original_w": 448,
+                "original_h": 202,
+                "thumb_tiny": "AwAVADCkMbR8o+u6hh3AA\/HNAxjqv5UmaYCUUuaM0AJRS5ozQAlFFFABRRRQA8upGAgHvTSQRjaBSUUDbuf\/2Q==",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U01CZUZA4F3\/F02E3TNPWN7\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02E3TNPWN7-f7a3f3f14d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U01CZUZA4F3",
+        "display_as_bot": false,
+        "ts": "1631322756.030300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9sG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hopefully i didn't send something rather important"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U01CZUZA4F3",
+            "ts": "1631322766.000000"
+        }
+    },
+    {
+        "client_msg_id": "d32aa042-17cf-4771-9052-e71df2a580bb",
+        "type": "message",
+        "text": "wtf am i supposed to put in there bruh",
+        "user": "U01CZUZA4F3",
+        "ts": "1631322775.030900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bjj9z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wtf am i supposed to put in there bruh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "2340daecb5c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-14\/1429586810659_2340daecb5c97157acec_72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Nguyen",
+            "display_name": "Derek Nguyen",
+            "team": "T010YRDV4KB",
+            "name": "derek.nguyen1028",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b6e67999-f6e1-4c66-a34c-c1ce82b0b6dd",
+        "type": "message",
+        "text": "Hmmm I haven't gone through the sign in process in the new version of Android Studio yet, so I'm not actually sure what you're supposed to do",
+        "user": "U0119239VCY",
+        "ts": "1631323691.033800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7l3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hmmm I haven't gone through the sign in process in the new version of Android Studio yet, so I'm not actually sure what you're supposed to do"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "82172a01-6d43-43e1-809c-47b8d85d9b7d",
+        "type": "message",
+        "text": "I'll try signing out of my account and then try to sign back in and get to the part that you are at in a couple minutes",
+        "user": "U0119239VCY",
+        "ts": "1631323786.035900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5eVJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll try signing out of my account and then try to sign back in and get to the part that you are at in a couple minutes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "efffb841-ec46-459e-9cba-4d6b65b67dc3",
+        "type": "message",
+        "text": "alright",
+        "user": "U01CZUZA4F3",
+        "ts": "1631324953.037000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HLbx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alright"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "2340daecb5c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-14\/1429586810659_2340daecb5c97157acec_72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Nguyen",
+            "display_name": "Derek Nguyen",
+            "team": "T010YRDV4KB",
+            "name": "derek.nguyen1028",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dcc99600-b405-4e0c-81cc-47e795620f81",
+        "type": "message",
+        "text": "Ok, so I couldn't figure it out either but what you can do is instead of clicking the \"log in on Github\" button, click the \"use token\" button and there should be a \"generate\" button, click that and it should take you to a github page. Change the \"expiration\" dropdown to \"never\" so that you won't need to re-generate your token ever, and then press ok and copy the random string of letters and numbers that it generated into the line that says \"token\" in android studio",
+        "user": "U0119239VCY",
+        "ts": "1631325100.039400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EvvU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, so I couldn't figure it out either but what you can do is instead of clicking the \"log in on Github\" button, click the \"use token\" button and there should be a \"generate\" button, click that and it should take you to a github page. Change the \"expiration\" dropdown to \"never\" so that you won't need to re-generate your token ever, and then press ok and copy the random string of letters and numbers that it generated into the line that says \"token\" in android studio"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "20b15444-34aa-44e5-92d9-af451e2df29f",
+        "type": "message",
+        "text": "alright i'll do that after i finish practicing violin",
+        "user": "U01CZUZA4F3",
+        "ts": "1631325120.039600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c1PIN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alright i'll do that after i finish practicing violin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "2340daecb5c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-14\/1429586810659_2340daecb5c97157acec_72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Nguyen",
+            "display_name": "Derek Nguyen",
+            "team": "T010YRDV4KB",
+            "name": "derek.nguyen1028",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01CZUZA4F3",
+            "ts": "1631325130.000000"
+        }
+    },
+    {
+        "client_msg_id": "907eadd0-a86e-4165-b3d3-2f1c1ac4056e",
+        "type": "message",
+        "text": "**Happy Mr. Coy noises",
+        "user": "U0119239VCY",
+        "ts": "1631325236.041100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E4sB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "**Happy Mr. Coy noises"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0119239VCY",
+            "ts": "1631325298.000000"
+        }
+    },
+    {
+        "client_msg_id": "ec07a24c-6268-4f0e-8cca-251ca95f2983",
+        "type": "message",
+        "text": "I was talking to my dad about the issue that you were having, he said that it might be some sort of proxy that you or your parents have set up",
+        "user": "U022WGTQ602",
+        "ts": "1631328073.042300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0zrf1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was talking to my dad about the issue that you were having, he said that it might be some sort of proxy that you or your parents have set up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2329dca6-1472-4481-9819-3e5888668dc0",
+        "type": "message",
+        "text": "i don't think my parents even know how to do that stuff lmao",
+        "user": "U01CZUZA4F3",
+        "ts": "1631328718.042600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wdu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i don't think my parents even know how to do that stuff lmao"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "2340daecb5c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-14\/1429586810659_2340daecb5c97157acec_72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Nguyen",
+            "display_name": "Derek Nguyen",
+            "team": "T010YRDV4KB",
+            "name": "derek.nguyen1028",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b5357919-0e10-454a-81b9-07333d095d71",
+        "type": "message",
+        "text": "ok, idk then",
+        "user": "U022WGTQ602",
+        "ts": "1631328730.042800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rucg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, idk then"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "DEC927F9-368B-45DB-B508-2A67289F56EF",
+        "type": "message",
+        "text": "Do you have webstorm installed",
+        "user": "U012BUXVC6B",
+        "ts": "1631329309.043200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rbe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you have webstorm installed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "459dbc8f-cc82-40b8-8773-8a29225d4453",
+        "type": "message",
+        "text": "whats webstorm",
+        "user": "U01CZUZA4F3",
+        "ts": "1631329438.043400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Pfk5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "whats webstorm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "2340daecb5c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-14\/1429586810659_2340daecb5c97157acec_72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Nguyen",
+            "display_name": "Derek Nguyen",
+            "team": "T010YRDV4KB",
+            "name": "derek.nguyen1028",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cf75887a-4e38-4a41-8d8f-26196a334004",
+        "type": "message",
+        "text": "I wouldn't bother with that, it's probably just something screwy on jetbrain's end with communicating to the github oauth server",
+        "user": "U0119239VCY",
+        "ts": "1631329519.045400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XkSAV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wouldn't bother with that, it's probably just something screwy on jetbrain's end with communicating to the github oauth server"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "788f7bd0-d347-4111-b0a7-83ce982fcfae",
+        "type": "message",
+        "text": "Try the token way first and see if that does it for you",
+        "user": "U0119239VCY",
+        "ts": "1631329528.045800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Kp9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Try the token way first and see if that does it for you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e18c4e9d-5fa9-4395-ab8f-7de55feeb546",
+        "type": "message",
+        "text": "aight",
+        "user": "U01CZUZA4F3",
+        "ts": "1631329531.046000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uz8lw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aight"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "2340daecb5c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-14\/1429586810659_2340daecb5c97157acec_72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Nguyen",
+            "display_name": "Derek Nguyen",
+            "team": "T010YRDV4KB",
+            "name": "derek.nguyen1028",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

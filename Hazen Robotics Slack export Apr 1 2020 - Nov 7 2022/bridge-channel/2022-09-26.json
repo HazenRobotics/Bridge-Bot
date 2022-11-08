@@ -1,0 +1,259 @@
+[
+    {
+        "type": "message",
+        "text": "fun",
+        "files": [
+            {
+                "id": "F043USP3SQM",
+                "created": 1664210026,
+                "timestamp": 1664210026,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02DWDDVAP7",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 2991,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F043USP3SQM\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F043USP3SQM\/download\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F043USP3SQM-ebae107676\/image_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F043USP3SQM-ebae107676\/image_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F043USP3SQM-ebae107676\/image_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 227,
+                "thumb_360_h": 41,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F043USP3SQM-ebae107676\/image_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "original_w": 227,
+                "original_h": 41,
+                "thumb_tiny": "AwAIADCqpUDkUnFJRQAvFBx2pKKYBRRRSA\/\/2Q==",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U02DWDDVAP7\/F043USP3SQM\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F043USP3SQM-05808058bb",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02DWDDVAP7",
+        "display_as_bot": false,
+        "ts": "1664210030.580619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ztL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "fun"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "09b5723d-d9de-4ce4-bb72-8909f7c35ae5"
+    },
+    {
+        "client_msg_id": "d97963c2-de59-4822-9742-78905f1a8086",
+        "type": "message",
+        "text": "(its offline)",
+        "user": "U02DWDDVAP7",
+        "ts": "1664210036.488119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZD8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(its offline)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a227acd5-d49a-4bdf-99e3-e029998d23f3",
+        "type": "message",
+        "text": "!help",
+        "user": "U02DWDDVAP7",
+        "ts": "1664210040.038529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wLuWq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9942861b-c84a-43ab-a4cc-0d720a2dbdbb",
+        "type": "message",
+        "text": "Cool back online",
+        "user": "U02DWDDVAP7",
+        "ts": "1664216589.005609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5nOhW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool back online"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "96E79824-B7E5-4EBE-B84F-31014CFF15F8",
+        "type": "message",
+        "text": "!help",
+        "user": "U038AS2R6UV",
+        "ts": "1664227609.958269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eh8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g2c4eee482c1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2c4eee482c1daf21ca41a736f9ca5bd1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Pottorff",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "ryan.pottorff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "!msg messages other app\n!find finds item in sorting system\n!read (slack only) searchs channel archive for the word you are looking for\n!wakeup (slack only) sends user 25 DMS",
+        "user": "U0423AWF8JF",
+        "ts": "1664227610.591179",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JS9=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!msg messages other app\n!find finds item in sorting system\n!read (slack only) searchs channel archive for the word you are looking for\n!wakeup (slack only) sends user 25 DMS"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    }
+]

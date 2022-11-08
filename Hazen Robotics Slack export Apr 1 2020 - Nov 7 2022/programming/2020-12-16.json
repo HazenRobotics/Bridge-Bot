@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "d02dad77-2719-4294-bdaa-a14a62355d15",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/Ho7niiRTIbM>",
+        "user": "U012BUXVC6B",
+        "ts": "1608162067.255600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OZyo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/Ho7niiRTIbM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Remote Teamwork Programming",
+                "title_link": "https:\/\/youtu.be\/Ho7niiRTIbM",
+                "author_name": "FIRST Tech Challenge",
+                "author_link": "https:\/\/www.youtube.com\/user\/FIRSTTechChallenge",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Ho7niiRTIbM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Remote Teamwork Programming",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/Ho7niiRTIbM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/youtu.be\/Ho7niiRTIbM",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/Ho7niiRTIbM"
+            }
+        ]
+    }
+]

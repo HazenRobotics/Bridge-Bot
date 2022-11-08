@@ -1,0 +1,4908 @@
+[
+    {
+        "client_msg_id": "6ef9a0af-42c1-48c3-a844-4956e64395e2",
+        "type": "message",
+        "text": "<@U0118UR0J72> <@U0119239VCY> <@U018WC9RM3K><@U022WGTQ602> I was thinking about using a mouse to control the pr bot is this possible with.gamepad",
+        "user": "U02DWDDVAP7",
+        "ts": "1646320541.354119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7GYW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0118UR0J72"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U018WC9RM3K"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I was thinking about using a mouse to control the pr bot is this possible with.gamepad"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02DWDDVAP7",
+            "ts": "1646320560.000000"
+        }
+    },
+    {
+        "client_msg_id": "738ace96-0925-4891-9ae8-b752906eefa0",
+        "type": "message",
+        "text": "I'm not sure",
+        "user": "U0118UR0J72",
+        "ts": "1646320572.135389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qtVbZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm not sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "440721a6-6f12-48b2-9d43-5dd8c4be2819",
+        "type": "message",
+        "text": "There's probably a way",
+        "user": "U0118UR0J72",
+        "ts": "1646320577.373019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H1GF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There's probably a way"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c7f53c0a-ef43-4901-be12-530fa5bd853b",
+        "type": "message",
+        "text": "I know the driver station only supports some gamepads\/controllers, but you'll have to look for a library",
+        "user": "U0118UR0J72",
+        "ts": "1646320861.024629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "szN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know the driver station only supports some gamepads\/controllers, but you'll have to look for a library"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "caf00f81-53b4-4f39-8e7b-0ce294ab4ff6",
+        "type": "message",
+        "text": "Is there a documentation page",
+        "user": "U02DWDDVAP7",
+        "ts": "1646320923.836599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D9Lu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is there a documentation page"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ca9ba3fd-bdf0-4e88-b1aa-d3197f290768",
+        "type": "message",
+        "text": "Probably, you'll have to do some googling",
+        "user": "U0118UR0J72",
+        "ts": "1646320952.121929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SFG5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Probably, you'll have to do some googling"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0118UR0J72",
+            "ts": "1646320959.000000"
+        }
+    },
+    {
+        "client_msg_id": "2f184d35-b249-4748-b008-d1e9300f9456",
+        "type": "message",
+        "text": "cool thanks",
+        "user": "U02DWDDVAP7",
+        "ts": "1646320966.203609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kDt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7d8004e1-6db3-472e-a1eb-3f837c577cbc",
+        "type": "message",
+        "text": "after lots of googling, I found that some people use mice to navigate on their driver hub.\nBut nothing on robot control because well most FTC teams don't care to use a mouse to control PR bots",
+        "user": "U02DWDDVAP7",
+        "ts": "1646322900.188339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6fV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "after lots of googling, I found that some people use mice to navigate on their driver hub.\nBut nothing on robot control because well most FTC teams don't care to use a mouse to control PR bots"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f818cb19-2411-4b58-b0eb-10f9f309f6b1",
+        "type": "message",
+        "text": "<@U0119239VCY> Also do you know how to download android studios on the Apsc desktops",
+        "user": "U02DWDDVAP7",
+        "ts": "1646323110.000179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sr4K6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Also do you know how to download android studios on the Apsc desktops"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a7a233c4-fc18-4626-910c-3b84d5c634ad",
+        "type": "message",
+        "text": "I think on their website you can download the zip",
+        "user": "U0118UR0J72",
+        "ts": "1646323148.438949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vjpih",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think on their website you can download the zip"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d7b3cf91-dd73-413e-9426-cdabb65128ba",
+        "type": "message",
+        "text": "If not, then you have to install it somewhere else, zip\/compress the folder where all of android studio is, send it to the APCS computer, and extract it.",
+        "user": "U0118UR0J72",
+        "ts": "1646323247.624769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ArN3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If not, then you have to install it somewhere else, zip\/compress the folder where all of android studio is, send it to the APCS computer, and extract it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3ca8b6cd-435d-477e-9a65-bd82524d1dcb",
+        "type": "message",
+        "text": "<https:\/\/developer.android.com\/studio#downloads|https:\/\/developer.android.com\/studio#downloads>",
+        "user": "U0118UR0J72",
+        "ts": "1646323285.185979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Zjd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/developer.android.com\/studio#downloads",
+                                "text": "https:\/\/developer.android.com\/studio#downloads"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/developer.android.com\/studio#downloads",
+                "service_icon": "https:\/\/www.gstatic.com\/devrel-devsite\/prod\/vda73e0d3502b94e693247461a7b7937471a7ed3e5707a56c05c8e13818cb1c3a\/android\/images\/touchicon-180.png",
+                "id": 1,
+                "original_url": "https:\/\/developer.android.com\/studio#downloads",
+                "fallback": "Android Developers: Download Android Studio and SDK tools  |  Android Developers",
+                "text": "The official IDE for Android app developers.",
+                "title": "Download Android Studio and SDK tools  |  Android Developers",
+                "title_link": "https:\/\/developer.android.com\/studio#downloads",
+                "service_name": "Android Developers"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7d9e62b7-9640-46dd-b84c-e4180f0c55b2",
+        "type": "message",
+        "text": "Download this: android-studio-2021.1.1.22-windows.zip",
+        "user": "U0118UR0J72",
+        "ts": "1646323311.431549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zO=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Download this: android-studio-2021.1.1.22-windows.zip"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "26123300-823a-4079-ac97-e9b448d05061",
+        "type": "message",
+        "text": "one way i could see a mouse working for controlling the PR bot is using some outside software installed onto the driver hub (it’s android so there’s software out there, just got to find it) to map the mouse inputs to gamepad inputs (ie left click to A, y level mouse movements to left stick y, etc.) It probably wouldn’t work perfectly like you envision, but it would be a way you could control the robot with the mouse",
+        "user": "U022WGTQ602",
+        "ts": "1646323508.201129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MD5l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "one way i could see a mouse working for controlling the PR bot is using some outside software installed onto the driver hub (it’s android so there’s software out there, just got to find it) to map the mouse inputs to gamepad inputs (ie left click to A, y level mouse movements to left stick y, etc.) It probably wouldn’t work perfectly like you envision, but it would be a way you could control the robot with the mouse"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1646323543.000000"
+        }
+    },
+    {
+        "client_msg_id": "b1927483-6753-4109-b9bd-b6ee814f71e5",
+        "type": "message",
+        "text": "downloaded the zip",
+        "user": "U02DWDDVAP7",
+        "ts": "1646323509.381549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8of",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "downloaded the zip"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "81df6bdc-fcd2-4ac9-be36-324d5d03327f",
+        "type": "message",
+        "text": "I found a mouse event class",
+        "user": "U02DWDDVAP7",
+        "ts": "1646323537.695299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/cG6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I found a mouse event class"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2ed2c2fe-40fe-4e18-89a4-0d2ef8a0c3af",
+        "type": "message",
+        "text": "oh alr",
+        "user": "U022WGTQ602",
+        "ts": "1646323549.645439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XWu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh alr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4f26e79d-cbef-4d60-868b-68b3ccfd78c7",
+        "type": "message",
+        "text": "<https:\/\/docs.oracle.com\/javase\/7\/docs\/api\/java\/awt\/event\/MouseEvent.html>",
+        "user": "U02DWDDVAP7",
+        "ts": "1646323573.570899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KWq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.oracle.com\/javase\/7\/docs\/api\/java\/awt\/event\/MouseEvent.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "345742c1-9840-4ac6-a71d-9f840db70924",
+        "type": "message",
+        "text": "Extract the zip in your docs folder or smthn and run android studio from there",
+        "user": "U0118UR0J72",
+        "ts": "1646323596.684139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vbs\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Extract the zip in your docs folder or smthn and run android studio from there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b5ed0d4b-4698-4c29-8702-b75b843d4cbb",
+        "type": "message",
+        "text": "Extracted",
+        "user": "U02DWDDVAP7",
+        "ts": "1646323623.918689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Givz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Extracted"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ca1e1730-30c3-4cf6-9c0a-a29ab97137cc",
+        "type": "message",
+        "text": "which file?",
+        "user": "U02DWDDVAP7",
+        "ts": "1646323629.370539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6j4eN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "which file?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5c837a68-a274-4b76-a847-1ddb10838c25",
+        "type": "message",
+        "text": "it’ll probably be an application file called Android Studio",
+        "user": "U022WGTQ602",
+        "ts": "1646323652.307509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cAkGu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it’ll probably be an application file called Android Studio"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e04a2c02-46ff-452a-ac18-66f1b0ed489c",
+        "type": "message",
+        "text": "There should be an android studio.exe or some runnable in there",
+        "user": "U0118UR0J72",
+        "ts": "1646323659.926459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oC9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There should be an android studio.exe or some runnable in there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1cc631f0-61ec-431d-a249-b7d9c04ad3b1",
+        "type": "message",
+        "text": "Then create a shortcut of it and put it on your desktop",
+        "user": "U0118UR0J72",
+        "ts": "1646323679.726179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Jq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Then create a shortcut of it and put it on your desktop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d8c65b55-42e2-412d-b11c-75a4d23c2956",
+        "type": "message",
+        "text": "I feel like there would be a way to get the app to recognize mouse input since android supports mouse input so there should be a library for it.",
+        "user": "U0118UR0J72",
+        "ts": "1646323721.584009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aEp7w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I feel like there would be a way to get the app to recognize mouse input since android supports mouse input so there should be a library for it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "676f7efe-d428-437a-bab0-432b350907e3",
+        "type": "message",
+        "text": "The mouse events might work",
+        "user": "U0118UR0J72",
+        "ts": "1646323736.733069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+N2Dy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The mouse events might work"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c35c4fd4-27c9-46fa-ac36-bd17b160836a",
+        "type": "message",
+        "text": "its loading",
+        "user": "U02DWDDVAP7",
+        "ts": "1646323737.010719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pus",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "its loading"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c58527aa-7f67-4f31-8920-c1f17b211dcb",
+        "type": "message",
+        "text": "LETS GOOOOO",
+        "user": "U02DWDDVAP7",
+        "ts": "1646323759.337409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PpT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "LETS GOOOOO"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cec9b644-710d-4692-aef1-376b1b304ef7",
+        "type": "message",
+        "text": "I am in",
+        "user": "U02DWDDVAP7",
+        "ts": "1646323981.790289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P4puc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am in"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b091dddc-b1b5-4222-9673-1a13959109d5",
+        "type": "message",
+        "text": "If you have an android, you could try making your own app and seeing if you can get mouse support in it",
+        "user": "U0118UR0J72",
+        "ts": "1646324042.690489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PGK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you have an android, you could try making your own app and seeing if you can get mouse support in it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "50c87418-99ba-457e-b907-6cafe9d80fce",
+        "type": "message",
+        "text": "How do I get it so that I can see\/edit my teli-op",
+        "user": "U02DWDDVAP7",
+        "ts": "1646324060.213789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "67VDM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How do I get it so that I can see\/edit my teli-op"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f03e0c59-cdd2-4791-8ef3-855e9c9ecc46",
+        "type": "message",
+        "text": "did you commit and push the code?",
+        "user": "U022WGTQ602",
+        "ts": "1646324085.046099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KwYZq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "did you commit and push the code?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8cb3a88e-8c03-4753-ad55-f4431ed3a3f1",
+        "type": "message",
+        "text": "Try adding a mouse listener for when the mouse clicks and have the app show a toast",
+        "user": "U0118UR0J72",
+        "ts": "1646324092.540379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zJxH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Try adding a mouse listener for when the mouse clicks and have the app show a toast"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0d3bc114-10b4-471c-b34c-b924762a2dac",
+        "type": "message",
+        "text": "dont think so",
+        "user": "U02DWDDVAP7",
+        "ts": "1646324100.383789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BCha2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dont think so"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f8d30210-b22b-4253-be86-94572466ce8d",
+        "type": "message",
+        "text": "also you’ll need to copy the github repo from our page",
+        "user": "U022WGTQ602",
+        "ts": "1646324100.446489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/4qL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also you’ll need to copy the github repo from our page"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a1664e08-384c-4daf-9dba-b5aa8d1a9aac",
+        "type": "message",
+        "text": "He probably hasn't pulled the code",
+        "user": "U0118UR0J72",
+        "ts": "1646324108.876669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5A9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "He probably hasn't pulled the code"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c9c29e3d-773f-41f4-919c-b78766f48f3c",
+        "type": "message",
+        "text": "link?",
+        "user": "U02DWDDVAP7",
+        "ts": "1646324110.985279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/UqS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "link?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7e5bff37-265b-47af-91e2-e202d2816478",
+        "type": "message",
+        "text": "<http:\/\/github.com\/hazenrobotics|github.com\/hazenrobotics>",
+        "user": "U0118UR0J72",
+        "ts": "1646324128.161999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y9uD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/github.com\/hazenrobotics",
+                                "text": "github.com\/hazenrobotics"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "da6b1991-2b71-4fb3-80f2-59971c1268de",
+        "type": "message",
+        "text": "well than unless you can get down to the room down there and commit and push your code, you can’t work with it",
+        "user": "U022WGTQ602",
+        "ts": "1646324138.172019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lzMfs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "well than unless you can get down to the room down there and commit and push your code, you can’t work with it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "de051b3e-54b2-4bf2-9cc1-3467c0c6a8fc",
+        "type": "message",
+        "text": "okay",
+        "user": "U02DWDDVAP7",
+        "ts": "1646324164.310689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7gVG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "okay"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4139771c-afa7-437e-9e8a-f5d2c9ef2a26",
+        "type": "message",
+        "text": "clone the freight frenzy repo from the link that sam sent",
+        "user": "U022WGTQ602",
+        "ts": "1646324167.054579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OHutl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "clone the freight frenzy repo from the link that sam sent"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1646324174.000000"
+        }
+    },
+    {
+        "client_msg_id": "03022dae-87af-4065-ad9b-36cbf50d244b",
+        "type": "message",
+        "text": "Where were you working on your PR-Bot teleop?",
+        "user": "U0118UR0J72",
+        "ts": "1646324171.372639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c2l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Where were you working on your PR-Bot teleop?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f25d6503-cafe-4661-9657-72f9b52171dc",
+        "type": "message",
+        "text": "it was just in 13robot under teleops",
+        "user": "U022WGTQ602",
+        "ts": "1646324186.013779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VKg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it was just in 13robot under teleops"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c59f22b2-2c82-41c2-9aec-fb2f25006f69",
+        "type": "message",
+        "text": "On one of the programming laptops?",
+        "user": "U0118UR0J72",
+        "ts": "1646324186.868229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gMKr\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On one of the programming laptops?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "90755382-df4a-4fc9-a7cb-efa9d43fdba4",
+        "type": "message",
+        "text": "yeah",
+        "user": "U02DWDDVAP7",
+        "ts": "1646324192.478769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oDnE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0f01be4a-f88e-43b1-9c47-48d24dea50f6",
+        "type": "message",
+        "text": "in the teleop folder",
+        "user": "U02DWDDVAP7",
+        "ts": "1646324204.573019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+TE\/n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "in the teleop folder"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dbed3577-155f-4695-b05f-c740e11f3988",
+        "type": "message",
+        "text": "Then you'll have to push the code on monday",
+        "user": "U0118UR0J72",
+        "ts": "1646324211.359579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0We0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Then you'll have to push the code on monday"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "31380c0e-6935-43d7-b7fc-456ad9d9ac9f",
+        "type": "message",
+        "text": "cool",
+        "user": "U02DWDDVAP7",
+        "ts": "1646324218.988629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ezJl8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "162eaec9-323b-4129-ab0f-5730fca83407",
+        "type": "message",
+        "text": "You have a github account right?",
+        "user": "U0118UR0J72",
+        "ts": "1646324221.870659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oId",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You have a github account right?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c4d4ad21-f441-4268-ae90-979ddf556b85",
+        "type": "message",
+        "text": "yeah",
+        "user": "U02DWDDVAP7",
+        "ts": "1646324227.032029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MP8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "227b6c75-42d8-450a-b4a5-08a9c3f4c123",
+        "type": "message",
+        "text": "Is it on the hazenrobotics girhub team?",
+        "user": "U0118UR0J72",
+        "ts": "1646324237.925949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mLQCO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is it on the hazenrobotics girhub team?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2c7ad4ed-6876-48c8-8ae5-528344fe23dc",
+        "type": "message",
+        "text": "its not under people",
+        "user": "U02DWDDVAP7",
+        "ts": "1646324270.285439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3sN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "its not under people"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dcf13435-f46a-4a79-8387-8177886469e1",
+        "type": "message",
+        "text": "That could just mean your account isn't public",
+        "user": "U0118UR0J72",
+        "ts": "1646324299.419659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U8I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That could just mean your account isn't public"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ac7a7a6c-d6b1-4ac3-8899-4cec677d8c2e",
+        "type": "message",
+        "text": "my bad it there just not public",
+        "user": "U02DWDDVAP7",
+        "ts": "1646324310.488959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w+1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my bad it there just not public"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6adf18d3-9596-4a14-81a2-9e919d9ffd8e",
+        "type": "message",
+        "text": "Login to your github in Chrome and see if it's listed in your teams",
+        "user": "U0118UR0J72",
+        "ts": "1646324320.552579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "maw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Login to your github in Chrome and see if it's listed in your teams"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5a2e4f36-d932-4b91-a5fe-56ca495d330f",
+        "type": "message",
+        "text": "I see it now",
+        "user": "U02DWDDVAP7",
+        "ts": "1646324357.764389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ldue",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I see it now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f6910613-8cab-428e-accb-7502d741f398",
+        "type": "message",
+        "text": "Then login to your Github account in Android studio",
+        "user": "U0118UR0J72",
+        "ts": "1646324391.704879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kIAG0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Then login to your Github account in Android studio"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0118UR0J72",
+            "ts": "1646324401.000000"
+        }
+    },
+    {
+        "client_msg_id": "8b808c5b-3fa8-430f-b92e-a3c41b50084c",
+        "type": "message",
+        "text": "where?",
+        "user": "U02DWDDVAP7",
+        "ts": "1646324414.725769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y+5K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "where?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4b4728c2-0483-4df3-b924-0792b795ed4e",
+        "type": "message",
+        "text": "Android studio on the apcs computer",
+        "user": "U0118UR0J72",
+        "ts": "1646324441.707209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l5OD7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Android studio on the apcs computer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "67f9b390-a864-434f-b473-6b3251ce5b60",
+        "type": "message",
+        "text": "i know but where on Android studio",
+        "user": "U02DWDDVAP7",
+        "ts": "1646324474.065429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UWhq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i know but where on Android studio"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4f17c066-ed4e-44a4-9d31-b35f5722f4df",
+        "type": "message",
+        "text": "Should be a profile picture in the upper right corner",
+        "user": "U0118UR0J72",
+        "ts": "1646324495.629109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cyX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Should be a profile picture in the upper right corner"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "dont see it",
+        "files": [
+            {
+                "id": "F035391GST1",
+                "created": 1646324517,
+                "timestamp": 1646324517,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02DWDDVAP7",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 32557,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F035391GST1\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F035391GST1\/download\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F035391GST1-14cb24fe32\/image_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F035391GST1-14cb24fe32\/image_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F035391GST1-14cb24fe32\/image_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 217,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F035391GST1-14cb24fe32\/image_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 290,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F035391GST1-14cb24fe32\/image_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F035391GST1-14cb24fe32\/image_720.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 720,
+                "thumb_720_h": 435,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F035391GST1-14cb24fe32\/image_800.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 483,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F035391GST1-14cb24fe32\/image_960.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 960,
+                "thumb_960_h": 580,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F035391GST1-14cb24fe32\/image_1024.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 618,
+                "original_w": 1920,
+                "original_h": 1159,
+                "thumb_tiny": "AwAcADCqxpKDSUAKOtH50lFAC0UlFACmkpTSUAFFFFABRRRQB\/\/Z",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U02DWDDVAP7\/F035391GST1\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F035391GST1-b5c4a18299",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02DWDDVAP7",
+        "display_as_bot": false,
+        "ts": "1646324538.746599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2HY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dont see it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7f4882f7-938c-412a-8364-a80883afb8d4"
+    },
+    {
+        "client_msg_id": "33a6b214-d508-4d94-be41-13fb53479c9c",
+        "type": "message",
+        "text": "Let me check real quick",
+        "user": "U0118UR0J72",
+        "ts": "1646324558.172089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K5lKx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let me check real quick"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "30b4079e-a2f0-40c3-b206-f19fa4b54177",
+        "type": "message",
+        "text": "get with vcs",
+        "user": "U022WGTQ602",
+        "ts": "1646324562.340489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "70If",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "get with vcs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1646324592.000000"
+        }
+    },
+    {
+        "client_msg_id": "b4e82342-05e1-4a5d-bbfd-eb49e21f458e",
+        "type": "message",
+        "text": "and drop the .git link into there, you’ll be able to log in afterwards",
+        "user": "U022WGTQ602",
+        "ts": "1646324582.317069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6tTZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and drop the .git link into there, you’ll be able to log in afterwards"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9b67da2e-368a-4412-9605-0ac5b6504208",
+        "type": "message",
+        "text": "Go file, new, project from version control, and paste this link",
+        "user": "U0118UR0J72",
+        "ts": "1646324608.586559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RxT77",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Go file, new, project from version control, and paste this link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0118UR0J72",
+            "ts": "1646324746.000000"
+        }
+    },
+    {
+        "client_msg_id": "ab0b7148-08db-4765-98a6-45520907d6d4",
+        "type": "message",
+        "text": "if you go to get from vcs, there’ll be an option to log in with github",
+        "user": "U022WGTQ602",
+        "ts": "1646324630.684199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eeG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if you go to get from vcs, there’ll be an option to log in with github"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1646324651.000000"
+        }
+    },
+    {
+        "client_msg_id": "2f5b91b1-ca65-4f4d-ad20-7b1df4a58f03",
+        "type": "message",
+        "text": "<https:\/\/github.com\/HazenRobotics\/freight-frenzy.git|https:\/\/github.com\/HazenRobotics\/freight-frenzy.git>",
+        "user": "U0118UR0J72",
+        "ts": "1646324686.143649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MNG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/HazenRobotics\/freight-frenzy.git",
+                                "text": "https:\/\/github.com\/HazenRobotics\/freight-frenzy.git"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7661f8f6-5e85-43f1-a9eb-934115b665f5",
+        "type": "message",
+        "text": "^^^",
+        "user": "U022WGTQ602",
+        "ts": "1646324692.413139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v\/b\/7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "I am trying to login with github and its sends me here. Even when I got my stuff entered it just kept popping up",
+        "files": [
+            {
+                "id": "F035WGJHXB3",
+                "created": 1646325003,
+                "timestamp": 1646325003,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02DWDDVAP7",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 6274,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F035WGJHXB3\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F035WGJHXB3\/download\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F035WGJHXB3-4eb73c02d5\/image_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F035WGJHXB3-4eb73c02d5\/image_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F035WGJHXB3-4eb73c02d5\/image_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 331,
+                "thumb_360_h": 230,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F035WGJHXB3-4eb73c02d5\/image_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "original_w": 331,
+                "original_h": 230,
+                "thumb_tiny": "AwAhADC9GpiiRNwyBipAw7kUZ9s0A57YoAAQehpaKKACg9KKKAE57YpDnAz69qcKKAG8ejUcejU6qeLnvvz9RVJXE3YtcejUdxjNNh8zyh5n3venjPekwGnqaSlPU0lIYUUUUAFFFFAH\/9k=",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U02DWDDVAP7\/F035WGJHXB3\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F035WGJHXB3-042160e217",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02DWDDVAP7",
+        "display_as_bot": false,
+        "ts": "1646325005.274019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qpRR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am trying to login with github and its sends me here. Even when I got my stuff entered it just kept popping up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "e1c22b5b-e4d4-4c7f-91e3-0917862d877d"
+    },
+    {
+        "client_msg_id": "bdebb433-7c35-4257-ae43-b2fe5dbe9517",
+        "type": "message",
+        "text": "Then don't worry about logging in",
+        "user": "U0118UR0J72",
+        "ts": "1646325076.275609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IDE\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Then don't worry about logging in"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5b7bb915-2801-4fab-9272-b2cf52d899ca",
+        "type": "message",
+        "text": "Just go to file, new, project from version control, and paste this link",
+        "user": "U0118UR0J72",
+        "ts": "1646325094.941989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ku2SB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just go to file, new, project from version control, and paste this link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b5b63a47-9e14-4aad-b1d9-645860d3e0f6",
+        "type": "message",
+        "text": "<https:\/\/github.com\/HazenRobotics\/freight-frenzy.git|https:\/\/github.com\/HazenRobotics\/freight-frenzy.git>",
+        "user": "U0118UR0J72",
+        "ts": "1646325105.025299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4wVv6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/HazenRobotics\/freight-frenzy.git",
+                                "text": "https:\/\/github.com\/HazenRobotics\/freight-frenzy.git"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cfb09f47-50c8-4695-93e0-e14f47218c81",
+        "type": "message",
+        "text": "Any luck?",
+        "user": "U0118UR0J72",
+        "ts": "1646325406.290929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MiA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any luck?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "de994b6e-f33c-486a-b9c4-c606d4f7801e",
+        "type": "message",
+        "text": "Class ended",
+        "user": "U02DWDDVAP7",
+        "ts": "1646325429.984969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VmW+c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Class ended"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02DWDDVAP7",
+            "ts": "1646325442.000000"
+        }
+    },
+    {
+        "client_msg_id": "65e8a31d-942f-4bbe-882e-397ab311b74c",
+        "type": "message",
+        "text": "Right lol",
+        "user": "U0118UR0J72",
+        "ts": "1646325560.997179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AlzRR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Right lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0d0d5a0d-ca28-4725-9f43-e369e3ab9690",
+        "type": "message",
+        "text": "would this program work\n```import java.awt.MouseInfo;\nimport java.util.concurrent.TimeUnit;\n\npublic class Cords {\n\n    public static void main(String[] args) throws InterruptedException {\n\n        \/\/get cords of mouse code, outputs to console every 1\/2 second\n        \/\/make sure to import and include the \"throws in the main method\"\n\n        while(true == true)\n        {\n        TimeUnit.SECONDS.sleep(1\/2);\n        double mouseX = MouseInfo.getPointerInfo().getLocation().getX();\n        double mouseY = MouseInfo.getPointerInfo().getLocation().getY();\n        System.out.println(\"X:\" + mouseX);\n        System.out.println(\"Y:\" + mouseY);\n        \/\/make sure to import \n        }\n\n    }\n\n}```\n",
+        "user": "U02DWDDVAP7",
+        "ts": "1646325821.941129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KoA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "would this program work\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "import java.awt.MouseInfo;\nimport java.util.concurrent.TimeUnit;\n\npublic class Cords {\n\n    public static void main(String[] args) throws InterruptedException {\n\n        \/\/get cords of mouse code, outputs to console every 1\/2 second\n        \/\/make sure to import and include the \"throws in the main method\"\n\n        while(true == true)\n        {\n        TimeUnit.SECONDS.sleep(1\/2);\n        double mouseX = MouseInfo.getPointerInfo().getLocation().getX();\n        double mouseY = MouseInfo.getPointerInfo().getLocation().getY();\n        System.out.println(\"X:\" + mouseX);\n        System.out.println(\"Y:\" + mouseY);\n        \/\/make sure to import \n        }\n\n    }\n\n}"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1646325821.941129",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1646329136.368399",
+        "reply_users": [
+            "U0118UR0J72",
+            "U02DWDDVAP7"
+        ],
+        "replies": [
+            {
+                "user": "U0118UR0J72",
+                "ts": "1646325997.510819"
+            },
+            {
+                "user": "U0118UR0J72",
+                "ts": "1646326034.512439"
+            },
+            {
+                "user": "U02DWDDVAP7",
+                "ts": "1646329136.368399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "67d06284-74ac-4a7a-a4f7-4f62da1bda2a",
+        "type": "message",
+        "text": "we would remove the wait and the print",
+        "user": "U02DWDDVAP7",
+        "ts": "1646325849.571269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FTilB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we would remove the wait and the print"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3ed6c66d-f816-43c5-b9e6-bf8e0df454d2",
+        "type": "message",
+        "text": "not really",
+        "user": "U0118UR0J72",
+        "ts": "1646325862.915659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I+S8b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not really"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "93c32836-f91e-4eb1-9164-27d690f4b217",
+        "type": "message",
+        "text": "Cause we don't want to get the position of the mouse on screen since that will limit how far you can move the mouse.",
+        "user": "U0118UR0J72",
+        "ts": "1646325894.234339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y78+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cause we don't want to get the position of the mouse on screen since that will limit how far you can move the mouse."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "69686f34-413a-4ba8-801c-b524cec0d2c0",
+        "type": "message",
+        "text": "It'd be cool if we can do what video games do and get rid of the mouse cursor so we can move the mouse the mouse infinitely and just use the mouse's velocity",
+        "user": "U0118UR0J72",
+        "ts": "1646325949.984629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iT4r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It'd be cool if we can do what video games do and get rid of the mouse cursor so we can move the mouse the mouse infinitely and just use the mouse's velocity"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e3db1615-39e9-4be1-b0cf-b98d04f1a62f",
+        "type": "message",
+        "text": "btw cords is spelt Coords since it is short for coordinates",
+        "user": "U0118UR0J72",
+        "ts": "1646325997.510819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RAQ4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "btw cords is spelt Coords since it is short for coordinates"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1646325821.941129",
+        "parent_user_id": "U02DWDDVAP7"
+    },
+    {
+        "client_msg_id": "efb1603f-583b-4a2a-a83f-4976c8aacccc",
+        "type": "message",
+        "text": "I was thinking about that. but my idea was to use the mouse as an improved control stick",
+        "user": "U02DWDDVAP7",
+        "ts": "1646326029.391689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S9u+s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was thinking about that. but my idea was to use the mouse as an improved control stick"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bef65a81-d068-402a-84a0-51a762e83607",
+        "type": "message",
+        "text": "cord just means like a cable",
+        "user": "U0118UR0J72",
+        "ts": "1646326034.512439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XM+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cord just means like a cable"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1646325821.941129",
+        "parent_user_id": "U02DWDDVAP7"
+    },
+    {
+        "client_msg_id": "6a72a030-395d-41ef-92cf-3168f2e680ea",
+        "type": "message",
+        "text": "Wdym?",
+        "user": "U0118UR0J72",
+        "ts": "1646326044.787249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BxJv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wdym?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4eaff565-1625-403a-97b3-8abfb95075f6",
+        "type": "message",
+        "text": "Move the mouse up and the robot drives forward\nMove the mouse down and the robot backs up",
+        "user": "U02DWDDVAP7",
+        "ts": "1646326113.223269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oXy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Move the mouse up and the robot drives forward\nMove the mouse down and the robot backs up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5b4fb1a6-af2e-4a41-817d-3ef3711d217e",
+        "type": "message",
+        "text": "As a driver that feels cursed",
+        "user": "U0118UR0J72",
+        "ts": "1646326130.146759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0E5FK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As a driver that feels cursed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d9affbc4-b19c-43c9-952a-2428ac164675",
+        "type": "message",
+        "text": "I would function like joy stick",
+        "user": "U02DWDDVAP7",
+        "ts": "1646326143.248409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qm89",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would function like joy stick"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "17726141-24f7-4aa2-8ed8-900534c2b51b",
+        "type": "message",
+        "text": "I have been told that",
+        "user": "U02DWDDVAP7",
+        "ts": "1646326151.195629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CRjX8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have been told that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "edfa6ee7-f44d-4511-b676-71bf4bf0d8ea",
+        "type": "message",
+        "text": "and one mouse button would stop",
+        "user": "U02DWDDVAP7",
+        "ts": "1646326194.261129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9E+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and one mouse button would stop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "134c6fb8-397d-465e-a8a2-c5b664757df9",
+        "type": "message",
+        "text": "Ye but then why not use a joystick",
+        "user": "U0118UR0J72",
+        "ts": "1646326196.167869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XLS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ye but then why not use a joystick"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1140f90a-141a-4714-add7-cab3ed0a7989",
+        "type": "message",
+        "text": "A. more precise positioning\nB. it looks cool\nC. Its funny",
+        "user": "U02DWDDVAP7",
+        "ts": "1646326262.572439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1IPY+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A. more precise positioning\nB. it looks cool\nC. Its funny"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8d3e1dda-c189-4da5-aac8-f0eba12d575c",
+        "type": "message",
+        "text": "Wdym more precise positioning?",
+        "user": "U0118UR0J72",
+        "ts": "1646326286.917979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x7R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wdym more precise positioning?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "821705a1-dcfd-4886-859a-b7113b4a5d8e",
+        "type": "message",
+        "text": "You can control you speed easier",
+        "user": "U02DWDDVAP7",
+        "ts": "1646326360.365989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OwM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can control you speed easier"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2b88f1b5-50ce-41e8-beac-e9bc4766eea8",
+        "type": "message",
+        "text": "the more you move up the faster you move",
+        "user": "U02DWDDVAP7",
+        "ts": "1646326374.265109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cyxXW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the more you move up the faster you move"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "16b7fdb1-fc3f-4629-a0e7-1c7f15779b68",
+        "type": "message",
+        "text": "But it's exactly the same as a controller",
+        "user": "U0118UR0J72",
+        "ts": "1646326389.366699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+wCos",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But it's exactly the same as a controller"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "88d44689-c13a-4333-9b4c-588260c15052",
+        "type": "message",
+        "text": "except it takes up less space",
+        "user": "U0118UR0J72",
+        "ts": "1646326407.740139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L7B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "except it takes up less space"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f81de058-89b1-450e-9c10-d64aa8756b53",
+        "type": "message",
+        "text": "I mean its more just as a dumb idea",
+        "user": "U02DWDDVAP7",
+        "ts": "1646326505.166749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+MxZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I mean its more just as a dumb idea"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0d4501f6-3f0a-45a6-997c-cd5880282966",
+        "type": "message",
+        "text": "the controller is effective. But the mouse is funny",
+        "user": "U02DWDDVAP7",
+        "ts": "1646326550.051019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Yv8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the controller is effective. But the mouse is funny"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7914c956-6d89-42b5-9ed8-8324357cb4b6",
+        "type": "message",
+        "text": "okay, then here's an idea, you might be able to set the mouse position on the screen, so once it's moved a distance you can store that distance and set the mouse position to the middle of the screen so you can keep moving",
+        "user": "U0118UR0J72",
+        "ts": "1646326559.195929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ULvo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "okay, then here's an idea, you might be able to set the mouse position on the screen, so once it's moved a distance you can store that distance and set the mouse position to the middle of the screen so you can keep moving"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f31f4fed-9cd5-4fd6-ba53-b34f63cbdf4d",
+        "type": "message",
+        "text": "Also, I don't think we can use java.awt (abstract window toolkit) in an android app so we have to look for a different library",
+        "user": "U0118UR0J72",
+        "ts": "1646326659.546939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=ETy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, I don't think we can use java.awt (abstract window toolkit) in an android app so we have to look for a different library"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8fc6fc5c-ed20-4bab-ae3a-d022f0fd0778",
+        "type": "message",
+        "text": "okay",
+        "user": "U02DWDDVAP7",
+        "ts": "1646326689.761969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fTyy2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "okay"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "319b9aa2-c689-40f0-83fc-46d62083a048",
+        "type": "message",
+        "text": "my idea would be like this\nMotor.setpower(mouseY\/sensitively)",
+        "user": "U02DWDDVAP7",
+        "ts": "1646326843.436269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jz1B4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my idea would be like this\nMotor.setpower(mouseY\/sensitively)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ac50b6eb-4c1c-4a16-a963-053c55ff65d5",
+        "type": "message",
+        "text": "ye, that's not the hard part, getting the mouse input probably will be",
+        "user": "U0118UR0J72",
+        "ts": "1646326871.922289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JNO+J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ye, that's not the hard part, getting the mouse input probably will be"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "76be7a5b-c92f-42ee-b4dc-e8fd102d5838",
+        "type": "message",
+        "text": "yeah",
+        "user": "U02DWDDVAP7",
+        "ts": "1646326891.944849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IOitE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4b6ab7db-421c-4d5f-aa33-1527f7c94531",
+        "type": "message",
+        "text": "and then tuning it",
+        "user": "U02DWDDVAP7",
+        "ts": "1646326901.570109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N5n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and then tuning it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ae91c3a8-b2ec-43d5-a308-01b02e09faea",
+        "type": "message",
+        "text": "So that it feels good to control while being functional",
+        "user": "U02DWDDVAP7",
+        "ts": "1646326989.341109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ep8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So that it feels good to control while being functional"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "028cf503-855d-4b8b-b16f-c9bb95a42519",
+        "type": "message",
+        "text": "THIS MIGHT BE IT<https:\/\/developer.android.com\/training\/gestures\/movement#java>",
+        "user": "U02DWDDVAP7",
+        "ts": "1646328369.195369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N7LH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "THIS MIGHT BE IT"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/developer.android.com\/training\/gestures\/movement#java"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/developer.android.com\/training\/gestures\/movement#java",
+                "image_url": "https:\/\/developer.android.com\/images\/social\/android-developers.png",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 8719,
+                "service_icon": "https:\/\/www.gstatic.com\/devrel-devsite\/prod\/vda73e0d3502b94e693247461a7b7937471a7ed3e5707a56c05c8e13818cb1c3a\/android\/images\/touchicon-180.png",
+                "id": 1,
+                "original_url": "https:\/\/developer.android.com\/training\/gestures\/movement#java",
+                "fallback": "Android Developers: Track touch and pointer movements  |  Android Developers",
+                "title": "Track touch and pointer movements  |  Android Developers",
+                "title_link": "https:\/\/developer.android.com\/training\/gestures\/movement#java",
+                "service_name": "Android Developers"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7e0d5648-2075-4526-b453-83cc1e86aba1",
+        "type": "message",
+        "text": "at least we have onclick()",
+        "user": "U02DWDDVAP7",
+        "ts": "1646328423.952389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "80D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "at least we have onclick()"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b3a565a5-e4b3-4fd7-b005-ea311da32ab2",
+        "type": "message",
+        "text": "my only worry is the mouse interacting with the control hub and pressing buttons",
+        "user": "U02DWDDVAP7",
+        "ts": "1646328467.425949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gMn4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my only worry is the mouse interacting with the control hub and pressing buttons"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e79c3725-5bb7-41cb-b61c-d7969676c3fc",
+        "type": "message",
+        "text": "Whether you use a custom view or register a listener, your view receives a `MotionEvent` with pointer coordinates that specify relative movements such as X\/Y deltas, similar to the coordinates delivered by a trackball device. You can retrieve the coordinates by using `getX()` and `getY()`.",
+        "user": "U02DWDDVAP7",
+        "ts": "1646328707.463859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lgK9p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Whether you use a custom view or register a listener, your view receives a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "MotionEvent",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " with pointer coordinates that specify relative movements such as X\/Y deltas, similar to the coordinates delivered by a trackball device. You can retrieve the coordinates by using "
+                            },
+                            {
+                                "type": "text",
+                                "text": "getX()",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "getY()",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d35cbe9c-5c74-4eb1-9142-8be78a04835c",
+        "type": "message",
+        "text": "this also works with touch which is stupid cool",
+        "user": "U02DWDDVAP7",
+        "ts": "1646328735.413749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o65l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this also works with touch which is stupid cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b32a6aec-7a33-4263-bf3c-6070feef3c4c",
+        "type": "message",
+        "text": "I saw that, but I think you'd have to be holding the mouse button for it to work. (Assuming this would work with the mouse)",
+        "user": "U0118UR0J72",
+        "ts": "1646328809.345699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+pB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I saw that, but I think you'd have to be holding the mouse button for it to work. (Assuming this would work with the mouse)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "12f1a66e-5fdf-4ab7-a715-b3ba526d4f61",
+        "type": "message",
+        "text": "Maybe that's what we want tho. You have to hold the mouse button while moving the mouse for it to drive",
+        "user": "U0118UR0J72",
+        "ts": "1646328860.200049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r3wYG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe that's what we want tho. You have to hold the mouse button while moving the mouse for it to drive"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dfd48aa1-a81b-4f42-86d7-c2c4fff75950",
+        "type": "message",
+        "text": "Otherwise you'd bump the mouse and the robot goes crazy",
+        "user": "U0118UR0J72",
+        "ts": "1646328878.136099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7z92",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Otherwise you'd bump the mouse and the robot goes crazy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e641f620-befb-470c-b2cb-a1c50eee547a",
+        "type": "message",
+        "text": "yeah true",
+        "user": "U02DWDDVAP7",
+        "ts": "1646328955.243759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QG7Yw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah true"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d753cdb0-0933-4d98-acb3-af63fad57605",
+        "type": "message",
+        "text": "ALSO TOUCH CONTROLS",
+        "user": "U02DWDDVAP7",
+        "ts": "1646328962.948029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pKHVb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ALSO TOUCH CONTROLS"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "081d561e-dd3d-4834-90c5-6f581264ea73",
+        "type": "message",
+        "text": "Which should be FTC legal",
+        "user": "U02DWDDVAP7",
+        "ts": "1646328977.157159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TwDv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Which should be FTC legal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0deae2d8-1410-4265-ba65-97feb487b225",
+        "type": "message",
+        "text": "I stole this from stackoverflow",
+        "user": "U02DWDDVAP7",
+        "ts": "1646329136.368399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O6M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I stole this from stackoverflow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1646325821.941129",
+        "parent_user_id": "U02DWDDVAP7"
+    },
+    {
+        "client_msg_id": "69f44f65-96c0-41b9-b4d5-8d72d941f3aa",
+        "type": "message",
+        "text": "Check this out\n<https:\/\/replit.com\/@ConnerBrunner\/mouse-test#Main.java>",
+        "user": "U02DWDDVAP7",
+        "ts": "1646337214.957079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A16",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Check this out\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/replit.com\/@ConnerBrunner\/mouse-test#Main.java"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/replit.com\/@ConnerBrunner\/mouse-test#Main.java",
+                "image_url": "https:\/\/storage.googleapis.com\/replit\/images\/1604944990690_b1b3aebaab693255c016c86b60ac6b2e.gif",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 2424291,
+                "service_icon": "https:\/\/replit.com\/public\/icons\/apple-icon-180.png",
+                "id": 1,
+                "original_url": "https:\/\/replit.com\/@ConnerBrunner\/mouse-test#Main.java",
+                "fallback": "replit: mouse test",
+                "text": "A Nix (beta) repl by ConnerBrunner",
+                "title": "mouse test",
+                "title_link": "https:\/\/replit.com\/@ConnerBrunner\/mouse-test#Main.java",
+                "service_name": "replit"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7776ba99-98e3-475c-863c-c9d94fed393d",
+        "type": "message",
+        "text": "<https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/java\/awt\/event\/MouseAdapter.html>",
+        "user": "U02DWDDVAP7",
+        "ts": "1646341253.537359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2AVE9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/java\/awt\/event\/MouseAdapter.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ffa946b9-df90-4ea4-a276-c71d9924aec2",
+        "type": "message",
+        "text": "<https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/java\/awt\/event\/MouseEvent.html#getButton-->",
+        "user": "U02DWDDVAP7",
+        "ts": "1646342978.820329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S7l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/java\/awt\/event\/MouseEvent.html#getButton--"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

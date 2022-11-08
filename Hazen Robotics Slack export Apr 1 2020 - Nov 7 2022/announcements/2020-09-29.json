@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "e40a7d1a-791b-4a0d-a997-facd287cc4fe",
+        "type": "message",
+        "text": "I check this chat two days later... what did I start lol",
+        "user": "U018QFHSHJS",
+        "ts": "1601440534.030500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HUkf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I check this chat two days later... what did I start lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "37dff344d6eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1314722996100_37dff344d6ebf1a57728_72.gif",
+            "first_name": "Preston",
+            "real_name": "Preston Lazaro",
+            "display_name": "Preston Lazaro",
+            "team": "T010YRDV4KB",
+            "name": "prestonlazaro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

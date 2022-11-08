@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "e0a56e02-eb72-47ac-9bec-9bb1d9305950",
+        "type": "message",
+        "text": "hi everyone",
+        "user": "U018QFHSHJS",
+        "ts": "1667513618.463929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XfH0J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi everyone"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "37dff344d6eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1314722996100_37dff344d6ebf1a57728_72.gif",
+            "first_name": "Preston",
+            "real_name": "Preston Lazaro",
+            "display_name": "Preston Lazaro",
+            "team": "T010YRDV4KB",
+            "name": "prestonlazaro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "90490f62-7c06-483d-8f13-ec6431b17429",
+        "type": "message",
+        "text": "<!everyone> im gonna be recording some clips over the next day or two of us working in the shop. gonna create a short hype video for da gram. please don't fuck up my recordings. this is also a good time to let me know if you don't want ur face in any of the videos\/photos on our socials\/promotional material, otherwise I'm going to assume you're all okay with it",
+        "user": "U018QFHSHJS",
+        "ts": "1667513689.480189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dd3eJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " im gonna be recording some clips over the next day or two of us working in the shop. gonna create a short hype video for da gram. please don't fuck up my recordings. this is also a good time to let me know if you don't want ur face in any of the videos\/photos on our socials\/promotional material, otherwise I'm going to assume you're all okay with it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "37dff344d6eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1314722996100_37dff344d6ebf1a57728_72.gif",
+            "first_name": "Preston",
+            "real_name": "Preston Lazaro",
+            "display_name": "Preston Lazaro",
+            "team": "T010YRDV4KB",
+            "name": "prestonlazaro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

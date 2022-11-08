@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "0e978bf2-4e1d-48f0-8481-66da3d783d94",
+        "type": "message",
+        "text": "Lit!",
+        "user": "U018WC9RM3K",
+        "ts": "1614475024.033500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/2Sk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lit!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U018WC9RM3K",
+            "ts": "1614475045.000000"
+        }
+    }
+]

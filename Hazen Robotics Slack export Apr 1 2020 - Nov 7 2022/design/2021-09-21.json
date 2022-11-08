@@ -1,0 +1,924 @@
+[
+    {
+        "type": "message",
+        "text": "have any of yall considered a design that looks something like this? if y'all want to build a larger robot that will have to go over the barriers, this might be a good design, would love to hear any criticisms for this design",
+        "files": [
+            {
+                "id": "F02F5MB7GCB",
+                "created": 1632241419,
+                "timestamp": 1632241419,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U022WGTQ602",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 141676,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02F5MB7GCB\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02F5MB7GCB\/download\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02F5MB7GCB-1bc2c1a303\/image_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02F5MB7GCB-1bc2c1a303\/image_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02F5MB7GCB-1bc2c1a303\/image_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 243,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02F5MB7GCB-1bc2c1a303\/image_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 324,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02F5MB7GCB-1bc2c1a303\/image_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "original_w": 500,
+                "original_h": 338,
+                "thumb_tiny": "AwAgADCO3tN8CsVX5vU1L9gz0RfzqxYgGzi+n9asYxSsXzsz\/sB\/uL+dMS1EhIVOncjArUpo++3vg0WDnZn\/AGBv7qfnUVzbNDFvIXGccGtQSAyFB27\/ANKran\/x6f8AAhRYHNsZa3EC20avKAyjpUwurYHPnD8zWNRTINo3tuASJAT6CoZ7kbwY3ONvPFZVPEpGM84oA1keIW6BztGM5B71WvJVa2KCXedwxxziqxlTb7+lQliRjPHpQB\/\/2Q==",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U022WGTQ602\/F02F5MB7GCB\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02F5MB7GCB-067ae620ac",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U022WGTQ602",
+        "display_as_bot": false,
+        "ts": "1632241446.188800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "shWDA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "have any of yall considered a design that looks something like this? if y'all want to build a larger robot that will have to go over the barriers, this might be a good design, would love to hear any criticisms for this design"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "d1b3212b-1660-44c8-9b7a-706911c111ff",
+        "thread_ts": "1632241446.188800",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1632252877.199900",
+        "reply_users": [
+            "U012BUXVC6B",
+            "U022WGTQ602"
+        ],
+        "replies": [
+            {
+                "user": "U012BUXVC6B",
+                "ts": "1632241587.192400"
+            },
+            {
+                "user": "U022WGTQ602",
+                "ts": "1632241685.193100"
+            },
+            {
+                "user": "U012BUXVC6B",
+                "ts": "1632243448.193400"
+            },
+            {
+                "user": "U022WGTQ602",
+                "ts": "1632252877.199900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "cd9fbc5c-ad13-4e6f-bda4-c5b57793e05d",
+        "type": "message",
+        "text": "mainly just focusing on the drivetrain",
+        "user": "U022WGTQ602",
+        "ts": "1632241460.189300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j9I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mainly just focusing on the drivetrain"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c8171203-fdb9-49de-96eb-082c40494cea",
+        "type": "message",
+        "text": "Ah actually that's not a bad idea. I don't know if tank drive (I think andymark has a chassis called rhinodrive or something?) would be better than 6WD, but if we struggle to make 6WD or Mecanums go over the barrier it's an option",
+        "user": "U012BUXVC6B",
+        "ts": "1632241535.191300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hpK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah actually that's not a bad idea. I don't know if tank drive (I think andymark has a chassis called rhinodrive or something?) would be better than 6WD, but if we struggle to make 6WD or Mecanums go over the barrier it's an option"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "062ed26b-8ddb-43d4-bb36-c767f1eb2093",
+        "type": "message",
+        "text": "With that I can see one issue and that would be that there isn't much room on the top of it for something like an intake or lift",
+        "user": "U01BCRC513K",
+        "ts": "1632241550.191800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P2v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "With that I can see one issue and that would be that there isn't much room on the top of it for something like an intake or lift"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g1a3742ccdba",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a3742ccdbaa11b20e19f18ba9c093d7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Alex Ross",
+            "display_name": "Alex Ross",
+            "team": "T010YRDV4KB",
+            "name": "ale.ros001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e216f695-73e1-4ffb-aa0a-29f204120f51",
+        "type": "message",
+        "text": "Are you learning solidworks tho :eyes:",
+        "user": "U012BUXVC6B",
+        "ts": "1632241587.192400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XLR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are you learning solidworks tho "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632241446.188800",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "fb55d313-302d-411e-aebd-81353e039e14",
+        "type": "message",
+        "text": "yea, i just realized that, there isn't much space for any sort of intake, ig that's what the arm is there for in this design, but idk if an arm is going to be the best option",
+        "user": "U022WGTQ602",
+        "ts": "1632241606.193000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eHg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yea, i just realized that, there isn't much space for any sort of intake, ig that's what the arm is there for in this design, but idk if an arm is going to be the best option"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "492607da-6745-4f7c-a128-b0b3136b91fc",
+        "type": "message",
+        "text": "unfortunately no, just got saw the design on the FTC subreddit, is solidworks any better than fusion?",
+        "user": "U022WGTQ602",
+        "ts": "1632241685.193100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8gv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "unfortunately no, just got saw the design on the FTC subreddit, is solidworks any better than fusion?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1632241908.000000"
+        },
+        "thread_ts": "1632241446.188800",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "a54dd477-02c0-4449-a8c8-c76fe81c8303",
+        "type": "message",
+        "text": "Sadge. solidworks is much, much more powerful than fusion. But it's also kinda clunky for what we do and a lot harder to learn",
+        "user": "U012BUXVC6B",
+        "ts": "1632243448.193400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rem",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sadge. solidworks is much, much more powerful than fusion. But it's also kinda clunky for what we do and a lot harder to learn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632241446.188800",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "490b96c9-fab3-4b6c-9586-a58fb8c25bd9",
+        "type": "message",
+        "text": "Alright <!channel>, here's your design update! For those who weren't at yesterday's meeting we went over all of the research that we've all done into the different robot mechanisms we need this year. With that behind us, we need to start designing and prototyping the mechanisms we need for the robot! If you haven't already, look through all 5 of the \"Initial Design and Prototyping\" cards in the design trello. Pick one, add yourself to the card and get started",
+        "user": "U012BUXVC6B",
+        "ts": "1632243684.196400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MzK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alright "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", here's your design update! For those who weren't at yesterday's meeting we went over all of the research that we've all done into the different robot mechanisms we need this year. With that behind us, we need to start designing and prototyping the mechanisms we need for the robot! If you haven't already, look through all 5 of the \"Initial Design and Prototyping\" cards in the design trello. Pick one, add yourself to the card and get started"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "edd4ce55-4bf1-44a2-9c4d-c1a70042f6f3",
+        "type": "message",
+        "text": "I want all of these initial designs to be done and ready to fabricate by *Next Wednesday,* the 29th. If you need more time, *let <@U018B1TFE3Y>or I know ASAP,*  meeting deadlines are crucial in success this year.",
+        "user": "U012BUXVC6B",
+        "ts": "1632243928.198500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WdGGB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I want all of these initial designs to be done and ready to fabricate by "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Next Wednesday, ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "the 29th. If you need more time, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "let ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U018B1TFE3Y",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "or I know ASAP,  ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "meeting deadlines are crucial in success this year."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1b31fc3b-53cf-4277-9f87-7bd490c0f760",
+        "type": "message",
+        "text": "ah ok",
+        "user": "U022WGTQ602",
+        "ts": "1632252877.199900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JTx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632241446.188800",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "88d59d83-5c6e-40aa-8f71-0dd9f68ba2d3",
+        "type": "message",
+        "text": "What is the first competition day?",
+        "user": "U01BCRC513K",
+        "ts": "1632258088.200500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FwL6t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What is the first competition day?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g1a3742ccdba",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a3742ccdbaa11b20e19f18ba9c093d7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Alex Ross",
+            "display_name": "Alex Ross",
+            "team": "T010YRDV4KB",
+            "name": "ale.ros001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3ef297f2-e8b1-495b-bc6f-a91679019d73",
+        "type": "message",
+        "text": "I think it's the first Saturday of November",
+        "user": "U022WGTQ602",
+        "ts": "1632259399.201000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qf2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it's the first Saturday of November"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "171c12d6-4259-4d61-9d3c-bc07c207af95",
+        "type": "message",
+        "text": "Oh yea I'll probably mention it tmr but one of the advantages of driving things with timing belts is that we can print custom pulleys",
+        "user": "U012BUXVC6B",
+        "ts": "1632286067.201800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b0Ed",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh yea I'll probably mention it tmr but one of the advantages of driving things with timing belts is that we can print custom pulleys"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1c98fa95-81f8-448f-b2d0-c0b6237a3351",
+        "type": "message",
+        "text": "<@U018B1TFE3Y> maybe you should give a lesson on chains and timing belts tmr? or are ya'll feeling like you know enough to design what you want to?",
+        "user": "U012BUXVC6B",
+        "ts": "1632286096.202600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g1V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U018B1TFE3Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " maybe you should give a lesson on chains and timing belts tmr? or are ya'll feeling like you know enough to design what you want to?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5cab43b5-fddc-4d25-9086-a4c440a40b24",
+        "type": "message",
+        "text": "Ah I see, btw I have almost completed the basic design of my 6wd idea, tomorrow i just need to get some parts I couldn't find",
+        "user": "U01BCRC513K",
+        "ts": "1632286153.204200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fYv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah I see, btw I have almost completed the basic design of my 6wd idea, tomorrow i just need to get some parts I couldn't find"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g1a3742ccdba",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a3742ccdbaa11b20e19f18ba9c093d7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Alex Ross",
+            "display_name": "Alex Ross",
+            "team": "T010YRDV4KB",
+            "name": "ale.ros001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f3f1265c-7585-451d-b0e4-ee9a0415bf8e",
+        "type": "message",
+        "text": "Bet! what parts?",
+        "user": "U012BUXVC6B",
+        "ts": "1632286167.204400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q1aT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bet! what parts?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7573a66e-8582-4819-aa05-4161fdb0d181",
+        "type": "message",
+        "text": "Chain, axes, and I need to find out what gears I need for the idea, although the original idea uses 1 motor for each side because I forgot to make a spot for the second motor and I was to lazy to redo the design plan, but it should work anyway since unless going up a barrier mainly only the center wheel will be doing work",
+        "user": "U01BCRC513K",
+        "ts": "1632286268.207200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OwwS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Chain, axes, and I need to find out what gears I need for the idea, although the original idea uses 1 motor for each side because I forgot to make a spot for the second motor and I was to lazy to redo the design plan, but it should work anyway since unless going up a barrier mainly only the center wheel will be doing work"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g1a3742ccdba",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a3742ccdbaa11b20e19f18ba9c093d7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Alex Ross",
+            "display_name": "Alex Ross",
+            "team": "T010YRDV4KB",
+            "name": "ale.ros001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3488df61-4065-4cd3-bfdc-baf77e2ae016",
+        "type": "message",
+        "text": "Ok sick we can talk about gears and stuff tmr then. Now, one motor per side might work as you can just drive all 3 wheels with one but I do worry it won't have enough torque to drive the chassis qucikly",
+        "user": "U012BUXVC6B",
+        "ts": "1632286347.208500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fJSdF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok sick we can talk about gears and stuff tmr then. Now, one motor per side might work as you can just drive all 3 wheels with one but I do worry it won't have enough torque to drive the chassis qucikly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6ec8c545-4894-4bc9-9936-ba2382698374",
+        "type": "message",
+        "text": "Yeah which it can easily be fixed I was just lazy, it has mainly the same component as your chassis but I made it more designed to be a 6wd so we just need to add another hole to the wheel sections for another motor and change the chains and gears slightly",
+        "user": "U01BCRC513K",
+        "ts": "1632286461.211300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2uh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah which it can easily be fixed I was just lazy, it has mainly the same component as your chassis but I made it more designed to be a 6wd so we just need to add another hole to the wheel sections for another motor and change the chains and gears slightly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g1a3742ccdba",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a3742ccdbaa11b20e19f18ba9c093d7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Alex Ross",
+            "display_name": "Alex Ross",
+            "team": "T010YRDV4KB",
+            "name": "ale.ros001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fa23c7ac-b095-4b8c-b13f-1c5b9dc0104c",
+        "type": "message",
+        "text": "Sweet, sounds good! it's looking good so far",
+        "user": "U012BUXVC6B",
+        "ts": "1632286490.211700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "737q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sweet, sounds good! it's looking good so far"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

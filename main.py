@@ -14,12 +14,7 @@ help = ["!msg (text) messages other app",
         "!wakeup (user)(slack only) sends user 25 DMS",
         "!mass(ask C1nner for the other half) Does a very cool thing"
         ]
-clues = [
-    "Captains Log:",
-    "Captain: I cant see you Private. This fog is too thick",
-    "Private: I am atop the tower",
-    "Captain: Good, I have a ton of rocket parts for you",
-]
+
 token_app = 'xapp-1-A041WRBKX8E-4088132000401-45c7ddf98e15a7a888d0c4897d5b22092db96bbb2ff933015b1a0b17e34585e5'
 token_slack = 'xoxb-1032863990657-4071370518627-ZmZ2ZB6Di4vfqrev5Z2k1wPq'
 token_discord = 'MTAxOTI0MzU0NzA0OTg3MzUyOQ.Gh4R60.CA9rY-u5kO2ySgNI7i6iOZolrHrFsDdeH1-480'
@@ -56,12 +51,6 @@ def commands(msg, bool, channel):
             helper += h + "\n"
         message(helper, bool, channel)
         return False
-    elif "!log" in msg:
-        clue = ""
-        for c in clues:
-            clue += c + "\n"
-        message(clue, bool, channel)
-        return False
     elif "!find" in msg:
         wrkbk = openpyxl.load_workbook("sorting.xlsx")
         sh = wrkbk.active
@@ -76,8 +65,6 @@ def commands(msg, bool, channel):
                     message("NOT FOUND", bool, channel)
     elif "!patch" in msg:
         message("1.1 added patch multiThread wakeup Updated find", bool, channel)
-
-
     elif "<!everyone>" in msg and bool:
         message("New announcement in slack", not bool, channel)
     return True

@@ -1,0 +1,96 @@
+[
+    {
+        "client_msg_id": "4c9711c8-0847-472b-8c25-a4e163f2bc05",
+        "type": "message",
+        "text": "<@U022WGTQ602> It turns out you can use NXT parts for FLL",
+        "user": "U02DWDDVAP7",
+        "ts": "1663957551.936039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hkb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " It turns out you can use NXT parts for FLL"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F043M5F1SRK",
+                "created": 1663957562,
+                "timestamp": 1663957562,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02DWDDVAP7",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 33713,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F043M5F1SRK\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F043M5F1SRK\/download\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F043M5F1SRK-8e728a3a1b\/image_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F043M5F1SRK-8e728a3a1b\/image_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F043M5F1SRK-8e728a3a1b\/image_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 112,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F043M5F1SRK-8e728a3a1b\/image_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 150,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F043M5F1SRK-8e728a3a1b\/image_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "original_w": 621,
+                "original_h": 194,
+                "thumb_tiny": "AwAOADC9tx\/CPzoX5TwB+dOk+7UfFAEm5vb86Nze351GOSB60\/yz6igBd59B+dKpY+lAQDvS7fc0Af\/Z",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U02DWDDVAP7\/F043M5F1SRK\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F043M5F1SRK-c8c5cfc6bf",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02DWDDVAP7",
+        "display_as_bot": false,
+        "ts": "1663957563.792639",
+        "client_msg_id": "2b63f7f3-03e3-4cb8-aba1-3433237af26c"
+    }
+]

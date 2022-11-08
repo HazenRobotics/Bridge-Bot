@@ -1,0 +1,734 @@
+[
+    {
+        "client_msg_id": "2a5e5ad7-146f-4e94-8996-f2759b2786d5",
+        "type": "message",
+        "text": "<!everyone> Please fill out the shirt form before end of first period: <https:\/\/forms.gle\/1o4T8cwaH8Va2Hn59>. There will probably also be a sweatshirt order by end of day for those interested.",
+        "user": "U018WC9RM3K",
+        "ts": "1637590501.321500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BzUF9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Please fill out the shirt form before end of first period: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/1o4T8cwaH8Va2Hn59"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". There will probably also be a sweatshirt order by end of day for those interested."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/forms.gle\/1o4T8cwaH8Va2Hn59",
+                "title": "Google Forms - create and analyze surveys, for free.",
+                "title_link": "https:\/\/forms.gle\/1o4T8cwaH8Va2Hn59",
+                "text": "Create a new survey on your own or with others at the same time. Choose from a variety of survey types and analyze results in Google Forms. Free from Google.",
+                "fallback": "Google Forms - create and analyze surveys, for free.",
+                "service_icon": "https:\/\/accounts.google.com\/favicon.ico",
+                "service_name": "accounts.google.com",
+                "id": 1,
+                "original_url": "https:\/\/forms.gle\/1o4T8cwaH8Va2Hn59"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1a869a23-19a4-41ab-a227-a95586a115a3",
+        "type": "message",
+        "text": "are we meeting on wednesday?",
+        "user": "U02DWDDVAP7",
+        "ts": "1637594250.322200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aogI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "are we meeting on wednesday?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "992b344a-a412-41cc-b843-e77f7e04878d",
+        "type": "message",
+        "text": "Ye",
+        "user": "U0118UR0J72",
+        "ts": "1637594450.322500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rAXR0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ye"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<!everyone> Do you want the design on front, back, and both. If you are not listed then I do not have your shirt size please fill the above google form ASAP. Alex R, Sam D, Corban T, Ethan C, Dylan C, Connor B, Camden H, Andrew L, Lydia S, Vincent L, Marina S.",
+        "files": [
+            {
+                "id": "F02N7H63W5Q",
+                "created": 1637594543,
+                "timestamp": 1637594543,
+                "name": "D10.PNG",
+                "title": "D10.PNG",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U018WC9RM3K",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 96157,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02N7H63W5Q\/d10.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02N7H63W5Q\/download\/d10.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02N7H63W5Q-de28e28bdb\/d10_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02N7H63W5Q-de28e28bdb\/d10_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02N7H63W5Q-de28e28bdb\/d10_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 202,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02N7H63W5Q-de28e28bdb\/d10_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "original_w": 411,
+                "original_h": 231,
+                "thumb_tiny": "AwAaADC7dz\/Z4d4ALE4ANZ6X85B6E5yOOMVcv4xIi5JBXJ\/SsdOoFAG7bTefEHxg9CKjvblrdF2AFm9e1LZR+XGw3Zy1Q6jGGG7JyqE4oAhNzcxqkhkDBv4SK0YZPNiV8YyOlYaksyr74rZtUCQAAk855oAZfZEJKgk7SOKxwj5+435GuhooAjhGE+rGq+o58ngEkjHFXKKAMBVcMDsbg56GtuHiJfepKKAP\/9k=",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U018WC9RM3K\/F02N7H63W5Q\/d10.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02N7H63W5Q-48b594ec85",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U018WC9RM3K",
+        "display_as_bot": false,
+        "ts": "1637594693.325300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cl8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Do you want the design on front, back, and both. If you are not listed then I do not have your shirt size please fill the above google form ASAP. Alex R, Sam D, Corban T, Ethan C, Dylan C, Connor B, Camden H, Andrew L, Lydia S, Vincent L, Marina S."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "11f34ed7-3963-4bbc-b868-1f31e9bed714"
+    },
+    {
+        "client_msg_id": "73ab13c5-ace5-4fb1-aa15-bcaf649fa6de",
+        "type": "message",
+        "text": "both",
+        "user": "U022WGTQ602",
+        "ts": "1637594748.325700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7nI2X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "both"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0118UR0J72",
+                    "U022WGTQ602",
+                    "U01ATET2E86",
+                    "U0135LQT8TB",
+                    "U02DVF9J99V",
+                    "U01BCRC513K"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5D6F9EEE-F83C-4C52-B894-BB8906A9F261",
+        "type": "message",
+        "text": "Just the front",
+        "user": "U012BUXVC6B",
+        "ts": "1637594830.326000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kjvN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just the front"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U012BUXVC6B",
+                    "U01BCRC513K"
+                ],
+                "count": 2
+            },
+            {
+                "name": "-1",
+                "users": [
+                    "U0118UR0J72",
+                    "U0135LQT8TB"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "13653B4B-CE1E-423F-A261-3596355D5BCC",
+        "type": "message",
+        "text": "Back is too much",
+        "user": "U012BUXVC6B",
+        "ts": "1637594838.326400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G0syI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Back is too much"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5f32d145-49be-4e75-ad38-5b8e89e307b5",
+        "type": "message",
+        "text": "We need two of these - <https:\/\/www.amazon.com\/dp\/B07WX18RPG\/ref=twister_B08G1RVJCN?_encoding=UTF8&amp;th=1>\n\nAnd one of these <https:\/\/www.amazon.com\/QWORK-Trapezoidal-Printer-Upgrade-CR-10s\/dp\/B08BHYHDTL\/ref=sr_1_5?keywords=t8+lead+screw+nut&amp;qid=1637595018&amp;sr=8-5>",
+        "user": "U012BUXVC6B",
+        "ts": "1637595080.326900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qo3Hn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We need two of these - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.com\/dp\/B07WX18RPG\/ref=twister_B08G1RVJCN?_encoding=UTF8&th=1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAnd one of these "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.com\/QWORK-Trapezoidal-Printer-Upgrade-CR-10s\/dp\/B08BHYHDTL\/ref=sr_1_5?keywords=t8+lead+screw+nut&qid=1637595018&sr=8-5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U012BUXVC6B",
+            "ts": "1637595302.000000"
+        }
+    },
+    {
+        "client_msg_id": "39bc98ce-b73e-4917-b098-08d5b54b38d1",
+        "type": "message",
+        "text": "<@U012BUXVC6B> can you add those to the order form I started for today",
+        "user": "U018WC9RM3K",
+        "ts": "1637599859.328000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kl3LK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012BUXVC6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you add those to the order form I started for today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "53a30cff-6bcf-4770-ab8c-0c553408883e",
+        "type": "message",
+        "text": "<@U01GV1PRQF9> do you want the above shirt? If so what size?",
+        "user": "U018WC9RM3K",
+        "ts": "1637599922.328600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gzFyK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01GV1PRQF9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you want the above shirt? If so what size?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B5B6DD45-A181-46F7-8DA4-A048CFF3BB6C",
+        "type": "message",
+        "text": "Thanks but I am going to pass on a shirt.",
+        "user": "U01GV1PRQF9",
+        "ts": "1637600136.329900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RdSmn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks but I am going to pass on a shirt."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gb4c024f8b6c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b4c024f8b6cff6c475129bf5f0213f59.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "Dave Goldy",
+            "display_name": "Dave Goldy",
+            "team": "T010YRDV4KB",
+            "name": "davegoldy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1a0d05c2-75bc-4fd1-b5e5-185037c7f947",
+        "type": "message",
+        "text": "Good Afternoon, \n\nMy name is Ellen Huynh and I am the business manager of Hazen High School’s FTC Robotics Team, the Scarabs. We compete in the FIRST Tech Challenge, an international robotics competition for students interested in STEM. Our team is run through Hazen High School in Renton, WA and is a student led club. \n\nBeing in the same city as Boeing’s 737 Factory and many of their office buildings, as well as being surrounded by other aviation-related businesses such as Aviation Supplies and Academics, Inc., we know that our team works in a very important part of a region known for its role in modern technology. With this in mind, we pride ourselves in the fact that when we compete, we aren’t only representing our school, but rather, the entire community around us.\n\nWith that being said, we’re a small team and must operate from a small budget. Much of the funding we use to compete comes from generous sponsorships, and we’d love to have the support of a local company like yours with our goals this year! A donation of any size would be greatly appreciated. \n\nThis team has provided many students with opportunities to learn valuable STEM and business skills in a competitive environment. Throughout our season we work together to design, build, and program a robot that can carry out tasks in competition with other teams. Not only that, similar to how ASA does in a way, we also work to spread knowledge of STEM within our community. We do this by providing middle school students a chance to not only learn more in programming and design but also to build robots of their own. This year we are so excited to be back in person, getting the opportunity to work together as a full team to prepare for competition.  \n\nWe would love to discuss what we can do to thank you for your support should you choose to donate. We would be happy to promote ASA on our social media and at our competitions. In the past we have appeared in our sponsor's promotional materials as well, please let us know what we can do for you. Feel free to look at our Instagram, <https:\/\/secure-web.cisco.com\/1cJOjYnhoiMROdj6mR3LgUuS0EKKqboCHmx16ELSI2YhD__jqjEzUFeg8svodRh7f6q2LssE05OiMXlexDG6WXQO4Hx1PUjocX7n66RuQBPd0_Q7jTpgOW02YYKZXke6-wlPqINr9qSeUeOFowBwT5FtRxc3PiFgSSU66qlTq0EwmZq0SXr64Yi7fkODySRMRg1KMeydlaATQgf9mTA6bHC1dwrEMRHspYKOCL8Yz-uQ49xYjIlDiL8McsAY4kR873m8RvgjL_18a-Q4MXR42ZIgnybFAgUohmNRXqFlX8awlmcBFK2wCOzIaZ2Fwl8JiG2wThdchiHWGZT5ihn9rUTJXj_mEs7tBKrRkpO21y7G84xGc28xQxYgJFfIG_vwtqr057tgMgQppOqrzcguUeqnl9W0Y1PvlAKSrXp7cGKK0oCF9QNY7YaZD_SQi6gnK221j39DcgVIsER-LhWaYXg\/https%3A%2F%2Fwww.instagram.com%2Fhazenrobotics%2F|@hazenrobotics>. \n\nThanks in advance, \n*Ellen Huynh | Team 8693* \n<https:\/\/www.instagram.com\/hazenrobotics\/?hl=en|@hazenrobotics> \n<http:\/\/hazenrobotics.tech\/|hazenrobotics.tech> \n1101 Hoquiam Ave NE, Renton, WA 98059",
+        "user": "U012BUXVC6B",
+        "ts": "1637620496.331400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qRa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good Afternoon, \n\nMy name is Ellen Huynh and I am the business manager of Hazen High School’s FTC Robotics Team, the Scarabs. We compete in the FIRST Tech Challenge, an international robotics competition for students interested in STEM. Our team is run through Hazen High School in Renton, WA and is a student led club. \n\nBeing in the same city as Boeing’s 737 Factory and many of their office buildings, as well as being surrounded by other aviation-related businesses such as Aviation Supplies and Academics, Inc., we know that our team works in a very important part of a region known for its role in modern technology. With this in mind, we pride ourselves in the fact that when we compete, we aren’t only representing our school, but rather, the entire community around us.\n\nWith that being said, we’re a small team and must operate from a small budget. Much of the funding we use to compete comes from generous sponsorships, and we’d love to have the support of a local company like yours with our goals this year! A donation of any size would be greatly appreciated. \n\nThis team has provided many students with opportunities to learn valuable STEM and business skills in a competitive environment. Throughout our season we work together to design, build, and program a robot that can carry out tasks in competition with other teams. Not only that, similar to how ASA does in a way, we also work to spread knowledge of STEM within our community. We do this by providing middle school students a chance to not only learn more in programming and design but also to build robots of their own. This year we are so excited to be back in person, getting the opportunity to work together as a full team to prepare for competition.  \n\nWe would love to discuss what we can do to thank you for your support should you choose to donate. We would be happy to promote ASA on our social media and at our competitions. In the past we have appeared in our sponsor's promotional materials as well, please let us know what we can do for you. Feel free to look at our Instagram, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/secure-web.cisco.com\/1cJOjYnhoiMROdj6mR3LgUuS0EKKqboCHmx16ELSI2YhD__jqjEzUFeg8svodRh7f6q2LssE05OiMXlexDG6WXQO4Hx1PUjocX7n66RuQBPd0_Q7jTpgOW02YYKZXke6-wlPqINr9qSeUeOFowBwT5FtRxc3PiFgSSU66qlTq0EwmZq0SXr64Yi7fkODySRMRg1KMeydlaATQgf9mTA6bHC1dwrEMRHspYKOCL8Yz-uQ49xYjIlDiL8McsAY4kR873m8RvgjL_18a-Q4MXR42ZIgnybFAgUohmNRXqFlX8awlmcBFK2wCOzIaZ2Fwl8JiG2wThdchiHWGZT5ihn9rUTJXj_mEs7tBKrRkpO21y7G84xGc28xQxYgJFfIG_vwtqr057tgMgQppOqrzcguUeqnl9W0Y1PvlAKSrXp7cGKK0oCF9QNY7YaZD_SQi6gnK221j39DcgVIsER-LhWaYXg\/https%3A%2F%2Fwww.instagram.com%2Fhazenrobotics%2F",
+                                "text": "@hazenrobotics",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": ". \n\nThanks in advance, \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Ellen Huynh | Team 8693",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.instagram.com\/hazenrobotics\/?hl=en",
+                                "text": "@hazenrobotics",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/hazenrobotics.tech\/",
+                                "text": "hazenrobotics.tech"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n1101 Hoquiam Ave NE, Renton, WA 98059"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6EA88A21-3272-4360-9F38-08B215087BB6",
+        "type": "message",
+        "text": "Goldy says he needs to leave at 5, <@U018WC9RM3K> do you plan on coming back down",
+        "user": "U0135LQT8TB",
+        "ts": "1637628717.332400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "By2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Goldy says he needs to leave at 5, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U018WC9RM3K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you plan on coming back down"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gdfe9743ea44",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dfe9743ea4477ab6cdd74b02c32fc903.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ethan Chiang",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "awesome.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "334d2590-fca6-43cb-ba2a-cfce5f901273",
+        "type": "message",
+        "text": "We're on our way down",
+        "user": "U0119239VCY",
+        "ts": "1637628934.332700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cjmwb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We're on our way down"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F62B4B39-ECEA-47F7-82E9-BDDF11998524",
+        "type": "message",
+        "text": "<https:\/\/www.amazon.com\/LML9B-Linear-Bearing-Variety-Length\/dp\/B07GQ8WBLW\/ref=mp_s_a_1_1?crid=1FWJ437HQ4EVI&amp;keywords=100mm+lml9b&amp;qid=1637629614&amp;qsid=143-1603548-9706837&amp;sprefix=100mm+lml9b%2Caps%2C150&amp;sr=8-1&amp;sres=B07GQ8WBLW%2CB07WNXP2K5%2CB07SHFPD8S%2CB08QVGD9QW%2CB00ZKFRKIU%2CB01BCUM766%2CB07KT13216%2CB073VKC134%2CB07HY4PSPW%2CB08S758D4G%2CB08NVNDGGX%2CB07CHN8Q6C%2CB00R1P82UW%2CB093KFZV7L|https:\/\/www.amazon.com\/LML9B-Linear-Bearing-Variety-Length\/dp\/B07GQ8WBLW\/ref=mp_s_a_1_1?crid=1FWJ437HQ4EVI&amp;keywords=100mm+lml9b&amp;qid=1637629614&amp;qsid=143-1603548-9706837&amp;sprefix=100mm+lml9b%2Caps%2C150&amp;sr=8-1&amp;sres=B07GQ8WBLW%2CB07WNXP2K5%2CB07SHFPD8S%2CB08QVGD9QW%2CB00ZKFRKIU%2CB01BCUM766%2CB07KT13216%2CB073VKC134%2CB07HY4PSPW%2CB08S758D4G%2CB08NVNDGGX%2CB07CHN8Q6C%2CB00R1P82UW%2CB093KFZV7L>",
+        "user": "U012BUXVC6B",
+        "ts": "1637629653.332800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I1gk+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.com\/LML9B-Linear-Bearing-Variety-Length\/dp\/B07GQ8WBLW\/ref=mp_s_a_1_1?crid=1FWJ437HQ4EVI&keywords=100mm+lml9b&qid=1637629614&qsid=143-1603548-9706837&sprefix=100mm+lml9b%2Caps%2C150&sr=8-1&sres=B07GQ8WBLW%2CB07WNXP2K5%2CB07SHFPD8S%2CB08QVGD9QW%2CB00ZKFRKIU%2CB01BCUM766%2CB07KT13216%2CB073VKC134%2CB07HY4PSPW%2CB08S758D4G%2CB08NVNDGGX%2CB07CHN8Q6C%2CB00R1P82UW%2CB093KFZV7L",
+                                "text": "https:\/\/www.amazon.com\/LML9B-Linear-Bearing-Variety-Length\/dp\/B07GQ8WBLW\/ref=mp_s_a_1_1?crid=1FWJ437HQ4EVI&keywords=100mm+lml9b&qid=1637629614&qsid=143-1603548-9706837&sprefix=100mm+lml9b%2Caps%2C150&sr=8-1&sres=B07GQ8WBLW%2CB07WNXP2K5%2CB07SHFPD8S%2CB08QVGD9QW%2CB00ZKFRKIU%2CB01BCUM766%2CB07KT13216%2CB073VKC134%2CB07HY4PSPW%2CB08S758D4G%2CB08NVNDGGX%2CB07CHN8Q6C%2CB00R1P82UW%2CB093KFZV7L"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

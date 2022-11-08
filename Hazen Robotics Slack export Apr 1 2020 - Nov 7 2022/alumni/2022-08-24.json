@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "2a9dfd84-e7c8-4612-ae9b-c489b13db4bf",
+        "type": "message",
+        "text": "<@U012BUXVC6B> FLL starts like a month before FTC typically right?",
+        "user": "U022WGTQ602",
+        "ts": "1661395659.518039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mLp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012BUXVC6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " FLL starts like a month before FTC typically right?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

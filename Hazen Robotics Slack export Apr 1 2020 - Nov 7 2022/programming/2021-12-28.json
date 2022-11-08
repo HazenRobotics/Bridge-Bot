@@ -1,0 +1,368 @@
+[
+    {
+        "client_msg_id": "9502ae91-88f4-48d7-af9f-d6fed7e5c58f",
+        "type": "message",
+        "text": "<https:\/\/www.kalmanfilter.net\/kalmanmulti.html|https:\/\/www.kalmanfilter.net\/kalmanmulti.html>\nIf anyone wants to do some light reading...",
+        "user": "U0119239VCY",
+        "ts": "1640712181.189700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hkf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kalmanfilter.net\/kalmanmulti.html",
+                                "text": "https:\/\/www.kalmanfilter.net\/kalmanmulti.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nIf anyone wants to do some light reading..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.kalmanfilter.net\/kalmanmulti.html",
+                "service_icon": "https:\/\/www.kalmanfilter.net\/img\/favicon\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.kalmanfilter.net\/kalmanmulti.html",
+                "fallback": "Online Kalman Filter Tutorial",
+                "text": "Easy and intuitive Kalman Filter tutorial",
+                "title": "Online Kalman Filter Tutorial",
+                "title_link": "https:\/\/www.kalmanfilter.net\/kalmanmulti.html",
+                "service_name": "kalmanfilter.net"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0ed3de97-85fd-4c09-a79e-ebd2c6a89f60",
+        "type": "message",
+        "text": "<@U0119239VCY> did you reach out to husky robotics?",
+        "user": "U018WC9RM3K",
+        "ts": "1640712577.190600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tuwjo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " did you reach out to husky robotics?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Anything else you think I should add?",
+        "files": [
+            {
+                "id": "F02SHM63ZGR",
+                "created": 1640713761,
+                "timestamp": 1640713761,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0119239VCY",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 35838,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02SHM63ZGR\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02SHM63ZGR\/download\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SHM63ZGR-1e79d7c5ff\/image_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SHM63ZGR-1e79d7c5ff\/image_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SHM63ZGR-1e79d7c5ff\/image_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 325,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SHM63ZGR-1e79d7c5ff\/image_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 433,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SHM63ZGR-1e79d7c5ff\/image_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "original_w": 453,
+                "original_h": 502,
+                "thumb_tiny": "AwAwACub7CB\/Ef8AvkUf2eCfvkfgKt4BJyBTuKAKX9nL\/wA9D+VH9nL\/AM9D+VXcj1oyPWgCl\/Zy\/wDPQ\/lS\/YFH\/LQ\/lVzNFADD940lKfvHrSUAGfpRRRQAo68EU6mjk9adQAhAz1P5UoUVC8kqu22LOOhx1p8TOyZdMH0p2C4\/aKNooyfSjLf3f1pAG0UGlpM8cjBoA\/\/Z",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U0119239VCY\/F02SHM63ZGR\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02SHM63ZGR-c17f97653d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0119239VCY",
+        "display_as_bot": false,
+        "ts": "1640713775.190900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yxqq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anything else you think I should add?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1fc1af38-dcc7-41dc-a6b7-3b533f6d52d1"
+    },
+    {
+        "client_msg_id": "bde0cc25-61d7-492c-96b7-13e4f6c369a7",
+        "type": "message",
+        "text": "also do I need to send this from the robotics email?",
+        "user": "U0119239VCY",
+        "ts": "1640713824.191500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WdjZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also do I need to send this from the robotics email?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "98ea3259-d034-4eec-8d6b-640a9864e9bc",
+        "type": "message",
+        "text": "Looks great!",
+        "user": "U018WC9RM3K",
+        "ts": "1640716233.191800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s\/\/bz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks great!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "17D2F6ED-EDA5-4503-8046-0917BFEC614E",
+        "type": "message",
+        "text": "Yes ",
+        "user": "U012BUXVC6B",
+        "ts": "1640716574.192000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WNlF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "69AF2810-DFFA-4D74-A43A-83BFFFB6CE4B",
+        "type": "message",
+        "text": "Password is HazenRobotics8693",
+        "user": "U012BUXVC6B",
+        "ts": "1640716586.192500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZG1d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Password is HazenRobotics8693"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4589654c-b533-418f-8bbd-6d4ebfb3bfb2",
+        "type": "message",
+        "text": "We're obviously following the best online security practices",
+        "user": "U0119239VCY",
+        "ts": "1640718948.193200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fOob0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We're obviously following the best online security practices"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01BCRC513K"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "308a85b6-41ce-46c7-9118-b6ef3ba52248",
+        "type": "message",
+        "text": "<@U018B1TFE3Y> <@U0135LQT8TB> who all is coming to the design review tonight? Have you gotten any confirmations from industry?",
+        "user": "U012BUXVC6B",
+        "ts": "1643040230.016100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kxM7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U018B1TFE3Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0135LQT8TB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " who all is coming to the design review tonight? Have you gotten any confirmations from industry?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

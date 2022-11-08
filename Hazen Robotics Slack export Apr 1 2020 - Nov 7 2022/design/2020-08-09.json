@@ -1,0 +1,95 @@
+[
+    {
+        "client_msg_id": "a9826f1e-0720-4991-98ed-f2fcb1300d4f",
+        "type": "message",
+        "text": "<https:\/\/grabcad.com\/library\/ftc-relic-recovery-robot-1> This is also pretty neat",
+        "user": "U012BUXVC6B",
+        "ts": "1597014645.000300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kaEv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/grabcad.com\/library\/ftc-relic-recovery-robot-1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " This is also pretty neat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "FTC Relic Recovery Robot | 3D CAD Model Library | GrabCAD",
+                "title_link": "https:\/\/grabcad.com\/library\/ftc-relic-recovery-robot-1",
+                "text": "This is a robot designed to play in the 2017-2018 relic recovery FTC game, that when fully assembled in real life can fill a cipher box in 9...",
+                "fallback": "FTC Relic Recovery Robot | 3D CAD Model Library | GrabCAD",
+                "from_url": "https:\/\/grabcad.com\/library\/ftc-relic-recovery-robot-1",
+                "service_icon": "https:\/\/d1pspl52z5rk07.cloudfront.net\/assets\/production\/app\/gc-favicon-a72626818daa8e9ba228f4c4a946812925c13c5bd42d8168c875447a1be927fa.ico",
+                "service_name": "grabcad.com",
+                "id": 1,
+                "original_url": "https:\/\/grabcad.com\/library\/ftc-relic-recovery-robot-1"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b8690dee-d05e-417a-9acc-6435cb9ea555",
+        "type": "message",
+        "text": "How's it going for yall?",
+        "user": "U012BUXVC6B",
+        "ts": "1597014656.000700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XMm2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How's it going for yall?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

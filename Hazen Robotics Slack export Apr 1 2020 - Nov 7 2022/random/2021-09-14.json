@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "3bd0bd98-3754-4e20-89bb-4b58ef88fd36",
+        "type": "message",
+        "text": "daily message",
+        "user": "U01CZUZA4F3",
+        "ts": "1631677339.014600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LCG8l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "daily message"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "2340daecb5c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-14\/1429586810659_2340daecb5c97157acec_72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Nguyen",
+            "display_name": "Derek Nguyen",
+            "team": "T010YRDV4KB",
+            "name": "derek.nguyen1028",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

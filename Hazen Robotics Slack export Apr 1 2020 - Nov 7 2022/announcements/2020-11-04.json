@@ -1,0 +1,87 @@
+[
+    {
+        "client_msg_id": "d24b4496-b693-4eb3-9023-f81f48589361",
+        "type": "message",
+        "text": "CTE district office is looking for pictures of students working at home. If any of you would not mind taking a picture of you working on something for robotics or another CTE that would be awesome. You can email then to my email <mailto:keith.peck@rentonschools.us|keith.peck@rentonschools.us>",
+        "user": "U018WC9RM3K",
+        "ts": "1604502787.202800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8pbF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CTE district office is looking for pictures of students working at home. If any of you would not mind taking a picture of you working on something for robotics or another CTE that would be awesome. You can email then to my email "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:keith.peck@rentonschools.us",
+                                "text": "keith.peck@rentonschools.us"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d3075a6e-71c2-4c02-b636-8998358b4ab5",
+        "type": "message",
+        "text": "<@U018WC9RM3K> can I pick up the encoders as well",
+        "user": "U012BUXVC6B",
+        "ts": "1604535705.203000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZVfNp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U018WC9RM3K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can I pick up the encoders as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "C6BF17E9-CC0D-4E22-A061-1454B7936403",
+        "type": "message",
+        "text": "Hi, I’m outside to collect the laptop",
+        "user": "U018B209ELW",
+        "ts": "1602199971.010900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nu1Es",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, I’m outside to collect the laptop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "f79227aa99c3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-14\/1356058196006_f79227aa99c3ed7bdaed_72.jpg",
+            "first_name": "",
+            "real_name": "Maximilian Wolfe",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "maximilianwolfe117",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

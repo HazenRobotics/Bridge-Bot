@@ -1,0 +1,229 @@
+[
+    {
+        "client_msg_id": "a7ec2f39-9217-474a-9e40-9d2920b31b11",
+        "type": "message",
+        "text": "the gyro in the control hub resets on initialization right?",
+        "user": "U022WGTQ602",
+        "ts": "1639514997.139000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "27rD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the gyro in the control hub resets on initialization right?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "40af00f0-e17b-4a28-9dc9-9fde1d0388d6",
+        "type": "message",
+        "text": "Yes, I believe you need to call initialize on the gyro object to let it calibrate though",
+        "user": "U0119239VCY",
+        "ts": "1639516781.140100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bbSB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, I believe you need to call initialize on the gyro object to let it calibrate though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1d4a561e-ac18-4b7d-abee-e50a02ba809d",
+        "type": "message",
+        "text": "alr sounds good, going to try it with the Mcknight kids today to see if we can get it to work before interleagues, I think the reason that their autos were failing at the end of the competition yesterday was because of low amperage on the battery which resulted in them turning fewer degrees in 1.5 sec",
+        "user": "U022WGTQ602",
+        "ts": "1639519111.141900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BDl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alr sounds good, going to try it with the Mcknight kids today to see if we can get it to work before interleagues, I think the reason that their autos were failing at the end of the competition yesterday was because of low amperage on the battery which resulted in them turning fewer degrees in 1.5 sec"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "05f8e60e-bfb1-45c1-9e10-fc3f8fc73180",
+        "type": "message",
+        "text": "<@U022WGTQ602> are you coming back to the shop to work on programming?",
+        "user": "U018WC9RM3K",
+        "ts": "1639524451.142600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YE8\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " are you coming back to the shop to work on programming?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "db6c0550-6420-4759-956c-3ba45192684a",
+        "type": "message",
+        "text": "also it might be worth while at some point to check out technototes github, see if there's anything we can learn from it <https:\/\/github.com\/technototes\/FreightFrenzy2021>",
+        "user": "U022WGTQ602",
+        "ts": "1639548144.143400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BYXN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also it might be worth while at some point to check out technototes github, see if there's anything we can learn from it "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/technototes\/FreightFrenzy2021"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1639548159.000000"
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "color": "24292f",
+                "bot_id": "B02EXAE6AB1",
+                "app_unfurl_url": "https:\/\/github.com\/technototes\/FreightFrenzy2021",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "technototes\/FreightFrenzy2021",
+                "text": "Rover Duckus",
+                "title": "technototes\/FreightFrenzy2021",
+                "fields": [
+                    {
+                        "value": "Java",
+                        "title": "Language",
+                        "short": true
+                    },
+                    {
+                        "value": "5 hours ago",
+                        "title": "Last updated",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    }
+]

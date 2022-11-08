@@ -1,0 +1,530 @@
+[
+    {
+        "client_msg_id": "E6D6C34C-312E-41A3-A94D-833F49AD67C9",
+        "type": "message",
+        "text": "Is anyone here yet?",
+        "user": "U02DVF9J99V",
+        "ts": "1636812406.240400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o386w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is anyone here yet?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d67c819d8835",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-15\/2508967506529_d67c819d8835deeb4600_72.png",
+            "first_name": "Braden",
+            "real_name": "Braden Ellis",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "braden.ellis06",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "02287a74-d057-486f-a178-aba98f49b923",
+        "type": "message",
+        "text": "Oh my you're early. Good job :+1:",
+        "user": "U0118UR0J72",
+        "ts": "1636812510.241000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DqKn\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh my you're early. Good job "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "25d456b5-1622-4271-9bbf-d44a21b4d4c7",
+        "type": "message",
+        "text": "I am now here, where are you <@U02DVF9J99V>?",
+        "user": "U01BCRC513K",
+        "ts": "1636813004.241700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d2QU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am now here, where are you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DVF9J99V"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g1a3742ccdba",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a3742ccdbaa11b20e19f18ba9c093d7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Alex Ross",
+            "display_name": "Alex Ross",
+            "team": "T010YRDV4KB",
+            "name": "ale.ros001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "09a49abe-6652-40f6-bd94-fb0e35c6955e",
+        "type": "message",
+        "text": "Meet at the front",
+        "user": "U0118UR0J72",
+        "ts": "1636813067.241900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QY5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Meet at the front"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a9547533-49a2-485d-a8fc-86df60165e47",
+        "type": "message",
+        "text": "The door at the end of the gym is open. Don't go through the entrance labeled gymnasium",
+        "user": "U0118UR0J72",
+        "ts": "1636820093.243200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FMId",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The door at the end of the gym is open. Don't go through the entrance labeled gymnasium"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1a7d83e5-0dc8-4c49-8dc9-9af2d00c1d46",
+        "type": "message",
+        "text": "Note for next comp:\n• Tarp\n• Straps under field\n• Hinge pins\n• Field markers\n• Grab set from McKnight and Hazen for full field",
+        "user": "U0119239VCY",
+        "ts": "1636824078.244800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "axY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Note for next comp:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Tarp"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Straps under field"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Hinge pins"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Field markers"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Grab set from McKnight and Hazen for full field"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1636824078.244800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1636999016.249400",
+        "reply_users": [
+            "U018WC9RM3K",
+            "U02535ABH2A"
+        ],
+        "replies": [
+            {
+                "user": "U018WC9RM3K",
+                "ts": "1636826165.248400"
+            },
+            {
+                "user": "U02535ABH2A",
+                "ts": "1636999016.249400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "dab65266-297a-44a6-869c-99d7d82a05b7",
+        "type": "message",
+        "text": "Wifi password: 3arque!",
+        "user": "U0119239VCY",
+        "ts": "1636824729.245300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a7Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wifi password: 3arque!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "25f42a93-55c5-42e2-9fc5-cb5095c0fd86",
+        "type": "message",
+        "text": "Match Robot Checklist:\n• Power button is fully plugged in. (The back one is loose)\n• The camera should be looking down at a 45° angle\n• The lift should be all the way down. \n• The intake is closed\/inside the 18\" using floss.\n• The intake ramp is tight",
+        "user": "U0118UR0J72",
+        "ts": "1636826000.248200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fhI4\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Match Robot Checklist:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Power button is fully plugged in. (The back one is loose)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The camera should be looking down at a 45° angle"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The lift should be all the way down. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The intake is closed\/inside the 18\" using floss."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The intake ramp is tight"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0118UR0J72",
+            "ts": "1636829632.000000"
+        }
+    },
+    {
+        "client_msg_id": "66374bdb-ef75-44f4-bd73-ea56af5ebd6e",
+        "type": "message",
+        "text": "Also order official tape",
+        "user": "U018WC9RM3K",
+        "ts": "1636826165.248400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EQI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also order official tape"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1636824078.244800",
+        "parent_user_id": "U0119239VCY"
+    },
+    {
+        "client_msg_id": "C3751F9E-2CBF-4554-AAB1-2EFB619D4A57",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/xrc6PD7iGgk|https:\/\/youtu.be\/xrc6PD7iGgk>",
+        "user": "U012BUXVC6B",
+        "ts": "1636838255.249300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tmPy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/xrc6PD7iGgk",
+                                "text": "https:\/\/youtu.be\/xrc6PD7iGgk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

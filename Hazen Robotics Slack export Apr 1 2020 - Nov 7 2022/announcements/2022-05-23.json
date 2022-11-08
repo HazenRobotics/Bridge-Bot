@@ -1,0 +1,194 @@
+[
+    {
+        "client_msg_id": "8d0ff4cb-1a00-44fb-bb12-f9034f563691",
+        "type": "message",
+        "text": "<@U012BUXVC6B> <@U022WGTQ602> When is comp gonna start today",
+        "user": "U02DWDDVAP7",
+        "ts": "1653336316.755049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ljn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012BUXVC6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " When is comp gonna start today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "680d4453-402a-4460-8a8c-c0e8eb3b2841",
+        "type": "message",
+        "text": "<!everyone> remember to do this by the end of TODAY <https:\/\/strawpoll.com\/polls\/wAg3j4rd2n8>",
+        "user": "U018QFHSHJS",
+        "ts": "1653342443.995179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3BTb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " remember to do this by the end of TODAY "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/strawpoll.com\/polls\/wAg3j4rd2n8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "37dff344d6eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1314722996100_37dff344d6ebf1a57728_72.gif",
+            "first_name": "Preston",
+            "real_name": "Preston Lazaro",
+            "display_name": "Preston Lazaro",
+            "team": "T010YRDV4KB",
+            "name": "prestonlazaro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/strawpoll.com\/polls\/wAg3j4rd2n8",
+                "image_url": "https:\/\/cdn.strawpoll.com\/images\/previews\/wAg3j4rd2n8-c.png",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 11285,
+                "service_icon": "https:\/\/strawpoll.com\/favicon-57.png",
+                "id": 1,
+                "original_url": "https:\/\/strawpoll.com\/polls\/wAg3j4rd2n8",
+                "fallback": "StrawPoll: Robotics Banquet Dinner - Online Poll - StrawPoll.com",
+                "text": "What's your opinion? Vote now: Wednesday, June 1st, Thursday, June 2nd, Friday, June 3rd...",
+                "title": "Robotics Banquet Dinner - Online Poll - StrawPoll.com",
+                "title_link": "https:\/\/strawpoll.com\/polls\/wAg3j4rd2n8",
+                "service_name": "StrawPoll"
+            }
+        ],
+        "thread_ts": "1653342443.995179",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1653460801.045259",
+        "reply_users": [
+            "U0118UR0J72"
+        ],
+        "replies": [
+            {
+                "user": "U0118UR0J72",
+                "ts": "1653460801.045259"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03GN8R65DG",
+                "created": 1653343197,
+                "timestamp": 1653343197,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01BCRC513K",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 59242,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F03GN8R65DG\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F03GN8R65DG\/download\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GN8R65DG-38e18f2165\/image_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GN8R65DG-38e18f2165\/image_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GN8R65DG-38e18f2165\/image_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 275,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GN8R65DG-38e18f2165\/image_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 366,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GN8R65DG-38e18f2165\/image_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GN8R65DG-38e18f2165\/image_720.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 720,
+                "thumb_720_h": 549,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GN8R65DG-38e18f2165\/image_800.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 610,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GN8R65DG-38e18f2165\/image_960.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 960,
+                "thumb_960_h": 732,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GN8R65DG-38e18f2165\/image_1024.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 781,
+                "original_w": 1142,
+                "original_h": 871,
+                "thumb_tiny": "AwAkADDS4oIHSjv0FH5UAJgZ7\/nRgep\/OjvR3oAUYHFBwTz25o\/Kj8qADv0FH5UY56Cj8qAE70d6O9HegBfwFH4Cj8BR+AoAXA9KMUUUANPBoHJpG60o60AOwKMCiigD\/9k=",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U01BCRC513K\/F03GN8R65DG\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F03GN8R65DG-4a3440fbe3",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U01BCRC513K",
+        "display_as_bot": false,
+        "ts": "1653343199.752859",
+        "client_msg_id": "9096b503-e8b3-45cb-b540-dffce4cbd170"
+    }
+]

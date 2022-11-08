@@ -1,0 +1,256 @@
+[
+    {
+        "client_msg_id": "caa613b5-1585-41b4-9a81-230f6f3255f5",
+        "type": "message",
+        "text": "<https:\/\/www.sparkfun.com\/products\/9673|https:\/\/www.sparkfun.com\/products\/9673> \"actuation force as low as 2 grams\"",
+        "user": "U022WGTQ602",
+        "ts": "1638559218.132400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oJU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sparkfun.com\/products\/9673",
+                                "text": "https:\/\/www.sparkfun.com\/products\/9673"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \"actuation force as low as 2 grams\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.sparkfun.com\/products\/9673",
+                "title": "Force Sensitive Resistor - Small",
+                "title_link": "https:\/\/www.sparkfun.com\/products\/9673",
+                "text": "This is a small force sensitive resistor. It has a 0.16\" (4 mm) diameter active sensing area.",
+                "thumb_url": "https:\/\/cdn.sparkfun.com\/r\/92-92\/assets\/parts\/3\/5\/3\/7\/09673-01.jpg",
+                "thumb_width": 92,
+                "thumb_height": 92,
+                "fallback": "Force Sensitive Resistor - Small",
+                "service_icon": "https:\/\/www.sparkfun.com\/fanboy.png",
+                "service_name": "sparkfun.com",
+                "id": 1,
+                "original_url": "https:\/\/www.sparkfun.com\/products\/9673"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a569d0f5-29e8-42a8-ba4a-a1bce91ba650",
+        "type": "message",
+        "text": "not sure if we can get it before next comp, but it is the only force sensor I've found so far that might work",
+        "user": "U022WGTQ602",
+        "ts": "1638559254.133600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kxQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not sure if we can get it before next comp, but it is the only force sensor I've found so far that might work"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Our current Controller Mappings",
+        "files": [
+            {
+                "id": "F02PAC15GJ2",
+                "created": 1638567879,
+                "timestamp": 1638567879,
+                "name": "Controller Mappings.png",
+                "title": "Controller Mappings.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0118UR0J72",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 977284,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02PAC15GJ2\/controller_mappings.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02PAC15GJ2\/download\/controller_mappings.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02PAC15GJ2-67d198c402\/controller_mappings_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02PAC15GJ2-67d198c402\/controller_mappings_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02PAC15GJ2-67d198c402\/controller_mappings_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 301,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02PAC15GJ2-67d198c402\/controller_mappings_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 401,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02PAC15GJ2-67d198c402\/controller_mappings_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02PAC15GJ2-67d198c402\/controller_mappings_720.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 602,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02PAC15GJ2-67d198c402\/controller_mappings_800.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 958,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02PAC15GJ2-67d198c402\/controller_mappings_960.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 802,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02PAC15GJ2-67d198c402\/controller_mappings_1024.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 856,
+                "thumb_1024_h": 1024,
+                "original_w": 1676,
+                "original_h": 2006,
+                "thumb_tiny": "AwAwACjTpCQO9IXwcYqtd3Yh2gLuJ5OfSgCx3+9TgQe9Zp1P5v8AU9\/Wp7S785nBXBHIx6UAXKKaHycYp1ACYGc4rPu0klvEjC\/LkHOO1aNBOKAKH2BNpPmPu+gqK1geHUNmGKAHk+laODnt608HNACbQD0paKKAAkDqaq3V0IiqjBJ5Jq1VG6t5ZLoFVyrADPpQA8XnGdnOPWnW9z5jFWwDjIxUX2F9n+sG7PpxSW8MyXfzL8ig\/N2NMC6HBOOadSBQDmlpAf\/Z",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U0118UR0J72\/F02PAC15GJ2\/controller_mappings.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02PAC15GJ2-9e20a33ab6",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0118UR0J72",
+        "display_as_bot": false,
+        "ts": "1638567887.133800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kZj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Our current Controller Mappings"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "571d8935-1fcb-49e0-88bc-2e8355baafd8"
+    },
+    {
+        "client_msg_id": "28001911-2832-40cb-9cc0-c525a141e670",
+        "type": "message",
+        "text": "Are y'all still in the shop?",
+        "user": "U0119239VCY",
+        "ts": "1638570678.134400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fSju",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are y'all still in the shop?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "60a328c2-4cc2-4f68-9c9e-49444a57ea5c",
+        "type": "message",
+        "text": "yep",
+        "user": "U022WGTQ602",
+        "ts": "1638571216.134600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sXvB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yep"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

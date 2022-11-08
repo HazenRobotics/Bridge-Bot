@@ -1,0 +1,419 @@
+[
+    {
+        "client_msg_id": "dd0831b8-aebe-4dfe-be70-4d60db1bf2b8",
+        "type": "message",
+        "text": "For tracking couldn't we  just log our X,Y, and rotation values on the field and use demos to create a graph?",
+        "user": "U018WC9RM3K",
+        "ts": "1620393608.054700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "047",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For tracking couldn't we  just log our X,Y, and rotation values on the field and use demos to create a graph?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U018WC9RM3K",
+            "ts": "1620393693.000000"
+        }
+    },
+    {
+        "client_msg_id": "24d9c421-e761-4e96-afc2-040d3f991693",
+        "type": "message",
+        "text": "For that matter you might be able to graph trajectory vs actual path",
+        "user": "U018WC9RM3K",
+        "ts": "1620393784.055400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bYKun",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For that matter you might be able to graph trajectory vs actual path"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "df39803d-6fd8-4561-be76-fb675d68fc2c",
+        "type": "message",
+        "text": "<https:\/\/github.com\/acmerobotics\/ftc-dashboard>",
+        "user": "U018WC9RM3K",
+        "ts": "1620393992.055600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0OMg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/acmerobotics\/ftc-dashboard"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "acmerobotics\/ftc-dashboard",
+                "text": "React-based web dashboard designed for FTC",
+                "title": "acmerobotics\/ftc-dashboard",
+                "footer": "<https:\/\/github.com\/acmerobotics\/ftc-dashboard|acmerobotics\/ftc-dashboard>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1526703895,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Website",
+                        "value": "<https:\/\/acmerobotics.github.io\/ftc-dashboard>",
+                        "short": true
+                    },
+                    {
+                        "title": "Stars",
+                        "value": "70",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B01189UTP6G",
+                "app_unfurl_url": "https:\/\/github.com\/acmerobotics\/ftc-dashboard",
+                "is_app_unfurl": true
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0bbcfe5d-6432-4e57-8346-0b500483e697",
+        "type": "message",
+        "text": "Omg I could create a new log!!!",
+        "user": "U0118UR0J72",
+        "ts": "1620411340.055900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Maf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Omg I could create a new log!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0213M95HRC",
+                "created": 1620452668,
+                "timestamp": 1620452668,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0119239VCY",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 36869,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F0213M95HRC\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F0213M95HRC\/download\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0213M95HRC-893efe639b\/image_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0213M95HRC-893efe639b\/image_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0213M95HRC-893efe639b\/image_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 256,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0213M95HRC-893efe639b\/image_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 341,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0213M95HRC-893efe639b\/image_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "original_w": 665,
+                "original_h": 473,
+                "thumb_tiny": "AwAiADDToprZ7Zo+btn8aABmxx096UHNNyQQWH5GnDnqKAFopuDnilycdKAFooooAaFwecGnUUh5OKADIoAxml6UUAFFFFABRRRQAUUUUAf\/2Q==",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U0119239VCY\/F0213M95HRC\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F0213M95HRC-5cc5a57e8d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0119239VCY",
+        "display_as_bot": false,
+        "ts": "1620452670.056000"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F021ALXTX3M",
+                "created": 1620452702,
+                "timestamp": 1620452702,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0119239VCY",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 28736,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F021ALXTX3M\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F021ALXTX3M\/download\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F021ALXTX3M-55759108d5\/image_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F021ALXTX3M-55759108d5\/image_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F021ALXTX3M-55759108d5\/image_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 272,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F021ALXTX3M-55759108d5\/image_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 362,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F021ALXTX3M-55759108d5\/image_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "original_w": 678,
+                "original_h": 512,
+                "thumb_tiny": "AwAkADDTopDn1x+FJk9ufwoAGbt0pwOaZk7skflTuDzimAtFJjHQ\/nSg5FIAoNFFADQvPP506ikPoKAFJA60i5pQAKKACiiigAo70UUAFFFFAH\/\/2Q==",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U0119239VCY\/F021ALXTX3M\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F021ALXTX3M-f6411e3365",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0119239VCY",
+        "display_as_bot": false,
+        "ts": "1620452704.056300"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F021AF95HV0",
+                "created": 1620454486,
+                "timestamp": 1620454486,
+                "name": "FTC Field Mappings Complex Auto.png",
+                "title": "FTC Field Mappings Complex Auto.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0118UR0J72",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 100312,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F021AF95HV0\/ftc_field_mappings_complex_auto.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F021AF95HV0\/download\/ftc_field_mappings_complex_auto.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F021AF95HV0-ea690f1ffc\/ftc_field_mappings_complex_auto_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F021AF95HV0-ea690f1ffc\/ftc_field_mappings_complex_auto_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F021AF95HV0-ea690f1ffc\/ftc_field_mappings_complex_auto_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 202,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F021AF95HV0-ea690f1ffc\/ftc_field_mappings_complex_auto_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F021AF95HV0-ea690f1ffc\/ftc_field_mappings_complex_auto_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F021AF95HV0-ea690f1ffc\/ftc_field_mappings_complex_auto_720.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F021AF95HV0-ea690f1ffc\/ftc_field_mappings_complex_auto_800.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F021AF95HV0-ea690f1ffc\/ftc_field_mappings_complex_auto_960.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F021AF95HV0-ea690f1ffc\/ftc_field_mappings_complex_auto_1024.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "image_exif_rotation": 1,
+                "original_w": 3000,
+                "original_h": 1687,
+                "thumb_tiny": "AwAaADDMrZGdi4z93scU37LD\/wA8xT2XOAOw9cUACsT2PTNDEgHg9M0BcDgDpSFc9QOlADlzznP4nNOpiAjOf50+gApG\/pS0UAMH0HTNB78Dpmn0UAIKWiigD\/\/Z",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U0118UR0J72\/F021AF95HV0\/ftc_field_mappings_complex_auto.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F021AF95HV0-5cc620a704",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0118UR0J72",
+        "display_as_bot": false,
+        "ts": "1620454491.056600"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F021GL7F2BW",
+                "created": 1620455124,
+                "timestamp": 1620455124,
+                "name": "FTC Field Mappings Complex Auto.png",
+                "title": "FTC Field Mappings Complex Auto.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0119239VCY",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 93389,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F021GL7F2BW\/ftc_field_mappings_complex_auto.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F021GL7F2BW\/download\/ftc_field_mappings_complex_auto.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F021GL7F2BW-0ad4b01366\/ftc_field_mappings_complex_auto_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F021GL7F2BW-0ad4b01366\/ftc_field_mappings_complex_auto_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F021GL7F2BW-0ad4b01366\/ftc_field_mappings_complex_auto_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 355,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F021GL7F2BW-0ad4b01366\/ftc_field_mappings_complex_auto_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 474,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F021GL7F2BW-0ad4b01366\/ftc_field_mappings_complex_auto_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F021GL7F2BW-0ad4b01366\/ftc_field_mappings_complex_auto_720.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 720,
+                "thumb_720_h": 711,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F021GL7F2BW-0ad4b01366\/ftc_field_mappings_complex_auto_800.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 790,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F021GL7F2BW-0ad4b01366\/ftc_field_mappings_complex_auto_960.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 960,
+                "thumb_960_h": 948,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F021GL7F2BW-0ad4b01366\/ftc_field_mappings_complex_auto_1024.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1011,
+                "image_exif_rotation": 1,
+                "original_w": 1577,
+                "original_h": 1557,
+                "thumb_tiny": "AwAvADCYAszfOww2OKWPLRqSTkijy0YklQTmo1VdjfMQQTgbsYpgS\/w5yelB+7nJ6UigeUP93+lI4AiY\/wCzSAWTIjYgnNBBVl+Zjk45pjKuByTkjI3ZzT\/LVSCFAOaBkf7ve+\/bnd3NLEqmJcqh471Jkc896QMuBTuIQY2dF6UHG08L0pQV2dulBK7e3SkAyQKI2OFoHl702bc57H2p5K4PrS5GRigBQevXr6UisNuecfSl6du9MQERBSOcYoAUMNg69PShmGw9enpQuRGARyBihsmMgDkjFACsw255x9KXPTr19Ka4LJgDmndT070Af\/\/Z",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U0119239VCY\/F021GL7F2BW\/ftc_field_mappings_complex_auto.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F021GL7F2BW-5ace269018",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0119239VCY",
+        "display_as_bot": false,
+        "ts": "1620455127.056900"
+    }
+]

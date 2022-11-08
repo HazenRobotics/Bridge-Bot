@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "9EB0297B-9632-47F8-88CB-128CA23FBE01",
+        "type": "message",
+        "text": "<@U012BUXVC6B> did you leave that adapter you printed at hazen or is it with you?",
+        "user": "U02EA7L1KGT",
+        "ts": "1633040216.243500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zw1t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012BUXVC6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " did you leave that adapter you printed at hazen or is it with you?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "3b24be10b035",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-26\/4305995690752_3b24be10b035098cd409_72.png",
+            "first_name": "Asher",
+            "real_name": "Asher Stocker",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "asherstocker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

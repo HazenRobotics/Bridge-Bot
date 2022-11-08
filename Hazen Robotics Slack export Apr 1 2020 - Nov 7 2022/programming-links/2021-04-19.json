@@ -1,0 +1,55 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1618873021.000200",
+        "user": "U0119239VCY",
+        "text": "<@U0119239VCY> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1618886798.000400",
+        "user": "U0118UR0J72",
+        "text": "<@U0118UR0J72> has joined the channel",
+        "inviter": "U0119239VCY"
+    },
+    {
+        "client_msg_id": "701e128f-069a-4f78-935d-0c012e2bf213",
+        "type": "message",
+        "text": "<https:\/\/go.codetogether.com\/#\/cPrvixHf3h1Te2NC10SZ9G\/263JAcPMPw6jaLDd3V2rd1>",
+        "user": "U0119239VCY",
+        "ts": "1618886845.000600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dwIps",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/go.codetogether.com\/#\/cPrvixHf3h1Te2NC10SZ9G\/263JAcPMPw6jaLDd3V2rd1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

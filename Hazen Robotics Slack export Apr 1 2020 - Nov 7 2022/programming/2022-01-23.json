@@ -1,0 +1,566 @@
+[
+    {
+        "client_msg_id": "91ae151d-b2ee-431e-8e08-97c625f8084c",
+        "type": "message",
+        "text": "We also need to figure out multiple video streams",
+        "user": "U018WC9RM3K",
+        "ts": "1642953806.041200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lPtJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We also need to figure out multiple video streams"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6c870fd5-eeb2-47c6-8f8e-34411ce6bac3",
+        "type": "message",
+        "text": "Do we still think it's an issue with the usb expansion or a deal with Vuforia?",
+        "user": "U0118UR0J72",
+        "ts": "1642953962.042100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LMnAy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do we still think it's an issue with the usb expansion or a deal with Vuforia?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "aacd00c0-2616-4ab2-b30f-4181099e5b22",
+        "type": "message",
+        "text": "Probably two Vuforia streams at the same time but any easy way to test would be temporarily unplug tracking camera and plug in both regular usbs to their own spot",
+        "user": "U018WC9RM3K",
+        "ts": "1642954771.044100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RB6gu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Probably two Vuforia streams at the same time but any easy way to test would be temporarily unplug tracking camera and plug in both regular usbs to their own spot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9716bed3-3a7b-4d26-a909-bc34662d9b9b",
+        "type": "message",
+        "text": "<@U0119239VCY> Does the tracking camera use Vuforia?",
+        "user": "U0118UR0J72",
+        "ts": "1642954958.044500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cQ0+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Does the tracking camera use Vuforia?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0118UR0J72",
+            "ts": "1642955387.000000"
+        }
+    },
+    {
+        "client_msg_id": "a5daf825-74e1-40dc-8108-f5551797b6f0",
+        "type": "message",
+        "text": "Not sure look at the code or ask corban",
+        "user": "U018WC9RM3K",
+        "ts": "1642955354.045100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "847y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not sure look at the code or ask corban"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dd533cf7-561d-49dc-957d-9c411f473fc4",
+        "type": "message",
+        "text": "Tracking camera does not use Vuforia",
+        "user": "U0119239VCY",
+        "ts": "1642961275.046000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kxu2o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tracking camera does not use Vuforia"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7813f03c-a1ef-4122-91a0-70db2ae4b6da",
+        "type": "message",
+        "text": "So maybe Vuforia locks access to the usb or smthn?",
+        "user": "U0118UR0J72",
+        "ts": "1642962204.046500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Di\/k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So maybe Vuforia locks access to the usb or smthn?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "12cb0386-4861-4a48-9f9f-c0916e70dade",
+        "type": "message",
+        "text": "vuforia's the problem, this was a thing I looked into when we were dealing with using a camera to detect stuff, vuforia can only support 1 camera stream afaik, but we can test it just to make sure",
+        "user": "U022WGTQ602",
+        "ts": "1642965902.047800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3lS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "vuforia's the problem, this was a thing I looked into when we were dealing with using a camera to detect stuff, vuforia can only support 1 camera stream afaik, but we can test it just to make sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d6ddb9f6-51fc-4a61-88e5-1b0e1cf16bc3",
+        "type": "message",
+        "text": "for multiple cameras opencv is the way to go",
+        "user": "U022WGTQ602",
+        "ts": "1642965923.048400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+RO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for multiple cameras opencv is the way to go"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2e53a3c0-a1a2-4f99-bf50-fdbb582b8b5b",
+        "type": "message",
+        "text": "What is afaik?",
+        "user": "U0118UR0J72",
+        "ts": "1642965923.048500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fqVRM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What is afaik?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8cb89524-a3b0-4443-8bc3-43ad5d89c1cd",
+        "type": "message",
+        "text": "as far as i know",
+        "user": "U022WGTQ602",
+        "ts": "1642965934.048700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aYmr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "as far as i know"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "eabf2797-7eb3-44bf-86ca-6ad0506f1d9b",
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/FTC\/comments\/ltgg82\/comment\/gp0elek\/?utm_source=share&amp;utm_medium=web2x&amp;context=3> message from OpenFTC's creator, talking about multiple camera streams",
+        "user": "U022WGTQ602",
+        "ts": "1642966003.049500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2YLP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/FTC\/comments\/ltgg82\/comment\/gp0elek\/?utm_source=share&utm_medium=web2x&context=3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " message from OpenFTC's creator, talking about multiple camera streams"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.reddit.com\/r\/FTC\/comments\/ltgg82\/comment\/gp0elek\/?utm_source=share&utm_medium=web2x&context=3",
+                "thumb_url": "https:\/\/www.redditstatic.com\/new-icon.png",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "service_icon": "http:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/FTC\/comments\/ltgg82\/comment\/gp0elek\/?utm_source=share&amp;utm_medium=web2x&amp;context=3",
+                "fallback": "reddit: Multi-camera Vuforia Multithreading",
+                "text": "You're not going to be able to run Vuforia on more than one camera simultaneously. What you can do is use the switchable webcam feature to have it...",
+                "title": "Multi-camera Vuforia Multithreading",
+                "title_link": "https:\/\/www.reddit.com\/r\/FTC\/comments\/ltgg82\/comment\/gp0elek\/?utm_source=share&utm_medium=web2x&context=3",
+                "service_name": "reddit"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f24642f6-bfd9-4903-bac8-3724618b4e06",
+        "type": "message",
+        "text": "So we should be able to run all three of our current cameras simultaneously since only one uses Vuforia right?",
+        "user": "U0118UR0J72",
+        "ts": "1642966091.050900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QYH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So we should be able to run all three of our current cameras simultaneously since only one uses Vuforia right?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ec7db79d-d6d0-40da-82b5-044cfaa5e4f5",
+        "type": "message",
+        "text": "yes, if we just use vuforia for the tfod stuff, and then use opencv for the rest we should be fine, I'll need to figure out using tensorflow in opencv but it shouldn't be too difficult since the robotics eagles video uses open cv",
+        "user": "U022WGTQ602",
+        "ts": "1642966454.052200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iIz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, if we just use vuforia for the tfod stuff, and then use opencv for the rest we should be fine, I'll need to figure out using tensorflow in opencv but it shouldn't be too difficult since the robotics eagles video uses open cv"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1642966479.000000"
+        }
+    }
+]

@@ -1,0 +1,634 @@
+[
+    {
+        "client_msg_id": "2ef2e135-5113-4abc-9c14-ce89c8d1c947",
+        "type": "message",
+        "text": "Is there a way to change the order of how files show up on github?",
+        "user": "U02535ABH2A",
+        "ts": "1647991948.078789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1yLM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is there a way to change the order of how files show up on github?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b697c991-dee8-4e6c-b227-5dd0e1e4cdc8",
+        "type": "message",
+        "text": "wdym? like alphabetical order?",
+        "user": "U022WGTQ602",
+        "ts": "1647991991.530839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZKv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wdym? like alphabetical order?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a770c5c9-8088-45a4-a9fc-b9e658c2dff2",
+        "type": "message",
+        "text": "Not that I know of, they sort everything alphabetically (not by file type) and with folders at the top",
+        "user": "U0118UR0J72",
+        "ts": "1647992073.439069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GAwD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not that I know of, they sort everything alphabetically (not by file type) and with folders at the top"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e4b7d44f-4705-462d-be09-d869d38ad717",
+        "type": "message",
+        "text": "if this is about ordering the UW labs my suggestions would either be A use folders or B just put a number at the start of the file name",
+        "user": "U022WGTQ602",
+        "ts": "1647992139.591349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i\/\/T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if this is about ordering the UW labs my suggestions would either be A use folders or B just put a number at the start of the file name"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1647992154.000000"
+        }
+    },
+    {
+        "client_msg_id": "af7d7945-bed9-48a1-84b8-b71e95364b19",
+        "type": "message",
+        "text": "UW labs?",
+        "user": "U0118UR0J72",
+        "ts": "1647992177.325589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xjZh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "UW labs?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c5129ad1-d15a-4577-9d54-60d831348fd5",
+        "type": "message",
+        "text": "UW in the highschool",
+        "user": "U022WGTQ602",
+        "ts": "1647992192.566029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ia\/V7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "UW in the highschool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9595a0e5-4e89-446f-9607-122f15b1be5e",
+        "type": "message",
+        "text": "alternative way to earn AP compsci credit if you plan to go to UW",
+        "user": "U022WGTQ602",
+        "ts": "1647992221.695369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c2poy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alternative way to earn AP compsci credit if you plan to go to UW"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9236a4fe-5699-4ee7-86bc-6ea7fa25e7f3",
+        "type": "message",
+        "text": "Is everything taught in chapters?",
+        "user": "U0118UR0J72",
+        "ts": "1647992256.354899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "24Up",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is everything taught in chapters?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3134da35-3537-48dd-8520-185fa671b4db",
+        "type": "message",
+        "text": "Just create folders for each chapter or maybe even topic",
+        "user": "U0118UR0J72",
+        "ts": "1647992275.837879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2LLB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just create folders for each chapter or maybe even topic"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "475c4bb1-c2b5-4a23-98d8-b64d1f45d750",
+        "type": "message",
+        "text": "I sorted my cs labs by chapter",
+        "user": "U0118UR0J72",
+        "ts": "1647992291.395069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LD79v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I sorted my cs labs by chapter"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "90bff2bd-8b92-4796-be52-d18ad8362987",
+        "type": "message",
+        "text": "I mean sorting the order of assessment number, each assessment comes in a certain order - but I was naming them by the title of the assessment",
+        "user": "U02535ABH2A",
+        "ts": "1648005760.874469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rog",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I mean sorting the order of assessment number, each assessment comes in a certain order - but I was naming them by the title of the assessment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0385AHDUG5",
+                "created": 1648005781,
+                "timestamp": 1648005781,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02535ABH2A",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 85547,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F0385AHDUG5\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F0385AHDUG5\/download\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0385AHDUG5-0bb97c6c25\/image_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0385AHDUG5-0bb97c6c25\/image_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0385AHDUG5-0bb97c6c25\/image_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 305,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0385AHDUG5-0bb97c6c25\/image_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 407,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0385AHDUG5-0bb97c6c25\/image_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0385AHDUG5-0bb97c6c25\/image_720.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 720,
+                "thumb_720_h": 610,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0385AHDUG5-0bb97c6c25\/image_800.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 678,
+                "original_w": 847,
+                "original_h": 718,
+                "thumb_tiny": "AwAoADCl6Z6U8bRxkfnTOPWnhRjr\/OgBG2+oP4035fSnbP8AaP5Gm4X+9QAfL6UoJxwT9KTA\/vUq8nFACNnApQOOn6UhxgY696Ufh+lAARxwP0ppBHWkPWigApw602nDrQAhpKU0lABRRRQAU9etMqROtAH\/2Q==",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U02535ABH2A\/F0385AHDUG5\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F0385AHDUG5-3e06692df8",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02535ABH2A",
+        "display_as_bot": false,
+        "ts": "1648005784.214309",
+        "client_msg_id": "5fc92d6d-44a8-4032-abea-5b99f06c9da6"
+    },
+    {
+        "client_msg_id": "bacfe784-24f9-4996-b9c9-6ea24131a1b9",
+        "type": "message",
+        "text": "i want to sort the budget before the other ones",
+        "user": "U02535ABH2A",
+        "ts": "1648005820.818699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u07A=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i want to sort the budget before the other ones"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cef3ffe6-5049-45dc-a184-36f334704f96",
+        "type": "message",
+        "text": "just add a number before the lab",
+        "user": "U022WGTQ602",
+        "ts": "1648007106.403239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/G5hC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just add a number before the lab"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0ba7a3fa-8d72-4472-91ba-44bffdd619cb",
+        "type": "message",
+        "text": "i'll try it",
+        "user": "U02535ABH2A",
+        "ts": "1648007717.851579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "buCn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i'll try it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2d4c57b5-3d64-4208-bc54-5ea8f9f81191",
+        "type": "message",
+        "text": "it worked",
+        "user": "U02535ABH2A",
+        "ts": "1648007741.736149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iujM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it worked"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "85d65e09-3098-4e71-87b6-d0eb4b4d0ed5",
+        "type": "message",
+        "text": "The battery holder and camera mount are printed. Do you need them today or can I bring them tomorrow?",
+        "user": "U01GV1PRQF9",
+        "ts": "1618504875.003200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J+h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The battery holder and camera mount are printed. Do you need them today or can I bring them tomorrow?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gb4c024f8b6c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b4c024f8b6cff6c475129bf5f0213f59.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "Dave Goldy",
+            "display_name": "Dave Goldy",
+            "team": "T010YRDV4KB",
+            "name": "davegoldy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "41e01380-40d9-4734-8e49-6a0f7478667a",
+        "type": "message",
+        "text": "tomorrow works",
+        "user": "U012BUXVC6B",
+        "ts": "1618505688.003600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/uQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tomorrow works"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "90b4b641-e26a-4e6a-8969-f5f4982bc93a",
+        "type": "message",
+        "text": "have y’all heard of\/used this tool before? it seems like it would be really useful for testing the robot in a physics based environment between cad and building the robot, i’ve been messing with xRC simulator but there isn’t a way to import your own cad designs unfortunately and they pointed me to this tool as a way to use it, we could probably test out our current robot design in it since it’s easily integratable with fusion\n<https:\/\/synthesis.autodesk.com\/download.html>",
+        "user": "U022WGTQ602",
+        "ts": "1645739880.643749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m5w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "have y’all heard of\/used this tool before? it seems like it would be really useful for testing the robot in a physics based environment between cad and building the robot, i’ve been messing with xRC simulator but there isn’t a way to import your own cad designs unfortunately and they pointed me to this tool as a way to use it, we could probably test out our current robot design in it since it’s easily integratable with fusion\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/synthesis.autodesk.com\/download.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dd209490-c4a6-4478-a039-721a9f6e6395",
+        "type": "message",
+        "text": "xrc sim is what gluten free dedicated their time to creating instead of FTC after their rover ruckus run",
+        "user": "U022WGTQ602",
+        "ts": "1645739976.431869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2V4NX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "xrc sim is what gluten free dedicated their time to creating instead of FTC after their rover ruckus run"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

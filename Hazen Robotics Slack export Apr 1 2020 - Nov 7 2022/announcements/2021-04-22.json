@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "C2041DCC-4D97-4D66-B61D-3ACAC9C57762",
+        "type": "message",
+        "text": "Thank you for reminding me!",
+        "user": "U012BUXVC6B",
+        "ts": "1619104868.026500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eCAg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for reminding me!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "22FED4A5-03E6-4659-870C-5A6505A85AA4",
+        "type": "message",
+        "text": "<!everyone> let me know if y’all are up for an in person meeting on Friday\n\n<http:\/\/www.strawpoll.me\/42976694|http:\/\/www.strawpoll.me\/42976694>",
+        "user": "U012BUXVC6B",
+        "ts": "1619106398.027200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x6SGv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " let me know if y’all are up for an in person meeting on Friday\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.strawpoll.me\/42976694",
+                                "text": "http:\/\/www.strawpoll.me\/42976694"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Straw Poll",
+                "title": "Friday meeting?",
+                "title_link": "http:\/\/www.strawpoll.me\/42976694",
+                "text": "Vote Now! [Meet in person 10am - 3pm] [Meet over zoom 3pm]",
+                "fallback": "Straw Poll: Friday meeting?",
+                "image_url": "http:\/\/www.strawpoll.me\/images\/poll-results\/42976694.png",
+                "from_url": "http:\/\/www.strawpoll.me\/42976694",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 23835,
+                "id": 1,
+                "original_url": "http:\/\/www.strawpoll.me\/42976694"
+            }
+        ]
+    }
+]

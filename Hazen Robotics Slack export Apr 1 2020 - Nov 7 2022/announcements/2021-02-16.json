@@ -1,0 +1,546 @@
+[
+    {
+        "client_msg_id": "e1e535ca-2e9c-4605-bfe9-8982916b3e54",
+        "type": "message",
+        "text": "I can no longer meet on Friday afternoon (I could meet 8-12). Can we meet tomorrow or thrusday?",
+        "user": "U018WC9RM3K",
+        "ts": "1613510391.208800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4M0W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can no longer meet on Friday afternoon (I could meet 8-12). Can we meet tomorrow or thrusday?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6D950A68-1E0F-417B-929A-B21A7E07FE49",
+        "type": "message",
+        "text": "I’m open for either day <@U0118UR0J72> <@U0119239VCY> how about y'all",
+        "user": "U012BUXVC6B",
+        "ts": "1613510507.209500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MlOlN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m open for either day "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0118UR0J72"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " how about y'all"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "91c29094-b803-4fdf-b0f0-fb623007e209",
+        "type": "message",
+        "text": "I'm open both days but I can stay later on Thursday",
+        "user": "U0118UR0J72",
+        "ts": "1613510563.210300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1GXp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm open both days but I can stay later on Thursday"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9A722F95-E25B-4867-A727-B346FFDD49EB",
+        "type": "message",
+        "text": "I can do either day",
+        "user": "U01GV1PRQF9",
+        "ts": "1613510581.210700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RbQkE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can do either day"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gb4c024f8b6c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b4c024f8b6cff6c475129bf5f0213f59.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "Dave Goldy",
+            "display_name": "Dave Goldy",
+            "team": "T010YRDV4KB",
+            "name": "davegoldy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3562642a-eaf5-417a-b668-787f2d1f8a81",
+        "type": "message",
+        "text": "Thursday would work better for me but I could probably make Wednesday work if needed",
+        "user": "U0119239VCY",
+        "ts": "1613510693.211700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nCi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thursday would work better for me but I could probably make Wednesday work if needed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B5E00AAD-BEDC-4F13-9B07-981ADC7D70ED",
+        "type": "message",
+        "text": "Sounds like Thursday then ",
+        "user": "U012BUXVC6B",
+        "ts": "1613511706.212100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t6b6n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds like Thursday then "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "17D3300E-CFE6-456B-8E7A-08210ABB2C5C",
+        "type": "message",
+        "text": "I can only stay till 2:30 but that’s aight",
+        "user": "U012BUXVC6B",
+        "ts": "1613511723.212600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pZbzP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can only stay till 2:30 but that’s aight"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0AA505EC-3CCB-45F1-92B4-966B64CEED2C",
+        "type": "message",
+        "text": "Are we still having meetings at 3 tomorrow and Friday?",
+        "user": "U010WTHDW5Q",
+        "ts": "1613543428.213200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jLqL2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are we still having meetings at 3 tomorrow and Friday?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "fa6090fe6c02",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2456400319351_fa6090fe6c023108503a_72.png",
+            "first_name": "Lydia",
+            "real_name": "Lydia Sorbo",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "lesorbo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3942C876-0953-46F6-8563-42063417673A",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U012BUXVC6B",
+        "ts": "1613543630.214200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H2pQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9C488431-2C44-4FF4-86BB-1E9292C8C8FB",
+        "type": "message",
+        "text": "I won’t be able to make it tmr but my only update is that I’ve bought the stuff for the masks and so I’ll start making em",
+        "user": "U0118LQKKEZ",
+        "ts": "1613545005.215200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xDj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I won’t be able to make it tmr but my only update is that I’ve bought the stuff for the masks and so I’ll start making em"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "ca034fd1769e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-02\/2115489678439_ca034fd1769e0a72e2f9_72.png",
+            "first_name": "Ellen",
+            "real_name": "Ellen Huynh",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "ellen.huynh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01N5C3LZGE",
+                "created": 1613545008,
+                "timestamp": 1613545008,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0118LQKKEZ",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 1450969,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F01N5C3LZGE\/image_from_ios.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F01N5C3LZGE\/download\/image_from_ios.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01N5C3LZGE-b0b84e2468\/image_from_ios_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01N5C3LZGE-b0b84e2468\/image_from_ios_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01N5C3LZGE-b0b84e2468\/image_from_ios_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01N5C3LZGE-b0b84e2468\/image_from_ios_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01N5C3LZGE-b0b84e2468\/image_from_ios_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01N5C3LZGE-b0b84e2468\/image_from_ios_720.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01N5C3LZGE-b0b84e2468\/image_from_ios_800.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1731,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01N5C3LZGE-b0b84e2468\/image_from_ios_960.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 444,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01N5C3LZGE-b0b84e2468\/image_from_ios_1024.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1170,
+                "original_h": 2532,
+                "thumb_tiny": "AwAwABbR6ZPFKc7eME0hGRwaGbavrigBF35ydv5ml+b2pEff2xT6AGHG4Cl6UHGenP0pTzjrQAnYYNHNLj0pMGgAx70oyPegjjrikyp43A0AOAopAMGloA\/\/2Q==",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U0118LQKKEZ\/F01N5C3LZGE\/image_from_ios.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F01N5C3LZGE-bafdc7046a",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U0118LQKKEZ",
+        "display_as_bot": false,
+        "ts": "1613545016.215500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WmhPs",
+                "elements": []
+            }
+        ],
+        "client_msg_id": "7A3C7738-2A25-41B1-949B-F269C255EE79"
+    },
+    {
+        "client_msg_id": "4DD69D5F-E3C2-40F4-9D0D-FA3652D55B76",
+        "type": "message",
+        "text": "Is this pattern for the mask good (as opposed to the accordion style) because I feel like it would be easier to iron on our logo on this design   ",
+        "user": "U0118LQKKEZ",
+        "ts": "1613545064.216900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oFp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is this pattern for the mask good (as opposed to the accordion style) because I feel like it would be easier to iron on our logo on this design   "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "ca034fd1769e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-02\/2115489678439_ca034fd1769e0a72e2f9_72.png",
+            "first_name": "Ellen",
+            "real_name": "Ellen Huynh",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "ellen.huynh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "CED2157A-64F2-4906-84FC-9D961C5E5FF1",
+        "type": "message",
+        "text": "\nDo you want to make one to see how it looks and feels?",
+        "user": "U012BUXVC6B",
+        "ts": "1613545576.217400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6yM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nDo you want to make one to see how it looks and feels?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

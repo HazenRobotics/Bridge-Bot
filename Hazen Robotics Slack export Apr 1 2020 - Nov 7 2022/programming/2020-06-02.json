@@ -1,0 +1,83 @@
+[
+    {
+        "client_msg_id": "5cfd8c60-3c8b-4292-98b2-80aad6c0ed97",
+        "type": "message",
+        "text": "hey guys, if anyone is interested in learning Java to try programming or just for fun, this is a really good tutorial to do <https:\/\/www.codecademy.com\/learn\/learn-java>. There is also this second course that I found that I haven't done myself yet, but it seems like a really good one if you want to work more on your Java skills and applying them  in real world situations <https:\/\/www.udemy.com\/course\/practice-java-by-building-projects\/>",
+        "user": "U0119239VCY",
+        "ts": "1591116210.003500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "goQg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey guys, if anyone is interested in learning Java to try programming or just for fun, this is a really good tutorial to do "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.codecademy.com\/learn\/learn-java"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". There is also this second course that I found that I haven't done myself yet, but it seems like a really good one if you want to work more on your Java skills and applying them  in real world situations "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.udemy.com\/course\/practice-java-by-building-projects\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Codecademy",
+                "title": "Java Tutorial: Learn Java Basics For Free | Codecademy",
+                "title_link": "https:\/\/www.codecademy.com\/learn\/learn-java",
+                "text": "Utilize our Java tutorial to learn the basics of the popular language, including Java objects, in this introductory course.",
+                "fallback": "Codecademy: Java Tutorial: Learn Java Basics For Free | Codecademy",
+                "thumb_url": "https:\/\/images.codecademy.com\/social\/logo-codecademy-social.png",
+                "from_url": "https:\/\/www.codecademy.com\/learn\/learn-java",
+                "thumb_width": 2400,
+                "thumb_height": 1260,
+                "service_icon": "https:\/\/www.codecademy.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.codecademy.com\/learn\/learn-java"
+            },
+            {
+                "service_name": "Udemy",
+                "title": "Free Java Tutorial - Practice Java by Building Projects",
+                "title_link": "https:\/\/www.udemy.com\/course\/practice-java-by-building-projects\/",
+                "text": "Ultimate Java interview prep course! 100% focused on applying object-oriented design in real-world applications - Free Course",
+                "fallback": "Udemy: Free Java Tutorial - Practice Java by Building Projects",
+                "image_url": "https:\/\/img-a.udemycdn.com\/course\/480x270\/1360780_1421_6.jpg",
+                "from_url": "https:\/\/www.udemy.com\/course\/practice-java-by-building-projects\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 18385,
+                "service_icon": "https:\/\/www.udemy.com\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/www.udemy.com\/course\/practice-java-by-building-projects\/"
+            }
+        ]
+    }
+]

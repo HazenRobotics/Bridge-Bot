@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "136927e1-fedc-41d9-aa4e-504ff0dd7b8a",
+        "type": "message",
+        "text": "You guys are following one of the basic rules of software development. First, - make it work. Second - make it efficient. Nice job.",
+        "user": "U01GV1PRQF9",
+        "ts": "1618064499.001200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=kIK4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You guys are following one of the basic rules of software development. First, - make it work. Second - make it efficient. Nice job."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gb4c024f8b6c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b4c024f8b6cff6c475129bf5f0213f59.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "Dave Goldy",
+            "display_name": "Dave Goldy",
+            "team": "T010YRDV4KB",
+            "name": "davegoldy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "2c4292f8-7afe-46fd-b5f0-506e45153b77",
+        "type": "message",
+        "text": "<!channel> everything is due Monday of next week this is a hard due date. Be ready to do one last design review on Friday, y'all will be presenting your cads",
+        "user": "U018B1TFE3Y",
+        "ts": "1603926203.046400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K6wB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " everything is due Monday of next week this is a hard due date. Be ready to do one last design review on Friday, y'all will be presenting your cads"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

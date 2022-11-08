@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "bde9b7c2-2cbc-4654-a65c-7881da28a23f",
+        "type": "message",
+        "text": "thats actually a pretty good idea",
+        "user": "U01CZUZA4F3",
+        "ts": "1627065694.001600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bgP4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thats actually a pretty good idea"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "2340daecb5c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-14\/1429586810659_2340daecb5c97157acec_72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Nguyen",
+            "display_name": "Derek Nguyen",
+            "team": "T010YRDV4KB",
+            "name": "derek.nguyen1028",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

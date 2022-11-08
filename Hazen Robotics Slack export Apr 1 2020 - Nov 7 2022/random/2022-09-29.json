@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "ead6ed3b-9b90-4f3e-9204-acf0e063495e",
+        "type": "message",
+        "text": "they should be",
+        "user": "U02DWDDVAP7",
+        "ts": "1664458144.721379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3jYC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "they should be"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

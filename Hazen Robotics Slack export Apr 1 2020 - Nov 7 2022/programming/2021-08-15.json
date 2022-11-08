@@ -1,0 +1,212 @@
+[
+    {
+        "client_msg_id": "68c6dee2-229b-408d-bffd-f336d3dff6b6",
+        "type": "message",
+        "text": "<@U0118UR0J72> <@U0119239VCY> I'm writing some code in android studio for the robot I have, just wondering, is there a preferred BasicOpMode I use? Do y'all recommend I use a particular one or should I just pick one and use it?",
+        "user": "U022WGTQ602",
+        "ts": "1629067862.002100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zxs9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0118UR0J72"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'm writing some code in android studio for the robot I have, just wondering, is there a preferred BasicOpMode I use? Do y'all recommend I use a particular one or should I just pick one and use it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1629067987.000000"
+        }
+    },
+    {
+        "client_msg_id": "460988b8-0b92-4add-8921-d2c1092f830e",
+        "type": "message",
+        "text": "Well there's two factors. A) Do you need it to be TeleOp or Autonomous, and B) once you know that you can really just duplicate any class to use.\nI'd recommend using BasicOpMode_Iterative or BasicOpMode_Linear if you want a nice simple layout or you could duplicate something like TeleOpBasics which already has basic, but similar code to the old actual robot (it'd be easier to do this one if you're robot is similar to the main robot from last comp season)",
+        "user": "U0118UR0J72",
+        "ts": "1629068579.006800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GAtk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well there's two factors. A) Do you need it to be TeleOp or Autonomous, and B) once you know that you can really just duplicate any class to use.\nI'd recommend using BasicOpMode_Iterative or BasicOpMode_Linear if you want a nice simple layout or you could duplicate something like TeleOpBasics which already has basic, but similar code to the old actual robot (it'd be easier to do this one if you're robot is similar to the main robot from last comp season)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0118UR0J72",
+            "ts": "1629068598.000000"
+        }
+    },
+    {
+        "client_msg_id": "07e02c4b-7e24-476a-b3f8-2d550982dafe",
+        "type": "message",
+        "text": "I'm just doing an autonomous project so should I just copy the AutoDemonstration code and go from there?",
+        "user": "U022WGTQ602",
+        "ts": "1629068631.007600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oOO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm just doing an autonomous project so should I just copy the AutoDemonstration code and go from there?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4830e2a9-d130-456a-97ca-3ab9fabbe358",
+        "type": "message",
+        "text": "Yeah, that or the BasicOpMode_Linear",
+        "user": "U0118UR0J72",
+        "ts": "1629068676.008000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UQ=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, that or the BasicOpMode_Linear"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d2628156-76e2-4bd4-9c73-bbbe4971f5df",
+        "type": "message",
+        "text": "ok great",
+        "user": "U022WGTQ602",
+        "ts": "1629068684.008200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RH9r\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok great"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

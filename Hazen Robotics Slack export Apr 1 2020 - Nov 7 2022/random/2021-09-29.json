@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "17822666-0f04-4888-8681-1c61e3d8fb94",
+        "type": "message",
+        "text": "this video has the same energy as that: <https:\/\/www.youtube.com\/watch?v=HrJf_dWR09s>",
+        "user": "U02535ABH2A",
+        "ts": "1632978990.055100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oMWXb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this video has the same energy as that: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=HrJf_dWR09s"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "やる気のない木材で逆ジェンガしてみた【Play like Jenga with unmotivated wood】",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=HrJf_dWR09s",
+                "author_name": "モノづくり面白いよ《 くらひと 》",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCLLtsSD5muIYjPgRsshvLKQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/HrJf_dWR09s\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: やる気のない木材で逆ジェンガしてみた【Play like Jenga with unmotivated wood】",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/HrJf_dWR09s?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=HrJf_dWR09s",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=HrJf_dWR09s"
+            }
+        ]
+    }
+]

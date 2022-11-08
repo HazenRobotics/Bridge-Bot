@@ -1,0 +1,1327 @@
+[
+    {
+        "client_msg_id": "46c65a04-4b88-432b-99cb-e894a934b267",
+        "type": "message",
+        "text": "Yo! I’ve got some info and questions for y’all about the head start robotics classes in  a couple weeks ",
+        "user": "U012BUXVC6B",
+        "ts": "1626727544.030200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Kj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo! I’ve got some info and questions for y’all about the head start robotics classes in  a couple weeks "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8b7fd78e-692a-4721-9c69-7652c7bc82f1",
+        "type": "message",
+        "text": "is this about the volunteer thing or smth else?",
+        "user": "U022WGTQ602",
+        "ts": "1626727621.032800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4TMY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is this about the volunteer thing or smth else?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1626727621.032800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1626727869.038400",
+        "reply_users": [
+            "U012BUXVC6B"
+        ],
+        "replies": [
+            {
+                "user": "U012BUXVC6B",
+                "ts": "1626727869.038400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "034C0F30-848F-45BC-B0FF-66DD1473109B",
+        "type": "message",
+        "text": "We need to figure out what the plan is. I’ve narrowed it down to three or so options. We could:\n• Have the students build a small cardboard robotic hand powered by a servo and the pi, like this: <https:\/\/www.birdbraintechnologies.com\/hummingbirdduo\/projects\/making-a-robot-hand-with-hummingbird\/|https:\/\/www.birdbraintechnologies.com\/hummingbirdduo\/projects\/making-a-robot-hand-with-hummingbird\/>\n• Re-use an upgraded version of the gear up curriculum (<@U022WGTQ602>, <@U01CZUZA4F3> y’all let me know if you think that’s a good way to teach the pi’s)\n• Give each student a 3D printed robotic car and teach them how to send commands over WiFi to it and do basic auto navigation with sensors. If y’all really like that I need to know ASAP since it’s a lot more prep\nI need as many of y’all to help volunteer a possible, probably only a couple of days per week. I’m going to work with <@U0119239VCY> and <@U018WC9RM3K> to prepare all the coursework beforehand so it won’t take too much work from y'all",
+        "user": "U012BUXVC6B",
+        "ts": "1626727862.038100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KE7fC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We need to figure out what the plan is. I’ve narrowed it down to three or so options. We could:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Have the students build a small cardboard robotic hand powered by a servo and the pi, like this: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.birdbraintechnologies.com\/hummingbirdduo\/projects\/making-a-robot-hand-with-hummingbird\/",
+                                        "text": "https:\/\/www.birdbraintechnologies.com\/hummingbirdduo\/projects\/making-a-robot-hand-with-hummingbird\/"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Re-use an upgraded version of the gear up curriculum ("
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U022WGTQ602"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01CZUZA4F3"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " y’all let me know if you think that’s a good way to teach the pi’s)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Give each student a 3D printed robotic car and teach them how to send commands over WiFi to it and do basic auto navigation with sensors. If y’all really like that I need to know ASAP since it’s a lot more prep"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I need as many of y’all to help volunteer a possible, probably only a couple of days per week. I’m going to work with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U018WC9RM3K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to prepare all the coursework beforehand so it won’t take too much work from y'all"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "BirdBrain Technologies",
+                "title": "Making a Robot Hand with Hummingbird - BirdBrain Technologies",
+                "title_link": "https:\/\/www.birdbraintechnologies.com\/hummingbirdduo\/projects\/making-a-robot-hand-with-hummingbird\/",
+                "text": "You can use the servo motor for more than just rotating something from 0° to 180°! This tutorial will show you how to use cardboard, straws, and yarn to create a robot hand. Then you will use a servo motor to pull on the yarn so that the fingers bend. The first part of this …",
+                "fallback": "BirdBrain Technologies: Making a Robot Hand with Hummingbird - BirdBrain Technologies",
+                "image_url": "https:\/\/www.birdbraintechnologies.com\/wp-content\/uploads\/2017\/12\/hand1.jpg",
+                "fields": [
+                    {
+                        "title": "Est. reading time",
+                        "value": "3 minutes",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.birdbraintechnologies.com\/hummingbirdduo\/projects\/making-a-robot-hand-with-hummingbird\/",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 106435,
+                "service_icon": "https:\/\/www.birdbraintechnologies.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.birdbraintechnologies.com\/hummingbirdduo\/projects\/making-a-robot-hand-with-hummingbird\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "CB840270-E3BA-4DCA-88B5-BEE74E1CA041",
+        "type": "message",
+        "text": "Yes",
+        "user": "U012BUXVC6B",
+        "ts": "1626727869.038400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pr6A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1626727621.032800",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "93c17a07-dcbf-4e04-8d75-c6e309daf721",
+        "type": "message",
+        "text": "<!everyone>",
+        "user": "U012BUXVC6B",
+        "ts": "1626734453.038800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+eN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2c1b75ea-44fd-49e0-861d-5159c7038716",
+        "type": "message",
+        "text": "I would probably say do the pi stuff or attempt to the the car because the robotic hand looks relatively easy and I'm afraid we would get done with it before the week(s) are over",
+        "user": "U022WGTQ602",
+        "ts": "1626734584.041100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PsNo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would probably say do the pi stuff or attempt to the the car because the robotic hand looks relatively easy and I'm afraid we would get done with it before the week(s) are over"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "27a66458-b5a3-46c5-a03d-1485c1c9957b",
+        "type": "message",
+        "text": "they would probably be more excited to do the robot car stuff as opposed to the pi stuff but since the car stuff is hard to prepare for in such little time the pi's would probably be the best route",
+        "user": "U022WGTQ602",
+        "ts": "1626734681.042500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Kl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "they would probably be more excited to do the robot car stuff as opposed to the pi stuff but since the car stuff is hard to prepare for in such little time the pi's would probably be the best route"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "126498df-8580-48f3-86d7-6c4257600083",
+        "type": "message",
+        "text": "I'll be available for both weeks at any time",
+        "user": "U022WGTQ602",
+        "ts": "1626734771.043400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eLyD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll be available for both weeks at any time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8BCBFF69-3C86-4CFC-A8EB-7D1998473E70",
+        "type": "message",
+        "text": "I agree with Camden on this. I would also like to help out- it just depends on my availability though ",
+        "user": "U0118LQKKEZ",
+        "ts": "1626734954.044300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ACdL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree with Camden on this. I would also like to help out- it just depends on my availability though "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "ca034fd1769e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-02\/2115489678439_ca034fd1769e0a72e2f9_72.png",
+            "first_name": "Ellen",
+            "real_name": "Ellen Huynh",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "ellen.huynh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "81a8f146-3979-4265-891b-690ad72473b3",
+        "type": "message",
+        "text": "What weeks is this?",
+        "user": "U0118UR0J72",
+        "ts": "1626734972.044600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aIHXS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What weeks is this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6b43478f-318c-4bf0-9723-1522d1c97f70",
+        "type": "message",
+        "text": "first 2 weeks of august",
+        "user": "U022WGTQ602",
+        "ts": "1626734980.044800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mhav",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "first 2 weeks of august"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1e4fe9d4-e04f-4fe3-8396-d7304c05eb6e",
+        "type": "message",
+        "text": "mon-thur 10am-noon",
+        "user": "U022WGTQ602",
+        "ts": "1626734989.045100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sJw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mon-thur 10am-noon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1626735000.000000"
+        }
+    },
+    {
+        "client_msg_id": "5999cfdc-fcb8-42ae-a783-3901c73fb311",
+        "type": "message",
+        "text": "I should be able to do both as well",
+        "user": "U0118UR0J72",
+        "ts": "1626735026.045600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "37Fih",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I should be able to do both as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "144145e1-d7a0-4e27-b1e4-f87022a3a3eb",
+        "type": "message",
+        "text": "Sweet. I'm definitely leaning towards using the gear up lessons. Ideally, if there's one or two of us there each day it should be all good so a couple days a week each would be sweet.",
+        "user": "U012BUXVC6B",
+        "ts": "1626735097.046700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vW5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sweet. I'm definitely leaning towards using the gear up lessons. Ideally, if there's one or two of us there each day it should be all good so a couple days a week each would be sweet."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "24c4311a-2379-44f3-ab40-aaa95acbeb87",
+        "type": "message",
+        "text": "do you know roughly how many kids there are going to be there?",
+        "user": "U022WGTQ602",
+        "ts": "1626735130.047300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KpXUD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do you know roughly how many kids there are going to be there?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "294a40a2-5927-4825-a846-ab75d1c1f3ed",
+        "type": "message",
+        "text": "20-30?",
+        "user": "U012BUXVC6B",
+        "ts": "1626735169.048500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "854n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "20-30?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "A4F97692-032E-4C4E-A72D-F21C55031983",
+        "type": "message",
+        "text": "Oh if it’s the first two weeks of August sorry I won’t be able to make it to any of the lessons- I’ll be out of town ",
+        "user": "U0118LQKKEZ",
+        "ts": "1626735180.048600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EJ2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh if it’s the first two weeks of August sorry I won’t be able to make it to any of the lessons- I’ll be out of town "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "ca034fd1769e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-02\/2115489678439_ca034fd1769e0a72e2f9_72.png",
+            "first_name": "Ellen",
+            "real_name": "Ellen Huynh",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "ellen.huynh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3dda7664-1351-4a4a-ac84-e3d16ebd0e59",
+        "type": "message",
+        "text": "and would we be getting pi's for each kid or get like 10 and put them into groups?",
+        "user": "U022WGTQ602",
+        "ts": "1626735206.049100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oa6T+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and would we be getting pi's for each kid or get like 10 and put them into groups?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e81dc58c-5566-4bce-b0d1-abe3984eb342",
+        "type": "message",
+        "text": "I think one for each",
+        "user": "U012BUXVC6B",
+        "ts": "1626735215.049300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NyM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think one for each"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5f7d566c-0d4d-47a3-b7fc-5f92068f48bb",
+        "type": "message",
+        "text": "oh... then we probably need more than 1-2 people there each day to deal with troubleshooting issues and the like",
+        "user": "U022WGTQ602",
+        "ts": "1626735267.050000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bWeT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh... then we probably need more than 1-2 people there each day to deal with troubleshooting issues and the like"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d306f9ca-98bc-44fe-b55a-10dce13f113a",
+        "type": "message",
+        "text": "you remember how much help our group of like 6 needed",
+        "user": "U022WGTQ602",
+        "ts": "1626735285.050900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/qF6r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you remember how much help our group of like 6 needed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "050952d4-5118-48e7-bca9-bd24e8598580",
+        "type": "message",
+        "text": "We should have peck and one other teacher",
+        "user": "U012BUXVC6B",
+        "ts": "1626735288.051000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dFfTf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We should have peck and one other teacher"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4ef5eb64-ebee-4a7e-9a68-bee6a39cc6f1",
+        "type": "message",
+        "text": "lmao",
+        "user": "U012BUXVC6B",
+        "ts": "1626735289.051200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OMk7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lmao"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4db9ab23-41eb-4db0-a23a-d04cf7c633fe",
+        "type": "message",
+        "text": "it'll be easier in person",
+        "user": "U012BUXVC6B",
+        "ts": "1626735294.051400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4YM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it'll be easier in person"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bcaaa5a8-316f-4088-9111-ee634a036efa",
+        "type": "message",
+        "text": "yea true",
+        "user": "U022WGTQ602",
+        "ts": "1626735298.051800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FCz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yea true"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a7b87ef9-ff58-4946-8d22-179c43f1cc36",
+        "type": "message",
+        "text": "also andrew, for the robotic cars, what do you think will be the most time consuming aspect? Is it the 3d printing? if so, have you considered laser cutting acrylic pieces to use as the body?",
+        "user": "U022WGTQ602",
+        "ts": "1626738957.052900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "17vN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also andrew, for the robotic cars, what do you think will be the most time consuming aspect? Is it the 3d printing? if so, have you considered laser cutting acrylic pieces to use as the body?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1626739052.000000"
+        },
+        "thread_ts": "1626738957.052900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1626743081.055900",
+        "reply_users": [
+            "U022WGTQ602"
+        ],
+        "replies": [
+            {
+                "user": "U022WGTQ602",
+                "ts": "1626743081.055900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b01b0149-008d-49e3-b377-a69f9934adc1",
+        "type": "message",
+        "text": "and if we were to do the cars, we could probably just do something like the robotics class me and derek are taking over this summer for the curriculum <https:\/\/sites.google.com\/a\/g.rentonschools.us\/robotics\/home>",
+        "user": "U022WGTQ602",
+        "ts": "1626739014.053900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ger=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and if we were to do the cars, we could probably just do something like the robotics class me and derek are taking over this summer for the curriculum "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sites.google.com\/a\/g.rentonschools.us\/robotics\/home"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1626739032.000000"
+        }
+    },
+    {
+        "client_msg_id": "5C4057C2-D067-4D65-BAC8-70781B38CA82",
+        "type": "message",
+        "text": "Ahhh, y’all are doing woody’s arduino class ",
+        "user": "U012BUXVC6B",
+        "ts": "1626741577.054700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Th7F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahhh, y’all are doing woody’s arduino class "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "360D9AA0-69C8-487F-A792-D9AB60DB1A82",
+        "type": "message",
+        "text": "Yeah, it would be along those lines but with the raspberry pis",
+        "user": "U012BUXVC6B",
+        "ts": "1626741588.055100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ybN5j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, it would be along those lines but with the raspberry pis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "I could also help with the laser cutting aspect if we were to go that route since I have a glowforge here at my house, I'd just need the .svg file",
+        "user": "U022WGTQ602",
+        "ts": "1626743081.055900",
+        "thread_ts": "1626738957.052900",
+        "root": {
+            "client_msg_id": "a7b87ef9-ff58-4946-8d22-179c43f1cc36",
+            "type": "message",
+            "text": "also andrew, for the robotic cars, what do you think will be the most time consuming aspect? Is it the 3d printing? if so, have you considered laser cutting acrylic pieces to use as the body?",
+            "user": "U022WGTQ602",
+            "ts": "1626738957.052900",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "17vN",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "also andrew, for the robotic cars, what do you think will be the most time consuming aspect? Is it the 3d printing? if so, have you considered laser cutting acrylic pieces to use as the body?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T010YRDV4KB",
+            "edited": {
+                "user": "U022WGTQ602",
+                "ts": "1626739052.000000"
+            },
+            "thread_ts": "1626738957.052900",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1626743081.055900",
+            "reply_users": [
+                "U022WGTQ602"
+            ],
+            "replies": [
+                {
+                    "user": "U022WGTQ602",
+                    "ts": "1626743081.055900"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iqFh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I could also help with the laser cutting aspect if we were to go that route since I have a glowforge here at my house, I'd just need the .svg file"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "66c7ea31-0a74-4038-a0be-6906d691462e"
+    }
+]

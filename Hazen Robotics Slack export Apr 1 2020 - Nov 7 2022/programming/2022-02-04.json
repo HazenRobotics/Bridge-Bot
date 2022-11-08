@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "347d4d7d-5e6c-4b5c-9e3c-696b6d8d651b",
+        "type": "message",
+        "text": "Yes, sleep well",
+        "user": "U0118UR0J72",
+        "ts": "1643963683.742399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/u0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, sleep well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

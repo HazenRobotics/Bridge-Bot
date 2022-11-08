@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "bdde4a7a-945e-4414-bc04-f491c738ac65",
+        "type": "message",
+        "text": "Instead of using a try catch statement which won't run the code if it catches an error, is there a way to just catch an error and do something?",
+        "user": "U0118UR0J72",
+        "ts": "1625205393.007600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4lq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Instead of using a try catch statement which won't run the code if it catches an error, is there a way to just catch an error and do something?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9639d28c-e895-49fb-a3f2-b431dec8324d",
+        "type": "message",
+        "text": "And run the code that causes the error no matter what",
+        "user": "U0118UR0J72",
+        "ts": "1625205416.008000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t8R8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And run the code that causes the error no matter what"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

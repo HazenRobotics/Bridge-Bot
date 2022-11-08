@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "5eaf6126-97a2-4335-8032-eef7f4a9891f",
+        "type": "message",
+        "text": "<@U012BUXVC6B> is 30mm the radius or the diameter of the spool?",
+        "user": "U022WGTQ602",
+        "ts": "1634855734.001000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MiQ9=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012BUXVC6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is 30mm the radius or the diameter of the spool?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5c22c626-5b23-4cf7-9456-1e070faa3e27",
+        "type": "message",
+        "text": "```\n\npublic static void main( String[] args ) {\n\n   double distanceToTravel = 10;\n   double circumference = 2 * (1.1811 \/ 2) * Math.PI;\n   final double PULSES_PER_REVOLUTION = 537.7;\n   final double GEAR_RATIO = 19.2;\n   int rounded = (int) Math.round( ((distanceToTravel \/ circumference) * PULSES_PER_REVOLUTION) \/ GEAR_RATIO );\n   System.out.print( \"here it is: \" + rounded );\n}```\n",
+        "user": "U022WGTQ602",
+        "ts": "1634856648.001300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y617v",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\npublic static void main( String[] args ) {\n\n   double distanceToTravel = 10;\n   double circumference = 2 * (1.1811 \/ 2) * Math.PI;\n   final double PULSES_PER_REVOLUTION = 537.7;\n   final double GEAR_RATIO = 19.2;\n   int rounded = (int) Math.round( ((distanceToTravel \/ circumference) * PULSES_PER_REVOLUTION) \/ GEAR_RATIO );\n   System.out.print( \"here it is: \" + rounded );\n}"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,568 @@
+[
+    {
+        "client_msg_id": "a6d90c9c-4ec5-4e4c-8301-4a5e2c6a7fbc",
+        "type": "message",
+        "text": "<https:\/\/github.com\/dbloisi\/homography-computation>",
+        "user": "U018WC9RM3K",
+        "ts": "1641498837.013700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "95DR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/dbloisi\/homography-computation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "color": "24292f",
+                "bot_id": "B02EXAE6AB1",
+                "app_unfurl_url": "https:\/\/github.com\/dbloisi\/homography-computation",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "dbloisi\/homography-computation",
+                "text": "OpenCV-Python code for calculating homography transformation. This code is part of the material of the course \"Computer Vision and Machine Perception\" - University of Basilicata (Italy)",
+                "title": "dbloisi\/homography-computation",
+                "fields": [
+                    {
+                        "value": "11",
+                        "title": "Stars",
+                        "short": true
+                    },
+                    {
+                        "value": "Python",
+                        "title": "Language",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "63f21137-6fa0-4293-9664-f4bdf25c8718",
+        "type": "message",
+        "text": "<https:\/\/www.fdxlabs.com\/calculate-x-y-z-real-world-coordinates-from-a-single-camera-using-opencv\/>, <https:\/\/github.com\/pacogarcia3\/hta0-horizontal-robot-arm\/blob\/master\/initial_perspective_calibration.py>, <https:\/\/github.com\/pacogarcia3\/hta0-horizontal-robot-arm\/blob\/master\/camera_realworldxyz.py>",
+        "user": "U018WC9RM3K",
+        "ts": "1641501712.014200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cEhh0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.fdxlabs.com\/calculate-x-y-z-real-world-coordinates-from-a-single-camera-using-opencv\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/pacogarcia3\/hta0-horizontal-robot-arm\/blob\/master\/initial_perspective_calibration.py"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/pacogarcia3\/hta0-horizontal-robot-arm\/blob\/master\/camera_realworldxyz.py"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.fdxlabs.com\/calculate-x-y-z-real-world-coordinates-from-a-single-camera-using-opencv\/",
+                "ts": 1554855791,
+                "image_url": "https:\/\/www.fdxlabs.com\/wp-content\/uploads\/2019\/04\/CameraRealXYZ.jpg",
+                "image_width": 430,
+                "image_height": 250,
+                "image_bytes": 68113,
+                "id": 1,
+                "original_url": "https:\/\/www.fdxlabs.com\/calculate-x-y-z-real-world-coordinates-from-a-single-camera-using-opencv\/",
+                "fallback": "fdx labs: Calculate X, Y, Z Real World Coordinates from Image Coordinates using OpenCV",
+                "text": "As soon as I finished my Horizontal Travel Robot Arm prototype and was able to reliable make pick and place motions using simple X, Y, Z inputs, I decided to build a real use case that could show i…",
+                "title": "Calculate X, Y, Z Real World Coordinates from Image Coordinates using OpenCV",
+                "title_link": "https:\/\/www.fdxlabs.com\/calculate-x-y-z-real-world-coordinates-from-a-single-camera-using-opencv\/",
+                "service_name": "fdx labs"
+            },
+            {
+                "id": 2,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "bot_id": "B02EXAE6AB1",
+                "app_unfurl_url": "https:\/\/github.com\/pacogarcia3\/hta0-horizontal-robot-arm\/blob\/master\/initial_perspective_calibration.py",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "<https:\/\/github.com\/pacogarcia3\/hta0-horizontal-robot-arm\/blob\/master\/initial_perspective_calibration.py | initial_perspective_calibration.py>",
+                "title": "<https:\/\/github.com\/pacogarcia3\/hta0-horizontal-robot-arm\/blob\/master\/initial_perspective_calibration.py | initial_perspective_calibration.py>",
+                "footer": "<https:\/\/github.com\/pacogarcia3\/hta0-horizontal-robot-arm|pacogarcia3\/hta0-horizontal-robot-arm>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            },
+            {
+                "id": 3,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "bot_id": "B02EXAE6AB1",
+                "app_unfurl_url": "https:\/\/github.com\/pacogarcia3\/hta0-horizontal-robot-arm\/blob\/master\/camera_realworldxyz.py",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "<https:\/\/github.com\/pacogarcia3\/hta0-horizontal-robot-arm\/blob\/master\/camera_realworldxyz.py | camera_realworldxyz.py>",
+                "title": "<https:\/\/github.com\/pacogarcia3\/hta0-horizontal-robot-arm\/blob\/master\/camera_realworldxyz.py | camera_realworldxyz.py>",
+                "footer": "<https:\/\/github.com\/pacogarcia3\/hta0-horizontal-robot-arm|pacogarcia3\/hta0-horizontal-robot-arm>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "11e51226-78ac-43e6-826f-b774719c0e61",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=xHTFfvVyhNE>, <https:\/\/github.com\/roboavatars\/UltimateGoal\/tree\/master\/TeamCode\/src\/main\/java\/org\/firstinspires\/ftc\/teamcode\/OpenCV>",
+        "user": "U018WC9RM3K",
+        "ts": "1641505386.014700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0lIt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=xHTFfvVyhNE"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/roboavatars\/UltimateGoal\/tree\/master\/TeamCode\/src\/main\/java\/org\/firstinspires\/ftc\/teamcode\/OpenCV"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=xHTFfvVyhNE",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/xHTFfvVyhNE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/xHTFfvVyhNE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=xHTFfvVyhNE",
+                "fallback": "YouTube Video: RoboAvatars Ultimate Goal Control Award Video | FTC Ultimate Goal",
+                "title": "RoboAvatars Ultimate Goal Control Award Video | FTC Ultimate Goal",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=xHTFfvVyhNE",
+                "author_name": "RoboAvatars #7303",
+                "author_link": "https:\/\/www.youtube.com\/c\/RoboAvatars7303",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "uuuh so I changed that Z_CONST value from 0 to 1 and now it works almost perfectly",
+        "files": [
+            {
+                "id": "F02SZEGQVHB",
+                "created": 1641537443,
+                "timestamp": 1641537443,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0119239VCY",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 16520,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02SZEGQVHB\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02SZEGQVHB\/download\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SZEGQVHB-23fcb9cd99\/image_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SZEGQVHB-23fcb9cd99\/image_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SZEGQVHB-23fcb9cd99\/image_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 79,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SZEGQVHB-23fcb9cd99\/image_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 106,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SZEGQVHB-23fcb9cd99\/image_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "original_w": 714,
+                "original_h": 157,
+                "thumb_tiny": "AwAKADClxzxSZGelPH9aB1NADCR6UlS1GxO7rQAlFGT6migD\/9k=",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U0119239VCY\/F02SZEGQVHB\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02SZEGQVHB-dd526880c1",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0119239VCY",
+        "display_as_bot": false,
+        "ts": "1641537474.015300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K4r7s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "uuuh so I changed that Z_CONST value from 0 to 1 and now it works almost perfectly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "8126137d-cf8a-4e32-9834-bdddb11e2234"
+    },
+    {
+        "client_msg_id": "0af75aa6-aeff-4737-8c5c-e792651dcb8a",
+        "type": "message",
+        "text": "Are you still there?",
+        "user": "U0118UR0J72",
+        "ts": "1641537502.016100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RyU+s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are you still there?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a5f67fce-8e7a-40e1-8de1-6bc7ccbab685",
+        "type": "message",
+        "text": "Nah i'm just working on it at home",
+        "user": "U0119239VCY",
+        "ts": "1641537518.016600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q0l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nah i'm just working on it at home"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0e07b5fa-d512-42e3-9ef3-e1edb585dbb7",
+        "type": "message",
+        "text": "Oh cool",
+        "user": "U0118UR0J72",
+        "ts": "1641537523.016900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TQ=4Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "58186cee-b3af-4d35-87b8-a889776572e5",
+        "type": "message",
+        "text": "But it's able to pick an (x,y) coordinate from halfway across the field in the very corner with about 3 inch tolerance",
+        "user": "U0119239VCY",
+        "ts": "1641537611.018400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BMdkZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But it's able to pick an (x,y) coordinate from halfway across the field in the very corner with about 3 inch tolerance"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0f5b4840-5b87-4a53-bee3-fb24c590c83b",
+        "type": "message",
+        "text": "and it seems to get more accurate when its closer",
+        "user": "U0119239VCY",
+        "ts": "1641537630.018900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+wlU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and it seems to get more accurate when its closer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a865e041-b489-4793-b183-e717891f7ea0",
+        "type": "message",
+        "text": "also Sam, I was kinda able to get your concept working, the robot usually moved in the right direction but it was a little inaccurate",
+        "user": "U0119239VCY",
+        "ts": "1641537693.019800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TRBo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also Sam, I was kinda able to get your concept working, the robot usually moved in the right direction but it was a little inaccurate"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f634052c-efe4-49d5-ad60-2e6948cc3424",
+        "type": "message",
+        "text": "Cool",
+        "user": "U0118UR0J72",
+        "ts": "1641537715.020000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CiZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,251 @@
+[
+    {
+        "client_msg_id": "46d05e3a-b386-451d-a7ca-f4e116306ecb",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=GXJ5LX4zIpI>",
+        "user": "U012BUXVC6B",
+        "ts": "1620930284.022000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7CFo2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=GXJ5LX4zIpI"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "FIRST Tech Challenge Automatic FTC Ball Turret",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=GXJ5LX4zIpI",
+                "author_name": "ElectricWizzz",
+                "author_link": "https:\/\/www.youtube.com\/user\/ElectricWizzz",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/GXJ5LX4zIpI\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: FIRST Tech Challenge Automatic FTC Ball Turret",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/GXJ5LX4zIpI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=GXJ5LX4zIpI",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=GXJ5LX4zIpI"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C5324B92-CA3C-404D-B85E-37A33FBC9F3E",
+        "type": "message",
+        "text": "Yo that’s nuts",
+        "user": "U0135LQT8TB",
+        "ts": "1620931343.022400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KhFu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo that’s nuts"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gdfe9743ea44",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dfe9743ea4477ab6cdd74b02c32fc903.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ethan Chiang",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "awesome.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4ef02cc3-d22c-436c-886f-d6d5d841718b",
+        "type": "message",
+        "text": "I know right",
+        "user": "U012BUXVC6B",
+        "ts": "1620931353.022600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d7O=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know right"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0e808401-b175-41ba-bcc2-6b563ec42263",
+        "type": "message",
+        "text": "I've been screwing with a swerve drive unit but mounting it into a chassis is real funky",
+        "user": "U012BUXVC6B",
+        "ts": "1620931381.023700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n8CE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've been screwing with a swerve drive unit but mounting it into a chassis is real funky"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0a4af06d-e06f-4e07-befc-48dc9c6e54ce",
+        "type": "message",
+        "text": "i got one revision for that one put all the tube things at an angle so it funnels the balls to the rubber bands",
+        "user": "U018B1TFE3Y",
+        "ts": "1620931384.023900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ljNH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i got one revision for that one put all the tube things at an angle so it funnels the balls to the rubber bands"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "400ec817-3ea6-4063-aaaf-6f9e4dc5bbd2",
+        "type": "message",
+        "text": "ohhh yeah that would be nice",
+        "user": "U012BUXVC6B",
+        "ts": "1620931404.024100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iVdjw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ohhh yeah that would be nice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "7a7e9147-5a2f-4f8c-b996-30a8385660ef",
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/FTC\/comments\/e0tr9p\/almost_done\/>",
+        "user": "U012BUXVC6B",
+        "ts": "1628481013.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8I2z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/FTC\/comments\/e0tr9p\/almost_done\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "Almost done!",
+                "title_link": "https:\/\/www.reddit.com\/r\/FTC\/comments\/e0tr9p\/almost_done\/",
+                "text": "Posted in r\/FTC by u\/JirachiKid • 303 points and 78 comments",
+                "fallback": "reddit: Almost done!",
+                "image_url": "https:\/\/preview.redd.it\/o8yv0k9hak041.jpg?overlay-align=bottom,left&crop=1200:628.272251309,smart&overlay-height=15p&overlay=%2Fwatermark%2Ft5_2sks6.png%3Fs%3D48ff07de032b29e94a4b88178737ca9b65be5a08&width=1200&height=628.272251309&auto=webp&s=21c2b3b6b2d1b02a8e807b09fa4093ff46704a32",
+                "image_width": 478,
+                "image_height": 250,
+                "from_url": "https:\/\/www.reddit.com\/r\/FTC\/comments\/e0tr9p\/almost_done\/",
+                "image_bytes": 140870,
+                "service_icon": "http:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/FTC\/comments\/e0tr9p\/almost_done\/"
+            }
+        ]
+    }
+]

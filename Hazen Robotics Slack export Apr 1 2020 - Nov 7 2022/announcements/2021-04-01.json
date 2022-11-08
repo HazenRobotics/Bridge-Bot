@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "E0552430-B6AF-45E4-A061-188D6F2D3EEB",
+        "type": "message",
+        "text": "We r meeting 8-2 tmr ya? ",
+        "user": "U0118LQKKEZ",
+        "ts": "1617341516.000500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mskNZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We r meeting 8-2 tmr ya? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "ca034fd1769e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-02\/2115489678439_ca034fd1769e0a72e2f9_72.png",
+            "first_name": "Ellen",
+            "real_name": "Ellen Huynh",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "ellen.huynh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e0771d8a-1a02-42b1-a303-5b50e195a6f5",
+        "type": "message",
+        "text": "As far as I know, yes.",
+        "user": "U0118UR0J72",
+        "ts": "1617343255.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bae",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As far as I know, yes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

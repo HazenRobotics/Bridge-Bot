@@ -1,0 +1,66 @@
+[
+    {
+        "client_msg_id": "a3422c6b-7f94-4cd5-ba2f-6ff32012afd7",
+        "type": "message",
+        "text": "first is staying in houston (atleast until the current sophomores graduate), it’s going to continue being a single worlds competition, # of teams hasn’t been specified yet but that info should be coming out soon <https:\/\/www.firstinspires.org\/about\/press-room\/first-announces-energize-presented-by-qualcomm>",
+        "user": "U022WGTQ602",
+        "ts": "1652982720.727569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DN8w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "first is staying in houston (atleast until the current sophomores graduate), it’s going to continue being a single worlds competition, # of teams hasn’t been specified yet but that info should be coming out soon "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.firstinspires.org\/about\/press-room\/first-announces-energize-presented-by-qualcomm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1652982757.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.firstinspires.org\/about\/press-room\/first-announces-energize-presented-by-qualcomm",
+                "ts": 1652882408,
+                "image_url": "https:\/\/www.firstinspires.org\/sites\/default\/files\/open-graph-first-logo.png",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 45456,
+                "service_icon": "https:\/\/www.firstinspires.org\/sites\/default\/files\/first-favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.firstinspires.org\/about\/press-room\/first-announces-energize-presented-by-qualcomm",
+                "fallback": "FIRST: FIRST Announces 2022-2023 Youth Robotics Season, FIRST® ENERGIZESM presented by Qualcomm Incorporated",
+                "text": "Qualcomm Announced as Presenting Sponsor of Energy-Themed Season Inspiring Young People to Innovate Season to Conclude with Return to Houston for International 2023 FIRST Championship  ",
+                "title": "FIRST Announces 2022-2023 Youth Robotics Season, FIRST® ENERGIZESM presented by Qualcomm Incorporated",
+                "title_link": "https:\/\/www.firstinspires.org\/about\/press-room\/first-announces-energize-presented-by-qualcomm",
+                "service_name": "FIRST"
+            }
+        ]
+    }
+]

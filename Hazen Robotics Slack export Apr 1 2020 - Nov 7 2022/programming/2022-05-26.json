@@ -1,0 +1,119 @@
+[
+    {
+        "client_msg_id": "e7ffbce0-25ac-42db-9e59-6da7930c2331",
+        "type": "message",
+        "text": "Anyone good with python multiprocessing\n```import discord\nimport os\nimport multiprocessing \nfrom multiprocessing import Process\nclient = discord.Client()\n\nif __name__ == '__main__':\n #throws  error here\n p1 = multiprocessing.Process(start_java)\n p2 = multiprocessing.Process(start_bot)\n #error ends here\n #says that it cant find  java or bot\n p1.start() \n p2.start()\n p1.join()\n p2.join()\n\n\n\nextensions = [\n\t'cogs.cog_example'  # Same name as it would be if you were importing it\n]\n#starts java (dont worry) \ndef start_java():\n    os.system(\"chmod +x main.bash\")\n    os.system(\".\/main.bash\")\n#disord.py stuff (dont worry) \ndef start_bot():   \n token = os.environ.get(\"TOKEN\") \n client.run(token)  \n\n#when discord bot starts (dont worry) \n@client.event\nasync def on_ready():\n    start_java()\n    f = open(\"text.txt\", \"r\")\n    msg=f.read()\n    if msg == \"\":\n         return\n    else:\n        await client.send(msg)\n        open(\"text.txt\", \"w\").close()\n    f.close()```",
+        "user": "U02DWDDVAP7",
+        "ts": "1653620954.439719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Pif",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone good with python multiprocessing\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "import discord\nimport os\nimport multiprocessing \nfrom multiprocessing import Process\nclient = discord.Client()\n\nif __name__ == '__main__':\n #throws  error here\n p1 = multiprocessing.Process(start_java)\n p2 = multiprocessing.Process(start_bot)\n #error ends here\n #says that it cant find  java or bot\n p1.start() \n p2.start()\n p1.join()\n p2.join()\n\n\n\nextensions = [\n\t'cogs.cog_example'  # Same name as it would be if you were importing it\n]\n#starts java (dont worry) \ndef start_java():\n    os.system(\"chmod +x main.bash\")\n    os.system(\".\/main.bash\")\n#disord.py stuff (dont worry) \ndef start_bot():   \n token = os.environ.get(\"TOKEN\") \n client.run(token)  \n\n#when discord bot starts (dont worry) \n@client.event\nasync def on_ready():\n    start_java()\n    f = open(\"text.txt\", \"r\")\n    msg=f.read()\n    if msg == \"\":\n         return\n    else:\n        await client.send(msg)\n        open(\"text.txt\", \"w\").close()\n    f.close()"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02DWDDVAP7",
+            "ts": "1653621093.000000"
+        }
+    },
+    {
+        "client_msg_id": "847fc532-3a57-492a-b538-dc46174f5926",
+        "type": "message",
+        "text": "Try doing `multiprocessing.Process(target=method_name)`",
+        "user": "U0119239VCY",
+        "ts": "1653621562.429939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n9vwt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Try doing "
+                            },
+                            {
+                                "type": "text",
+                                "text": "multiprocessing.Process(target=method_name)",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1653621562.429939",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1653669616.412699",
+        "reply_users": [
+            "U02DWDDVAP7",
+            "U022WGTQ602"
+        ],
+        "replies": [
+            {
+                "user": "U02DWDDVAP7",
+                "ts": "1653663140.229079"
+            },
+            {
+                "user": "U022WGTQ602",
+                "ts": "1653669616.412699"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

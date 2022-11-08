@@ -1,0 +1,909 @@
+[
+    {
+        "client_msg_id": "e994a2a4-0c9a-40d2-a609-6e407b44a6d0",
+        "type": "message",
+        "text": "are we planning on printing out a new bucket with the 1 clear side anytime soon? I need one made and mounted if we want to get a reliable freight detection before competition",
+        "user": "U022WGTQ602",
+        "ts": "1638324441.104100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pmf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "are we planning on printing out a new bucket with the 1 clear side anytime soon? I need one made and mounted if we want to get a reliable freight detection before competition"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0c52dbe8-b826-4e50-8f8f-bbd4909ba9c4",
+        "type": "message",
+        "text": "also <@U02ENRPMDCZ> where are we on the adaptive\/flexible gripper for the shipping element?",
+        "user": "U022WGTQ602",
+        "ts": "1638325148.105100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L56",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02ENRPMDCZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " where are we on the adaptive\/flexible gripper for the shipping element?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1638325148.105100",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1638340993.111700",
+        "reply_users": [
+            "U022WGTQ602",
+            "U02ENRPMDCZ"
+        ],
+        "replies": [
+            {
+                "user": "U022WGTQ602",
+                "ts": "1638328949.105200"
+            },
+            {
+                "user": "U02ENRPMDCZ",
+                "ts": "1638340950.110200"
+            },
+            {
+                "user": "U02ENRPMDCZ",
+                "ts": "1638340974.110900"
+            },
+            {
+                "user": "U02ENRPMDCZ",
+                "ts": "1638340981.111300"
+            },
+            {
+                "user": "U02ENRPMDCZ",
+                "ts": "1638340993.111700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "here's one we could try out, i bet that just using 2 of the arms with this design could work as well, but atleast we have an stl for the arms",
+        "user": "U022WGTQ602",
+        "ts": "1638328949.105200",
+        "thread_ts": "1638325148.105100",
+        "root": {
+            "client_msg_id": "0c52dbe8-b826-4e50-8f8f-bbd4909ba9c4",
+            "type": "message",
+            "text": "also <@U02ENRPMDCZ> where are we on the adaptive\/flexible gripper for the shipping element?",
+            "user": "U022WGTQ602",
+            "ts": "1638325148.105100",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "L56",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "also "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U02ENRPMDCZ"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " where are we on the adaptive\/flexible gripper for the shipping element?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T010YRDV4KB",
+            "thread_ts": "1638325148.105100",
+            "reply_count": 5,
+            "reply_users_count": 2,
+            "latest_reply": "1638340993.111700",
+            "reply_users": [
+                "U022WGTQ602",
+                "U02ENRPMDCZ"
+            ],
+            "replies": [
+                {
+                    "user": "U022WGTQ602",
+                    "ts": "1638328949.105200"
+                },
+                {
+                    "user": "U02ENRPMDCZ",
+                    "ts": "1638340950.110200"
+                },
+                {
+                    "user": "U02ENRPMDCZ",
+                    "ts": "1638340974.110900"
+                },
+                {
+                    "user": "U02ENRPMDCZ",
+                    "ts": "1638340981.111300"
+                },
+                {
+                    "user": "U02ENRPMDCZ",
+                    "ts": "1638340993.111700"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IOf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "here's one we could try out, i bet that just using 2 of the arms with this design could work as well, but atleast we have an stl for the arms"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "03718e0c-e717-4291-a08e-f2415b086423"
+    },
+    {
+        "client_msg_id": "579dc3b4-1749-41b1-9483-da830be07a64",
+        "type": "message",
+        "text": "also: <https:\/\/www.youtube.com\/watch?v=_D4-hCSQ51Y>",
+        "user": "U022WGTQ602",
+        "ts": "1638328966.105800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+LeM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=_D4-hCSQ51Y"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=_D4-hCSQ51Y",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "ADAPTIVE GRIPPER - DESIGN &amp; ASSEMBLY INSTRUCTIONS -FIN RAY EFFECT- MY TAKE ON THIS DESIGN-3D Printed",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=_D4-hCSQ51Y",
+                "author_name": "Adrian Duran LAD Robotics",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCUlhfgLoKMBipVxawVcl_bA",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/_D4-hCSQ51Y?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "fallback": "YouTube Video: ADAPTIVE GRIPPER - DESIGN & ASSEMBLY INSTRUCTIONS -FIN RAY EFFECT- MY TAKE ON THIS DESIGN-3D Printed",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/_D4-hCSQ51Y\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=_D4-hCSQ51Y"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5BDECD18-E62E-47DA-B2CE-825E542E2AFC",
+        "type": "message",
+        "text": "I can do the bucket this weekend maybe? Sooner if Alex gets it done",
+        "user": "U012BUXVC6B",
+        "ts": "1638328997.106400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qu6gi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can do the bucket this weekend maybe? Sooner if Alex gets it done"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "oops, forgot to attach the zip file for the claw",
+        "files": [
+            {
+                "id": "F02NWTRHA94",
+                "created": 1638329093,
+                "timestamp": 1638329093,
+                "name": "adaptive-gripper-robotic-hand-with-three-fingers20210612-14128-ono68e.zip",
+                "title": "adaptive-gripper-robotic-hand-with-three-fingers20210612-14128-ono68e.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U022WGTQ602",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 1057957,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02NWTRHA94\/adaptive-gripper-robotic-hand-with-three-fingers20210612-14128-ono68e.zip?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02NWTRHA94\/download\/adaptive-gripper-robotic-hand-with-three-fingers20210612-14128-ono68e.zip?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U022WGTQ602\/F02NWTRHA94\/adaptive-gripper-robotic-hand-with-three-fingers20210612-14128-ono68e.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02NWTRHA94-f3cb86e4e3",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U022WGTQ602",
+        "display_as_bot": false,
+        "ts": "1638329100.106700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bt\/3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oops, forgot to attach the zip file for the claw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "29b969bb-2538-4251-9b39-ff75e13ff885"
+    },
+    {
+        "client_msg_id": "1646eeb3-4cf6-4371-beb6-03653b51f87a",
+        "type": "message",
+        "text": "alex has the bucket done",
+        "user": "U018B1TFE3Y",
+        "ts": "1638329142.107200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MEG7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alex has the bucket done"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "10270552-9DDE-4B7D-A5E9-64082D558663",
+        "type": "message",
+        "text": "Rad. I can (maybe) print that tonight if we want it tmr",
+        "user": "U012BUXVC6B",
+        "ts": "1638329178.107700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YRgf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Rad. I can (maybe) print that tonight if we want it tmr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "754C5212-5204-4835-97C0-C1C0002C3D78",
+        "type": "message",
+        "text": "Where is the file located?",
+        "user": "U012BUXVC6B",
+        "ts": "1638329497.108000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gga",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Where is the file located?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1638329497.108000",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1638329646.109400",
+        "reply_users": [
+            "U018B1TFE3Y"
+        ],
+        "replies": [
+            {
+                "user": "U018B1TFE3Y",
+                "ts": "1638329616.109000"
+            },
+            {
+                "user": "U018B1TFE3Y",
+                "ts": "1638329623.109200"
+            },
+            {
+                "user": "U018B1TFE3Y",
+                "ts": "1638329646.109400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "302a7ea8-c6a3-46ca-8275-ec509e4ad70b",
+        "type": "message",
+        "text": "?",
+        "user": "U022WGTQ602",
+        "ts": "1638329515.108200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L=xMf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "45a1ea76-21d3-4449-b5e0-2aa4960ae8c5",
+        "type": "message",
+        "text": "oh",
+        "user": "U022WGTQ602",
+        "ts": "1638329524.108400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hr2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cc1d5c66-b9ec-4bb6-8fd3-9d22635ab390",
+        "type": "message",
+        "text": "it's the CORRUGATED ADAPTIVE FINGER.stl",
+        "user": "U022WGTQ602",
+        "ts": "1638329546.108800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5ZnU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it's the CORRUGATED ADAPTIVE FINGER.stl"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9b802999-7380-4720-9728-f026ddec9103",
+        "type": "message",
+        "text": "i think its in lift",
+        "user": "U018B1TFE3Y",
+        "ts": "1638329616.109000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LuiI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i think its in lift"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1638329497.108000",
+        "parent_user_id": "U012BUXVC6B"
+    },
+    {
+        "client_msg_id": "b0404b3d-c7ab-4f6f-8db9-fce75fd3baf1",
+        "type": "message",
+        "text": "yes i found it",
+        "user": "U018B1TFE3Y",
+        "ts": "1638329623.109200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JYX+d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes i found it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1638329497.108000",
+        "parent_user_id": "U012BUXVC6B"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F02P3KAFQPL",
+                "created": 1638329644,
+                "timestamp": 1638329644,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U018B1TFE3Y",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 8115,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02P3KAFQPL\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02P3KAFQPL\/download\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02P3KAFQPL-deef7de040\/image_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02P3KAFQPL-deef7de040\/image_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02P3KAFQPL-deef7de040\/image_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 53,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02P3KAFQPL-deef7de040\/image_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "original_w": 406,
+                "original_h": 60,
+                "thumb_tiny": "AwAHADC86uWXYwAzzSkP2206igBuGz\/Dij5v9mnUUAN+b\/Zpw6c9aKKAP\/\/Z",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U018B1TFE3Y\/F02P3KAFQPL\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02P3KAFQPL-1d18d0a6af",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U018B1TFE3Y",
+        "display_as_bot": false,
+        "ts": "1638329646.109400",
+        "client_msg_id": "4f04d3d5-6f50-437a-be5a-11199ae1b958",
+        "thread_ts": "1638329497.108000",
+        "parent_user_id": "U012BUXVC6B"
+    },
+    {
+        "client_msg_id": "684D5926-7249-4346-92CC-A8DCDFF4E4F4",
+        "type": "message",
+        "text": "I have two separate files done for the flexible part and the rigid part",
+        "user": "U02ENRPMDCZ",
+        "ts": "1638340950.110200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OyvL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have two separate files done for the flexible part and the rigid part"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "17b66d5a2701",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-13\/2483249218853_17b66d5a270198b7755b_72.jpg",
+            "first_name": "Vincent",
+            "real_name": "Vincent Luc",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "samuraivincent10",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1638325148.105100",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "96A70855-EA65-4747-8968-6ADF1FECE140",
+        "type": "message",
+        "text": "Actually scratch that ",
+        "user": "U02ENRPMDCZ",
+        "ts": "1638340974.110900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f6X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Actually scratch that "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "17b66d5a2701",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-13\/2483249218853_17b66d5a270198b7755b_72.jpg",
+            "first_name": "Vincent",
+            "real_name": "Vincent Luc",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "samuraivincent10",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1638325148.105100",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "0E4CDA3C-DAAA-4B1F-83A4-D83103FC7344",
+        "type": "message",
+        "text": "I still need to add like two more holes",
+        "user": "U02ENRPMDCZ",
+        "ts": "1638340981.111300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zSG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I still need to add like two more holes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "17b66d5a2701",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-13\/2483249218853_17b66d5a270198b7755b_72.jpg",
+            "first_name": "Vincent",
+            "real_name": "Vincent Luc",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "samuraivincent10",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1638325148.105100",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "23DB9899-D904-4179-8950-38B504AA91F6",
+        "type": "message",
+        "text": "I could do that rn",
+        "user": "U02ENRPMDCZ",
+        "ts": "1638340993.111700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0OYC9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I could do that rn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "17b66d5a2701",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-13\/2483249218853_17b66d5a270198b7755b_72.jpg",
+            "first_name": "Vincent",
+            "real_name": "Vincent Luc",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "samuraivincent10",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1638325148.105100",
+        "parent_user_id": "U022WGTQ602"
+    }
+]

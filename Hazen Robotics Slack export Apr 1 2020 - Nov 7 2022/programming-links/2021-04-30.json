@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "d06534c9-62b2-409e-a131-07de696c89ef",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/r5Vdl_PFIZE>",
+        "user": "U0119239VCY",
+        "ts": "1619833170.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "koQm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/r5Vdl_PFIZE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Narrated Match - Control Award Submission 2021",
+                "title_link": "https:\/\/youtu.be\/r5Vdl_PFIZE",
+                "author_name": "Hazen Robotics",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCB2IdmZDGgYrSTGZLOdR_8w",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/r5Vdl_PFIZE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Narrated Match - Control Award Submission 2021",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/r5Vdl_PFIZE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/r5Vdl_PFIZE",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/r5Vdl_PFIZE"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1619833213.000500",
+        "user": "U012BUXVC6B",
+        "text": "<@U012BUXVC6B> has joined the channel"
+    }
+]

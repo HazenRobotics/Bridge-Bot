@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "eaf2eab1-0b3a-4787-8d5a-5e448a66c88e",
+        "type": "message",
+        "text": "its been quite a while since i've been here",
+        "user": "U01CZUZA4F3",
+        "ts": "1643078926.002600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lw6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "its been quite a while since i've been here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "2340daecb5c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-14\/1429586810659_2340daecb5c97157acec_72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Nguyen",
+            "display_name": "Derek Nguyen",
+            "team": "T010YRDV4KB",
+            "name": "derek.nguyen1028",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3d4eb3e4-72f8-4faa-8066-1c2a5c431533",
+        "type": "message",
+        "text": "glad to know <#C010YRE0N4R|random> is as alive as it can be",
+        "user": "U01CZUZA4F3",
+        "ts": "1643078936.002700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wwKH9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "glad to know "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010YRE0N4R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is as alive as it can be"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "2340daecb5c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-14\/1429586810659_2340daecb5c97157acec_72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Nguyen",
+            "display_name": "Derek Nguyen",
+            "team": "T010YRDV4KB",
+            "name": "derek.nguyen1028",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

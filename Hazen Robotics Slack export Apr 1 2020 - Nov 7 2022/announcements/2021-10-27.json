@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "825BE234-7DC8-4771-AA2E-4158C7FB2476",
+        "type": "message",
+        "text": "I’m not feeling well I can’t make it to robotics today sorry",
+        "user": "U02DVF9J99V",
+        "ts": "1635348690.025000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ayOz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m not feeling well I can’t make it to robotics today sorry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d67c819d8835",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-15\/2508967506529_d67c819d8835deeb4600_72.png",
+            "first_name": "Braden",
+            "real_name": "Braden Ellis",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "braden.ellis06",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2c570c1f-5199-4e63-824b-1f230682b853",
+        "type": "message",
+        "text": "Oh yeah, this is my note to self to get our trifold ready tmr. Don't let me forget",
+        "user": "U012BUXVC6B",
+        "ts": "1635397660.025500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z7Ub",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh yeah, this is my note to self to get our trifold ready tmr. Don't let me forget"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

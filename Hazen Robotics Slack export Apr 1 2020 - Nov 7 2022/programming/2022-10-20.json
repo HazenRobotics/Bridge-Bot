@@ -1,0 +1,432 @@
+[
+    {
+        "client_msg_id": "5d349253-63a2-4531-8ae1-e8e38e23c404",
+        "type": "message",
+        "text": "<@U0118UR0J72> do we need any other functions for the turret other than a setPosition for both power and velocity? is the rest of the lift should be in a separate class right?",
+        "user": "U022WGTQ602",
+        "ts": "1666312778.089179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T4KG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0118UR0J72"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do we need any other functions for the turret other than a setPosition for both power and velocity? is the rest of the lift should be in a separate class right?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ff6d85ec-5460-46ba-925b-96a2b02037be",
+        "type": "message",
+        "text": "An async method for setPos",
+        "user": "U0118UR0J72",
+        "ts": "1666313622.195609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5LZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "An async method for setPos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0265f133-3f87-4b72-87b3-19a8af52abeb",
+        "type": "message",
+        "text": "Also, I'm thinking we create 2 lift objects and use the robot class to create a set x, y, z Pos method",
+        "user": "U0118UR0J72",
+        "ts": "1666313664.141509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UDjfA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, I'm thinking we create 2 lift objects and use the robot class to create a set x, y, z Pos method"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "68bf5e86-2e4a-4476-a026-71b80816fc16",
+        "type": "message",
+        "text": "never made an async method before, off to stack overflow\/google I go",
+        "user": "U022WGTQ602",
+        "ts": "1666313672.007369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f=02",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "never made an async method before, off to stack overflow\/google I go"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "93bdfd82-5eaf-4d3f-afd8-dbe8d2c3ab0d",
+        "type": "message",
+        "text": "Look at last year's lift code",
+        "user": "U0118UR0J72",
+        "ts": "1666318492.015859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yLsvJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Look at last year's lift code"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b8e18df8-0866-4235-b79c-625c0524b81e",
+        "type": "message",
+        "text": "Also, is it loking like we'll get a working turret or slide tonight",
+        "user": "U0118UR0J72",
+        "ts": "1666319037.362109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2oY=9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, is it loking like we'll get a working turret or slide tonight"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "36677a85-25ef-4630-b8c6-3e27671f3628",
+        "type": "message",
+        "text": "i honestly don’t know anymore",
+        "user": "U022WGTQ602",
+        "ts": "1666319074.709289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZDu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i honestly don’t know anymore"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4869ffca-5860-4b4d-8186-f10882083f2a",
+        "type": "message",
+        "text": "maybe?",
+        "user": "U022WGTQ602",
+        "ts": "1666319123.158499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y+4aS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "maybe?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "280d0409-e3d4-4608-be2c-a047d6f229e4",
+        "type": "message",
+        "text": "i need still need to write lift code, but hopefully it won’t take too long if i understand everything correctly, i can maybe get it done tonight if i get my networking hw done, if not i can come in early tomorrow",
+        "user": "U022WGTQ602",
+        "ts": "1666319169.699689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h8Ep",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i need still need to write lift code, but hopefully it won’t take too long if i understand everything correctly, i can maybe get it done tonight if i get my networking hw done, if not i can come in early tomorrow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ea8648fa-2322-4377-830a-cfab08224112",
+        "type": "message",
+        "text": "Lift shouldn't need anymore afaik. Just create 2 of them",
+        "user": "U0118UR0J72",
+        "ts": "1666319245.769169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vN8Kx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lift shouldn't need anymore afaik. Just create 2 of them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9C47D99F-7169-4D4A-B0BB-92535358E96B",
+        "type": "message",
+        "text": "Update: lift and claw are a few screws and some wires away from being done, and the turret should be assembled by tomorrow at the latest unless the lift collapses into a black hole or some other extreme hyperbole like that",
+        "user": "U02EA7L1KGT",
+        "ts": "1666329168.718429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qw5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Update: lift and claw are a few screws and some wires away from being done, and the turret should be assembled by tomorrow at the latest unless the lift collapses into a black hole or some other extreme hyperbole"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "like that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "3b24be10b035",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-26\/4305995690752_3b24be10b035098cd409_72.png",
+            "first_name": "Asher",
+            "real_name": "Asher Stocker",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "asherstocker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

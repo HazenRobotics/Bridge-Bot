@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "399DFEAC-2309-4814-9533-5F0793CE3553",
+        "type": "message",
+        "text": "Greetings",
+        "user": "U02EA7L1KGT",
+        "ts": "1662746847.481709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F1Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Greetings"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "3b24be10b035",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-26\/4305995690752_3b24be10b035098cd409_72.png",
+            "first_name": "Asher",
+            "real_name": "Asher Stocker",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "asherstocker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "92AF6579-953C-40C1-8E0F-771F6C0AB436",
+        "type": "message",
+        "text": "So glad i graduated already",
+        "user": "U02EA7L1KGT",
+        "ts": "1662746884.685859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8R77=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So glad i graduated already"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "3b24be10b035",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-26\/4305995690752_3b24be10b035098cd409_72.png",
+            "first_name": "Asher",
+            "real_name": "Asher Stocker",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "asherstocker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,775 @@
+[
+    {
+        "client_msg_id": "320ab285-959f-4d12-bf6f-36aedde7ee7a",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=US9p9CL9Ywg>",
+        "user": "U018WC9RM3K",
+        "ts": "1641318195.237400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jVU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=US9p9CL9Ywg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=US9p9CL9Ywg",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/US9p9CL9Ywg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/US9p9CL9Ywg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=US9p9CL9Ywg",
+                "fallback": "YouTube Video: Pose Estimation of Objects in OpenCV Python",
+                "title": "Pose Estimation of Objects in OpenCV Python",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=US9p9CL9Ywg",
+                "author_name": "The Coding Lib",
+                "author_link": "https:\/\/www.youtube.com\/c\/TheCodingLibrary",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "thread_ts": "1641318195.237400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1641325331.241100",
+        "reply_users": [
+            "U018WC9RM3K"
+        ],
+        "replies": [
+            {
+                "user": "U018WC9RM3K",
+                "ts": "1641325331.241100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "be89621f-fb26-4398-baec-1eadad12c20e",
+        "type": "message",
+        "text": "Camera Calibration: <https:\/\/opencv-java-tutorials.readthedocs.io\/en\/latest\/09-camera-calibration.html>",
+        "user": "U018WC9RM3K",
+        "ts": "1641321148.238200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I+z5x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Camera Calibration: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/opencv-java-tutorials.readthedocs.io\/en\/latest\/09-camera-calibration.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f67085ae-caf9-4684-a14e-b7cb07a6e044",
+        "type": "message",
+        "text": "are they using openCV? I thought they were using vuforia",
+        "user": "U022WGTQ602",
+        "ts": "1641321224.239100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JT3n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "are they using openCV? I thought they were using vuforia"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8fd426df-942a-4934-91bb-616c252f74dd",
+        "type": "message",
+        "text": "The opencv link is just for calibration. I don't think it is specifically used for opencv vs vuforia",
+        "user": "U0118UR0J72",
+        "ts": "1641321339.240200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xgaN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The opencv link is just for calibration. I don't think it is specifically used for opencv vs vuforia"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "68776113-9e8a-4daf-aa98-998bae8ae1f2",
+        "type": "message",
+        "text": "This is the code for the tutorial above: <https:\/\/github.com\/opencv-java\/camera-calibration>",
+        "user": "U018WC9RM3K",
+        "ts": "1641322351.240500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6F0AE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is the code for the tutorial above: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/opencv-java\/camera-calibration"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "color": "24292f",
+                "bot_id": "B02EXAE6AB1",
+                "app_unfurl_url": "https:\/\/github.com\/opencv-java\/camera-calibration",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "opencv-java\/camera-calibration",
+                "text": "Camera calibration in OpenCV and JavaFX",
+                "title": "opencv-java\/camera-calibration",
+                "fields": [
+                    {
+                        "value": "20",
+                        "title": "Stars",
+                        "short": true
+                    },
+                    {
+                        "value": "Java",
+                        "title": "Language",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f36ad4f6-6a21-437f-9b2a-08e952209042",
+        "type": "message",
+        "text": "oh alr",
+        "user": "U022WGTQ602",
+        "ts": "1641322469.240900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p2Fzj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh alr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "27a71224-08c4-4f7c-9695-b55bfe5758c2",
+        "type": "message",
+        "text": "<https:\/\/github.com\/niconielsen32\/ComputerVision\/blob\/master\/cameraCalibration.py>",
+        "user": "U018WC9RM3K",
+        "ts": "1641325331.241100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hfhsk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/niconielsen32\/ComputerVision\/blob\/master\/cameraCalibration.py"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "bot_id": "B02EXAE6AB1",
+                "app_unfurl_url": "https:\/\/github.com\/niconielsen32\/ComputerVision\/blob\/master\/cameraCalibration.py",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "<https:\/\/github.com\/niconielsen32\/ComputerVision\/blob\/master\/cameraCalibration.py | cameraCalibration.py>",
+                "text": "```\nimport numpy as np\nimport cv2 as cv\nimport glob\n\n\n\n################ FIND CHESSBOARD CORNERS - OBJECT POINTS AND IMAGE POINTS #############################\n\nchessboardSize = (24,17)\nframeSize = (1440,1080)\n\n\n\n# termination criteria\ncriteria = (cv.TERM_CRITERIA_EPS + cv.TERM_CRITERIA_MAX_ITER, 30, 0.001)\n\n\n# prepare object points, like (0,0,0), (1,0,0), (2,0,0) ....,(6,5,0)\nobjp = np.zeros((chessboardSize[0] * chessboardSize[1], 3), np.float32)\nobjp[:,:2] = np.mgrid[0:chessboardSize[0],0:chessboardSize[1]].T.reshape(-1,2)\n\nsize_of_chessboard_squares_mm = 20\nobjp = objp * size_of_chessboard_squares_mm\n\n\n# Arrays to store object points and image points from all the images.\nobjpoints = [] # 3d point in real world space\nimgpoints = [] # 2d points in image plane.\n\n\nimages = glob.glob('*.png')\n\nfor image in images:\n\n    img = cv.imread(image)\n    gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)\n\n    # Find the chess board corners\n    ret, corners = cv.findChessboardCorners(gray, chessboardSize, None)\n\n    # If found, add object points, image points (after refining them)\n    if ret == True:\n\n        objpoints.append(objp)\n        corners2 = cv.cornerSubPix(gray, corners, (11,11), (-1,-1), criteria)\n        imgpoints.append(corners)\n\n        # Draw and display the corners\n        cv.drawChessboardCorners(img, chessboardSize, corners2, ret)\n        cv.imshow('img', img)\n        cv.waitKey(1000)\n\n\ncv.destroyAllWindows()\n\n\n\n\n############## CALIBRATION #######################################################\n\nret, cameraMatrix, dist, rvecs, tvecs = cv.calibrateCamera(objpoints, imgpoints, frameSize, None, None)\n\n\n############## UNDISTORTION #####################################################\n\nimg = cv.imread('cali5.png')\nh,  w = img.shape[:2]\nnewCameraMatrix, roi = cv.getOptimalNewCameraMatrix(cameraMatrix, dist, (w,h), 1, (w,h))\n\n\n\n# Undistort\ndst = cv.undistort(img, cameraMatrix, dist, None, newCameraMatrix)\n\n# crop the image\nx, y, w, h = roi\ndst = dst[y:y+h, x:x+w]\ncv.imwrite('caliResult1.png', dst)\n\n\n\n# Undistort with Remapping\nmapx, mapy = cv.initUndistortRectifyMap(cameraMatrix, dist, None, newCameraMatrix, (w,h), 5)\ndst = cv.remap(img, mapx, mapy, cv.INTER_LINEAR)\n\n# crop the image\nx, y, w, h = roi\ndst = dst[y:y+h, x:x+w]\ncv.imwrite('caliResult2.png', dst)\n\n\n\n\n# Reprojection Error\nmean_error = 0\n\nfor i in range(len(objpoints)):\n    imgpoints2, _ = cv.projectPoints(objpoints[i], rvecs[i], tvecs[i], cameraMatrix, dist)\n    error = cv.norm(imgpoints[i], imgpoints2, cv.NORM_L2)\/len(imgpoints2)\n    mean_error += error\n\nprint( \"total error: {}\".format(mean_error\/len(objpoints)) )\n\n\n```",
+                "title": "<https:\/\/github.com\/niconielsen32\/ComputerVision\/blob\/master\/cameraCalibration.py | cameraCalibration.py>",
+                "footer": "<https:\/\/github.com\/niconielsen32\/ComputerVision|niconielsen32\/ComputerVision>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "thread_ts": "1641318195.237400",
+        "parent_user_id": "U018WC9RM3K"
+    },
+    {
+        "client_msg_id": "31aaeca2-cd0b-4562-9060-85c3bf6584e6",
+        "type": "message",
+        "text": "did y'all check the other tflite model?",
+        "user": "U022WGTQ602",
+        "ts": "1641340278.242300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "czz+p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "did y'all check the other tflite model?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "39647b7a-5b75-46e0-adc1-5402f785f781",
+        "type": "message",
+        "text": "I did not yet, is there a difference between the two?",
+        "user": "U0119239VCY",
+        "ts": "1641361511.243100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jCSp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I did not yet, is there a difference between the two?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7d1f32df-73cb-4b72-b0f1-557eab97ab36",
+        "type": "message",
+        "text": "Dang,I forgot sorry",
+        "user": "U0118UR0J72",
+        "ts": "1641361566.243400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tWyL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dang,I forgot sorry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0135b8f0-d54d-4fcf-a66c-8a2f842e4ac4",
+        "type": "message",
+        "text": "Also, it identifies the duck's reflection in the wall and all the ducks on the other side but it'll be fine since we can just use it's distance and confidence to use the right one",
+        "user": "U0118UR0J72",
+        "ts": "1641361625.245100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kpQw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, it identifies the duck's reflection in the wall and all the ducks on the other side but it'll be fine since we can just use it's distance and confidence to use the right one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F02SAN9R763",
+                "created": 1641361652,
+                "timestamp": 1641361652,
+                "name": "20220104_142515.jpg",
+                "title": "20220104_142515.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U0118UR0J72",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 585316,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02SAN9R763\/20220104_142515.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02SAN9R763\/download\/20220104_142515.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SAN9R763-5b4fe22c79\/20220104_142515_64.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SAN9R763-5b4fe22c79\/20220104_142515_80.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SAN9R763-5b4fe22c79\/20220104_142515_360.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 162,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SAN9R763-5b4fe22c79\/20220104_142515_480.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 216,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SAN9R763-5b4fe22c79\/20220104_142515_160.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SAN9R763-5b4fe22c79\/20220104_142515_720.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 720,
+                "thumb_720_h": 324,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SAN9R763-5b4fe22c79\/20220104_142515_800.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 360,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SAN9R763-5b4fe22c79\/20220104_142515_960.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 960,
+                "thumb_960_h": 432,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SAN9R763-5b4fe22c79\/20220104_142515_1024.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 461,
+                "original_w": 4032,
+                "original_h": 1816,
+                "thumb_tiny": "AwAVADC5v9hVCXL3bYbHfiiaVyQpPH0xTIjiZj1wO1JgOhj8xSzSMMHHWknh2IWVmx796ltBmMn\/AGzTrvi3b8KoXUktmxbqPr\/Omi5R227sH34otj\/o6\/j\/ADqK5hDfMvDUhg6BpEJGegIqshwzf7uP1q2fvJ\/vCqa\/eb6H+dDGiaJ2SNwpxjBH4015HeNgzEilT7r\/AIVH\/A31qS7KxbgbbabvTJqo80j5JbH0q1F\/x5N9DVHsfpVGZ\/\/Z",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U0118UR0J72\/F02SAN9R763\/20220104_142515.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02SAN9R763-70975cc1a4",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F02SAN9T163",
+                "created": 1641361654,
+                "timestamp": 1641361654,
+                "name": "20220104_142511.jpg",
+                "title": "20220104_142511.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U0118UR0J72",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 504868,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02SAN9T163\/20220104_142511.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02SAN9T163\/download\/20220104_142511.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SAN9T163-0d00c16cb9\/20220104_142511_64.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SAN9T163-0d00c16cb9\/20220104_142511_80.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SAN9T163-0d00c16cb9\/20220104_142511_360.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 162,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SAN9T163-0d00c16cb9\/20220104_142511_480.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 216,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SAN9T163-0d00c16cb9\/20220104_142511_160.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SAN9T163-0d00c16cb9\/20220104_142511_720.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 324,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SAN9T163-0d00c16cb9\/20220104_142511_800.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1776,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SAN9T163-0d00c16cb9\/20220104_142511_960.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 432,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02SAN9T163-0d00c16cb9\/20220104_142511_1024.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 461,
+                "thumb_1024_h": 1024,
+                "original_w": 1816,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwABVksjLxswDxkjrUltLklWGCaqhXJ3ZUn1LZqRVmQhgBn60XDY0l+6KWqttLO4bocHFTZn9FoApR2yupO9uv8PAp\/wBnBON8n4mmwTxxoQzc59Ke1zEV4Y\/lQgluPshtMq9cNirWao2s6hpWY43HNWPtMf8AfFAEQt4SMhc\/8Cpwt4v7n6mq1pJt3KT70ss7SOI4z35IoAtpBF\/cFO8mL\/nmv5UitgU7dQB\/\/9k=",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U0118UR0J72\/F02SAN9T163\/20220104_142511.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02SAN9T163-88fec30be4",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0118UR0J72",
+        "ts": "1641361658.245200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=WBc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "541832f5-e30d-4f32-965f-ba569504e090",
+        "thread_ts": "1641361658.245200",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1641362626.247400",
+        "reply_users": [
+            "U022WGTQ602",
+            "U0118UR0J72"
+        ],
+        "replies": [
+            {
+                "user": "U022WGTQ602",
+                "ts": "1641362243.247200"
+            },
+            {
+                "user": "U0118UR0J72",
+                "ts": "1641362626.247400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "10b0449b-d815-4c3d-b021-6d8d81ab6ec6",
+        "type": "message",
+        "text": "alr, no problem, after I sent this message I forgot that we couldn't even open it's information using regular python commands, so no problem,",
+        "user": "U022WGTQ602",
+        "ts": "1641362219.247100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gqq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alr, no problem, after I sent this message I forgot that we couldn't even open it's information using regular python commands, so no problem,"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f530adf3-6ea2-4bff-a761-4aa7ff3b7caa",
+        "type": "message",
+        "text": "what was the confidence of the reflected duck?",
+        "user": "U022WGTQ602",
+        "ts": "1641362243.247200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2mL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what was the confidence of the reflected duck?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1641361658.245200",
+        "parent_user_id": "U0118UR0J72"
+    },
+    {
+        "client_msg_id": "f8e5a137-87d7-4868-b4a2-a5e6598a0e0a",
+        "type": "message",
+        "text": "When closeup the field duck was .9 and reflection was .7 but when a bit further away the reflection went up to .9 and the field duck went down to about .85 so as long as we're pretty close it should be fine",
+        "user": "U0118UR0J72",
+        "ts": "1641362626.247400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NEJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When closeup the field duck was .9 and reflection was .7 but when a bit further away the reflection went up to .9 and the field duck went down to about .85 so as long as we're pretty close it should be fine"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1641361658.245200",
+        "parent_user_id": "U0118UR0J72"
+    }
+]

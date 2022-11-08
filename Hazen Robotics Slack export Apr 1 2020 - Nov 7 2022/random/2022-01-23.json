@@ -1,0 +1,142 @@
+[
+    {
+        "client_msg_id": "1062fd93-e341-47bf-8ae9-31c328186be8",
+        "type": "message",
+        "text": "quality video, 10\/10\n<https:\/\/www.youtube.com\/watch?v=W6EOck1Rl0I>",
+        "user": "U022WGTQ602",
+        "ts": "1642981767.001600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s=z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "quality video, 10\/10\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=W6EOck1Rl0I"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=W6EOck1Rl0I",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/W6EOck1Rl0I\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/W6EOck1Rl0I?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=W6EOck1Rl0I",
+                "fallback": "YouTube Video: 20 seconds of ducc spin",
+                "title": "20 seconds of ducc spin",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=W6EOck1Rl0I",
+                "author_name": "Rogue Resistance",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCiIGNH7Ur4S4sWjK7QNbgCQ",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "efac7857-8e4d-4dc3-aab1-7ab75eca25f1",
+        "type": "message",
+        "text": ":fire:",
+        "user": "U018B1TFE3Y",
+        "ts": "1643002066.001900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lfob",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "37186B88-F013-41BC-9013-2EB53D1BB046",
+        "type": "message",
+        "text": "U spin it right round baby right round ",
+        "user": "U0135LQT8TB",
+        "ts": "1643002141.002500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SIyFQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "U spin it right round baby right round "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gdfe9743ea44",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dfe9743ea4477ab6cdd74b02c32fc903.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ethan Chiang",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "awesome.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

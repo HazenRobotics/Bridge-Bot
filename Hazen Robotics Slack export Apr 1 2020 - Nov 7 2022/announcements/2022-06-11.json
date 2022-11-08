@@ -1,0 +1,83 @@
+[
+    {
+        "client_msg_id": "a3976ecf-6db3-43a2-a4d5-b155c528135a",
+        "type": "message",
+        "text": "<!everyone> reminder to let me know by monday if you are available to come to the BBQ event on the 18th (even if it's just a maybe atm), it would be great to have some more people than just me and some of our mentored teams lmao <https:\/\/www.uwkc.org\/events\/annual-community-bbq\/> just react\/reply to this message so i can get a namecount of who's available",
+        "user": "U022WGTQ602",
+        "ts": "1655000605.989759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5dR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " reminder to let me know by monday if you are available to come to the BBQ event on the 18th (even if it's just a maybe atm), it would be great to have some more people than just me and some of our mentored teams lmao "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.uwkc.org\/events\/annual-community-bbq\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just react\/reply to this message so i can get a namecount of who's available"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1655000745.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.uwkc.org\/events\/annual-community-bbq\/",
+                "image_url": "https:\/\/www.uwkc.org\/wp-content\/uploads\/2022\/05\/MicrosoftTeams-image-10.jpg",
+                "image_width": 800,
+                "image_height": 250,
+                "image_bytes": 560117,
+                "service_icon": "https:\/\/2fg6bf52ooj3wo7vv26nnz53-wpengine.netdna-ssl.com\/wp-content\/uploads\/2015\/03\/favicon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.uwkc.org\/events\/annual-community-bbq\/",
+                "fallback": "United Way of King County: Annual Community BBQ | United Way of King County",
+                "text": "A partnership between Doug Baldwin Jr. and United Way of King County June 18, 2022 11 a.m. to 3 p.m. Renton Memorial Stadium \/ Renton, WA As communities throughout King County sheltered in place and…",
+                "title": "Annual Community BBQ | United Way of King County",
+                "title_link": "https:\/\/www.uwkc.org\/events\/annual-community-bbq\/",
+                "service_name": "United Way of King County"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03JCVB3GKW",
+                    "U02DWDDVAP7"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,190 @@
+[
+    {
+        "client_msg_id": "c5307888-e3e6-4219-94f7-cada89fec148",
+        "type": "message",
+        "text": "Some other vison resources: YOLO <https:\/\/github.com\/kerrj\/yoloparser>, <https:\/\/machinelearningmastery.com\/how-to-perform-object-detection-with-yolov3-in-keras\/>, bounding box <https:\/\/www.youtube.com\/watch?v=9vJPfLeu-fc>, <https:\/\/www.youtube.com\/watch?v=Fchzk1lDt7Q>, <https:\/\/towardsdatascience.com\/object-detection-with-neural-networks-a4e2c46b4491>",
+        "user": "U018WC9RM3K",
+        "ts": "1634052512.172800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9BV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Some other vison resources: YOLO "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/kerrj\/yoloparser"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/machinelearningmastery.com\/how-to-perform-object-detection-with-yolov3-in-keras\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", bounding box "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=9vJPfLeu-fc"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=Fchzk1lDt7Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/towardsdatascience.com\/object-detection-with-neural-networks-a4e2c46b4491"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Machine Learning Mastery",
+                "title": "How to Perform Object Detection With YOLOv3 in Keras",
+                "title_link": "https:\/\/machinelearningmastery.com\/how-to-perform-object-detection-with-yolov3-in-keras\/",
+                "text": "Object detection is a task in computer vision that involves identifying the presence, location, and type of one or more […]",
+                "fallback": "Machine Learning Mastery: How to Perform Object Detection With YOLOv3 in Keras",
+                "image_url": "https:\/\/machinelearningmastery.com\/wp-content\/uploads\/2019\/03\/Photograph-of-Three-Zebra-Each-Detected-with-the-YOLOv3-Model-and-Localized-with-Bounding-Boxes.png",
+                "image_width": 333,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Jason Brownlee",
+                        "short": true
+                    },
+                    {
+                        "title": "Est. reading time",
+                        "value": "30 minutes",
+                        "short": true
+                    }
+                ],
+                "ts": 1558897234,
+                "from_url": "https:\/\/machinelearningmastery.com\/how-to-perform-object-detection-with-yolov3-in-keras\/",
+                "image_bytes": 377493,
+                "service_icon": "https:\/\/machinelearningmastery.com\/wp-content\/uploads\/2016\/09\/cropped-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/machinelearningmastery.com\/how-to-perform-object-detection-with-yolov3-in-keras\/"
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Edge Detection with OpenCV",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=9vJPfLeu-fc",
+                "author_name": "CloudxLab Official",
+                "author_link": "https:\/\/www.youtube.com\/c\/CloudxLab",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/9vJPfLeu-fc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Edge Detection with OpenCV",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/9vJPfLeu-fc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=9vJPfLeu-fc",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 2,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=9vJPfLeu-fc"
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Real time Shape Detection using Contours [9] | OpenCV Python Tutorials for Beginners 2020",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=Fchzk1lDt7Q",
+                "author_name": "Murtaza's Workshop - Robotics and AI",
+                "author_link": "https:\/\/www.youtube.com\/c\/MurtazasWorkshopRoboticsandAI",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Fchzk1lDt7Q\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Real time Shape Detection using Contours [9] | OpenCV Python Tutorials for Beginners 2020",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/Fchzk1lDt7Q?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=Fchzk1lDt7Q",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 3,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=Fchzk1lDt7Q"
+            },
+            {
+                "service_name": "Medium",
+                "title": "Object detection with neural networks",
+                "title_link": "https:\/\/towardsdatascience.com\/object-detection-with-neural-networks-a4e2c46b4491",
+                "text": "A simple tutorial using keras",
+                "fallback": "Medium: Object detection with neural networks",
+                "image_url": "https:\/\/miro.medium.com\/max\/923\/0*MMZotU73YDtRF3Ba.",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "10 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1606878430,
+                "from_url": "https:\/\/towardsdatascience.com\/object-detection-with-neural-networks-a4e2c46b4491",
+                "image_width": 495,
+                "image_height": 250,
+                "image_bytes": 29992,
+                "service_icon": "https:\/\/miro.medium.com\/fit\/c\/152\/152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 4,
+                "original_url": "https:\/\/towardsdatascience.com\/object-detection-with-neural-networks-a4e2c46b4491"
+            },
+            {
+                "fallback": "kerrj\/yoloparser",
+                "text": "Project to help FTC teams integrate neural nets into their robots for object detection.",
+                "title": "kerrj\/yoloparser",
+                "id": 5,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "10",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "HTML",
+                        "short": true
+                    }
+                ],
+                "bot_id": "B02EXAE6AB1",
+                "app_unfurl_url": "https:\/\/github.com\/kerrj\/yoloparser",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY"
+            }
+        ]
+    }
+]

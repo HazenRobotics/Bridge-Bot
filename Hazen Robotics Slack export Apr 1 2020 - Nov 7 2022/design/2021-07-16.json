@@ -1,0 +1,120 @@
+[
+    {
+        "client_msg_id": "cdc5f576-ea65-4e39-996d-bd78b975ae45",
+        "type": "message",
+        "text": "<!channel> those who weren't in todays meeting, how are the tutorials going",
+        "user": "U012BUXVC6B",
+        "ts": "1626462495.015800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W2ns",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " those who weren't in todays meeting, how are the tutorials going"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fa34c410-ffca-418d-8b95-7a2625b1ebb8",
+        "type": "message",
+        "text": "i wont be able to make it to the meeting, im in camp meeting rn",
+        "user": "U018B1TFE3Y",
+        "ts": "1626462595.016300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HrkT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i wont be able to make it to the meeting, im in camp meeting rn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7a48c492-9d8b-410f-834d-c20eacfaf67a",
+        "type": "message",
+        "text": "All goog. mostly asking the new people since I haven't heard from all of em",
+        "user": "U012BUXVC6B",
+        "ts": "1626462639.016700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lqLNr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "All goog. mostly asking the new people since I haven't heard from all of em"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

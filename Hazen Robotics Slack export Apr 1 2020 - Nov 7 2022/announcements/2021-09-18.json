@@ -1,0 +1,513 @@
+[
+    {
+        "client_msg_id": "A01ECFEB-8714-45DE-995C-93E67BF72B13",
+        "type": "message",
+        "text": "Is the meeting gonna start at 8:30 or 9:00?",
+        "user": "U02F8U15YD7",
+        "ts": "1631976423.121800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TA5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is the meeting gonna start at 8:30 or 9:00?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "a1725a646e89",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-17\/2499586896886_a1725a646e89e8927778_72.jpg",
+            "first_name": "Jason",
+            "real_name": "Jason Thien Le",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "jason.thien.le",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0838A36A-C057-4AC5-9A95-6CDFF09F6E46",
+        "type": "message",
+        "text": "At 9:00, but we can get there as early as 8:30 for some time to chill beforehand",
+        "user": "U02EA7L1KGT",
+        "ts": "1631976862.122700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i2K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "At 9:00, but we can get there as early as 8:30 for some time to chill beforehand"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "3b24be10b035",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-26\/4305995690752_3b24be10b035098cd409_72.png",
+            "first_name": "Asher",
+            "real_name": "Asher Stocker",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "asherstocker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02EA7L1KGT",
+            "ts": "1631976895.000000"
+        }
+    },
+    {
+        "client_msg_id": "d66b66c4-d439-4f03-a9fd-cb40df266700",
+        "type": "message",
+        "text": "<!everyone> come on over, shop door is open we vibing",
+        "user": "U012BUXVC6B",
+        "ts": "1631979578.123400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u3Bv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " come on over, shop door is open we vibing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "def992a5-4801-4996-8d8d-ce85b6da4d5f",
+        "type": "message",
+        "text": "<https:\/\/trello.com\/invite\/freightfrenzy\/237a26bcf19996f2640e4278843e5a52|https:\/\/trello.com\/invite\/freightfrenzy\/237a26bcf19996f2640e4278843e5a52> Trello Join Link",
+        "user": "U022WGTQ602",
+        "ts": "1631991318.124100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DmX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/trello.com\/invite\/freightfrenzy\/237a26bcf19996f2640e4278843e5a52",
+                                "text": "https:\/\/trello.com\/invite\/freightfrenzy\/237a26bcf19996f2640e4278843e5a52"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Trello Join Link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f52afcf0-09a1-4b66-8a05-b102c1f4a29e",
+        "type": "message",
+        "text": "Im tryna join the trello but whenever i click the link it says im already apart of the freight frenzy board but when i open the app i cant find it",
+        "user": "U02ENRPMDCZ",
+        "ts": "1632004803.125500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w9=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Im tryna join the trello but whenever i click the link it says im already apart of the freight frenzy board but when i open the app i cant find it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "17b66d5a2701",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-13\/2483249218853_17b66d5a270198b7755b_72.jpg",
+            "first_name": "Vincent",
+            "real_name": "Vincent Luc",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "samuraivincent10",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "278461ee-092f-46ea-a2fd-830c82647e3c",
+        "type": "message",
+        "text": "Is the app logged into the right account?",
+        "user": "U0118UR0J72",
+        "ts": "1632004869.126200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xqD0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is the app logged into the right account?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "32896f1a-d3de-4c68-902e-9afd015d9a72",
+        "type": "message",
+        "text": "Its the account with my school email",
+        "user": "U02ENRPMDCZ",
+        "ts": "1632004906.126600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5ti7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Its the account with my school email"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "17b66d5a2701",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-13\/2483249218853_17b66d5a270198b7755b_72.jpg",
+            "first_name": "Vincent",
+            "real_name": "Vincent Luc",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "samuraivincent10",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1dbf5966-329a-499b-883d-a5397071dba1",
+        "type": "message",
+        "text": "CRAP",
+        "user": "U01CZUZA4F3",
+        "ts": "1632005028.126800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oaq64",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CRAP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "2340daecb5c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-14\/1429586810659_2340daecb5c97157acec_72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Nguyen",
+            "display_name": "Derek Nguyen",
+            "team": "T010YRDV4KB",
+            "name": "derek.nguyen1028",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "042f5746-c599-4e52-8a1d-8fce6d267718",
+        "type": "message",
+        "text": "I FORGOT ABOUT THE THING",
+        "user": "U01CZUZA4F3",
+        "ts": "1632005031.127000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YNiuO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I FORGOT ABOUT THE THING"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "2340daecb5c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-14\/1429586810659_2340daecb5c97157acec_72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Nguyen",
+            "display_name": "Derek Nguyen",
+            "team": "T010YRDV4KB",
+            "name": "derek.nguyen1028",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "32da9401-b3fc-49cf-9c40-1c9bf78fbac4",
+        "type": "message",
+        "text": "bruh",
+        "user": "U022WGTQ602",
+        "ts": "1632005764.127200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j4SQ=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bruh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3572915a-cf48-4a6c-9f86-87603c49a0e4",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/qxb5gjvIKf8>",
+        "user": "U018WC9RM3K",
+        "ts": "1632007507.127500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5ry",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/qxb5gjvIKf8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Freight Frenzy Rules Overview Sections 4.4 4.5 4.6 4.7 4.8 - The Bulldogs Robot in 30 Hours",
+                "title_link": "https:\/\/youtu.be\/qxb5gjvIKf8",
+                "author_name": "First Updates Now",
+                "author_link": "https:\/\/www.youtube.com\/c\/FirstUpdatesNow",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/qxb5gjvIKf8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Freight Frenzy Rules Overview Sections 4.4 4.5 4.6 4.7 4.8 - The Bulldogs Robot in 30 Hours",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/qxb5gjvIKf8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/qxb5gjvIKf8",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/qxb5gjvIKf8"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1b1aa1cd-ad7e-4841-9c38-eaa9155f66bd",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=52mNNDs222A>",
+        "user": "U018WC9RM3K",
+        "ts": "1632009257.127800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A1di",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=52mNNDs222A"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "YouTube Video: The Bulldogs FTC Robot in 30 Hours - Kettering University",
+                "from_url": "https:\/\/www.youtube.com\/watch?v=52mNNDs222A",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "title": "The Bulldogs FTC Robot in 30 Hours - Kettering University",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=52mNNDs222A",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/52mNNDs222A\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "author_name": "First Updates Now",
+                "author_link": "https:\/\/www.youtube.com\/c\/FirstUpdatesNow",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/52mNNDs222A?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=52mNNDs222A"
+            }
+        ]
+    }
+]

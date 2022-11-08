@@ -1,0 +1,179 @@
+[
+    {
+        "client_msg_id": "a2f28624-1450-4069-a261-d067231aa98e",
+        "type": "message",
+        "text": "<!here> Ethan found this resource for design, it's awesome. take a look at it asap",
+        "user": "U012BUXVC6B",
+        "ts": "1623300595.007000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0hz5=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Ethan found this resource for design, it's awesome. take a look at it asap"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U012BUXVC6B",
+            "ts": "1623300617.000000"
+        }
+    },
+    {
+        "client_msg_id": "02c2a973-ce92-4f5b-a0b7-6334c0ebce20",
+        "type": "message",
+        "text": "<https:\/\/gm0.org\/en\/stable\/docs\/robot-design\/index.html>",
+        "user": "U012BUXVC6B",
+        "ts": "1623300598.007200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a\/Tq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gm0.org\/en\/stable\/docs\/robot-design\/index.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Game Manual 0",
+                "title": "Robot Design",
+                "title_link": "https:\/\/gm0.org\/en\/stable\/docs\/robot-design\/index.html",
+                "text": "This chapter covers basic principles of robot design as well as suggestions for design of common components of FTC robots: drivetrain, linear motion (slides and lifts), claws, intakes, and more. Co...",
+                "fallback": "Game Manual 0: Robot Design",
+                "image_url": "https:\/\/raw.githubusercontent.com\/Coppersource\/gm0\/master\/source\/_static\/assets\/gm0-logo.png",
+                "from_url": "https:\/\/gm0.org\/en\/stable\/docs\/robot-design\/index.html",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 79899,
+                "service_icon": "https:\/\/gm0.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/gm0.org\/en\/stable\/docs\/robot-design\/index.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "355d1f8e-548e-4e47-a48e-7a11a11833aa",
+        "type": "message",
+        "text": "Can we start making a skills matrices for programming, design, fabrication, Business, Leadership?",
+        "user": "U018WC9RM3K",
+        "ts": "1623300683.008200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "swJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can we start making a skills matrices for programming, design, fabrication, Business, Leadership?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "415cf1a1-8d74-442b-8ca8-9de1e4888f0b",
+        "type": "message",
+        "text": "I'm gonna have some time out of cell service this weekend, I might be able to bring a laptop and do that then.",
+        "user": "U012BUXVC6B",
+        "ts": "1623300714.008700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rF8V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm gonna have some time out of cell service this weekend, I might be able to bring a laptop and do that then."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

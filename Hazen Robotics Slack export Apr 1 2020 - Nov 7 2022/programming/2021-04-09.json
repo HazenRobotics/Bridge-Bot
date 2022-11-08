@@ -1,0 +1,441 @@
+[
+    {
+        "client_msg_id": "7e25ab5b-9c7c-4044-9e47-846d719909ab",
+        "type": "message",
+        "text": "<@U0119239VCY>  are you available today to call and work on dead wheel encoder pid stuff?",
+        "user": "U0118UR0J72",
+        "ts": "1617993162.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ye5H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  are you available today to call and work on dead wheel encoder pid stuff?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6c150e5a-3066-49d8-89cf-b8754ef8e0ce",
+        "type": "message",
+        "text": "Sure, I can call for a bit now",
+        "user": "U0119239VCY",
+        "ts": "1617995491.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n4Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure, I can call for a bit now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "288fbc66-0344-4ab5-bef4-d8ce898cc0dc",
+        "type": "message",
+        "text": "Want to join the zoom?",
+        "user": "U0118UR0J72",
+        "ts": "1617995605.000300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zyps",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Want to join the zoom?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "69144479-8832-4dea-aefc-8a542b63a84f",
+        "type": "message",
+        "text": "Yeah I'll do that",
+        "user": "U0119239VCY",
+        "ts": "1617995624.000400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HsIf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah I'll do that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f525c2d0-2d81-465d-8856-faeb0c56ff33",
+        "type": "message",
+        "text": "Note for Sam: Ticks to dist needs to be different in encoder tracking and mecanum drive",
+        "user": "U0118UR0J72",
+        "ts": "1617997558.000500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YkTbD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Note for Sam: Ticks to dist needs to be different in encoder tracking and mecanum drive"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e638bb9d-55e5-4014-98ae-e50bddc11aca",
+        "type": "message",
+        "text": "How far did you get on tuning today?",
+        "user": "U0119239VCY",
+        "ts": "1618027573.000600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q0ov",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How far did you get on tuning today?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d1ee110d-fd99-40e5-971b-02009b1ed6c8",
+        "type": "message",
+        "text": "...",
+        "user": "U0118UR0J72",
+        "ts": "1618027598.000900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/g7is",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "34cd1394-8c7d-4f63-a9da-3fe9bbcd883d",
+        "type": "message",
+        "text": "Done? Maybe want different PID values for different battery voltages",
+        "user": "U018WC9RM3K",
+        "ts": "1618027604.001100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GyI9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Done? Maybe want different PID values for different battery voltages"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b6be764a-70f8-4fd8-84d7-a46f5e5168e5",
+        "type": "message",
+        "text": "<@U0119239VCY> is there a way to make it drive slower without changing max velocity?",
+        "user": "U0118UR0J72",
+        "ts": "1618028179.001200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2r+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is there a way to make it drive slower without changing max velocity?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bc396b0c-8883-43b6-8a6a-6cbbdd61fff7",
+        "type": "message",
+        "text": "Note Same To-do: tensorflow during init (use last 20,000 loops, use the second determination method that uses an arraylist, and use .remove(0); then use .add(); when greater than 20,000)",
+        "user": "U0118UR0J72",
+        "ts": "1618034562.001300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p38",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Note Same To-do: tensorflow during init (use last 20,000 loops, use the second determination method that uses an arraylist, and use .remove(0); then use .add(); when greater than 20,000)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0118UR0J72",
+            "ts": "1618034774.000000"
+        },
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0118UR0J72"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8eb961ae-9eba-450e-aaf0-93b87c255ecd",
+        "type": "message",
+        "text": "Note 2: We need to test if having a while loop solely based on one Boolean (that is running on a separate thread) will exit its while loop if we change the Boolean somewhere else. It probably will but it should still be tested.",
+        "user": "U0118UR0J72",
+        "ts": "1618036850.003000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hp1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Note 2: We need to test if having a while loop solely based on one Boolean (that is running on a separate thread) will exit its while loop if we change the Boolean somewhere else. It probably will but it should still be tested."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

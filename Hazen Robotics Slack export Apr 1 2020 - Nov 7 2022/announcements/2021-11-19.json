@@ -1,0 +1,261 @@
+[
+    {
+        "client_msg_id": "f4a0074f-8af6-4bf7-bb5d-c65d1de556f2",
+        "type": "message",
+        "text": "I will not be able to make it today because I signed up for community service today",
+        "user": "U02DWDDVAP7",
+        "ts": "1637333860.305100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pvo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will not be able to make it today because I signed up for community service today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "How big of a picture can I send?",
+        "files": [
+            {
+                "id": "F02NQ549EC8",
+                "created": 1637337181,
+                "timestamp": 1637337181,
+                "name": "Large Symmetrical Scarab.png",
+                "title": "Large Symmetrical Scarab.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0118UR0J72",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 496867,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02NQ549EC8\/large_symmetrical_scarab.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02NQ549EC8\/download\/large_symmetrical_scarab.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02NQ549EC8-276ced4560\/large_symmetrical_scarab_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02NQ549EC8-276ced4560\/large_symmetrical_scarab_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02NQ549EC8-276ced4560\/large_symmetrical_scarab_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 198,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02NQ549EC8-276ced4560\/large_symmetrical_scarab_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 264,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02NQ549EC8-276ced4560\/large_symmetrical_scarab_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02NQ549EC8-276ced4560\/large_symmetrical_scarab_720.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 720,
+                "thumb_720_h": 396,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02NQ549EC8-276ced4560\/large_symmetrical_scarab_800.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 440,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02NQ549EC8-276ced4560\/large_symmetrical_scarab_960.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 960,
+                "thumb_960_h": 528,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02NQ549EC8-276ced4560\/large_symmetrical_scarab_1024.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 563,
+                "original_w": 5753,
+                "original_h": 3163,
+                "thumb_tiny": "AwAaADDN2mjBoVscGnD5iApp6ATRW+9ggzyuSwH6US2+xihzwuQxH6VcgUCLcDuA7+oonUGLcTtB7+grn53cu2hl4NG004\/KSGNNZs8CujQgSnIwUk98YFNopAaEVwkaFCdq4yM9xRLcJIgQHcuMnHYVQ\/h\/Gj+H8az5Fe47iuwYg98YNNoorQR\/\/9k=",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U0118UR0J72\/F02NQ549EC8\/large_symmetrical_scarab.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02NQ549EC8-a747b7cfba",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0118UR0J72",
+        "display_as_bot": false,
+        "ts": "1637337195.305600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BQS2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How big of a picture can I send?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "185c2031-3e30-45a4-a546-887da97def8d"
+    },
+    {
+        "client_msg_id": "ae9c3c99-e322-4283-a3d1-f47db546821f",
+        "type": "message",
+        "text": "So I moved the scarab images to the pictures folder in the robotics onedrive and I uploaded the .svg (vector) file for it there.",
+        "user": "U0118UR0J72",
+        "ts": "1637337598.307100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RPv=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So I moved the scarab images to the pictures folder in the robotics onedrive and I uploaded the .svg (vector) file for it there."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "97568c39-4440-44bc-bc41-b6da833f1c18",
+        "type": "message",
+        "text": "And just so you know, the vector file has two layers, one with the vector image, the other with the old scarab image.",
+        "user": "U0118UR0J72",
+        "ts": "1637337723.307700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wup",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And just so you know, the vector file has two layers, one with the vector image, the other with the old scarab image."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "46960b1c-2435-402b-b83e-2334b2a774af",
+        "type": "message",
+        "text": "<!everyone> <https:\/\/forms.gle\/1o4T8cwaH8Va2Hn59|https:\/\/forms.gle\/1o4T8cwaH8Va2Hn59> fill this form out ASAP, this is voting for this year's shirt design",
+        "user": "U022WGTQ602",
+        "ts": "1637370781.310700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HJp7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/1o4T8cwaH8Va2Hn59",
+                                "text": "https:\/\/forms.gle\/1o4T8cwaH8Va2Hn59"
+                            },
+                            {
+                                "type": "text",
+                                "text": " fill this form out ASAP, this is voting for this year's shirt design"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/forms.gle\/1o4T8cwaH8Va2Hn59",
+                "title": "Google Forms - create and analyze surveys, for free.",
+                "title_link": "https:\/\/forms.gle\/1o4T8cwaH8Va2Hn59",
+                "text": "Create a new survey on your own or with others at the same time. Choose from a variety of survey types and analyze results in Google Forms. Free from Google.",
+                "fallback": "Google Forms - create and analyze surveys, for free.",
+                "service_icon": "https:\/\/accounts.google.com\/favicon.ico",
+                "service_name": "accounts.google.com",
+                "id": 1,
+                "original_url": "https:\/\/forms.gle\/1o4T8cwaH8Va2Hn59"
+            }
+        ]
+    }
+]

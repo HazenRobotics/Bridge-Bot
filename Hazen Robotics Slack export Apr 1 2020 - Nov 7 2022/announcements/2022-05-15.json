@@ -1,0 +1,226 @@
+[
+    {
+        "client_msg_id": "DBD25426-49CF-4870-8A5A-F725F15F0BF4",
+        "type": "message",
+        "text": "What is tomorrow’s meeting gonna look like? Being inspection day and all",
+        "user": "U038SBX0FJM",
+        "ts": "1652657272.780749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cDJVm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What is tomorrow’s meeting gonna look like? Being inspection day and all"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "388e8c9e68d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3282906370181_388e8c9e68d4853f6e10_72.jpg",
+            "first_name": "Peter",
+            "real_name": "Peter Koenig",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "absolutebesttrombone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cf6d5acd-a50b-4015-b417-4cee322b7584",
+        "type": "message",
+        "text": "it's mostly going to be an extra workday afaik, we'll be pulling teams aside throughout the meeting and going through <https:\/\/www.firstinspires.org\/sites\/default\/files\/uploads\/resource_library\/ftc\/robot-inspection-checklist.pdf|this> inspection sheet, it's a standard ftc comp sheet that you have to go through in order to compete, so make sure your robots comply with the specifications",
+        "user": "U022WGTQ602",
+        "ts": "1652657481.974469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dk3SX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it's mostly going to be an extra workday afaik, we'll be pulling teams aside throughout the meeting and going through "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.firstinspires.org\/sites\/default\/files\/uploads\/resource_library\/ftc\/robot-inspection-checklist.pdf",
+                                "text": "this"
+                            },
+                            {
+                                "type": "text",
+                                "text": " inspection sheet, it's a standard ftc comp sheet that you have to go through in order to compete, so make sure your robots comply with the specifications"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E5A8D8B2-4285-44E0-8696-3E16B4F4064D",
+        "type": "message",
+        "text": "Yessir, <!everyone> look through the inspection sheet so that you know what you’re missing. I’ll provide sheets to each team at the start of the meeting, y’all will inspect your own robot and then come to an inspection table for us to do it",
+        "user": "U012BUXVC6B",
+        "ts": "1652660004.199739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZgXx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yessir, "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " look through the inspection sheet so that you know what you’re missing. I’ll provide sheets to each team at the start of the meeting, y’all will inspect your own robot and then come to an inspection table for us to do it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "D32313AB-D8D8-420E-9073-2784DFCFC180",
+        "type": "message",
+        "text": "Do we have to add all the required labels?",
+        "user": "U02ENRPMDCZ",
+        "ts": "1652660032.164309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "28f1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do we have to add all the required labels?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "17b66d5a2701",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-13\/2483249218853_17b66d5a270198b7755b_72.jpg",
+            "first_name": "Vincent",
+            "real_name": "Vincent Luc",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "samuraivincent10",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1652660032.164309",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1652660067.385599",
+        "reply_users": [
+            "U022WGTQ602"
+        ],
+        "replies": [
+            {
+                "user": "U022WGTQ602",
+                "ts": "1652660067.385599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5d11edf6-2805-4197-b98f-53e84eb7bbdc",
+        "type": "message",
+        "text": "only if necessary",
+        "user": "U022WGTQ602",
+        "ts": "1652660067.385599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qQw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "only if necessary"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1652660032.164309",
+        "parent_user_id": "U02ENRPMDCZ"
+    }
+]

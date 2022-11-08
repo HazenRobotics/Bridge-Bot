@@ -1,0 +1,90 @@
+[
+    {
+        "client_msg_id": "c2baed7b-8b0e-46c7-aa08-69de6cb1e146",
+        "type": "message",
+        "text": "That graphic looked awesome <@U0135LQT8TB>. If you ever need me to help make another design variant of the Scarab, I would be more than happy to do so",
+        "user": "U018QFHSHJS",
+        "ts": "1606471713.270000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lrKrb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That graphic looked awesome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0135LQT8TB"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". If you ever need me to help make another design variant of the Scarab, I would be more than happy to do so"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "37dff344d6eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1314722996100_37dff344d6ebf1a57728_72.gif",
+            "first_name": "Preston",
+            "real_name": "Preston Lazaro",
+            "display_name": "Preston Lazaro",
+            "team": "T010YRDV4KB",
+            "name": "prestonlazaro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3622bba9-0517-4e41-8c15-485e30d277ee",
+        "type": "message",
+        "text": "We can probably do some for the holidays, though we should keep in mind that Christmas is a religious holiday so there are probably some complications around that. Also don't ask why I am sending this at 2 in the morning",
+        "user": "U018QFHSHJS",
+        "ts": "1606471792.271000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3hJe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We can probably do some for the holidays, though we should keep in mind that Christmas is a religious holiday so there are probably some complications around that. Also don't ask why I am sending this at 2 in the morning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "37dff344d6eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1314722996100_37dff344d6ebf1a57728_72.gif",
+            "first_name": "Preston",
+            "real_name": "Preston Lazaro",
+            "display_name": "Preston Lazaro",
+            "team": "T010YRDV4KB",
+            "name": "prestonlazaro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U018QFHSHJS",
+            "ts": "1606471844.000000"
+        }
+    }
+]

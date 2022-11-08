@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "6671957c-f632-4f77-b814-d6f618dc23c6",
+        "type": "message",
+        "text": "<@U0118UR0J72> found the issue, we were running the motor to a position of 10 without an encoder plugged it, so it just used the absolute value of whatever power was being used.",
+        "user": "U022WGTQ602",
+        "ts": "1666655043.674419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LO65",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0118UR0J72"
+                            },
+                            {
+                                "type": "text",
+                                "text": " found the issue, we were running the motor to a position of 10 without an encoder plugged it, so it just used the absolute value of whatever power was being used."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f3836d1d-3c88-441c-8b2b-1b519572b48f",
+        "type": "message",
+        "text": "Oh at the top of the lift. I think I remember being confused by that line",
+        "user": "U0118UR0J72",
+        "ts": "1666655522.988229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Y2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh at the top of the lift. I think I remember being confused by that line"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

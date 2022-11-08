@@ -1,0 +1,339 @@
+[
+    {
+        "client_msg_id": "d389590d-323b-4554-8e5b-d428ebe604f8",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=Mqg5WOcRsXE>\nhow hard would it have been for us to do suspension?",
+        "user": "U022WGTQ602",
+        "ts": "1652395162.141379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3JVZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=Mqg5WOcRsXE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nhow hard would it have been for us to do suspension?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=Mqg5WOcRsXE",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Mqg5WOcRsXE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/Mqg5WOcRsXE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=Mqg5WOcRsXE",
+                "fallback": "YouTube Video: 2022 Worlds Reveal | 18438 Wolfpack Machina FTC",
+                "title": "2022 Worlds Reveal | 18438 Wolfpack Machina FTC",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=Mqg5WOcRsXE",
+                "author_name": "Waring Robotics - FTC & FLL",
+                "author_link": "https:\/\/www.youtube.com\/c\/WaringRoboticsFTCFLL",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I need the radius of the large gear and the small in between the two large ones.",
+        "files": [
+            {
+                "id": "F03F2S8BN8N",
+                "created": 1652395394,
+                "timestamp": 1652395394,
+                "name": "363612_Partner_Space_2bd9098591557d5d_1652395363.zip",
+                "title": "363612_Partner_Space_2bd9098591557d5d_1652395363.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U0118UR0J72",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 35207889,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F03F2S8BN8N\/363612_partner_space_2bd9098591557d5d_1652395363.zip?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F03F2S8BN8N\/download\/363612_partner_space_2bd9098591557d5d_1652395363.zip?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U0118UR0J72\/F03F2S8BN8N\/363612_partner_space_2bd9098591557d5d_1652395363.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F03F2S8BN8N-1b3db5db91",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0118UR0J72",
+        "display_as_bot": false,
+        "ts": "1652395482.357469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f1Wlm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I need the radius of the large gear and the small in between the two large ones."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "79ee3d9a-f3d3-4f1e-a606-dcf71a3b8a76"
+    },
+    {
+        "client_msg_id": "bc16c07e-d449-48c5-b6a6-39b805740ab5",
+        "type": "message",
+        "text": "it wouldnt be impossible, i could see it as a slightly modified version of our drive this year.",
+        "user": "U018B1TFE3Y",
+        "ts": "1652407579.829769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TYBJ+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it wouldnt be impossible, i could see it as a slightly modified version of our drive this year."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1652407579.829769",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1652407759.033429",
+        "reply_users": [
+            "U022WGTQ602",
+            "U018B1TFE3Y"
+        ],
+        "replies": [
+            {
+                "user": "U022WGTQ602",
+                "ts": "1652407630.913319"
+            },
+            {
+                "user": "U018B1TFE3Y",
+                "ts": "1652407704.300609"
+            },
+            {
+                "user": "U018B1TFE3Y",
+                "ts": "1652407759.033429"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "so not impossible as extremely difficult or as in just a bit more work?",
+        "user": "U022WGTQ602",
+        "ts": "1652407630.913319",
+        "thread_ts": "1652407579.829769",
+        "root": {
+            "client_msg_id": "bc16c07e-d449-48c5-b6a6-39b805740ab5",
+            "type": "message",
+            "text": "it wouldnt be impossible, i could see it as a slightly modified version of our drive this year.",
+            "user": "U018B1TFE3Y",
+            "ts": "1652407579.829769",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "TYBJ+",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "it wouldnt be impossible, i could see it as a slightly modified version of our drive this year."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T010YRDV4KB",
+            "thread_ts": "1652407579.829769",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1652407759.033429",
+            "reply_users": [
+                "U022WGTQ602",
+                "U018B1TFE3Y"
+            ],
+            "replies": [
+                {
+                    "user": "U022WGTQ602",
+                    "ts": "1652407630.913319"
+                },
+                {
+                    "user": "U018B1TFE3Y",
+                    "ts": "1652407704.300609"
+                },
+                {
+                    "user": "U018B1TFE3Y",
+                    "ts": "1652407759.033429"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pq2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so not impossible as extremely difficult or as in just a bit more work?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "e6375828-a8e2-487b-9bb3-7237066ca2e0"
+    },
+    {
+        "client_msg_id": "84f5ac09-9fab-46c8-8dd9-b0dae6b87fc9",
+        "type": "message",
+        "text": "if i were to try to keep the most the same i would make our entire wheel pods out of aluminum and then given the wheels freedom on a certain radius",
+        "user": "U018B1TFE3Y",
+        "ts": "1652407704.300609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hLF9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if i were to try to keep the most the same i would make our entire wheel pods out of aluminum and then given the wheels freedom on a certain radius"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1652407579.829769",
+        "parent_user_id": "U018B1TFE3Y"
+    },
+    {
+        "client_msg_id": "b0196f79-3970-4910-9301-c8503765a765",
+        "type": "message",
+        "text": "it would take more space and more machining experience but i dont think it would be a ton more work, i forsee the only real complication in messing up the programming",
+        "user": "U018B1TFE3Y",
+        "ts": "1652407759.033429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RmI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it would take more space and more machining experience but i dont think it would be a ton more work, i forsee the only real complication in messing up the programming"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1652407579.829769",
+        "parent_user_id": "U018B1TFE3Y"
+    }
+]

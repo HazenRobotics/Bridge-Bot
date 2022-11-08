@@ -1,0 +1,489 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1596908292.000200",
+        "user": "U018B1TFE3Y",
+        "text": "<@U018B1TFE3Y> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1596908328.000400",
+        "user": "U018WC9RM3K",
+        "text": "<@U018WC9RM3K> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1596909151.000600",
+        "user": "U018B209ELW",
+        "text": "<@U018B209ELW> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1596930794.000700",
+        "user": "U012BUXVC6B",
+        "text": "set the channel description: Fusion360 Has stopped responding",
+        "purpose": "Fusion360 Has stopped responding"
+    },
+    {
+        "client_msg_id": "71b53de6-4e62-484b-ae06-ffa749a6624b",
+        "type": "message",
+        "text": "<@U010YRDV4TT> I added you to the robotics 2020-2021 Fusion360 project",
+        "user": "U012BUXVC6B",
+        "ts": "1596931325.001400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D\/m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010YRDV4TT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I added you to the robotics 2020-2021 Fusion360 project"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "df2418e5-9db0-4388-aace-f39e39621d51",
+        "type": "message",
+        "text": "It has a pretty comprehensive library of tetrix and gobilda parts, going forward we should do all of our work in it",
+        "user": "U012BUXVC6B",
+        "ts": "1596931385.002200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ardL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It has a pretty comprehensive library of tetrix and gobilda parts, going forward we should do all of our work in it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0f6d352f-f127-4636-b513-d576f67d7d48",
+        "type": "message",
+        "text": "I'm gonna send a couple links to other chassis designs I've found online for some inspiration, and I've already finished one in the \"Post season 2020\" folder in the fusion project",
+        "user": "U012BUXVC6B",
+        "ts": "1596931572.003500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yHaUY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm gonna send a couple links to other chassis designs I've found online for some inspiration, and I've already finished one in the \"Post season 2020\" folder in the fusion project"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8a7f7924-4072-4850-92c7-99b8f2dde2fb",
+        "type": "message",
+        "text": "• <https:\/\/noahctodd.wordpress.com\/2014\/10\/02\/oasis\/>",
+        "user": "U012BUXVC6B",
+        "ts": "1596931583.003900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oPs",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/noahctodd.wordpress.com\/2014\/10\/02\/oasis\/"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "After Noah made the ark...",
+                "service_url": "http:\/\/noahctodd.wordpress.com",
+                "title": "The Oasis Chassis",
+                "title_link": "https:\/\/noahctodd.wordpress.com\/2014\/10\/02\/oasis\/",
+                "author_name": "noahctodd",
+                "author_link": "https:\/\/noahctodd.wordpress.com\/author\/noahctodd\/",
+                "thumb_url": "https:\/\/noahctodd.files.wordpress.com\/2014\/10\/oasis-illustration2.jpg?w=1200&fit=200%2C150",
+                "thumb_width": 200,
+                "thumb_height": 88,
+                "text": "The Oasis chassis is something that I designed over summer break while I was grieving the loss of FTC (It&rsquo;s so sad to not have FTC&hellip;) Every year we spent too little time designing the chassis, and we would always have some annoying problem with it during the season. With ring it up, we sadly discovered that our omni wheels couldn&rsquo;t hurdle&nbsp;an object on the playing field. Similarly, before&nbsp;we put mecanum wheels on Sheila, she had a terrible two-wheel drive that would often skid around. So even though I&rsquo;m not participating in FTC anymore, I decided to go ahead and make a chassis that I liked while I was waiting for college to start.\n\nMy first version just focused on the drivetrain. I wanted a flexible drivetrain that could be easily modified (I designed this before the game release). I used sprockets and chains along with plates with multiple holes for the axles. This way, I could switch around the sprockets for different speeds and I could raise or lower the wheels to get over higher objects.\n\nAfter designing the Oasis, I laser-cut pieces of HDF for test plates on the side. I also used my VEX Mecanum Wheel adapters on the Mecanum wheels. I then tested the chassis and developed my mecanum drive and superdrive tasks on it. I&rsquo;ll talk about these in a later article, or you can just look at them on github.\nAfter making sure that the drivetrain worked well, I designed a second version of the Oasis that incorporated more mounting points and a stronger frame.\n       Final isometric view          View of bottom &ndash; notice the custom supports             Half-raised six-bar lift          40&Prime; when raised, but this could be extended to 50&Prime;          Lowered six-bar lift          A work in progress photo with tetrix c channel       \nAs a finishing touch, I added a six-bar lift to demonstrate how easily I could attach more components to the chassis. The 80\/20 extrusions on the sides can also be replaced with tetrix c-channels. I never made this version.",
+                "fallback": "After Noah made the ark... Link: The Oasis Chassis",
+                "from_url": "https:\/\/noahctodd.wordpress.com\/2014\/10\/02\/oasis\/",
+                "service_icon": "https:\/\/secure.gravatar.com\/blavatar\/b70033aec2358d949b677a1a706549ad?s=114",
+                "id": 1,
+                "original_url": "https:\/\/noahctodd.wordpress.com\/2014\/10\/02\/oasis\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "239850f0-6003-4b29-add8-4a8c37d30d03",
+        "type": "message",
+        "text": "• <https:\/\/www.youtube.com\/watch?v=yPxxt7XQ6N8> (Six Wheel Drive is kinda cool)",
+        "user": "U012BUXVC6B",
+        "ts": "1596931727.004400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1bRD",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.youtube.com\/watch?v=yPxxt7XQ6N8"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (Six Wheel Drive is kinda cool)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Six Wheel Center Drop Tank Drive - FTC",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=yPxxt7XQ6N8",
+                "author_name": "Philobots",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC9Ydn6d5Ja-p0uJkGZvmOUg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/yPxxt7XQ6N8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Six Wheel Center Drop Tank Drive - FTC",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/yPxxt7XQ6N8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=yPxxt7XQ6N8",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=yPxxt7XQ6N8"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0f0eb7d4-df67-45f0-ac75-5740ae88e67c",
+        "type": "message",
+        "text": "So, I know this is all kind of a jumble of information but I want all of us to have an individual chassis design roughly finished by next Saturday. The only real design requirements are that it is maneuverable and it's mechanisms are as minimalistic as possible, as to save space for big ole arms and (hopefully) shooters this year. I'd recommend a Mecanum wheel chassis because it's a good challenge but feel free to do whatever y'all think would work best. Keep in mine that most FTC games involve collecting small game pieces off the ground or picking up larger ones and lifting them, so make sure there's plenty of room for potential mechanisms that do that",
+        "user": "U012BUXVC6B",
+        "ts": "1596932330.009300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eF=b2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So, I know this is all kind of a jumble of information but I want all of us to have an individual chassis design roughly finished by next Saturday. The only real design requirements are that it is maneuverable and it's mechanisms are as minimalistic as possible, as to save space for big ole arms and (hopefully) shooters this year. I'd recommend a Mecanum wheel chassis because it's a good challenge but feel free to do whatever y'all think would work best. Keep in mine that most FTC games involve collecting small game pieces off the ground or picking up larger ones and lifting them, so make sure there's plenty of room for potential mechanisms that do that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "eb3ac19a-264c-4f01-abc5-cd59b8220b0c",
+        "type": "message",
+        "text": "<@U018B1TFE3Y> <@U0135LQT8TB> <@U018B209ELW>",
+        "user": "U012BUXVC6B",
+        "ts": "1596932377.010200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "783",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U018B1TFE3Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0135LQT8TB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U018B209ELW"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cae788e1-8851-428e-877a-4c1702ccd616",
+        "type": "message",
+        "text": "just making sure, should we try to stick to tetrix or for these initial designs is it free reign for parts",
+        "user": "U018B1TFE3Y",
+        "ts": "1596933175.011300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kCr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just making sure, should we try to stick to tetrix or for these initial designs is it free reign for parts"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F5CA038A-82B8-4949-A263-8BC1C7AE485A",
+        "type": "message",
+        "text": "Free reign for sure, though I’d definitely check out the gobilda stuff",
+        "user": "U012BUXVC6B",
+        "ts": "1596933239.012600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gvi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Free reign for sure, though I’d definitely check out the gobilda stuff"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "31323297-1d8b-4d6e-8926-539c48e02dca",
+        "type": "message",
+        "text": "ok",
+        "user": "U018B1TFE3Y",
+        "ts": "1596934281.012800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uYKrY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

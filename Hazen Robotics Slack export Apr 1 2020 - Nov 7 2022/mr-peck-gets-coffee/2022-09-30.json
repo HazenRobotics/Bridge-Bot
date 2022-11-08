@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "053e4dae-47b7-43a1-9a51-1485b52ffee3",
+        "type": "message",
+        "text": "last thing you see beofre death",
+        "user": "U018QFHSHJS",
+        "ts": "1664559666.554809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OPK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "last thing you see beofre death"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "37dff344d6eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1314722996100_37dff344d6ebf1a57728_72.gif",
+            "first_name": "Preston",
+            "real_name": "Preston Lazaro",
+            "display_name": "Preston Lazaro",
+            "team": "T010YRDV4KB",
+            "name": "prestonlazaro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

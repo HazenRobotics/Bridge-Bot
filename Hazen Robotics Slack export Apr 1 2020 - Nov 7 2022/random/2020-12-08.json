@@ -1,0 +1,100 @@
+[
+    {
+        "client_msg_id": "0E7CA826-6D1F-4973-898C-D1F1666169E7",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/nf83yzzme2I|https:\/\/youtu.be\/nf83yzzme2I>",
+        "user": "U012BUXVC6B",
+        "ts": "1607466090.009200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tJF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/nf83yzzme2I",
+                                "text": "https:\/\/youtu.be\/nf83yzzme2I"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Starship | SN8 | High-Altitude Flight Test",
+                "title_link": "https:\/\/youtu.be\/nf83yzzme2I",
+                "author_name": "SpaceX",
+                "author_link": "https:\/\/www.youtube.com\/c\/SpaceX",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/nf83yzzme2I\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Starship | SN8 | High-Altitude Flight Test",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/nf83yzzme2I?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/youtu.be\/nf83yzzme2I",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/nf83yzzme2I"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AF1D67C4-8DFD-4855-AAE7-2585FF207B5B",
+        "type": "message",
+        "text": "Worth watching in a few minutes ",
+        "user": "U012BUXVC6B",
+        "ts": "1607466097.009600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tvb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Worth watching in a few minutes "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

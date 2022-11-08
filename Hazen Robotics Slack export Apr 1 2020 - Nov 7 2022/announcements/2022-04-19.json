@@ -1,0 +1,455 @@
+[
+    {
+        "client_msg_id": "8ccafb54-173b-438d-a09f-d6655d4fc2f4",
+        "type": "message",
+        "text": "Everyone has to scare <@U02DWDDVAP7> or find something that he is scared of. He claims he's scared of nothing.",
+        "user": "U0118UR0J72",
+        "ts": "1650413924.094189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=yw4J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Everyone has to scare "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or find something that he is scared of. He claims he's scared of nothing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4b0dbf05-d820-4155-a133-58df9cedcc0e",
+        "type": "message",
+        "text": "Formatted code, perhaps",
+        "user": "U02535ABH2A",
+        "ts": "1650413954.404179",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UKus",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Formatted code, perhaps"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1650413954.404179",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650415088.345469",
+        "reply_users": [
+            "U02DWDDVAP7"
+        ],
+        "replies": [
+            {
+                "user": "U02DWDDVAP7",
+                "ts": "1650415088.345469"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "F4D6C942-8D08-420B-90A8-29AC15FEE2DC",
+        "type": "message",
+        "text": "Boo :ghost: ",
+        "user": "U02ENRPMDCZ",
+        "ts": "1650414906.820849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GOD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Boo "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ghost",
+                                "unicode": "1f47b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "17b66d5a2701",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-13\/2483249218853_17b66d5a270198b7755b_72.jpg",
+            "first_name": "Vincent",
+            "real_name": "Vincent Luc",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "samuraivincent10",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02ENRPMDCZ",
+            "ts": "1650414913.000000"
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "naw thats cool java docs is sick",
+        "user": "U02DWDDVAP7",
+        "ts": "1650415088.345469",
+        "thread_ts": "1650413954.404179",
+        "root": {
+            "client_msg_id": "4b0dbf05-d820-4155-a133-58df9cedcc0e",
+            "type": "message",
+            "text": "Formatted code, perhaps",
+            "user": "U02535ABH2A",
+            "ts": "1650413954.404179",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "UKus",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Formatted code, perhaps"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T010YRDV4KB",
+            "thread_ts": "1650413954.404179",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1650415088.345469",
+            "reply_users": [
+                "U02DWDDVAP7"
+            ],
+            "replies": [
+                {
+                    "user": "U02DWDDVAP7",
+                    "ts": "1650415088.345469"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7UBXm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "naw thats cool java docs is sick"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "87bf76fd-e9a1-49a5-9ad3-de4d4ddc7525"
+    },
+    {
+        "client_msg_id": "10537503-C1B7-4FA8-8CD5-6DAFED8029EF",
+        "type": "message",
+        "text": "He should be scared of <@U018WC9RM3K> ",
+        "user": "U012BUXVC6B",
+        "ts": "1650415790.853119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U2A\/7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "He should be scared of "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U018WC9RM3K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1650415790.853119",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1650493933.282969",
+        "reply_users": [
+            "U02DWDDVAP7",
+            "U018WC9RM3K",
+            "U012BUXVC6B"
+        ],
+        "replies": [
+            {
+                "user": "U02DWDDVAP7",
+                "ts": "1650416685.129689"
+            },
+            {
+                "user": "U018WC9RM3K",
+                "ts": "1650424569.008599"
+            },
+            {
+                "user": "U012BUXVC6B",
+                "ts": "1650493933.282969"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "12e46e4a-f65b-4352-8f82-b39df27e36c7",
+        "type": "message",
+        "text": "lol",
+        "user": "U0118UR0J72",
+        "ts": "1650416014.143929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WgkzG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "In APSC he switches the Boolean feelings to false",
+        "user": "U02DWDDVAP7",
+        "ts": "1650416685.129689",
+        "thread_ts": "1650415790.853119",
+        "root": {
+            "client_msg_id": "10537503-C1B7-4FA8-8CD5-6DAFED8029EF",
+            "type": "message",
+            "text": "He should be scared of <@U018WC9RM3K> ",
+            "user": "U012BUXVC6B",
+            "ts": "1650415790.853119",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "U2A\/7",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "He should be scared of "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U018WC9RM3K"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T010YRDV4KB",
+            "thread_ts": "1650415790.853119",
+            "reply_count": 3,
+            "reply_users_count": 3,
+            "latest_reply": "1650493933.282969",
+            "reply_users": [
+                "U02DWDDVAP7",
+                "U018WC9RM3K",
+                "U012BUXVC6B"
+            ],
+            "replies": [
+                {
+                    "user": "U02DWDDVAP7",
+                    "ts": "1650416685.129689"
+                },
+                {
+                    "user": "U018WC9RM3K",
+                    "ts": "1650424569.008599"
+                },
+                {
+                    "user": "U012BUXVC6B",
+                    "ts": "1650493933.282969"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jAy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In APSC he switches the Boolean feelings to false"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6a7c9380-937c-4dca-a9f2-18e911d807b7"
+    },
+    {
+        "client_msg_id": "221b9080-775a-494c-9f47-65b7eddadc66",
+        "type": "message",
+        "text": "<@U02DWDDVAP7> be afraid...very afraid...lol",
+        "user": "U018WC9RM3K",
+        "ts": "1650424569.008599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "An+O1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be afraid...very afraid...lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1650415790.853119",
+        "parent_user_id": "U012BUXVC6B"
+    }
+]

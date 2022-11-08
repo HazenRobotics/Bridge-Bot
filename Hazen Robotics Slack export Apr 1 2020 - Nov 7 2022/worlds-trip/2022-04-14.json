@@ -1,0 +1,335 @@
+[
+    {
+        "client_msg_id": "87ac8f67-3616-4d60-b64e-d0b66c91f628",
+        "type": "message",
+        "text": "<!channel> Can you all send me your parents email so that I can email out the details of the trip?",
+        "user": "U018WC9RM3K",
+        "ts": "1649967011.794359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RiYIB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Can you all send me your parents email so that I can email out the details of the trip?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2EA7B9EF-170F-44E2-9A16-8DF7986031CC",
+        "type": "message",
+        "text": "<mailto:Dan.chiang@live.com|Dan.chiang@live.com>",
+        "user": "U0135LQT8TB",
+        "ts": "1649967037.959209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gjca",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:Dan.chiang@live.com",
+                                "text": "Dan.chiang@live.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gdfe9743ea44",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dfe9743ea4477ab6cdd74b02c32fc903.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ethan Chiang",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "awesome.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "24C61E96-FBA7-457F-8C13-55A0499F4416",
+        "type": "message",
+        "text": "<mailto:vincentluc6@gmail.com|vincentluc6@gmail.com>",
+        "user": "U02ENRPMDCZ",
+        "ts": "1649967045.034439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Zqqa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:vincentluc6@gmail.com",
+                                "text": "vincentluc6@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "17b66d5a2701",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-13\/2483249218853_17b66d5a270198b7755b_72.jpg",
+            "first_name": "Vincent",
+            "real_name": "Vincent Luc",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "samuraivincent10",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "47CFBA76-DE53-4C09-9987-07DF9FB2B2E3",
+        "type": "message",
+        "text": "<mailto:Erika.chiang@live.com|Erika.chiang@live.com>",
+        "user": "U0135LQT8TB",
+        "ts": "1649967057.082539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S8ony",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:Erika.chiang@live.com",
+                                "text": "Erika.chiang@live.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gdfe9743ea44",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dfe9743ea4477ab6cdd74b02c32fc903.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ethan Chiang",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "awesome.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "aa4bc42d-9eeb-45b9-9f63-8ba1472cf9b2",
+        "type": "message",
+        "text": "<mailto:biffster71@gmail.com|biffster71@gmail.com>, <mailto:ryanlharris@gmail.com|ryanlharris@gmail.com>",
+        "user": "U022WGTQ602",
+        "ts": "1649967799.849059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m9B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:biffster71@gmail.com",
+                                "text": "biffster71@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:ryanlharris@gmail.com",
+                                "text": "ryanlharris@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "88512c55-a605-455d-b8ad-2830f8f5bfc3",
+        "type": "message",
+        "text": "<mailto:kimmiewong17@hotmail.com|kimmiewong17@hotmail.com>, <mailto:wonggary23@hotmail.com|wonggary23@hotmail.com>",
+        "user": "U02535ABH2A",
+        "ts": "1649968404.816319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qdYpY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:kimmiewong17@hotmail.com",
+                                "text": "kimmiewong17@hotmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:wonggary23@hotmail.com",
+                                "text": "wonggary23@hotmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d4d050b9-7453-40ad-a0d3-5e2ff3061773",
+        "type": "message",
+        "text": "<mailto:razaross@comcast.net|razaross@comcast.net>",
+        "user": "U01BCRC513K",
+        "ts": "1649971325.926999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Umzj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:razaross@comcast.net",
+                                "text": "razaross@comcast.net"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g1a3742ccdba",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a3742ccdbaa11b20e19f18ba9c093d7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Alex Ross",
+            "display_name": "Alex Ross",
+            "team": "T010YRDV4KB",
+            "name": "ale.ros001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "DDB6852C-81F3-411E-A737-3CDA03FA3B67",
+        "type": "message",
+        "text": "<mailto:dan@danstocker.com|dan@danstocker.com>",
+        "user": "U02EA7L1KGT",
+        "ts": "1649994535.428249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IPjgu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:dan@danstocker.com",
+                                "text": "dan@danstocker.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "3b24be10b035",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-26\/4305995690752_3b24be10b035098cd409_72.png",
+            "first_name": "Asher",
+            "real_name": "Asher Stocker",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "asherstocker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

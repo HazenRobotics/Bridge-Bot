@@ -1,0 +1,721 @@
+[
+    {
+        "client_msg_id": "10dc6bbf-57a5-4767-bf0c-5eb5f0fdf63b",
+        "type": "message",
+        "text": "ok",
+        "user": "U02DWDDVAP7",
+        "ts": "1652275551.000559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hQ8kp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "74aa6145-cf9b-485e-a06f-c31731013160",
+        "type": "message",
+        "text": "<@U02DWDDVAP7> Here are some resources to use jinput for your game. I'd recommend migrating your project to github and use vscode, then you can still work together live (using the codetogether extension in vscode):\nsome example resources: <https:\/\/github.com\/jinput\/jinput\/tree\/master\/examples\/src\/main\/java\/net\/java\/games\/input\/example>\nexample implementation (mine): <https:\/\/github.com\/IIVioletKingII\/CompSci\/tree\/master\/PacMan> &amp; where the class is that uses it: <https:\/\/github.com\/IIVioletKingII\/CompSci\/blob\/master\/PacMan\/src\/com\/pacman\/Board.java>",
+        "user": "U0118UR0J72",
+        "ts": "1652284045.159589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HfN8v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Here are some resources to use jinput for your game. I'd recommend migrating your project to github and use vscode, then you can still work together live (using the codetogether extension in vscode):\nsome example resources: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/jinput\/jinput\/tree\/master\/examples\/src\/main\/java\/net\/java\/games\/input\/example"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nexample implementation (mine): "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/IIVioletKingII\/CompSci\/tree\/master\/PacMan"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & where the class is that uses it: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/IIVioletKingII\/CompSci\/blob\/master\/PacMan\/src\/com\/pacman\/Board.java"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "618dc101-b024-4374-ad12-37abadc8e942",
+        "type": "message",
+        "text": "CompSci repo is private",
+        "user": "U022WGTQ602",
+        "ts": "1652285301.319339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ml0e=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CompSci repo is private"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5bde1d08-7ac6-48e4-885a-2b052ddb4cbc",
+        "type": "message",
+        "text": "Dang,, I didn't want to go find the setting for that",
+        "user": "U0118UR0J72",
+        "ts": "1652285338.774369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "55+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dang,, I didn't want to go find the setting for that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bfb4dc2b-25f9-4d31-aeb4-b19fde556c51",
+        "type": "message",
+        "text": "lmao",
+        "user": "U022WGTQ602",
+        "ts": "1652285344.697609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gIf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lmao"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "51e738ee-1c9d-44e9-9b9e-efc6391b2247",
+        "type": "message",
+        "text": "K, I gave you two access to it",
+        "user": "U0118UR0J72",
+        "ts": "1652285457.695219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TWu=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "K, I gave you two access to it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d44042c9-b756-4700-9fdc-c4010194adc1",
+        "type": "message",
+        "text": "<@U02DWDDVAP7> when you installed Android Studio on the computer in Mr. Peck's room, did you have any issues with git? Did you have to download it?",
+        "user": "U0118UR0J72",
+        "ts": "1652287147.795099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FBM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " when you installed Android Studio on the computer in Mr. Peck's room, did you have any issues with git? Did you have to download it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1652287147.795099",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1652288439.672189",
+        "reply_users": [
+            "U02DWDDVAP7"
+        ],
+        "replies": [
+            {
+                "user": "U02DWDDVAP7",
+                "ts": "1652288439.672189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5f0b8aa9-b2d7-4cc2-9e87-87c8d2501105",
+        "type": "message",
+        "text": "problem with git is afaik it can’t be installed without admin perms because of how it interacts with the system, so you can’t just install a zip like you can with most other applications, so im pretty sure he didn’t install it, but maybe im wrong",
+        "user": "U022WGTQ602",
+        "ts": "1652287281.345269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TaSD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "problem with git is afaik it can’t be installed without admin perms because of how it interacts with the system, so you can’t just install a zip like you can with most other applications, so im pretty sure he didn’t install it, but maybe im wrong"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "995377ff-9874-43b7-8dd0-2147f40b4951",
+        "type": "message",
+        "text": "oh, well doing a bit more research this might work, but im not sure how git would interact without admin privileges <https:\/\/gitforwindows.org\/>",
+        "user": "U022WGTQ602",
+        "ts": "1652287457.672509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DVqF2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh, well doing a bit more research this might work, but im not sure how git would interact without admin privileges "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gitforwindows.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1652287472.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/gitforwindows.org\/",
+                "id": 1,
+                "original_url": "https:\/\/gitforwindows.org\/",
+                "fallback": "Git for Windows",
+                "text": "We bring the awesome Git VCS to Windows",
+                "title": "Git for Windows",
+                "title_link": "https:\/\/gitforwindows.org\/",
+                "service_name": "gitforwindows.org"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e2842fa5-48a2-4d92-9f50-25e27c08e6b9",
+        "type": "message",
+        "text": "Yes it can",
+        "user": "U0118UR0J72",
+        "ts": "1652287598.073029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mi2q=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes it can"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "918efb02-1492-48f2-a162-3f38068f66da",
+        "type": "message",
+        "text": "Just did it",
+        "user": "U0118UR0J72",
+        "ts": "1652287603.048579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TLK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just did it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7af5562e-72f2-45e0-8bd7-8280b78b5c44",
+        "type": "message",
+        "text": "oh alr",
+        "user": "U022WGTQ602",
+        "ts": "1652287610.961399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xyC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh alr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fca2c6ec-1553-4471-bda6-d8a5de96a4b8",
+        "type": "message",
+        "text": "did you install regular git or the gitforwindows?",
+        "user": "U022WGTQ602",
+        "ts": "1652287625.637969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GGC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "did you install regular git or the gitforwindows?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1652287632.000000"
+        }
+    },
+    {
+        "client_msg_id": "84ed83b8-f511-44a8-903d-8827593c2a2e",
+        "type": "message",
+        "text": "Yeah: <https:\/\/github.com\/git-for-windows\/git\/releases\/tag\/v2.36.1.windows.1>",
+        "user": "U0118UR0J72",
+        "ts": "1652287636.067599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8hH+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/git-for-windows\/git\/releases\/tag\/v2.36.1.windows.1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b15b41cc-ea00-4c92-a0a3-c627225094ac",
+        "type": "message",
+        "text": "Install mingit and change the file path inside android studio",
+        "user": "U0118UR0J72",
+        "ts": "1652287645.067279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fmL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Install mingit and change the file path inside android studio"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "05819bf5-f0ec-4c62-89e8-c60c67fb1054",
+        "type": "message",
+        "text": "aight",
+        "user": "U022WGTQ602",
+        "ts": "1652287653.748099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oxY91",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aight"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b5a2d18b-d73a-4585-a0f9-0090eeb43da5",
+        "type": "message",
+        "text": "nope",
+        "user": "U02DWDDVAP7",
+        "ts": "1652288439.672189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E9+rK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nope"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1652287147.795099",
+        "parent_user_id": "U0118UR0J72"
+    }
+]

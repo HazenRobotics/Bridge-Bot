@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "ee312dc5-bfa2-4fb3-bc07-a6004c891b4a",
+        "type": "message",
+        "text": "If Husky Robotics does not get back to you this guy might be able to help <https:\/\/www.me.washington.edu\/people\/faculty\/martin_berg>",
+        "user": "U018WC9RM3K",
+        "ts": "1640794512.193800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zL=Xf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If Husky Robotics does not get back to you this guy might be able to help "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.me.washington.edu\/people\/faculty\/martin_berg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.me.washington.edu\/people\/faculty\/martin_berg",
+                "ts": 1363039206,
+                "service_icon": "https:\/\/www.me.washington.edu\/themes\/contrib\/boundless\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.me.washington.edu\/people\/faculty\/martin_berg",
+                "fallback": "Mechanical Engineering: Martin Berg",
+                "text": ".sidebar p { line-height: 1.4em; margin: 0 0 0.6em 0 !important; padding: 0px !important; } Associate Professor Emeritus   berg@uw.edu   206-543-5288",
+                "title": "Martin Berg",
+                "title_link": "https:\/\/www.me.washington.edu\/people\/faculty\/martin_berg",
+                "service_name": "Mechanical Engineering"
+            }
+        ]
+    }
+]

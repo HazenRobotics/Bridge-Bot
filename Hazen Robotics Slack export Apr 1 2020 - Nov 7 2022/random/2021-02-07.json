@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "00c2eaf5-f5e4-4ae5-96b0-731d395112e7",
+        "type": "message",
+        "text": "I just completed mine",
+        "user": "U010WTHDW5Q",
+        "ts": "1612731567.003400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ec+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just completed mine"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "fa6090fe6c02",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2456400319351_fa6090fe6c023108503a_72.png",
+            "first_name": "Lydia",
+            "real_name": "Lydia Sorbo",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "lesorbo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

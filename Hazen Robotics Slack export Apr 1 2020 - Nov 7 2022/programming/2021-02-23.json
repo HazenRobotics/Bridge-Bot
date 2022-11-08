@@ -1,0 +1,195 @@
+[
+    {
+        "client_msg_id": "163e64aa-9d37-4262-aa19-24f9407abb63",
+        "type": "message",
+        "text": "Looks like Corban got road runner working. <@U0118UR0J72> if you still want to work on PID it is worth learning as it could be helpful for future competitions. Suggestions: 1) you can use the output from the PID method in a set of if\/else if\/else statements to set the power based on error or 2) you can use a the <https:\/\/stackoverflow.com\/questions\/929103\/convert-a-number-range-to-another-range-maintaining-ratio|range converting formula> to convert the error range into the desired motor power range 3) you could also use your original graphs by inputting sensor data and outputting motor values",
+        "user": "U018WC9RM3K",
+        "ts": "1614118671.021700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=txt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks like Corban got road runner working. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0118UR0J72"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you still want to work on PID it is worth learning as it could be helpful for future competitions. Suggestions: 1) you can use the output from the PID method in a set of if\/else if\/else statements to set the power based on error or 2) you can use a the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stackoverflow.com\/questions\/929103\/convert-a-number-range-to-another-range-maintaining-ratio",
+                                "text": "range converting formula"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to convert the error range into the desired motor power range 3) you could also use your original graphs by inputting sensor data and outputting motor values"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U018WC9RM3K",
+            "ts": "1614119416.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Stack Overflow",
+                "title": "Convert a number range to another range, maintaining ratio",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/929103\/convert-a-number-range-to-another-range-maintaining-ratio",
+                "text": "I'm trying to convert one range of numbers to another, maintaining ratio. Maths is not my strong point. I have an image file where point values may range from -16000.00 to 16000.00 though the typi...",
+                "fallback": "Stack Overflow: Convert a number range to another range, maintaining ratio",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "from_url": "https:\/\/stackoverflow.com\/questions\/929103\/convert-a-number-range-to-another-range-maintaining-ratio",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon.png?v=c78bd457575a",
+                "id": 1,
+                "original_url": "https:\/\/stackoverflow.com\/questions\/929103\/convert-a-number-range-to-another-range-maintaining-ratio"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "CCBA6E75-521F-4EE2-B09A-C9CE264AEF18",
+        "type": "message",
+        "text": "Also, how hard would it be to use Corban’s roadrunner code with encoders instead of motor velocity? That’s another option for Sam to explore ",
+        "user": "U012BUXVC6B",
+        "ts": "1614118759.022800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jfGKM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, how hard would it be to use Corban’s roadrunner code with encoders instead of motor velocity? That’s another option for Sam to explore "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a50de509-a00c-4675-ac87-231e57720c0e",
+        "type": "message",
+        "text": "Sam would still need to calibrate the wood robot motors and encoders in road runner with the help of corban.",
+        "user": "U018WC9RM3K",
+        "ts": "1614118834.023700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fyBb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sam would still need to calibrate the wood robot motors and encoders in road runner with the help of corban."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U018WC9RM3K",
+            "ts": "1614119387.000000"
+        }
+    },
+    {
+        "client_msg_id": "89CA389F-1AFB-4EDE-9108-9576D3111F2E",
+        "type": "message",
+        "text": "Ok",
+        "user": "U012BUXVC6B",
+        "ts": "1614118887.024000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mdxN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

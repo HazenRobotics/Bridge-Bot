@@ -1,0 +1,3892 @@
+[
+    {
+        "client_msg_id": "8d634442-14b3-4448-968b-85829b226c8e",
+        "type": "message",
+        "text": "!read hello",
+        "user": "U02DWDDVAP7",
+        "ts": "1663163844.606329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6zWS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!read hello"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f80b7706-e6e6-49eb-a596-52fd06ed76fa",
+        "type": "message",
+        "text": "!read test",
+        "user": "U02DWDDVAP7",
+        "ts": "1663163850.346489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YNSA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!read test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "test",
+        "user": "U0423AWF8JF",
+        "ts": "1663163850.978209",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CtoU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "test",
+        "user": "U0423AWF8JF",
+        "ts": "1663163851.229989",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qJX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "client_msg_id": "7ec4a045-5f85-4db0-bd15-1b9cdbc7305c",
+        "type": "message",
+        "text": "ok",
+        "user": "U02DWDDVAP7",
+        "ts": "1663163854.451559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R6y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "04a83e42-1c53-4a0c-af3f-5c4313439639",
+        "type": "message",
+        "text": "!msg hi",
+        "user": "U02DWDDVAP7",
+        "ts": "1663163860.697939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6sia",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!msg hi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a244cafc-f68d-4ec0-9a6c-9b9147ed50c2",
+        "type": "message",
+        "text": "!msg hi",
+        "user": "U02DWDDVAP7",
+        "ts": "1663163911.878399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mO4i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!msg hi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "80405e8f-6709-4f2a-ba66-630898ba69d7",
+        "type": "message",
+        "text": "!msg hello frieinds",
+        "user": "U02DWDDVAP7",
+        "ts": "1663163944.197819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fODSW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!msg hello frieinds"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5c182c49-c7f9-4c3a-b2f8-8d368ae938d1",
+        "type": "message",
+        "text": "!msg hi",
+        "user": "U02DWDDVAP7",
+        "ts": "1663163964.294929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nd=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!msg hi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "90acc0f1-5a99-4359-9806-5202cf22d924",
+        "type": "message",
+        "text": "hello",
+        "user": "U02DWDDVAP7",
+        "ts": "1663164608.827789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wiz\/P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2f0f8322-091b-4de2-ae4d-807c55aa6c4a",
+        "type": "message",
+        "text": "test",
+        "user": "U02DWDDVAP7",
+        "ts": "1663164649.332279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ca8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "28240038-1cb3-4918-af35-6fa3b62cf3ae",
+        "type": "message",
+        "text": "hello",
+        "user": "U02DWDDVAP7",
+        "ts": "1663165074.144239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mBoe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f0d07363-d16a-4cf0-aaef-b6e882bff04b",
+        "type": "message",
+        "text": "!read <@U02DWDDVAP7>",
+        "user": "U02DWDDVAP7",
+        "ts": "1663165083.786269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N9TAJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!read "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "77cd6fc2-0d28-4844-8e34-a4520fce52b8",
+        "type": "message",
+        "text": "hello",
+        "user": "U02DWDDVAP7",
+        "ts": "1663165150.033239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kqM6c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "661dfbc1-974c-40f9-9ca7-3e53e5f80332",
+        "type": "message",
+        "text": "!read <@U02DWDDVAP7>",
+        "user": "U02DWDDVAP7",
+        "ts": "1663165155.861539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+wEpy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!read "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "[2022-09-14 14:19:10.539978] <@U02DWDDVAP7>: hello",
+        "user": "U0423AWF8JF",
+        "ts": "1663165156.379179",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AKmW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2022-09-14 14:19:10.539978] "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": hello"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "client_msg_id": "177bd837-7e30-4908-a017-28798af89aac",
+        "type": "message",
+        "text": "ok",
+        "user": "U02DWDDVAP7",
+        "ts": "1663165164.818119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vzwb=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c3dc258b-1511-4893-bf84-e6938d83c4c6",
+        "type": "message",
+        "text": "hello",
+        "user": "U02DWDDVAP7",
+        "ts": "1663165247.926919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kme",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9825909d-5960-46fd-abec-8810bd064646",
+        "type": "message",
+        "text": "!read <@U02DWDDVAP7>",
+        "user": "U02DWDDVAP7",
+        "ts": "1663165257.128879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uaO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!read "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "[2022-09-14 14:20:48.373238] <@U02DWDDVAP7>: hello\/n",
+        "user": "U0423AWF8JF",
+        "ts": "1663165257.736159",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9X6QZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2022-09-14 14:20:48.373238] "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": hello\/n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "client_msg_id": "b6122df1-53d2-4b66-89f1-4015c3af75ac",
+        "type": "message",
+        "text": "hello",
+        "user": "U02DWDDVAP7",
+        "ts": "1663165299.321679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zhVmk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a2bcf90e-f3f3-447c-bc2f-1834b65b7e8f",
+        "type": "message",
+        "text": "!read <@U02DWDDVAP7>",
+        "user": "U02DWDDVAP7",
+        "ts": "1663165338.591929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PYp2f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!read "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "[2022-09-14 14:21:39.633158] <@U02DWDDVAP7>: hello",
+        "user": "U0423AWF8JF",
+        "ts": "1663165339.088509",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mZGtM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2022-09-14 14:21:39.633158] "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": hello"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": " wonder if this gets archived?",
+        "user": "U0423AWF8JF",
+        "ts": "1663165436.033919",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1KPX1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wonder if this gets archived?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "client_msg_id": "e38fda06-1071-4cc0-96a0-5d6d6120fc6a",
+        "type": "message",
+        "text": "!read <@U02DWDDVAP7>",
+        "user": "U02DWDDVAP7",
+        "ts": "1663165795.729759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sKV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!read "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "[2022-09-14 14:21:39.633158] <@U02DWDDVAP7>: hello\n",
+        "user": "U0423AWF8JF",
+        "ts": "1663165796.672329",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fp5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2022-09-14 14:21:39.633158] "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": hello"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "[2022-09-14 14:22:19.150747] <@U02DWDDVAP7>: !read <@U02DWDDVAP7>\n",
+        "user": "U0423AWF8JF",
+        "ts": "1663165796.884849",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r4Mh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2022-09-14 14:22:19.150747] "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": !read "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "client_msg_id": "e5bff6c3-fbf8-464d-aa45-190adacdb271",
+        "type": "message",
+        "text": "hello",
+        "user": "U02DWDDVAP7",
+        "ts": "1663166642.743409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ifPw+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "eea12821-a086-406a-9172-862e8274da1b",
+        "type": "message",
+        "text": "!read <@U02DWDDVAP7>",
+        "user": "U02DWDDVAP7",
+        "ts": "1663167577.494259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NjsN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!read "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "[2022-09-14 14:21:39.633158] <@U02DWDDVAP7>: hello\n",
+        "user": "U0423AWF8JF",
+        "ts": "1663167578.077149",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SMnd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2022-09-14 14:21:39.633158] "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": hello"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "[2022-09-14 14:22:19.150747] <@U02DWDDVAP7>: !read <@U02DWDDVAP7>\n",
+        "user": "U0423AWF8JF",
+        "ts": "1663167578.536719",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PCkjr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2022-09-14 14:22:19.150747] "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": !read "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "[2022-09-14 14:29:56.947718] <@U02DWDDVAP7>: !read <@U02DWDDVAP7>\n",
+        "user": "U0423AWF8JF",
+        "ts": "1663167578.881549",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "98g9N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2022-09-14 14:29:56.947718] "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": !read "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "client_msg_id": "c919ac25-da0b-4f0a-8ed7-9de054342219",
+        "type": "message",
+        "text": "hello",
+        "user": "U02DWDDVAP7",
+        "ts": "1663167683.426569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lYdI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "498e8c37-073d-4359-8dce-9d38666d6a92",
+        "type": "message",
+        "text": "<@U022WGTQ602> you want this right: [2022-09-14] <@U02DWDDVAP7>: hello for every msg",
+        "user": "U02DWDDVAP7",
+        "ts": "1663167739.594369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XjX32",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you want this right: [2022-09-14] <@U02DWDDVAP7>: hello for every msg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663167744.304769",
+        "user": "U022WGTQ602",
+        "text": "<@U022WGTQ602> has joined the channel",
+        "inviter": "U02DWDDVAP7"
+    },
+    {
+        "client_msg_id": "3f93a95d-d823-45cf-ad17-c10729f62f15",
+        "type": "message",
+        "text": "btw the id works when reading",
+        "user": "U02DWDDVAP7",
+        "ts": "1663167772.548959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EJRX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "btw the id works when reading"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fc699afb-da10-4544-be82-e0198faf8359",
+        "type": "message",
+        "text": "!read <@U02DWDDVAP7>",
+        "user": "U02DWDDVAP7",
+        "ts": "1663167783.800929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5C5D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!read "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "[2022-09-14] <@U02DWDDVAP7>: hello[2022-09-14] <@U022WGTQ602>: ok... I'm not really sure what you mean by everything but alright\n",
+        "user": "U0423AWF8JF",
+        "ts": "1663167784.367019",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xYx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2022-09-14] "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": hello[2022-09-14] "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": ok... I'm not really sure what you mean by everything but alright"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "[2022-09-14] <@U02DWDDVAP7>: <@U022WGTQ602> you want this right: [2022-09-14] <@U02DWDDVAP7>: hello for every msg\n",
+        "user": "U0423AWF8JF",
+        "ts": "1663167784.572229",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Ti1n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2022-09-14] "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you want this right: [2022-09-14] "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": hello for every msg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "[2022-09-14] <@U02DWDDVAP7>: btw the id works when reading\n",
+        "user": "U0423AWF8JF",
+        "ts": "1663167784.771419",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QMTY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2022-09-14] "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": btw the id works when reading"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "client_msg_id": "ba98be02-831d-45b6-b409-30b0ea1496c6",
+        "type": "message",
+        "text": "sure... is it actively archiving everything? even when a command isnt done? also at a certain point it might be better to not have the bot search the files for stuff, and instead just store the data in a cloud based drive (google drive or onedrive)",
+        "user": "U022WGTQ602",
+        "ts": "1663167984.870309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3dJi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sure... is it actively archiving everything? even when a command isnt done? also at a certain point it might be better to not have the bot search the files for stuff, and instead just store the data in a cloud based drive (google drive or onedrive)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "91608887-4846-43cb-9fb6-cafe70d41bfb",
+        "type": "message",
+        "text": "is it actively archiving everything? yup\neven when a command isnt done? yup",
+        "user": "U02DWDDVAP7",
+        "ts": "1663168064.237409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2+MJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is it actively archiving everything? yup\neven when a command isnt done? yup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b274fdf4-51f9-4597-aac8-2dec7f687025",
+        "type": "message",
+        "text": "!read <@U022WGTQ602>",
+        "user": "U02DWDDVAP7",
+        "ts": "1663168069.956889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7VQm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!read "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "[2022-09-14] <@U022WGTQ602>: ok... I'm not really sure what you mean by everything but alright\n",
+        "user": "U0423AWF8JF",
+        "ts": "1663168070.436179",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a7AuM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2022-09-14] "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": ok... I'm not really sure what you mean by everything but alright"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "[2022-09-14] <@U02DWDDVAP7>: <@U022WGTQ602> you want this right: [2022-09-14] <@U02DWDDVAP7>: hello for every msg\n",
+        "user": "U0423AWF8JF",
+        "ts": "1663168070.689089",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ukfaj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2022-09-14] "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you want this right: [2022-09-14] "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": hello for every msg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "[2022-09-14] <@U022WGTQ602>: <@U022WGTQ602> has joined the channel\n",
+        "user": "U0423AWF8JF",
+        "ts": "1663168070.929389",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "huCd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2022-09-14] "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has joined the channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "[2022-09-14] <@U022WGTQ602>: sure... is it actively archiving everything? even when a command isnt done? also at a certain point it might be better to not have the bot search the files for stuff, and instead just store the data in a cloud based drive (google drive or onedrive)\n",
+        "user": "U0423AWF8JF",
+        "ts": "1663168071.158049",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W3=D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2022-09-14] "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": sure... is it actively archiving everything? even when a command isnt done? also at a certain point it might be better to not have the bot search the files for stuff, and instead just store the data in a cloud based drive (google drive or onedrive)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "client_msg_id": "05bcbfd6-f938-4aef-a3d1-3a26ad2a764c",
+        "type": "message",
+        "text": "alr, cool, and have you set up separate txt files for each channel?",
+        "user": "U022WGTQ602",
+        "ts": "1663168106.348469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=wY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alr, cool, and have you set up separate txt files for each channel?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "20bdabb2-8c18-4ed9-b7ca-d4700b992e81",
+        "type": "message",
+        "text": "no",
+        "user": "U02DWDDVAP7",
+        "ts": "1663168112.926119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CZu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "49910d40-def6-40a1-92d5-87651734da76",
+        "type": "message",
+        "text": "do you want them",
+        "user": "U02DWDDVAP7",
+        "ts": "1663168125.221519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yX5S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do you want them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a5c7a5f9-2102-4e79-8d02-dd75607ba45e",
+        "type": "message",
+        "text": "that does sound like suffering",
+        "user": "U02DWDDVAP7",
+        "ts": "1663168144.558599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t2JA8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that does sound like suffering"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f093c3dd-e917-4dd6-9199-d05a76a7f8d8",
+        "type": "message",
+        "text": "yes, I do, since the channel isn't included in the log",
+        "user": "U022WGTQ602",
+        "ts": "1663168145.599909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uixas",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, I do, since the channel isn't included in the log"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9ea063d0-b650-4a63-80ba-0992efb5b719",
+        "type": "message",
+        "text": "I can add it really easy",
+        "user": "U02DWDDVAP7",
+        "ts": "1663168162.344559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rX\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can add it really easy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6027e462-fe25-4d70-876d-80ef6aaf1d59",
+        "type": "message",
+        "text": "it would make it easier to read message history, it shouldn't be too hard",
+        "user": "U022WGTQ602",
+        "ts": "1663168164.526799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qzb5B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it would make it easier to read message history, it shouldn't be too hard"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5a20cbf1-1766-4803-a144-384fbcc6757a",
+        "type": "message",
+        "text": "ik you could, but this is really just a switch statement that sets which file should be saved to",
+        "user": "U022WGTQ602",
+        "ts": "1663168203.501559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Abi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ik you could, but this is really just a switch statement that sets which file should be saved to"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663168203.501559",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1663168251.697649",
+        "reply_users": [
+            "U02DWDDVAP7"
+        ],
+        "replies": [
+            {
+                "user": "U02DWDDVAP7",
+                "ts": "1663168237.418639"
+            },
+            {
+                "user": "U02DWDDVAP7",
+                "ts": "1663168251.697649"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ebb6e74a-86d3-4e3c-807b-9372ae83641b",
+        "type": "message",
+        "text": "[date] person: message\nwhere should channel go",
+        "user": "U02DWDDVAP7",
+        "ts": "1663168206.456619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1xqDK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[date] person: message\nwhere should channel go"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Adding channel just seams better",
+        "user": "U02DWDDVAP7",
+        "ts": "1663168237.418639",
+        "thread_ts": "1663168203.501559",
+        "root": {
+            "client_msg_id": "5a20cbf1-1766-4803-a144-384fbcc6757a",
+            "type": "message",
+            "text": "ik you could, but this is really just a switch statement that sets which file should be saved to",
+            "user": "U022WGTQ602",
+            "ts": "1663168203.501559",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Abi",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "ik you could, but this is really just a switch statement that sets which file should be saved to"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T010YRDV4KB",
+            "thread_ts": "1663168203.501559",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1663168251.697649",
+            "reply_users": [
+                "U02DWDDVAP7"
+            ],
+            "replies": [
+                {
+                    "user": "U02DWDDVAP7",
+                    "ts": "1663168237.418639"
+                },
+                {
+                    "user": "U02DWDDVAP7",
+                    "ts": "1663168251.697649"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kCuFF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Adding channel just seams better"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "cd438a54-8f42-4d8b-95c2-a13ee0083f94"
+    },
+    {
+        "client_msg_id": "eaad18b6-4d17-4f73-9481-fe15c55e529c",
+        "type": "message",
+        "text": "to the archive msg",
+        "user": "U02DWDDVAP7",
+        "ts": "1663168251.697649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WH9Z2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "to the archive msg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663168203.501559",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "37fc8ed6-dc41-4cd1-a1bf-eba0b10e2371",
+        "type": "message",
+        "text": "nowhere, I want separate files since if we just had a long message stream across all channels it would get hard to trace convos in the stream format",
+        "user": "U022WGTQ602",
+        "ts": "1663168278.120249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+oeM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nowhere, I want separate files since if we just had a long message stream across all channels it would get hard to trace convos in the stream format"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fa52fc67-9a81-48cd-bd30-d875b2f712fa",
+        "type": "message",
+        "text": "ok",
+        "user": "U02DWDDVAP7",
+        "ts": "1663168339.051439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y7Hkf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b4708041-87a5-4ed8-8d48-810dba289b98",
+        "type": "message",
+        "text": "test",
+        "user": "U02DWDDVAP7",
+        "ts": "1663168408.350339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sXr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "025a16ba-8061-4f7d-a4c4-2fda2de2aa5c",
+        "type": "message",
+        "text": "this might end poorly but",
+        "user": "U022WGTQ602",
+        "ts": "1663168432.054109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mpcE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this might end poorly but"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "49a2ca37-31ba-4dd5-8651-b85a80e772e7",
+        "type": "message",
+        "text": "!read",
+        "user": "U022WGTQ602",
+        "ts": "1663168437.995589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fPi\/U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!read"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6ef35c9f-8e2e-4493-91b4-bd3e56f627ea",
+        "type": "message",
+        "text": "!read a",
+        "user": "U022WGTQ602",
+        "ts": "1663168446.448379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QKOn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!read a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f91170ec-4162-44b9-b7ef-5de40dccdfa6",
+        "type": "message",
+        "text": "?",
+        "user": "U022WGTQ602",
+        "ts": "1663168451.422699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o2Np",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e0849d47-db0e-4f75-837d-40ae17f51b8a",
+        "type": "message",
+        "text": "give me a sec",
+        "user": "U02DWDDVAP7",
+        "ts": "1663168452.426259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bf5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "give me a sec"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ca01a130-767b-4fc1-b266-51c2c2455c70",
+        "type": "message",
+        "text": "oh alr",
+        "user": "U022WGTQ602",
+        "ts": "1663168457.632849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bMxut",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh alr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c9910ba0-5110-4a40-9dfc-ce1692b55068",
+        "type": "message",
+        "text": "I have a work around to switch",
+        "user": "U02DWDDVAP7",
+        "ts": "1663168474.006469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1vQ2E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have a work around to switch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1b301b80-f001-437c-9340-3e09400df6a1",
+        "type": "message",
+        "text": "wait yea, when you're editing the code the bot isn't working lol",
+        "user": "U022WGTQ602",
+        "ts": "1663168475.966309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "egGSO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wait yea, when you're editing the code the bot isn't working lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bf9e7a52-66b0-4bc6-9d36-dc44e38e3527",
+        "type": "message",
+        "text": "hello",
+        "user": "U02DWDDVAP7",
+        "ts": "1663168595.975429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lUarR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "52af13c1-92cc-44b1-b49e-2ffd7342a819",
+        "type": "message",
+        "text": "!read h",
+        "user": "U02DWDDVAP7",
+        "ts": "1663168601.508529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gIpq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!read h"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "[2022-09-14]<@U02DWDDVAP7>: hello\n",
+        "user": "U0423AWF8JF",
+        "ts": "1663168602.047249",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zmjh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2022-09-14]"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": hello"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "[2022-09-14]<@U02DWDDVAP7>: hello\n",
+        "user": "U0423AWF8JF",
+        "ts": "1663168675.453549",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k5ZF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2022-09-14]"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": hello"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "client_msg_id": "05d60099-89d1-456d-b911-5f0bef093b97",
+        "type": "message",
+        "text": "!read <@U038AS2R6UV>",
+        "user": "U02DWDDVAP7",
+        "ts": "1663169128.552599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qbQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!read "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U038AS2R6UV"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e47a9ff9-e5e2-42e6-8712-89071f02cca0",
+        "type": "message",
+        "text": "test",
+        "user": "U02DWDDVAP7",
+        "ts": "1663169197.672089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OEBT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "[2022-09-14]<@U02DWDDVAP7>: !read <@U038AS2R6UV>\n",
+        "user": "U0423AWF8JF",
+        "ts": "1663169392.443719",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GRg07",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2022-09-14]"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": !read "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U038AS2R6UV"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "client_msg_id": "170bf171-c746-4c87-b93b-6ec86de5a280",
+        "type": "message",
+        "text": "I see",
+        "user": "U02DWDDVAP7",
+        "ts": "1663169436.446499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gE2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I see"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c181b958-253f-46ba-a63a-826026eebf31",
+        "type": "message",
+        "text": "another thing you might want to add is to have it ignore the read commands, just a thought",
+        "user": "U022WGTQ602",
+        "ts": "1663169603.138289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wuEAN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "another thing you might want to add is to have it ignore the read commands, just a thought"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663169603.138289",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1663170390.078009",
+        "reply_users": [
+            "U02DWDDVAP7"
+        ],
+        "replies": [
+            {
+                "user": "U02DWDDVAP7",
+                "ts": "1663170390.078009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9c845385-4c99-4d1b-acc8-8b4e935020ba",
+        "type": "message",
+        "text": "yeah",
+        "user": "U02DWDDVAP7",
+        "ts": "1663169613.245239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wVlh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a82c27d0-7ad3-4220-802f-7b0bef26acaa",
+        "type": "message",
+        "text": "test",
+        "user": "U02DWDDVAP7",
+        "ts": "1663169884.444759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "48H0g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4e847a2b-fbe7-49d4-9ced-09fce7642536",
+        "type": "message",
+        "text": "test",
+        "user": "U02DWDDVAP7",
+        "ts": "1663170033.515019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AO5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7f9d2428-d801-4f32-912d-e8909b4a24ad",
+        "type": "message",
+        "text": "!read test",
+        "user": "U02DWDDVAP7",
+        "ts": "1663170101.414129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mNE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!read test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "[2022-09-14]<@U02DWDDVAP7>: test\n",
+        "user": "U0423AWF8JF",
+        "ts": "1663170102.053319",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JQu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2022-09-14]"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "[2022-09-14]<@U02DWDDVAP7>: test\n",
+        "user": "U0423AWF8JF",
+        "ts": "1663170210.839779",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wnjz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2022-09-14]"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "resolved",
+        "user": "U02DWDDVAP7",
+        "ts": "1663170390.078009",
+        "thread_ts": "1663169603.138289",
+        "root": {
+            "client_msg_id": "c181b958-253f-46ba-a63a-826026eebf31",
+            "type": "message",
+            "text": "another thing you might want to add is to have it ignore the read commands, just a thought",
+            "user": "U022WGTQ602",
+            "ts": "1663169603.138289",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "wuEAN",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "another thing you might want to add is to have it ignore the read commands, just a thought"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T010YRDV4KB",
+            "thread_ts": "1663169603.138289",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1663170390.078009",
+            "reply_users": [
+                "U02DWDDVAP7"
+            ],
+            "replies": [
+                {
+                    "user": "U02DWDDVAP7",
+                    "ts": "1663170390.078009"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dE\/D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "resolved"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "cf29b142-a014-46ee-baa6-5d5fdf246ead"
+    },
+    {
+        "client_msg_id": "3848fc7b-4d9c-4236-ab11-876a622be529",
+        "type": "message",
+        "text": "!help",
+        "user": "U02DWDDVAP7",
+        "ts": "1663170829.124499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e7Nm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "!msg messages other app\n!read(slack only) searchs channel archive for the word you are looking for",
+        "user": "U0423AWF8JF",
+        "ts": "1663170829.597249",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RQh9E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!msg messages other app\n!read(slack only) searchs channel archive for the word you are looking for"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "client_msg_id": "06929297-c70c-49c0-8d6f-89f00f7e30e9",
+        "type": "message",
+        "text": "!help",
+        "user": "U02DWDDVAP7",
+        "ts": "1663173540.738119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vin",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "!msg messages other app\n!read (slack only) searchs channel archive for the word you are looking for",
+        "user": "U0423AWF8JF",
+        "ts": "1663173541.507109",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oFshN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!msg messages other app\n!read (slack only) searchs channel archive for the word you are looking for"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "client_msg_id": "238fc7f3-c042-4a44-a4b7-6b01b1c7fe16",
+        "type": "message",
+        "text": "!help",
+        "user": "U02DWDDVAP7",
+        "ts": "1663173550.109979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CKQK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "!msg messages other app\n!read (slack only) searchs channel archive for the word you are looking for",
+        "user": "U0423AWF8JF",
+        "ts": "1663173551.052619",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jMvNK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!msg messages other app\n!read (slack only) searchs channel archive for the word you are looking for"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "client_msg_id": "43ffcd82-2fbb-41c4-b56a-13ea50df2887",
+        "type": "message",
+        "text": "!msg",
+        "user": "U02DWDDVAP7",
+        "ts": "1663173557.050859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RkMQH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!msg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "42ae67cf-6779-4e07-8974-f14547543c66",
+        "type": "message",
+        "text": "!msg hello",
+        "user": "U02DWDDVAP7",
+        "ts": "1663173564.041739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "79wQI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!msg hello"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

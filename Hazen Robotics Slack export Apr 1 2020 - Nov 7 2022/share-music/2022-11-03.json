@@ -1,0 +1,161 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1667539060.079209",
+        "user": "U022WGTQ602",
+        "text": "<@U022WGTQ602> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1667539086.165599",
+        "user": "U022WGTQ602",
+        "text": "set the channel description: sharing music, pretty self explanatory",
+        "purpose": "sharing music, pretty self explanatory"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1667539130.902819",
+        "user": "U022WGTQ602",
+        "text": "set the channel description: sharing music, pretty self explanatory, don't be a soundcloud rapper",
+        "purpose": "sharing music, pretty self explanatory, don't be a soundcloud rapper"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1667539614.932689",
+        "user": "U02DWDDVAP7",
+        "text": "<@U02DWDDVAP7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1667539630.778079",
+        "user": "U0118UR0J72",
+        "text": "<@U0118UR0J72> has joined the channel"
+    },
+    {
+        "client_msg_id": "b5ae8053-19d8-431c-a095-c595dbb7fa44",
+        "type": "message",
+        "text": "<https:\/\/open.spotify.com\/playlist\/4IsXVr52Pl5qKMAEWTyrqj?si=FqPxBnPVTcu8LDZVLyI3zQ&amp;utm_source=copy-link|https:\/\/open.spotify.com\/playlist\/4IsXVr52Pl5qKMAEWTyrqj?si=FqPxBnPVTcu8LDZVLyI3zQ&amp;utm_source=copy-link>",
+        "user": "U0118UR0J72",
+        "ts": "1667539632.920309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V21Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/playlist\/4IsXVr52Pl5qKMAEWTyrqj?si=FqPxBnPVTcu8LDZVLyI3zQ&utm_source=copy-link",
+                                "text": "https:\/\/open.spotify.com\/playlist\/4IsXVr52Pl5qKMAEWTyrqj?si=FqPxBnPVTcu8LDZVLyI3zQ&utm_source=copy-link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/open.spotify.com\/playlist\/4IsXVr52Pl5qKMAEWTyrqj?si=FqPxBnPVTcu8LDZVLyI3zQ&amp;utm_source=copy-link",
+                "audio_html": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"380\" title=\"Spotify Embed: C418\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https:\/\/open.spotify.com\/embed\/playlist\/4IsXVr52Pl5qKMAEWTyrqj?si=FqPxBnPVTcu8LDZVLyI3zQ&amp%3Butm_source=copy-link&utm_source=oembed\"><\/iframe>",
+                "audio_html_width": 456,
+                "audio_html_height": 380,
+                "thumb_url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b2734cf0b29eb06a92aa96acae64ab67616d0000b2737757b2ed2d88dd6cea7aef5dab67616d0000b2737c1b1778fc87d867f210faf6ab67616d0000b273aaeb5c9fb6131977995b7f0e",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                "id": 1,
+                "original_url": "https:\/\/open.spotify.com\/playlist\/4IsXVr52Pl5qKMAEWTyrqj?si=FqPxBnPVTcu8LDZVLyI3zQ&amp;utm_source=copy-link",
+                "fallback": "Spotify Audio: C418",
+                "title": "C418",
+                "title_link": "https:\/\/open.spotify.com\/playlist\/4IsXVr52Pl5qKMAEWTyrqj?si=FqPxBnPVTcu8LDZVLyI3zQ&amp;utm_source=copy-link",
+                "service_name": "Spotify",
+                "service_url": "https:\/\/spotify.com\/"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1667539633.343409",
+        "user": "U02EA7L1KGT",
+        "text": "<@U02EA7L1KGT> has joined the channel"
+    },
+    {
+        "client_msg_id": "8c82f360-546c-4a3b-aa6b-4c2f6818cf81",
+        "type": "message",
+        "text": "<https:\/\/open.spotify.com\/playlist\/63PoSrbDGt3MsclXEs9HXn?si=289b2bf4ff0a4453>",
+        "user": "U02EA7L1KGT",
+        "ts": "1667539674.572919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Op\/yd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/playlist\/63PoSrbDGt3MsclXEs9HXn?si=289b2bf4ff0a4453"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "3b24be10b035",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-26\/4305995690752_3b24be10b035098cd409_72.png",
+            "first_name": "Asher",
+            "real_name": "Asher Stocker",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "asherstocker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/open.spotify.com\/playlist\/63PoSrbDGt3MsclXEs9HXn?si=289b2bf4ff0a4453",
+                "audio_html": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"380\" title=\"Spotify Embed: quite literally the\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https:\/\/open.spotify.com\/embed\/playlist\/63PoSrbDGt3MsclXEs9HXn?si=289b2bf4ff0a4453&utm_source=oembed\"><\/iframe>",
+                "audio_html_width": 456,
+                "audio_html_height": 380,
+                "thumb_url": "https:\/\/i.scdn.co\/image\/ab67706c0000bebbcffb635cf97b2a78a92a2b73",
+                "thumb_width": 640,
+                "thumb_height": 424,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                "id": 1,
+                "original_url": "https:\/\/open.spotify.com\/playlist\/63PoSrbDGt3MsclXEs9HXn?si=289b2bf4ff0a4453",
+                "fallback": "Spotify Audio: quite literally the",
+                "title": "quite literally the",
+                "title_link": "https:\/\/open.spotify.com\/playlist\/63PoSrbDGt3MsclXEs9HXn?si=289b2bf4ff0a4453",
+                "service_name": "Spotify",
+                "service_url": "https:\/\/spotify.com\/"
+            }
+        ]
+    }
+]

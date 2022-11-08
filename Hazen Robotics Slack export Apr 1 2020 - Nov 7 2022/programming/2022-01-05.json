@@ -1,0 +1,814 @@
+[
+    {
+        "type": "message",
+        "text": "Homography calculations",
+        "files": [
+            {
+                "id": "F02T98RF4G1",
+                "created": 1641439714,
+                "timestamp": 1641439714,
+                "name": "20220105_192750.jpg",
+                "title": "20220105_192750.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U018WC9RM3K",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 3693457,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02T98RF4G1\/20220105_192750.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02T98RF4G1\/download\/20220105_192750.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U018WC9RM3K\/F02T98RF4G1\/20220105_192750.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02T98RF4G1-8e53d94c27",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U018WC9RM3K",
+        "display_as_bot": false,
+        "ts": "1641439717.000500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L\/M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Homography calculations"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3fa2e0f8-10be-4c9c-888b-c6f3b765e4d3"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F02T9ELHFC1",
+                "created": 1641445662,
+                "timestamp": 1641445662,
+                "name": "Screenshot_20220105-210702_DuckDuckGo.jpg",
+                "title": "Screenshot_20220105-210702_DuckDuckGo.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U018WC9RM3K",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 197175,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02T9ELHFC1\/screenshot_20220105-210702_duckduckgo.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02T9ELHFC1\/download\/screenshot_20220105-210702_duckduckgo.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T9ELHFC1-7e14912d9c\/screenshot_20220105-210702_duckduckgo_64.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T9ELHFC1-7e14912d9c\/screenshot_20220105-210702_duckduckgo_80.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T9ELHFC1-7e14912d9c\/screenshot_20220105-210702_duckduckgo_360.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 168,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T9ELHFC1-7e14912d9c\/screenshot_20220105-210702_duckduckgo_480.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 224,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T9ELHFC1-7e14912d9c\/screenshot_20220105-210702_duckduckgo_160.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T9ELHFC1-7e14912d9c\/screenshot_20220105-210702_duckduckgo_720.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 336,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T9ELHFC1-7e14912d9c\/screenshot_20220105-210702_duckduckgo_800.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1716,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T9ELHFC1-7e14912d9c\/screenshot_20220105-210702_duckduckgo_960.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 448,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T9ELHFC1-7e14912d9c\/screenshot_20220105-210702_duckduckgo_1024.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 478,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 2316,
+                "thumb_tiny": "AwAwABbRwc0oB9f0phVSTyaAAOjEUAPAxS4pB9c0tADD9480mB6ignk0DmgBy9OuadTVGPSnUAMIJJ4ow3oKdzRzQADOOaWiigD\/2Q==",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U018WC9RM3K\/F02T9ELHFC1\/screenshot_20220105-210702_duckduckgo.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02T9ELHFC1-0953be7319",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U018WC9RM3K",
+        "display_as_bot": false,
+        "ts": "1641445665.000800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zYA1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "e82b8aff-6268-4914-b771-986a7b29494a"
+    },
+    {
+        "client_msg_id": "76afd44f-1f41-456a-aec9-a93b7f565bfc",
+        "type": "message",
+        "text": "<https:\/\/vivekseth.com\/computer-vision-matrix-differences\/|https:\/\/vivekseth.com\/computer-vision-matrix-differences\/>",
+        "user": "U018WC9RM3K",
+        "ts": "1641445947.001800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u2EzS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/vivekseth.com\/computer-vision-matrix-differences\/",
+                                "text": "https:\/\/vivekseth.com\/computer-vision-matrix-differences\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e729c57a-42c7-4d18-925c-21c88ade8621",
+        "type": "message",
+        "text": "So perspective transform would be a better thing to use?",
+        "user": "U0119239VCY",
+        "ts": "1641445954.001900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/xl9r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So perspective transform would be a better thing to use?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3abb4c21-3a02-4721-bbf2-d2bc6305dd90",
+        "type": "message",
+        "text": "Yes",
+        "user": "U018WC9RM3K",
+        "ts": "1641445960.002100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BGf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d6a3eaaf-e601-4249-9839-522ebfba3d52",
+        "type": "message",
+        "text": "Or maybe essential matrix",
+        "user": "U018WC9RM3K",
+        "ts": "1641445983.002800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4BSDB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or maybe essential matrix"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1d7128b2-886f-4850-9919-6e99243540d6",
+        "type": "message",
+        "text": "With multiple images for that we need opencv in java",
+        "user": "U018WC9RM3K",
+        "ts": "1641446087.005000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Xl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "With multiple images for that we need opencv in java"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d7b82208-4e5b-471f-bcbd-1e38e4781088",
+        "type": "message",
+        "text": "It looks like essential and fundamental matrix takes more points though",
+        "user": "U0119239VCY",
+        "ts": "1641446097.005200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SUh0k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It looks like essential and fundamental matrix takes more points though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d4632a70-b0c6-4e65-b12e-5cc87dddee50",
+        "type": "message",
+        "text": "Oh yeah",
+        "user": "U0119239VCY",
+        "ts": "1641446106.005300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tm9v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh yeah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6bc19957-afa0-4fdc-991b-2dc423f63072",
+        "type": "message",
+        "text": "This is Sam's method <https:\/\/www.pyimagesearch.com\/2015\/01\/19\/find-distance-camera-objectmarker-using-python-opencv\/|https:\/\/www.pyimagesearch.com\/2015\/01\/19\/find-distance-camera-objectmarker-using-python-opencv\/>",
+        "user": "U018WC9RM3K",
+        "ts": "1641447415.005900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3NMX4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is Sam's method "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.pyimagesearch.com\/2015\/01\/19\/find-distance-camera-objectmarker-using-python-opencv\/",
+                                "text": "https:\/\/www.pyimagesearch.com\/2015\/01\/19\/find-distance-camera-objectmarker-using-python-opencv\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.pyimagesearch.com\/2015\/01\/19\/find-distance-camera-objectmarker-using-python-opencv\/",
+                "ts": 1421679616,
+                "image_url": "https:\/\/www.pyimagesearch.com\/wp-content\/uploads\/2015\/01\/distance_to_camera_featured.jpg",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 29854,
+                "service_icon": "https:\/\/www.pyimagesearch.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.pyimagesearch.com\/2015\/01\/19\/find-distance-camera-objectmarker-using-python-opencv\/",
+                "fallback": "PyImageSearch: Find distance from camera to object using Python and OpenCV",
+                "text": "Learn how to compute the distance from a camera to an object or marker using OpenCV. Simple OpenCV + Python algorithm to find distance from camera to object",
+                "title": "Find distance from camera to object using Python and OpenCV",
+                "title_link": "https:\/\/www.pyimagesearch.com\/2015\/01\/19\/find-distance-camera-objectmarker-using-python-opencv\/",
+                "service_name": "PyImageSearch",
+                "fields": [
+                    {
+                        "value": "Adrian Rosebrock",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "13 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6aeb2e4e-8778-429f-83f1-28ea6b503016",
+        "type": "message",
+        "text": "One last link to look at: <https:\/\/stackoverflow.com\/questions\/14038002\/opencv-how-to-calculate-distance-between-camera-and-object-using-image|https:\/\/stackoverflow.com\/questions\/14038002\/opencv-how-to-calculate-distance-between-camera-and-object-using-image>",
+        "user": "U018WC9RM3K",
+        "ts": "1641447671.006600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F51",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One last link to look at: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stackoverflow.com\/questions\/14038002\/opencv-how-to-calculate-distance-between-camera-and-object-using-image",
+                                "text": "https:\/\/stackoverflow.com\/questions\/14038002\/opencv-how-to-calculate-distance-between-camera-and-object-using-image"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/stackoverflow.com\/questions\/14038002\/opencv-how-to-calculate-distance-between-camera-and-object-using-image",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon.png?v=c78bd457575a",
+                "id": 1,
+                "original_url": "https:\/\/stackoverflow.com\/questions\/14038002\/opencv-how-to-calculate-distance-between-camera-and-object-using-image",
+                "fallback": "Stack Overflow: OpenCV: How-to calculate distance between camera and object using image?",
+                "text": "I am a newbie in OpenCV. I am working with the following formula to calculate distance: distance to object (mm) = focal length (mm) * real height of the object (mm) * image height (pixels) ...",
+                "title": "OpenCV: How-to calculate distance between camera and object using image?",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/14038002\/opencv-how-to-calculate-distance-between-camera-and-object-using-image",
+                "service_name": "Stack Overflow"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "178d7429-ae43-4f61-9b81-47c34ce90e62",
+        "type": "message",
+        "text": "I tried the perspective transform method and it still gave the same values",
+        "user": "U0119239VCY",
+        "ts": "1641448250.007400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tv=a5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I tried the perspective transform method and it still gave the same values"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ad5a9cba-0588-405e-ab5e-322ff3c24659",
+        "type": "message",
+        "text": "What are you working on? Are these different solutions for opencv cause of the dependencies?",
+        "user": "U0118UR0J72",
+        "ts": "1641448408.008600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NHX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What are you working on? Are these different solutions for opencv cause of the dependencies?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a25e209f-2131-4954-9a63-2a903085c51b",
+        "type": "message",
+        "text": "We're trying to convert the x,y coordinate of a pixel to a field x,y coordinate",
+        "user": "U0119239VCY",
+        "ts": "1641450929.009600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oYX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We're trying to convert the x,y coordinate of a pixel to a field x,y coordinate"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "95800d3a-e803-4226-b4a1-e4f39c750804",
+        "type": "message",
+        "text": "Wow",
+        "user": "U0118UR0J72",
+        "ts": "1641450954.009800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7A1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "af10d982-b139-44a5-9393-ceb0167dfeb3",
+        "type": "message",
+        "text": "I'm pretty sure this is doing all that weird inverse matrix math we were looking at earlier so that we can use the camera calibration instead of calculating from reference points",
+        "user": "U0119239VCY",
+        "ts": "1641451109.011800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zf2K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm pretty sure this is doing all that weird inverse matrix math we were looking at earlier so that we can use the camera calibration instead of calculating from reference points"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f39c16f4-c611-40cb-8300-b810ced5dfa6",
+        "type": "message",
+        "text": "<https:\/\/answers.opencv.org\/question\/62779\/image-coordinate-to-world-coordinate-opencv\/|https:\/\/answers.opencv.org\/question\/62779\/image-coordinate-to-world-coordinate-opencv\/>",
+        "user": "U0119239VCY",
+        "ts": "1641451111.012000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n2MMd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/answers.opencv.org\/question\/62779\/image-coordinate-to-world-coordinate-opencv\/",
+                                "text": "https:\/\/answers.opencv.org\/question\/62779\/image-coordinate-to-world-coordinate-opencv\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/answers.opencv.org\/question\/62779\/image-coordinate-to-world-coordinate-opencv\/",
+                "service_icon": "https:\/\/answers.opencv.org\/upfiles\/icon_opencv.ico",
+                "id": 1,
+                "original_url": "https:\/\/answers.opencv.org\/question\/62779\/image-coordinate-to-world-coordinate-opencv\/",
+                "fallback": "image coordinate to world coordinate opencv - OpenCV Q&amp;A Forum",
+                "text": "I calibrated my mono camera using opencv. Now I know the camera intrinsic matrix and distortion coefs [K1, K2, P1 ,P2,K3 ,K4, K5, K6] of my camera. Assuming that camera is place in [x, y, z] with [Roll, Pitch, Yaw] rotations. how can I get each pixel in world coordinate when the camera is looking on the floor [z=0].",
+                "title": "image coordinate to world coordinate opencv - OpenCV Q&amp;A Forum",
+                "title_link": "https:\/\/answers.opencv.org\/question\/62779\/image-coordinate-to-world-coordinate-opencv\/",
+                "service_name": "answers.opencv.org"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ef7aa816-6451-470c-966b-1e6437e6be26",
+        "type": "message",
+        "text": "And I'm hoping we can get the rvec and tvec values from laying the chessboard flat on the ground",
+        "user": "U0119239VCY",
+        "ts": "1641451165.013500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O8s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And I'm hoping we can get the rvec and tvec values from laying the chessboard flat on the ground"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

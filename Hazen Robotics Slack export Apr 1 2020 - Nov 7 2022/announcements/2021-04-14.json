@@ -1,0 +1,133 @@
+[
+    {
+        "client_msg_id": "CD137865-DE9D-4D49-A4B6-3D35ED3E7624",
+        "type": "message",
+        "text": "<!everyone> there is a meeting today, I know we’ve been working super hard lately so if you need a break feel free to skip it, but we do have some judging and en stuff to talk about",
+        "user": "U012BUXVC6B",
+        "ts": "1618434929.004200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W447N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " there is a meeting today, I know we’ve been working super hard lately so if you need a break feel free to skip it, but we do have some judging and en stuff to talk about"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Here is the technical design page-are there any changes I should make to the format or content? Also <@U012BUXVC6B> do you have cad renders of each of those systems to put on the right side",
+        "files": [
+            {
+                "id": "F01TXKEB9U7",
+                "created": 1618442770,
+                "timestamp": 1618442770,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U010WTHDW5Q",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 2844749,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F01TXKEB9U7\/image_from_ios.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F01TXKEB9U7\/download\/image_from_ios.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01TXKEB9U7-d99dd89eb6\/image_from_ios_64.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01TXKEB9U7-d99dd89eb6\/image_from_ios_80.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01TXKEB9U7-d99dd89eb6\/image_from_ios_360.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01TXKEB9U7-d99dd89eb6\/image_from_ios_480.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01TXKEB9U7-d99dd89eb6\/image_from_ios_160.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01TXKEB9U7-d99dd89eb6\/image_from_ios_720.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01TXKEB9U7-d99dd89eb6\/image_from_ios_800.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01TXKEB9U7-d99dd89eb6\/image_from_ios_960.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01TXKEB9U7-d99dd89eb6\/image_from_ios_1024.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACR6qTTsbRkmjoBSBj70gJcqe9BQ0IeOSOKGf0osMjK80mBTWGTSYoAeTxRn6U3tSg0xDgfpT8UwfhTiaAGMQDSZHv8AlSk80maQyPdxTlb1FUDMT1UGjzR\/d\/8AHjTEaQI9KUms3zh\/dP8A30aUT4\/hP\/fRoAvHrSVV+1n+5+tH2o\/3f1pDP\/\/Z",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U010WTHDW5Q\/F01TXKEB9U7\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F01TXKEB9U7-4a6893d923",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U010WTHDW5Q",
+        "display_as_bot": false,
+        "ts": "1618442850.006000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gB8sX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is the technical design page-are there any changes I should make to the format or content? Also "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012BUXVC6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you have cad renders of each of those systems to put on the right side"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "DEE56614-BDA0-4538-9D64-2A387C04D9E2"
+    }
+]

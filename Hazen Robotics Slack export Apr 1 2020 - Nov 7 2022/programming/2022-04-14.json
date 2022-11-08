@@ -1,0 +1,587 @@
+[
+    {
+        "type": "message",
+        "text": "????????????????????????? <@U018WC9RM3K> ",
+        "files": [
+            {
+                "id": "F03BZ29P4GH",
+                "created": 1649967464,
+                "timestamp": 1649967464,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U02FJ8K43GU",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 4451,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F03BZ29P4GH\/image_from_ios.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F03BZ29P4GH\/download\/image_from_ios.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03BZ29P4GH-3587c9af14\/image_from_ios_64.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03BZ29P4GH-3587c9af14\/image_from_ios_80.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03BZ29P4GH-3587c9af14\/image_from_ios_360.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 111,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03BZ29P4GH-3587c9af14\/image_from_ios_160.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "original_w": 454,
+                "original_h": 140,
+                "thumb_tiny": "AwAOADDQYHsTRhvWnYHWloAaAcdaACO+adRQAnPtRz7UtFAH\/9k=",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U02FJ8K43GU\/F03BZ29P4GH\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F03BZ29P4GH-c66815a9d0",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02FJ8K43GU",
+        "display_as_bot": false,
+        "ts": "1649967492.308759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AV34W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "????????????????????????? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U018WC9RM3K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6FDB812F-DC49-4077-8654-D8D907990CF7"
+    },
+    {
+        "client_msg_id": "b7603785-7de7-42a0-8a05-dad6bd16a989",
+        "type": "message",
+        "text": "You cannot break a \" \" over two lines you need to concatenate \"\" +\"\" to go over more than one line",
+        "user": "U018WC9RM3K",
+        "ts": "1649967563.326079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QtHwl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You cannot break a \" \" over two lines you need to concatenate \"\" +\"\" to go over more than one line"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "EFFA42EB-5984-4349-9303-773BCE41DECF",
+        "type": "message",
+        "text": "it's only on 1 line",
+        "user": "U02FJ8K43GU",
+        "ts": "1649967602.507339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5U0a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it's only on 1 line"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g630f394318d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/630f394318d67068d08b3382dfde455b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Zachary",
+            "real_name": "Zachary Clark",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "zachattack197611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "16A2BE9F-E0BF-4C83-B6BA-FA66CC3C3D42",
+        "type": "message",
+        "text": "the error just doesn't show it because the window is small",
+        "user": "U02FJ8K43GU",
+        "ts": "1649967623.871569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "upOk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the error just doesn't show it because the window is small"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g630f394318d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/630f394318d67068d08b3382dfde455b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Zachary",
+            "real_name": "Zachary Clark",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "zachattack197611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0e9890d3-2e59-4a4c-bcb2-2d4c2758e991",
+        "type": "message",
+        "text": "Say it with me\nSystem.out.println(\"Java moment\");",
+        "user": "U02DWDDVAP7",
+        "ts": "1649967637.427489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "02HV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Say it with me\nSystem.out.println(\"Java moment\");"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6C48D168-AE6F-4EC2-B339-5C5379B633C9",
+        "type": "message",
+        "text": "oh",
+        "user": "U02FJ8K43GU",
+        "ts": "1649967652.921809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fQ+V4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g630f394318d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/630f394318d67068d08b3382dfde455b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Zachary",
+            "real_name": "Zachary Clark",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "zachattack197611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8A57B85D-BD42-4651-90A5-1B90EDF42F0E",
+        "type": "message",
+        "text": "this is a developer moment",
+        "user": "U02FJ8K43GU",
+        "ts": "1649967659.912439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tbqHm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is a developer moment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g630f394318d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/630f394318d67068d08b3382dfde455b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Zachary",
+            "real_name": "Zachary Clark",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "zachattack197611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "D2D3917C-79A8-428D-92BF-25195B385220",
+        "type": "message",
+        "text": "there's no equals sign",
+        "user": "U02FJ8K43GU",
+        "ts": "1649967674.747119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aek4g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "there's no equals sign"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g630f394318d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/630f394318d67068d08b3382dfde455b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Zachary",
+            "real_name": "Zachary Clark",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "zachattack197611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "09B91107-D8EE-42D1-8C22-5D9A66F4E6CC",
+        "type": "message",
+        "text": "Does anyone know what a mimetype is?",
+        "user": "U018B1TFE3Y",
+        "ts": "1649981782.983379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HqFxG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone know what a mimetype is?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1649981782.983379",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1649994205.694389",
+        "reply_users": [
+            "U0119239VCY",
+            "U018B1TFE3Y"
+        ],
+        "replies": [
+            {
+                "user": "U0119239VCY",
+                "ts": "1649992214.101339"
+            },
+            {
+                "user": "U018B1TFE3Y",
+                "ts": "1649994205.694389"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "Just built its time to make auto",
+        "files": [
+            {
+                "id": "F03BJE6PJ4D",
+                "created": 1649985755,
+                "timestamp": 1649985755,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02DWDDVAP7",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 56242,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F03BJE6PJ4D\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F03BJE6PJ4D\/download\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03BJE6PJ4D-6e0322c4fe\/image_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03BJE6PJ4D-6e0322c4fe\/image_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03BJE6PJ4D-6e0322c4fe\/image_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 297,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03BJE6PJ4D-6e0322c4fe\/image_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 396,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03BJE6PJ4D-6e0322c4fe\/image_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "original_w": 666,
+                "original_h": 549,
+                "thumb_tiny": "AwAnADC+eOTj8qUPnuKRgccUiggjPSgB+488rxQHzS4B60bRQAm4Ubh070u0elJtH+TQMD06Zp31pp6HPShTnv8ApQIXNGaT15oDep6+1AC5ozSE\/KetAwMYoAdRRRQAmDnqaWiigBMcUig96dRQB\/\/Z",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U02DWDDVAP7\/F03BJE6PJ4D\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F03BJE6PJ4D-a55b8b283f",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02DWDDVAP7",
+        "display_as_bot": false,
+        "ts": "1649985820.241489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HBK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just built its time to make auto"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1b071137-79b4-4e6f-b7d2-76427142603d"
+    },
+    {
+        "client_msg_id": "8961ba48-ffc9-4bc6-9248-e163561be18a",
+        "type": "message",
+        "text": "nice",
+        "user": "U022WGTQ602",
+        "ts": "1649985889.410059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y8Hu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7f54d54a-cac2-460f-b9e2-dc517619910d",
+        "type": "message",
+        "text": "A mimetype basically just says what type a certain data piece is, so that your application can know how to handle the data. For instance, a data with the mimetype of text\/JSON would mean that the data is a JSON object represented in text",
+        "user": "U0119239VCY",
+        "ts": "1649992214.101339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "avot",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A mimetype basically just says what type a certain data piece is, so that your application can know how to handle the data. For instance, a data with the mimetype of text\/JSON would mean that the data is a JSON object represented in text"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1649981782.983379",
+        "parent_user_id": "U018B1TFE3Y"
+    },
+    {
+        "client_msg_id": "18426E0A-EF9E-4913-9ED0-C73EDA88F91B",
+        "type": "message",
+        "text": "Ok, it was for the internship thing but I got it figured out ",
+        "user": "U018B1TFE3Y",
+        "ts": "1649994205.694389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EMO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, it was for the internship thing but I got it figured out "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1649981782.983379",
+        "parent_user_id": "U018B1TFE3Y"
+    }
+]

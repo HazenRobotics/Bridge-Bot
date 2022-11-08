@@ -1,0 +1,154 @@
+[
+    {
+        "client_msg_id": "a67956fa-5e23-4dc4-9bf8-cf2e900232a7",
+        "type": "message",
+        "text": "FYI: <http:\/\/sendcutsend.com|sendcutsend.com>",
+        "user": "U018WC9RM3K",
+        "ts": "1612995896.023500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mLEvH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FYI: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/sendcutsend.com",
+                                "text": "sendcutsend.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "22e38d12-8d53-4f9e-b2b6-59c57d389dc9",
+        "type": "message",
+        "text": "Wow, that's a lot cheaper than other services I've checked out",
+        "user": "U012BUXVC6B",
+        "ts": "1612997404.023900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U1=G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wow, that's a lot cheaper than other services I've checked out"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01MB062NT1",
+                "created": 1613021309,
+                "timestamp": 1613021309,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U012BUXVC6B",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 453627,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F01MB062NT1\/image_from_ios.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F01MB062NT1\/download\/image_from_ios.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01MB062NT1-9a8bb0d6e2\/image_from_ios_64.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01MB062NT1-9a8bb0d6e2\/image_from_ios_80.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01MB062NT1-9a8bb0d6e2\/image_from_ios_360.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01MB062NT1-9a8bb0d6e2\/image_from_ios_480.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01MB062NT1-9a8bb0d6e2\/image_from_ios_160.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01MB062NT1-9a8bb0d6e2\/image_from_ios_720.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01MB062NT1-9a8bb0d6e2\/image_from_ios_800.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01MB062NT1-9a8bb0d6e2\/image_from_ios_960.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01MB062NT1-9a8bb0d6e2\/image_from_ios_1024.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACRkMqvlAPvYqNhtmZAMAdKZAQGGPvA5yf5VMXV7jJUdMcmpWjKeqEHBzTLiAY81Punr7VLIYghK5JPQ54p8UbmLO7GSDim31El0K6QybRhad5MnpV8rzwKTafSsuZmnKjOWNw2COtOZdrcjkGpICXlBbqOKZMD5jfWtUzJoUoSuT0BB+oqTzCXDDoOAKiR8Hax+8MY9KIs8nqR2pDLSTkLgjNO+0D+4agxRiq5UK7IlYjlTinoSzMp\/i5\/Goge1PU4INFguHlYcYBZj0HalCGNwMbmNOBOc0ufWiwXFxRinqhIzkD60vln+8KOZBys\/\/9k=",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U012BUXVC6B\/F01MB062NT1\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F01MB062NT1-3a36f68be2",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U012BUXVC6B",
+        "display_as_bot": false,
+        "ts": "1613021313.024100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "572",
+                "elements": []
+            }
+        ],
+        "client_msg_id": "C883FB4A-0D8A-4411-BD2A-1A513CFE1679"
+    }
+]

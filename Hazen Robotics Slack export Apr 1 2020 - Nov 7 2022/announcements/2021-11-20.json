@@ -1,0 +1,365 @@
+[
+    {
+        "client_msg_id": "4836855e-55a3-4dfc-a34a-326e62e9db1b",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=b3XWnMEX5J0>",
+        "user": "U022WGTQ602",
+        "ts": "1637437151.311000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tkn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=b3XWnMEX5J0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=b3XWnMEX5J0",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "310 points: unofficial world record in practice. 12611 TechNova &amp; 16750 Technototes (WA)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=b3XWnMEX5J0",
+                "author_name": "FTC 12611 TechNova",
+                "author_link": "https:\/\/www.youtube.com\/c\/FTC12611TechNova",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/b3XWnMEX5J0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "fallback": "YouTube Video: 310 points: unofficial world record in practice. 12611 TechNova & 16750 Technototes (WA)",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/b3XWnMEX5J0\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=b3XWnMEX5J0"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "12C005C8-B73C-4386-88C3-2F775EAE6653",
+        "type": "message",
+        "text": "Is the light that technova used not a directed light sources?",
+        "user": "U018B1TFE3Y",
+        "ts": "1637439404.312000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y0LM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is the light that technova used not a directed light sources?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c5bab17a-cb21-409e-a977-d1588a3f9419",
+        "type": "message",
+        "text": "nope, that's just an led and a light sensor in the bucket to detect if something has been picked up, i was talking about it yesterday,",
+        "user": "U022WGTQ602",
+        "ts": "1637439462.312700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J7D+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nope, that's just an led and a light sensor in the bucket to detect if something has been picked up, i was talking about it yesterday,"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "077FF20A-2CF6-402A-98C4-3C18D982CDAC",
+        "type": "message",
+        "text": "Oh that’s a neat idea",
+        "user": "U018B1TFE3Y",
+        "ts": "1637439496.313000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dms",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh that’s a neat idea"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fbcca799-69af-4e8a-a2d4-eb499d897dc5",
+        "type": "message",
+        "text": "not sure what the green led on their robot is tho",
+        "user": "U022WGTQ602",
+        "ts": "1637439534.313400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fm\/m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not sure what the green led on their robot is tho"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b3a91a89-ce4a-4954-835f-5f20cd34f743",
+        "type": "message",
+        "text": "oh wait, nvm, its their control hub light (i think)",
+        "user": "U022WGTQ602",
+        "ts": "1637439554.313900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LHcuQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh wait, nvm, its their control hub light (i think)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "655ACE7C-3086-4190-8EFD-48174BF26A4D",
+        "type": "message",
+        "text": "Pretty sure",
+        "user": "U018B1TFE3Y",
+        "ts": "1637439560.314100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LmD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pretty sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e9fa3418-eb34-4a02-9fdb-21181b50cea2",
+        "type": "message",
+        "text": "They almost cleared out the depot",
+        "user": "U018WC9RM3K",
+        "ts": "1637440997.315400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "00czR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They almost cleared out the depot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e0adf86c-b68c-46ba-b7bc-7e4f36c618a0",
+        "type": "message",
+        "text": "There bucket also flips to help the objects stay in",
+        "user": "U018WC9RM3K",
+        "ts": "1637441261.316200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q6c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There bucket also flips to help the objects stay in"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

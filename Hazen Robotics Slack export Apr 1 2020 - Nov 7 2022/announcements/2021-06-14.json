@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "894EE48D-627E-4DE6-81D6-8BCC95885111",
+        "type": "message",
+        "text": "<!everyone> Meeting today at 2:15! Gonna continue programming learning and prepping for the summer ",
+        "user": "U012BUXVC6B",
+        "ts": "1623685953.103700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6iC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Meeting today at 2:15! Gonna continue programming learning and prepping for the summer "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E363678B-61F7-45E0-8020-1FF0DCEABAE7",
+        "type": "message",
+        "text": "For those of y’all who’re not comfortable coming in person yet, would you be available on Friday to talk about what we’re doing over the summer to get ready for next year? I haven’t gotten everything together yet but I should be by then",
+        "user": "U012BUXVC6B",
+        "ts": "1623686060.105400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ygt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For those of y’all who’re not comfortable coming in person yet, would you be available on Friday to talk about what we’re doing over the summer to get ready for next year? I haven’t gotten everything together yet but I should be by then"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

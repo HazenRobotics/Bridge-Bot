@@ -1,0 +1,161 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600296907.053600",
+        "user": "U01AUMR0YG2",
+        "text": "<@U01AUMR0YG2> has joined the channel"
+    },
+    {
+        "client_msg_id": "4de3ff87-4e65-42c7-b80e-6925bfb94959",
+        "type": "message",
+        "text": "Welcome",
+        "user": "U018QFHSHJS",
+        "ts": "1600303773.053800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o\/v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "37dff344d6eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1314722996100_37dff344d6ebf1a57728_72.gif",
+            "first_name": "Preston",
+            "real_name": "Preston Lazaro",
+            "display_name": "Preston Lazaro",
+            "team": "T010YRDV4KB",
+            "name": "prestonlazaro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2F62F86C-3C7D-46BD-9C1E-63B069E60A26",
+        "type": "message",
+        "text": "When is the next meeting?",
+        "user": "U01AGHWTKFF",
+        "ts": "1600309951.054300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oUnlk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When is the next meeting?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "6490e6d401d2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-30\/1491271419888_6490e6d401d20a8b37b4_72.png",
+            "first_name": "Etasha",
+            "real_name": "Etasha Thareja",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "eta.tha000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E178FBDC-A892-4808-947F-1FB31FC7E5F6",
+        "type": "message",
+        "text": "Friday at 3:00pm",
+        "user": "U012BUXVC6B",
+        "ts": "1600309995.054600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UWZG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Friday at 3:00pm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "95362811-7F8A-4824-B457-DA9B0671CA39",
+        "type": "message",
+        "text": "Thank you ",
+        "user": "U01AGHWTKFF",
+        "ts": "1600311442.054800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zxx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "6490e6d401d2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-30\/1491271419888_6490e6d401d20a8b37b4_72.png",
+            "first_name": "Etasha",
+            "real_name": "Etasha Thareja",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "eta.tha000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600470557.000700",
+        "user": "U01BCRC513K",
+        "text": "<@U01BCRC513K> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600471062.000800",
+        "user": "U01B0CYPZ8B",
+        "text": "<@U01B0CYPZ8B> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600471079.000900",
+        "user": "U01ATET2E86",
+        "text": "<@U01ATET2E86> has joined the channel"
+    },
+    {
+        "client_msg_id": "44c37700-aa0e-4de1-a734-e2477c8d102d",
+        "type": "message",
+        "text": "hello",
+        "user": "U01B0CYPZ8B",
+        "ts": "1600471113.001000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZJZT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "076577376d9d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-18\/1380434548516_076577376d9df45cb6ea_72.png",
+            "first_name": "",
+            "real_name": "Benjamin Stork",
+            "display_name": "Benjamin Stork",
+            "team": "T010YRDV4KB",
+            "name": "ben.sto000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e566e1a2-94e8-43ed-84c6-91aa7656de4f",
+        "type": "message",
+        "text": "hi there",
+        "user": "U01BCRC513K",
+        "ts": "1600471160.001200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4w+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g1a3742ccdba",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a3742ccdbaa11b20e19f18ba9c093d7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Alex Ross",
+            "display_name": "Alex Ross",
+            "team": "T010YRDV4KB",
+            "name": "ale.ros001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c0c94f14-b87e-42d8-8a0f-a363ae7db999",
+        "type": "message",
+        "text": "welcome lads",
+        "user": "U018QFHSHJS",
+        "ts": "1600482861.001400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AH8IF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "welcome lads"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "37dff344d6eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1314722996100_37dff344d6ebf1a57728_72.gif",
+            "first_name": "Preston",
+            "real_name": "Preston Lazaro",
+            "display_name": "Preston Lazaro",
+            "team": "T010YRDV4KB",
+            "name": "prestonlazaro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

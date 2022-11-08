@@ -1,0 +1,223 @@
+[
+    {
+        "type": "message",
+        "text": "Here is the link to the Student Forms update for 12.10 Competition: <https:\/\/docs.google.com\/spreadsheets\/d\/1uA41pIqKFYbiqp0U8ytc5ttUl6Uc0wD6WVKj-UpUgUc\/edit?usp=sharing>",
+        "user": "U018WC9RM3K",
+        "ts": "1638219324.352400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NSN8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is the link to the Student Forms update for 12.10 Competition: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1uA41pIqKFYbiqp0U8ytc5ttUl6Uc0wD6WVKj-UpUgUc\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[November 25th, 2021 7:52 AM] kpeck1: Here are the permission form links for next competition:\n1. Permission slip (everyone): <https:\/\/forms.gle\/scxL4y8pKR7URUhf9> \n2. Proof of Vax or Test in 72 hours (New people, test only): <https:\/\/forms.gle\/FrgwttLSXpmN7ESE6>\n3. Spectators Contact Tracing: <https:\/\/forms.gle\/EsoeeS7P3X2LmhBfA>\n",
+                "ts": "1637855522.339300",
+                "author_id": "U018WC9RM3K",
+                "author_subname": "Keith Peck",
+                "channel_team": "T010YRDV4KB",
+                "channel_id": "C010YRE0E6M",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "Here are the permission form links for next competition:\n1. Permission slip (everyone): <https:\/\/forms.gle\/scxL4y8pKR7URUhf9> \n2. Proof of Vax or Test in 72 hours (New people, test only): <https:\/\/forms.gle\/FrgwttLSXpmN7ESE6>\n3. Spectators Contact Tracing: <https:\/\/forms.gle\/EsoeeS7P3X2LmhBfA>\n",
+                "message_blocks": [
+                    {
+                        "team": "T010YRDV4KB",
+                        "channel": "C010YRE0E6M",
+                        "ts": "1637855522.339300",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "gCPz",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Here are the permission form links for next competition:\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Permission slip (everyone): "
+                                                        },
+                                                        {
+                                                            "type": "link",
+                                                            "url": "https:\/\/forms.gle\/scxL4y8pKR7URUhf9"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": " "
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Proof of Vax or Test in 72 hours (New people, test only): "
+                                                        },
+                                                        {
+                                                            "type": "link",
+                                                            "url": "https:\/\/forms.gle\/FrgwttLSXpmN7ESE6"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Spectators Contact Tracing: "
+                                                        },
+                                                        {
+                                                            "type": "link",
+                                                            "url": "https:\/\/forms.gle\/EsoeeS7P3X2LmhBfA"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "ordered",
+                                            "indent": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "author_name": "Keith Peck",
+                "author_link": "https:\/\/hazen-robotics.slack.com\/team\/U018WC9RM3K",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/hazen-robotics.slack.com\/archives\/C010YRE0E6M\/p1637855522339300",
+                "is_share": true,
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "07b187fa-3495-4fb2-8085-f02cef97925c",
+        "type": "message",
+        "text": "When is the next competition?",
+        "user": "U0118UR0J72",
+        "ts": "1638252831.352900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m9u6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When is the next competition?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5b3bc570-4afb-41ce-ade0-0814d3d8e788",
+        "type": "message",
+        "text": "the 11th, i think he mistyped",
+        "user": "U022WGTQ602",
+        "ts": "1638253022.353200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JEv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the 11th, i think he mistyped"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

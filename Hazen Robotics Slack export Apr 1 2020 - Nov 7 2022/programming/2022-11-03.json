@@ -1,0 +1,693 @@
+[
+    {
+        "client_msg_id": "d6438dee-2f41-4936-9ea8-53f9ff702683",
+        "type": "message",
+        "text": "Do we have a dist to ticks method for the motors (gobuilda)",
+        "user": "U02DWDDVAP7",
+        "ts": "1667494521.527689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ELWJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do we have a dist to ticks method for the motors (gobuilda)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "81a2e4ae-62e3-4eee-9f72-bb9ab9496d41",
+        "type": "message",
+        "text": "yep, you just gotta go research the PPR of the specific motor",
+        "user": "U022WGTQ602",
+        "ts": "1667494565.428999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qb1E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yep, you just gotta go research the PPR of the specific motor"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667494565.428999",
+        "reply_count": 11,
+        "reply_users_count": 3,
+        "latest_reply": "1667496523.699919",
+        "reply_users": [
+            "U02DWDDVAP7",
+            "U022WGTQ602",
+            "U0118UR0J72"
+        ],
+        "replies": [
+            {
+                "user": "U02DWDDVAP7",
+                "ts": "1667494611.635149"
+            },
+            {
+                "user": "U02DWDDVAP7",
+                "ts": "1667494617.005219"
+            },
+            {
+                "user": "U022WGTQ602",
+                "ts": "1667494622.613829"
+            },
+            {
+                "user": "U0118UR0J72",
+                "ts": "1667494663.803329"
+            },
+            {
+                "user": "U022WGTQ602",
+                "ts": "1667494681.423329"
+            },
+            {
+                "user": "U02DWDDVAP7",
+                "ts": "1667496424.488029"
+            },
+            {
+                "user": "U022WGTQ602",
+                "ts": "1667496461.453799"
+            },
+            {
+                "user": "U02DWDDVAP7",
+                "ts": "1667496471.344829"
+            },
+            {
+                "user": "U022WGTQ602",
+                "ts": "1667496497.408609"
+            },
+            {
+                "user": "U0118UR0J72",
+                "ts": "1667496514.168249"
+            },
+            {
+                "user": "U022WGTQ602",
+                "ts": "1667496523.699919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6cef0065-2f57-46fd-8aea-e36704bfe1ea",
+        "type": "message",
+        "text": "ok I have that",
+        "user": "U02DWDDVAP7",
+        "ts": "1667494611.635149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NkzF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok I have that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667494565.428999",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "9abd8421-ff36-40b2-950f-eabc33cac672",
+        "type": "message",
+        "text": "its 537.6",
+        "user": "U02DWDDVAP7",
+        "ts": "1667494617.005219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dInFB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "its 537.6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667494565.428999",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "2ee5399b-a8ce-4d4d-87ca-817e8e1e5352",
+        "type": "message",
+        "text": "yup",
+        "user": "U022WGTQ602",
+        "ts": "1667494622.613829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jKg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667494565.428999",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "a4302e6c-b00a-42d6-b7b2-8aa61e68fcf3",
+        "type": "message",
+        "text": "There is a MotorType enum class under urils that has all that info",
+        "user": "U0118UR0J72",
+        "ts": "1667494663.803329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q5y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is a MotorType enum class under urils that has all that info"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667494565.428999",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "8d840f07-ee2f-41e7-a315-77ca17f4d122",
+        "type": "message",
+        "text": "oh wait yea, forgot abt that lol",
+        "user": "U022WGTQ602",
+        "ts": "1667494681.423329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+4LR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh wait yea, forgot abt that lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667494565.428999",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "955fd7e7-e8dd-4ab6-8eb5-d5ad58911d08",
+        "type": "message",
+        "text": "So what is the method for dist to ticks",
+        "user": "U02DWDDVAP7",
+        "ts": "1667496424.488029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yMz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So what is the method for dist to ticks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667494565.428999",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "da2180ce-3374-4d17-aa41-57eb8eb5fa52",
+        "type": "message",
+        "text": "DistToTicks()",
+        "user": "U022WGTQ602",
+        "ts": "1667496461.453799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SXp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "DistToTicks()"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667494565.428999",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "0776b0a5-534b-47a1-9bd3-e4bab9333f44",
+        "type": "message",
+        "text": "what class",
+        "user": "U02DWDDVAP7",
+        "ts": "1667496471.344829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x9FK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what class"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667494565.428999",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "30e5770e-ab7e-445a-a435-7466647f9a10",
+        "type": "message",
+        "text": "what part is this for?",
+        "user": "U022WGTQ602",
+        "ts": "1667496497.408609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WZx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what part is this for?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667494565.428999",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "121dbc2e-53b0-472d-91e1-d2b6228d1705",
+        "type": "message",
+        "text": "Drive.DistToTiscks()",
+        "user": "U0118UR0J72",
+        "ts": "1667496514.168249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Kk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Drive.DistToTiscks()"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667494565.428999",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "ed9ba172-753c-465b-b52b-40b6cf1665ab",
+        "type": "message",
+        "text": "^^^",
+        "user": "U022WGTQ602",
+        "ts": "1667496523.699919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kNf\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667494565.428999",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "f42f48dd-e020-4d4c-8775-1e971988d927",
+        "type": "message",
+        "text": "<@U0118UR0J72> do we need logic level converters for the dead wheels? i assume so, i just have no clue how to wire them",
+        "user": "U022WGTQ602",
+        "ts": "1667524203.891249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Llv8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0118UR0J72"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do we need logic level converters for the dead wheels? i assume so, i just have no clue how to wire them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "663bf89b-f24d-4125-b6c6-71b7753b7460",
+        "type": "message",
+        "text": "Ye",
+        "user": "U0118UR0J72",
+        "ts": "1667524221.827489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IgD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ye"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fd7566f8-5bfc-4d5e-8e86-9817e7d1e799",
+        "type": "message",
+        "text": "wait nvm, figured it out, had two cables that looked identical, assumed they were the same, they were not, one had the same ends and one had a smaller and a larger end",
+        "user": "U022WGTQ602",
+        "ts": "1667524273.128399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nG9D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wait nvm, figured it out, had two cables that looked identical, assumed they were the same, they were not, one had the same ends and one had a smaller and a larger end"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

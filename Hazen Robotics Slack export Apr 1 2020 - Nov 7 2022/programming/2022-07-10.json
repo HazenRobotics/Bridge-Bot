@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "ccdd1132-d4e2-4655-82b5-a2ebd74b39a7",
+        "type": "message",
+        "text": "snake &gt; camel",
+        "user": "U02DWDDVAP7",
+        "ts": "1657468089.257819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z=WzP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "snake > camel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

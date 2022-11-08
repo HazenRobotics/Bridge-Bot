@@ -1,0 +1,116 @@
+[
+    {
+        "client_msg_id": "bfec0d6a-7239-48ad-a8a6-5f725b5dd58d",
+        "type": "message",
+        "text": "is there a reason that I can only see the MeepMeepPaths folder from the Project view and not the Android view? trying to follow the installation video to set up the meepmeep paths configuration and i noticed that it was different from the video, does it even matter? also, when I try to follow the configuration setup it isn’t recognizing the com.example.meepmeeppaths.MeepMeepPaths as a main class",
+        "user": "U022WGTQ602",
+        "ts": "1640572141.181100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hEhdK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is there a reason that I can only see the MeepMeepPaths folder from the Project view and not the Android view? trying to follow the installation video to set up the meepmeep paths configuration and i noticed that it was different from the video, does it even matter? also, when I try to follow the configuration setup it isn’t recognizing the com.example.meepmeeppaths.MeepMeepPaths as a main class"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d6834c49-0ba9-4eff-869e-a2b56029c9b7",
+        "type": "message",
+        "text": "I had the same issue. I think had something to do with it not recognizing it as a source folder because it didn't recognize the java files inside as classes",
+        "user": "U0118UR0J72",
+        "ts": "1640572224.182800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/I02F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I had the same issue. I think had something to do with it not recognizing it as a source folder because it didn't recognize the java files inside as classes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2c4806fa-3595-435c-b76f-69f672c14241",
+        "type": "message",
+        "text": "Bad news, I don't remember how I fixed it.",
+        "user": "U0118UR0J72",
+        "ts": "1640572240.183300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dc8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bad news, I don't remember how I fixed it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

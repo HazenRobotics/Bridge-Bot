@@ -1,0 +1,544 @@
+[
+    {
+        "client_msg_id": "6c7099ab-14af-44aa-b274-2c3f53a98f70",
+        "type": "message",
+        "text": "Heres a link to a bunch of design resources and part links. <https:\/\/rentonschools-my.sharepoint.com\/:w:\/g\/personal\/kpeck1_rentonschools_us\/Edu4AQ3zNZtHkoVfmEC1sS4B5JFIPy25OVSJzIjemWE8vw?e=OERGnD>",
+        "user": "U012BUXVC6B",
+        "ts": "1600932051.002200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jICM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Heres a link to a bunch of design resources and part links. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/rentonschools-my.sharepoint.com\/:w:\/g\/personal\/kpeck1_rentonschools_us\/Edu4AQ3zNZtHkoVfmEC1sS4B5JFIPy25OVSJzIjemWE8vw?e=OERGnD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "file",
+                        "block_id": "gPT",
+                        "file_id": "F01B78MKUKX",
+                        "source": "remote",
+                        "file": {
+                            "id": "F01B78MKUKX",
+                            "created": 1600932053,
+                            "timestamp": 1600932053,
+                            "name": "Design_Resources_docx",
+                            "title": "Design Resources.docx",
+                            "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                            "filetype": "docx",
+                            "pretty_type": "Word Document",
+                            "user": "U010XCBB0LT",
+                            "user_team": "T010YRDV4KB",
+                            "editable": false,
+                            "size": 359828,
+                            "mode": "external",
+                            "is_external": true,
+                            "external_type": "app",
+                            "is_public": true,
+                            "public_url_shared": false,
+                            "display_as_bot": false,
+                            "username": "",
+                            "url_private": "https:\/\/rentonschools-my.sharepoint.com\/:w:\/g\/personal\/kpeck1_rentonschools_us\/Edu4AQ3zNZtHkoVfmEC1sS4B5JFIPy25OVSJzIjemWE8vw?e=OERGnD",
+                            "media_display_type": "unknown",
+                            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01B78MKUKX-19a3c2c9e1\/design_resources_docx_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01B78MKUKX-19a3c2c9e1\/design_resources_docx_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01B78MKUKX-19a3c2c9e1\/design_resources_docx_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                            "thumb_360_w": 278,
+                            "thumb_360_h": 360,
+                            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01B78MKUKX-19a3c2c9e1\/design_resources_docx_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                            "thumb_480_w": 371,
+                            "thumb_480_h": 480,
+                            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01B78MKUKX-19a3c2c9e1\/design_resources_docx_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01B78MKUKX-19a3c2c9e1\/design_resources_docx_720.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                            "thumb_720_w": 556,
+                            "thumb_720_h": 720,
+                            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01B78MKUKX-19a3c2c9e1\/design_resources_docx_800.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                            "thumb_800_w": 800,
+                            "thumb_800_h": 1036,
+                            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01B78MKUKX-19a3c2c9e1\/design_resources_docx_960.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                            "thumb_960_w": 741,
+                            "thumb_960_h": 960,
+                            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01B78MKUKX-19a3c2c9e1\/design_resources_docx_1024.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                            "thumb_1024_w": 791,
+                            "thumb_1024_h": 1024,
+                            "original_w": 800,
+                            "original_h": 1036,
+                            "thumb_tiny": "AwAwACXTJx1pCfTmlPSo+O5oAfk\/3f1paj49aUYoAfRRRQAGmZPpT6jPXrQA7d\/s0uT6frTBjuTS8f3jQA+iiigAqM9elSU3Z70AJz6fpR83pS7T\/eNLtPqaAFooooA\/\/9k=",
+                            "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U010XCBB0LT\/F01B78MKUKX\/design_resources_docx",
+                            "comments_count": 0,
+                            "shares": {},
+                            "channels": [],
+                            "groups": [],
+                            "ims": [],
+                            "external_id": "01FKYDW2W3XAAQ34ZVTNDZFBK7TBALLMJO::1938990093",
+                            "external_url": "https:\/\/rentonschools-my.sharepoint.com\/:w:\/g\/personal\/kpeck1_rentonschools_us\/Edu4AQ3zNZtHkoVfmEC1sS4B5JFIPy25OVSJzIjemWE8vw?e=OERGnD",
+                            "has_rich_preview": true,
+                            "file_access": "visible"
+                        }
+                    }
+                ],
+                "fallback": "[no preview available]",
+                "bot_id": "B018GCMQ6S1",
+                "app_unfurl_url": "https:\/\/rentonschools-my.sharepoint.com\/:w:\/g\/personal\/kpeck1_rentonschools_us\/Edu4AQ3zNZtHkoVfmEC1sS4B5JFIPy25OVSJzIjemWE8vw?e=OERGnD",
+                "is_app_unfurl": true
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2f0ca1e3-be99-4689-8c1b-19e032468b4a",
+        "type": "message",
+        "text": "<@U018B1TFE3Y> Anything you want to add or think your team should be using?",
+        "user": "U012BUXVC6B",
+        "ts": "1600932078.003200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eETf1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U018B1TFE3Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Anything you want to add or think your team should be using?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d9585105-d9aa-49b8-9220-d7a1fa0183e8",
+        "type": "message",
+        "text": "Where is the slongshot design you were talking about",
+        "user": "U010YRDV4TT",
+        "ts": "1600987880.004100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pOzK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Where is the slongshot design you were talking about"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g3c58ac9e5d1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3c58ac9e5d177e9459323afb1d66d346.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "fmiddelhoven",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "fmiddelhoven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3e60869c-2c4e-46f0-8098-f0dd1d8db349",
+        "type": "message",
+        "text": "go to scoring elements in season designs",
+        "user": "U018B1TFE3Y",
+        "ts": "1600987912.004600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "38m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "go to scoring elements in season designs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bad06d46-a4e7-4ad5-a459-fb95d525bf79",
+        "type": "message",
+        "text": "How does it work",
+        "user": "U010YRDV4TT",
+        "ts": "1600988023.004900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XBT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How does it work"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g3c58ac9e5d1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3c58ac9e5d177e9459323afb1d66d346.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "fmiddelhoven",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "fmiddelhoven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cb61fe1c-281d-4d97-82bf-490f1bde8dea",
+        "type": "message",
+        "text": "the way i have it set up is its on a rail and it uses 2 lengths of surgical tubing for tension",
+        "user": "U018B1TFE3Y",
+        "ts": "1600988147.006700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KgT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the way i have it set up is its on a rail and it uses 2 lengths of surgical tubing for tension"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a90c75b5-754a-4ad8-a714-f3137c2756fa",
+        "type": "message",
+        "text": "But how does it lauch because i don't see how it lauch once then stops",
+        "user": "U010YRDV4TT",
+        "ts": "1600988311.008200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lErAj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But how does it lauch because i don't see how it lauch once then stops"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g3c58ac9e5d1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3c58ac9e5d177e9459323afb1d66d346.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "fmiddelhoven",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "fmiddelhoven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b84b73a1-a671-42e0-8eb6-c3696d18f92e",
+        "type": "message",
+        "text": "there should be a stopper at the end of the extrusion",
+        "user": "U018B1TFE3Y",
+        "ts": "1600988358.008900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H4WRu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "there should be a stopper at the end of the extrusion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "998eac17-c661-48b7-b3f7-a22ff009ff87",
+        "type": "message",
+        "text": "Then how is it lauch",
+        "user": "U010YRDV4TT",
+        "ts": "1600988450.009300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8cb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Then how is it lauch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g3c58ac9e5d1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3c58ac9e5d177e9459323afb1d66d346.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "fmiddelhoven",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "fmiddelhoven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1debd1cd-7dff-4f29-9ea3-0ede104e2379",
+        "type": "message",
+        "text": "didnt get that far",
+        "user": "U018B1TFE3Y",
+        "ts": "1600988467.009500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1fA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "didnt get that far"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "86d073a6-c20e-4d8c-870e-ffb3a7df044d",
+        "type": "message",
+        "text": "for those who didnt get their fusion working yesterday try again today",
+        "user": "U018B1TFE3Y",
+        "ts": "1600990742.010200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rNMIc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for those who didnt get their fusion working yesterday try again today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b667bf03-3c77-405f-a638-05fc6b658836",
+        "type": "message",
+        "text": "<!channel> Also don't forget to send your emails to Dylan so he can add you to the Fusion project for this year",
+        "user": "U012BUXVC6B",
+        "ts": "1601009853.011100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V15tO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Also don't forget to send your emails to Dylan so he can add you to the Fusion project for this year"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

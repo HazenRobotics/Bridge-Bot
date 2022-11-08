@@ -1,0 +1,1927 @@
+[
+    {
+        "client_msg_id": "d0e9de5e-cbce-4631-af5b-4d8882f96696",
+        "type": "message",
+        "text": "<@U0119239VCY> have you created the code that can translate robot coordinates into absolute\/ field coordinates? Either way what would be the next steps for Sam or Camden?",
+        "user": "U018WC9RM3K",
+        "ts": "1641567996.021400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vKN4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " have you created the code that can translate robot coordinates into absolute\/ field coordinates? Either way what would be the next steps for Sam or Camden?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9BB9425A-563D-4F9F-AC6E-3FACBC192902",
+        "type": "message",
+        "text": "Ayo <@U0119239VCY> check the email, Stephi’s friend came through ",
+        "user": "U012BUXVC6B",
+        "ts": "1641577858.022000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SN1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ayo "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " check the email, Stephi’s friend came through "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0d817f9b-f7fa-497f-bc80-99b4fb029b70",
+        "type": "message",
+        "text": "<@U0119239VCY> the UW people got back to us about the kalamn filter",
+        "user": "U0135LQT8TB",
+        "ts": "1641579278.022600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FWK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the UW people got back to us about the kalamn filter"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gdfe9743ea44",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dfe9743ea4477ab6cdd74b02c32fc903.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ethan Chiang",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "awesome.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cb15fce1-5bd9-4c33-915a-0a411063a874",
+        "type": "message",
+        "text": "Hi Corban,\nSorry for the really late response! I'm Evan, I'm in charge of our Software division. Most of my experience is in computer vision, so I don't know much about Kalman filters personally, but I talked to one of our members who is in charge of autonomous navigation and implemented an Extended Kalman Filter last year, and I asked him for some resources. He said that he was mostly using the Wikipedia articles on Kalman\/Extended Kalman filters (<https:\/\/en.wikipedia.org\/wiki\/Kalman_filter>, <https:\/\/en.wikipedia.org\/wiki\/Extended_Kalman_filter>) but he also sent me this book written as a series of Jupyter Notebooks: <https:\/\/github.com\/rlabbe\/Kalman-and-Bayesian-Filters-in-Python>. It's fairly long but seems pretty informative, and appears explicitly written to be clear about the math. There's a chapter on multi-variable Kalman filters that you might specifically be interested in; it explains what all the different variables in the equations are: <https:\/\/nbviewer.org\/github\/rlabbe\/Kalman-and-Bayesian-Filters-in-Python\/blob\/master\/06-Multivariate-Kalman-Filters.ipynb>\nAdditionally, you could check out our implementation of various filters here: <https:\/\/github.com\/huskyroboticsteam\/Resurgence\/tree\/master\/src\/filters>. The code is in C++ using the Eigen linear algebra library, and has some documentation comments that may be useful. The code is free software under the Apache license, so you're welcome to use it as reference or even use parts of it (depending on the rules of your competition of course) - just please add an acknowledgement if you do.\nHope those are helpful! Please let us know if you have any other questions.\n\n*Evan Straw*\nHusky Robotics Team | 2021-2022 Software Subsystem Lead\n_Department of Mechanical Engineering_\nUniversity of Washington",
+        "user": "U018WC9RM3K",
+        "ts": "1641579491.022800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EWA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Corban,\nSorry for the really late response! I'm Evan, I'm in charge of our Software division. Most of my experience is in computer vision, so I don't know much about Kalman filters personally, but I talked to one of our members who is in charge of autonomous navigation and implemented an Extended Kalman Filter last year, and I asked him for some resources. He said that he was mostly using the Wikipedia articles on Kalman\/Extended Kalman filters ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/en.wikipedia.org\/wiki\/Kalman_filter"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/en.wikipedia.org\/wiki\/Extended_Kalman_filter"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") but he also sent me this book written as a series of Jupyter Notebooks: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/rlabbe\/Kalman-and-Bayesian-Filters-in-Python"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". It's fairly long but seems pretty informative, and appears explicitly written to be clear about the math. There's a chapter on multi-variable Kalman filters that you might specifically be interested in; it explains what all the different variables in the equations are: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nbviewer.org\/github\/rlabbe\/Kalman-and-Bayesian-Filters-in-Python\/blob\/master\/06-Multivariate-Kalman-Filters.ipynb"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nAdditionally, you could check out our implementation of various filters here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/huskyroboticsteam\/Resurgence\/tree\/master\/src\/filters"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". The code is in C++ using the Eigen linear algebra library, and has some documentation comments that may be useful. The code is free software under the Apache license, so you're welcome to use it as reference or even use parts of it (depending on the rules of your competition of course) - just please add an acknowledgement if you do.\nHope those are helpful! Please let us know if you have any other questions.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Evan Straw",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nHusky Robotics Team | 2021-2022 Software Subsystem Lead\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Department of Mechanical Engineering",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nUniversity of Washington"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "color": "24292f",
+                "bot_id": "B02EXAE6AB1",
+                "app_unfurl_url": "https:\/\/github.com\/rlabbe\/Kalman-and-Bayesian-Filters-in-Python",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "rlabbe\/Kalman-and-Bayesian-Filters-in-Python",
+                "title": "rlabbe\/Kalman-and-Bayesian-Filters-in-Python",
+                "fields": [
+                    {
+                        "value": "11321",
+                        "title": "Stars",
+                        "short": true
+                    },
+                    {
+                        "value": "Jupyter Notebook",
+                        "title": "Language",
+                        "short": true
+                    }
+                ]
+            },
+            {
+                "image_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a5\/Basic_concept_of_Kalman_filtering.svg\/1200px-Basic_concept_of_Kalman_filtering.svg.png",
+                "image_width": 1200,
+                "image_height": 607,
+                "image_bytes": 68847,
+                "from_url": "https:\/\/en.wikipedia.org\/wiki\/Kalman_filter",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/wikipedia.png",
+                "id": 2,
+                "original_url": "https:\/\/en.wikipedia.org\/wiki\/Kalman_filter",
+                "fallback": "wikipedia: Kalman filter",
+                "text": "For statistics and control theory, Kalman filtering, also known as linear quadratic estimation (LQE), is an algorithm that uses a series of measurements observed over time, including statistical noise and other inaccuracies, and produces estimates of unknown variables that tend to be more accurate than those based on a single measurement alone, by estimating a joint probability distribution over the variables for each timeframe. The filter is named after Rudolf E. Kálmán, who was one of the primary developers of its theory.\nThis digital filter is sometimes termed the Stratonovich–Kalman–Bucy filter because it is a special case of a more general, nonlinear filter developed somewhat earlier by the Soviet mathematician Ruslan Stratonovich. In fact, some of the special case linear filter's equations appeared in  papers by Stratonovich that were published before summer 1960, when Kalman met with Stratonovich during a conference in Moscow.Kalman filtering has numerous technological applications. A common application is for guidance, navigation, and control of vehicles, particularly aircraft, spacecraft and ships positioned dynamically. Furthermore, Kalman filtering is a concept much applied in time series analysis used for topics such as signal processing and econometrics. Kalman filtering is also one of the main topics of robotic motion planning and control and can be used for trajectory optimization. Kalman filtering also works for modeling the central nervous system's control of movement. Due to the time delay between issuing motor commands and receiving sensory feedback, the use of Kalman filters provides a realistic model for making estimates of the current state of a motor system and issuing updated commands.The algorithm works by a two-phase process. For the prediction phase, the Kalman filter produces estimates of the current state variables, along with their uncertainties. Once the outcome of the next measurement (necessarily corrupted with some error, including random noise) is observed, these estimates are updated using a weighted average, with more weight being given to estimates with greater certainty. The algorithm is recursive. It can operate in real time, using only the present input measurements and the state calculated previously and its uncertainty matrix; no additional past information is required.\nOptimality of Kalman filtering assumes that errors have a normal (Gaussian) distribution.  In the words of Rudolf E. Kálmán: \"In summary, the following assumptions are made about random processes: Physical random phenomena may be thought of as due to primary random sources exciting dynamic systems. The primary sources are assumed to be independent gaussian random processes with zero mean; the dynamic systems will be linear.\"  Though regardless of Gaussianity, if the process and measurement covariances are known, the Kalman filter is the best possible linear estimator in the minimum mean-square-error sense.Extensions and generalizations of the method have also been developed, such as the extended Kalman filter and the unscented Kalman filter which work on nonlinear systems. The basis is a hidden Markov model such that the state space of the latent variables is continuous and all latent and observed variables have Gaussian distributions. Also, Kalman filtering has been used successfully in multi-sensor fusion, and distributed sensor networks to develop distributed or consensus Kalman filtering.",
+                "title": "Kalman filter",
+                "title_link": "https:\/\/en.wikipedia.org\/wiki\/Kalman_filter",
+                "author_name": "Wikipedia",
+                "author_link": "https:\/\/en.wikipedia.org\/"
+            },
+            {
+                "from_url": "https:\/\/en.wikipedia.org\/wiki\/Extended_Kalman_filter",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/wikipedia.png",
+                "id": 3,
+                "original_url": "https:\/\/en.wikipedia.org\/wiki\/Extended_Kalman_filter",
+                "fallback": "wikipedia: Extended Kalman filter",
+                "text": "In estimation theory, the extended Kalman filter (EKF) is the nonlinear version of the Kalman filter which linearizes about an estimate of the current mean and covariance. In the case of well defined transition models, the EKF has been considered the de facto standard in the theory of nonlinear state estimation, navigation systems and GPS.",
+                "title": "Extended Kalman filter",
+                "title_link": "https:\/\/en.wikipedia.org\/wiki\/Extended_Kalman_filter",
+                "author_name": "Wikipedia",
+                "author_link": "https:\/\/en.wikipedia.org\/"
+            },
+            {
+                "from_url": "https:\/\/nbviewer.org\/github\/rlabbe\/Kalman-and-Bayesian-Filters-in-Python\/blob\/master\/06-Multivariate-Kalman-Filters.ipynb",
+                "service_icon": "https:\/\/nbviewer.org\/static\/ico\/apple-touch-icon-144-precomposed.png",
+                "id": 4,
+                "original_url": "https:\/\/nbviewer.org\/github\/rlabbe\/Kalman-and-Bayesian-Filters-in-Python\/blob\/master\/06-Multivariate-Kalman-Filters.ipynb",
+                "fallback": "Notebook on nbviewer",
+                "text": "Check out this Jupyter notebook!",
+                "title": "Notebook on nbviewer",
+                "title_link": "https:\/\/nbviewer.org\/github\/rlabbe\/Kalman-and-Bayesian-Filters-in-Python\/blob\/master\/06-Multivariate-Kalman-Filters.ipynb",
+                "service_name": "nbviewer.org"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e8418738-9e73-47e2-9955-56c9b7eb1821",
+        "type": "message",
+        "text": "Yeah, I stayed up late last night and translated all of the python matrix operations over to the java code so I think that should work but you might want to verify that I copied everything right. I also started the code to change the camera coordinate to field coordinate so that will need to be tested, I think its called CameraTargetPosition or something like that inside the utils folder",
+        "user": "U0119239VCY",
+        "ts": "1641581469.026800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Szeu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, I stayed up late last night and translated all of the python matrix operations over to the java code so I think that should work but you might want to verify that I copied everything right. I also started the code to change the camera coordinate to field coordinate so that will need to be tested, I think its called CameraTargetPosition or something like that inside the utils folder"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3ec8bc61-a13f-4ece-a7d6-ffbd6dc84961",
+        "type": "message",
+        "text": "Although I realized that I forgot to negate the X values since the camera is on the back of the robot so you may want to add a way to do that",
+        "user": "U0119239VCY",
+        "ts": "1641581480.027500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "medeH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Although I realized that I forgot to negate the X values since the camera is on the back of the robot so you may want to add a way to do that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6e7c48f1-b514-4825-831f-9b87e2615cc0",
+        "type": "message",
+        "text": "Any progress\/problems with the object position detection?",
+        "user": "U0119239VCY",
+        "ts": "1641598571.028500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aVr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any progress\/problems with the object position detection?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2bce68ce-4b0d-4345-baae-012ac76c71ce",
+        "type": "message",
+        "text": "...",
+        "user": "U0118UR0J72",
+        "ts": "1641598622.028700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I4ai",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8B6D6C3B-D166-4C03-A43A-E642582F3960",
+        "type": "message",
+        "text": "How does this look",
+        "user": "U0135LQT8TB",
+        "ts": "1641617704.029000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ihatp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How does this look"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gdfe9743ea44",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dfe9743ea4477ab6cdd74b02c32fc903.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ethan Chiang",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "awesome.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F02T09VBB7Y",
+                "created": 1641617711,
+                "timestamp": 1641617711,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U0135LQT8TB",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 1483455,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "subtype": "slack_image",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02T09VBB7Y\/image_from_ios.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02T09VBB7Y\/download\/image_from_ios.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T09VBB7Y-40c15e3ab5\/image_from_ios_64.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T09VBB7Y-40c15e3ab5\/image_from_ios_80.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T09VBB7Y-40c15e3ab5\/image_from_ios_360.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T09VBB7Y-40c15e3ab5\/image_from_ios_480.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T09VBB7Y-40c15e3ab5\/image_from_ios_160.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T09VBB7Y-40c15e3ab5\/image_from_ios_720.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T09VBB7Y-40c15e3ab5\/image_from_ios_800.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T09VBB7Y-40c15e3ab5\/image_from_ios_960.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T09VBB7Y-40c15e3ab5\/image_from_ios_1024.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACSDz5f+eJ\/WlE8oYHyTx9a0VBI6mnbT\/eNAGf8AbJR\/yxNL9tk\/54f5\/Kr+0+tNZT60rIdyn9vf\/nh\/n8qPt7\/88P8AP5VOU5OeaNg9BRZBclU0SeZ1T8hTUPFV7guJTtLDgYxTEPW5c55GR1BFTRyF0yRgiqawTkliBz6nGangSSPdvIAPYHNAEh60lITzRmgCEXkI\/i\/Q077bDj736VUBi\/54j86UNF\/zxWp5h8pZ+2xf3v0prXsXqfyqHfF\/zwSjz4gf9QlHMOw\/7ZH\/ALX5UfbI\/wDa\/KlEsJHCQ\/5\/Cl82L+5D\/n8KXOHKf\/\/Z",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U0135LQT8TB\/F02T09VBB7Y\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02T09VBB7Y-f5f309d043",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0135LQT8TB",
+        "display_as_bot": false,
+        "ts": "1641617716.029100",
+        "client_msg_id": "6137A5F6-FE07-475E-83D2-F0370A307902"
+    },
+    {
+        "client_msg_id": "85A47380-1A9F-4DB2-AF28-299DCAC4460B",
+        "type": "message",
+        "text": "I'm now realizing that it sticks out too much",
+        "user": "U0135LQT8TB",
+        "ts": "1641617758.029800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Bt9F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm now realizing that it sticks out too much"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gdfe9743ea44",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dfe9743ea4477ab6cdd74b02c32fc903.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ethan Chiang",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "awesome.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c406dcba-dc00-45c8-a673-132f02c086e3",
+        "type": "message",
+        "text": "Is there a way to make it so that the mount holds the hinge in place or do you think that just taping it like we had before is the best way?",
+        "user": "U0119239VCY",
+        "ts": "1641617817.031300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YCJGU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is there a way to make it so that the mount holds the hinge in place or do you think that just taping it like we had before is the best way?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5A0D222A-4B97-4018-B0EE-2465A9735105",
+        "type": "message",
+        "text": "What angle",
+        "user": "U0135LQT8TB",
+        "ts": "1641617895.031500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VtPi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What angle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gdfe9743ea44",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dfe9743ea4477ab6cdd74b02c32fc903.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ethan Chiang",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "awesome.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cf6cd7eb-341c-4804-8d44-d785b90b8813",
+        "type": "message",
+        "text": "Maybe just a straight 0 degree angle or maybe something just slightly pointed down like 10 degrees or something, I'm not sure since I haven't seen what the camera sees at that hight",
+        "user": "U0119239VCY",
+        "ts": "1641618095.033900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UqDY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe just a straight 0 degree angle or maybe something just slightly pointed down like 10 degrees or something, I'm not sure since I haven't seen what the camera sees at that hight"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "74c30bae-714a-47cf-9b1d-13f5cc18037f",
+        "type": "message",
+        "text": "Why don't we start with a 0 degree one",
+        "user": "U0119239VCY",
+        "ts": "1641618113.034300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Oj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Why don't we start with a 0 degree one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9b9ae6fd-056e-44bd-b2f8-9e76671b3f0f",
+        "type": "message",
+        "text": "0 degrees? i think we should at least do 10-15, at 0 degrees it won't be able to see anything 2 feet in front of it",
+        "user": "U022WGTQ602",
+        "ts": "1641618178.035200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JDgjV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "0 degrees? i think we should at least do 10-15, at 0 degrees it won't be able to see anything 2 feet in front of it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1641618190.000000"
+        }
+    },
+    {
+        "client_msg_id": "44d15000-c457-448b-858e-7ca0f01c9aef",
+        "type": "message",
+        "text": "Alright maybe do 10 degrees then",
+        "user": "U0119239VCY",
+        "ts": "1641618223.036000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fDM3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alright maybe do 10 degrees then"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0011331c-9d67-4832-aa99-e03ad99d32bc",
+        "type": "message",
+        "text": "The way we're using the object detection works pretty well for just finding a point from far away and then driving to it",
+        "user": "U0119239VCY",
+        "ts": "1641618283.037100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qpvS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The way we're using the object detection works pretty well for just finding a point from far away and then driving to it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8fa85c2a-19b5-4e94-89b3-2ed0ebb3802a",
+        "type": "message",
+        "text": "So we don't need to see super close in to the robot",
+        "user": "U0119239VCY",
+        "ts": "1641618314.037600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ikec",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So we don't need to see super close in to the robot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "36325c2b-878c-4111-9585-34a1f11db779",
+        "type": "message",
+        "text": "Considering how we're using it, we don't want to have to drive far to look for the duck, so it should be able to see maybe 5 to 7 inches in front of the intake.",
+        "user": "U0118UR0J72",
+        "ts": "1641618433.039500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WAv7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Considering how we're using it, we don't want to have to drive far to look for the duck, so it should be able to see maybe 5 to 7 inches in front of the intake."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "A4BF32FB-1EC3-4052-8425-3CB541983C37",
+        "type": "message",
+        "text": "That angle being ",
+        "user": "U0135LQT8TB",
+        "ts": "1641618488.039800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O9XuJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That angle being "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gdfe9743ea44",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dfe9743ea4477ab6cdd74b02c32fc903.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ethan Chiang",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "awesome.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7b2308fe-35ae-429f-9895-b1f01c479c15",
+        "type": "message",
+        "text": "Dunno, too much for me to calculate here. 15 degrees sounds about right",
+        "user": "U0118UR0J72",
+        "ts": "1641618584.040900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LnE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dunno, too much for me to calculate here. 15 degrees sounds about right"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7030FA71-CCFD-4753-90DF-129705856622",
+        "type": "message",
+        "text": "Is it necessary for the camera to be the correct up down orientation ",
+        "user": "U0135LQT8TB",
+        "ts": "1641619485.041900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nVt8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is it necessary for the camera to be the correct up down orientation "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gdfe9743ea44",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dfe9743ea4477ab6cdd74b02c32fc903.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ethan Chiang",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "awesome.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "88194c80-b8ea-48b5-8249-89f84b8d2b81",
+        "type": "message",
+        "text": "wdym? Like is it ok for the camera to be upside down?",
+        "user": "U022WGTQ602",
+        "ts": "1641619629.042700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JuS5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wdym? Like is it ok for the camera to be upside down?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "43C1090A-E9FF-4F2B-88A0-1263F8138C32",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U0135LQT8TB",
+        "ts": "1641619634.042900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eCTI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gdfe9743ea44",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dfe9743ea4477ab6cdd74b02c32fc903.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ethan Chiang",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "awesome.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "932daa22-f2d9-4d7f-830b-950e0b9c7348",
+        "type": "message",
+        "text": "uh preferably not but I think we'd be able to rotate the feed in our code, not sure if that would affect tfod\/homography stuff",
+        "user": "U022WGTQ602",
+        "ts": "1641619739.045600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vehcO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "uh preferably not but I think we'd be able to rotate the feed in our code, not sure if that would affect tfod\/homography stuff"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8bae4719-98b4-4dec-92bb-74006c6de804",
+        "type": "message",
+        "text": "Probably easier to keep it up",
+        "user": "U0118UR0J72",
+        "ts": "1641619765.046000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+aE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Probably easier to keep it up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cc458d5f-4641-4d0a-a3bd-4b6cf1710b09",
+        "type": "message",
+        "text": "Easier for us",
+        "user": "U0118UR0J72",
+        "ts": "1641619774.046300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dl0e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Easier for us"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "61409447-e286-402a-beea-fe625c817571",
+        "type": "message",
+        "text": "Not you",
+        "user": "U0118UR0J72",
+        "ts": "1641619777.046500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RGXGA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6A04A2E3-B7C6-4D1C-9372-0F101E31DA55",
+        "type": "message",
+        "text": "No it's not a big deal",
+        "user": "U0135LQT8TB",
+        "ts": "1641619794.047000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YScN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No it's not a big deal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gdfe9743ea44",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dfe9743ea4477ab6cdd74b02c32fc903.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ethan Chiang",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "awesome.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "948fe8e8-5a23-4020-b4f9-4403342796d7",
+        "type": "message",
+        "text": "Lol great",
+        "user": "U0118UR0J72",
+        "ts": "1641619817.047300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U4wq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lol great"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F02TKLL341F",
+                "created": 1641620467,
+                "timestamp": 1641620467,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U0135LQT8TB",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 1017060,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "subtype": "slack_image",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02TKLL341F\/image_from_ios.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02TKLL341F\/download\/image_from_ios.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02TKLL341F-9876f96da0\/image_from_ios_64.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02TKLL341F-9876f96da0\/image_from_ios_80.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02TKLL341F-9876f96da0\/image_from_ios_360.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02TKLL341F-9876f96da0\/image_from_ios_480.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02TKLL341F-9876f96da0\/image_from_ios_160.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02TKLL341F-9876f96da0\/image_from_ios_720.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02TKLL341F-9876f96da0\/image_from_ios_800.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02TKLL341F-9876f96da0\/image_from_ios_960.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02TKLL341F-9876f96da0\/image_from_ios_1024.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACSl5U3\/ADyb8qconQ5EZ\/KtNn2cck+1AmU9WK\/UUAUvtF0P4P8Ax00ou7ofwfoa0AVbo4NBU+tFkO5Q+33H\/PMfkaPt9x\/zzH5GrRU560bT60WQrkmFcfMM1TusRy4j3DjJ54q0h4qG5RvMDgEgjnFAEAnU\/eTB9RT4rsq4QDcpIHJ6UkcDyZI+Uepo+wv3df1pqwF09aSkHAAznAozSABTt2Kzs3n+cUubzHT+VK6CzL5cetIWqji89P5Uu28PbH4ii6CzLZNJmqvlXh7j8xR5N56j8xRzILM\/\/9k=",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U0135LQT8TB\/F02TKLL341F\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02TKLL341F-10ede5a1f8",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0135LQT8TB",
+        "display_as_bot": false,
+        "ts": "1641620472.047500",
+        "client_msg_id": "9C9EDFB7-B965-4D05-8253-8315C2CAA23E"
+    },
+    {
+        "client_msg_id": "DA3B4236-FEC1-4618-ADD5-B96F7116F9E9",
+        "type": "message",
+        "text": "I'm thinking a zip tie to secure it",
+        "user": "U0135LQT8TB",
+        "ts": "1641620486.048100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a1Pd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm thinking a zip tie to secure it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gdfe9743ea44",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dfe9743ea4477ab6cdd74b02c32fc903.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ethan Chiang",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "awesome.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F02TWP5TZ9N",
+                "created": 1641620494,
+                "timestamp": 1641620494,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U0135LQT8TB",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 1215393,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "subtype": "slack_image",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02TWP5TZ9N\/image_from_ios.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02TWP5TZ9N\/download\/image_from_ios.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02TWP5TZ9N-8d68bffa2a\/image_from_ios_64.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02TWP5TZ9N-8d68bffa2a\/image_from_ios_80.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02TWP5TZ9N-8d68bffa2a\/image_from_ios_360.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02TWP5TZ9N-8d68bffa2a\/image_from_ios_480.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02TWP5TZ9N-8d68bffa2a\/image_from_ios_160.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02TWP5TZ9N-8d68bffa2a\/image_from_ios_720.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02TWP5TZ9N-8d68bffa2a\/image_from_ios_800.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02TWP5TZ9N-8d68bffa2a\/image_from_ios_960.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02TWP5TZ9N-8d68bffa2a\/image_from_ios_1024.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACSp5E4\/5ZH8qcq3CHIjP5VpqvHU07Z7mgDO+0XI6xA\/8BpRdzjrAv8A3yav7femsh9aVkO5U+3S\/wDPBf1o+3S\/88B+tSlTn7xFJsb+8fyp2QrlpTxSk4UnGcVGh4pJxugcD0oAesiEcuv50b1bhWBPsaoxq7RfKmQD1xyadEsqyAhCB3z6UAWSOaTFKTzSUACnjnFOzWd5dyf+Wn\/j1KIZ+8o\/E1N0OzL+4AUhcVRFs\/eYUv2UH71wKOZBZlouPUUbx6iq32SH\/nvR9jh\/570cyDlZ\/9k=",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U0135LQT8TB\/F02TWP5TZ9N\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02TWP5TZ9N-4fce1ff7ba",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0135LQT8TB",
+        "display_as_bot": false,
+        "ts": "1641620499.048200",
+        "client_msg_id": "DA9AB97F-1DDB-4623-9F1E-A248E0B85C09"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F02T9AB597W",
+                "created": 1641620505,
+                "timestamp": 1641620505,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U0135LQT8TB",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 1162433,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "subtype": "slack_image",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02T9AB597W\/image_from_ios.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02T9AB597W\/download\/image_from_ios.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T9AB597W-39bb3b977c\/image_from_ios_64.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T9AB597W-39bb3b977c\/image_from_ios_80.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T9AB597W-39bb3b977c\/image_from_ios_360.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T9AB597W-39bb3b977c\/image_from_ios_480.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T9AB597W-39bb3b977c\/image_from_ios_160.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T9AB597W-39bb3b977c\/image_from_ios_720.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T9AB597W-39bb3b977c\/image_from_ios_800.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T9AB597W-39bb3b977c\/image_from_ios_960.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02T9AB597W-39bb3b977c\/image_from_ios_1024.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACS35anqKXy19KiFw3\/PM\/nSG7x\/AP8AvqgCYoKYyCo\/tZJwFU\/8CpGuG\/uD86AHYx0oqEztn7q\/nR57f3V\/OgC2I4\/7grNuVUTvhlAzxWmDVaWzWSQtvxmgCmi4IZWBwa0Y3SRNwQA9CMVCtmq\/xn8qlRVjTav5mgAIGegowPQU0nmjNAiv\/aC9kNIb5mPyR5polUfdiUU77RJ2AH0FRzF8ogmuW+7Efyo8u8fvt\/EUvmzHoTUTPNk5Y8epou2FkiX7HcHrMM\/U0fY5\/wDnsPzNRec\/\/PLP50nnP\/zx\/nSvIND\/2Q==",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U0135LQT8TB\/F02T9AB597W\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02T9AB597W-92276287e4",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0135LQT8TB",
+        "display_as_bot": false,
+        "ts": "1641620510.048500",
+        "client_msg_id": "5FFC60DC-39D7-4D6A-A062-F8ED1EAFECBD"
+    },
+    {
+        "client_msg_id": "038baf73-97d1-48b6-b175-90a71cc19540",
+        "type": "message",
+        "text": "Did you edit the mount so it slides in the right way, it looks like the bump is on the bottom?",
+        "user": "U0118UR0J72",
+        "ts": "1641620567.049500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9bw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Did you edit the mount so it slides in the right way, it looks like the bump is on the bottom?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4FF0FD91-1C03-4626-AE66-24CB0BD8D9B4",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U0135LQT8TB",
+        "ts": "1641620577.049700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uReZ6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gdfe9743ea44",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dfe9743ea4477ab6cdd74b02c32fc903.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ethan Chiang",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "awesome.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2690EB8C-D71F-4A22-90E6-5CA95727A37F",
+        "type": "message",
+        "text": "The camera fits",
+        "user": "U0135LQT8TB",
+        "ts": "1641620605.050800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O\/+91",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The camera fits"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gdfe9743ea44",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dfe9743ea4477ab6cdd74b02c32fc903.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ethan Chiang",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "awesome.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "80e800be-bcab-4f8a-8618-9666bb65506e",
+        "type": "message",
+        "text": "Cool",
+        "user": "U0118UR0J72",
+        "ts": "1641620617.051200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0WZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "57242C2A-8778-4FA8-9B26-5895569038EB",
+        "type": "message",
+        "text": "Wait did we want it higher or lower to the ground",
+        "user": "U0135LQT8TB",
+        "ts": "1641620774.051800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q2qpG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wait did we want it higher or lower to the ground"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gdfe9743ea44",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dfe9743ea4477ab6cdd74b02c32fc903.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ethan Chiang",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "awesome.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3e467efe-6291-4bf1-964d-f465491ed642",
+        "type": "message",
+        "text": "Like facing lower or higher?",
+        "user": "U0118UR0J72",
+        "ts": "1641620835.052200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y1Nz=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Like facing lower or higher?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5cedfd69-8a48-4bde-8ba6-4c1c2c4abe7c",
+        "type": "message",
+        "text": "If we want it lower we can just add paper\/tape in between then zip tie it",
+        "user": "U0118UR0J72",
+        "ts": "1641620880.053300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rwgqe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If we want it lower we can just add paper\/tape in between then zip tie it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "019E6FFB-929F-4619-9F22-8746960363C1",
+        "type": "message",
+        "text": "Oh closer or farther from the ground on the robot",
+        "user": "U0135LQT8TB",
+        "ts": "1641620893.053600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GTIB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh closer or farther from the ground on the robot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gdfe9743ea44",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dfe9743ea4477ab6cdd74b02c32fc903.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ethan Chiang",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "awesome.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "41a1ad9e-82ee-4cd7-8c1f-7279dc351f44",
+        "type": "message",
+        "text": "Not sure it matters too much. He haven't had a chance to test different heights and angles in this position",
+        "user": "U0118UR0J72",
+        "ts": "1641620941.054400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mo8P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not sure it matters too much. He haven't had a chance to test different heights and angles in this position"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

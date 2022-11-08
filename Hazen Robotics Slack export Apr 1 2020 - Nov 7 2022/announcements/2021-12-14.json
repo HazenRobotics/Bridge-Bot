@@ -1,0 +1,2882 @@
+[
+    {
+        "client_msg_id": "958dd464-91f1-4b53-8ef2-468241e34004",
+        "type": "message",
+        "text": "I have our existing design. If anyone wants to find a better one, they need to have it done today",
+        "user": "U012BUXVC6B",
+        "ts": "1639496354.470200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ey1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have our existing design. If anyone wants to find a better one, they need to have it done today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3c90d342-35e5-44a0-92b4-1d611c2bb43b",
+        "type": "message",
+        "text": "Also meeting today",
+        "user": "U012BUXVC6B",
+        "ts": "1639500081.470600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ggpQV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also meeting today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "603d8923-8772-4b2a-9b2c-cdcf6d08cb7a",
+        "type": "message",
+        "text": "I'll be there for a little bit but I can't stay long.",
+        "user": "U0118UR0J72",
+        "ts": "1639500103.471100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ppDW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll be there for a little bit but I can't stay long."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "95915ca7-3195-4466-ade5-ded300622497",
+        "type": "message",
+        "text": "<@U012BUXVC6B> need sponsors",
+        "user": "U018WC9RM3K",
+        "ts": "1639503228.471500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IQN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012BUXVC6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " need sponsors"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F02RE45H5HN",
+                "created": 1639503379,
+                "timestamp": 1639503379,
+                "name": "robotics.PNG",
+                "title": "robotics.PNG",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U018WC9RM3K",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 117274,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02RE45H5HN\/robotics.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02RE45H5HN\/download\/robotics.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02RE45H5HN-5e564de0f6\/robotics_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02RE45H5HN-5e564de0f6\/robotics_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02RE45H5HN-5e564de0f6\/robotics_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 293,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02RE45H5HN-5e564de0f6\/robotics_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 391,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02RE45H5HN-5e564de0f6\/robotics_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "original_w": 510,
+                "original_h": 415,
+                "thumb_tiny": "AwAnADDTooooAbIyqhLsFHqTiq0c207pHO0d6z7yQyXjhjkKdoHpTVUNtUkjIwMngHtSY0bSPHKNyMrD2p9Y2nMUvAvTdkEVs0xBRRRQBiOAdRcHpuNTXTKI9vy5PpVW7yLyX\/eNMLknmpcbu47k8DH7fGT13AH39626wbXLXkWOfmFb1UIKKKKAM\/ULbh5VUHOMms7Z7VtXv\/HpJ+H86yTTQFrTUUvkqMrzn61p1n6b\/rH+laFID\/\/Z",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U018WC9RM3K\/F02RE45H5HN\/robotics.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02RE45H5HN-5c6c0286b2",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U018WC9RM3K",
+        "display_as_bot": false,
+        "ts": "1639503382.471600",
+        "client_msg_id": "5b287cd0-9b69-46ff-81df-9dcb838cffc1"
+    },
+    {
+        "client_msg_id": "e89c95cc-9654-48a7-9664-2d9fffc5c099",
+        "type": "message",
+        "text": "That would be a fire sweatshirt",
+        "user": "U012BUXVC6B",
+        "ts": "1639503409.472200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2gap4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That would be a fire sweatshirt"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4246c667-5325-4d0b-9623-19f9f4e8bac3",
+        "type": "message",
+        "text": "<https:\/\/www.customink.com\/designs\/basicpolo\/xkg0-00ch-sqkj\/share?pc=EMAIL-40778&amp;utm_campaign=shared%20design&amp;utm_source=share%20link&amp;utm_medium=shared%20design&amp;utm_content=shared%20desktop|https:\/\/www.customink.com\/designs\/basicpolo\/xkg0-00ch-sqkj\/share?pc=EMAIL-40778&amp;utm_c[…]link&amp;utm_medium=shared%20design&amp;utm_content=shared%20desktop> Here is the basic polo for reference",
+        "user": "U012BUXVC6B",
+        "ts": "1639503466.472500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Kvqc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.customink.com\/designs\/basicpolo\/xkg0-00ch-sqkj\/share?pc=EMAIL-40778&utm_campaign=shared%20design&utm_source=share%20link&utm_medium=shared%20design&utm_content=shared%20desktop",
+                                "text": "https:\/\/www.customink.com\/designs\/basicpolo\/xkg0-00ch-sqkj\/share?pc=EMAIL-40778&utm_c[…]link&utm_medium=shared%20design&utm_content=shared%20desktop"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Here is the basic polo for reference"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.customink.com\/designs\/basicpolo\/xkg0-00ch-sqkj\/share?pc=EMAIL-40778&utm_campaign=shared%20design&utm_source=share%20link&utm_medium=shared%20design&utm_content=shared%20desktop",
+                "thumb_url": "https:\/\/mms-images.out.customink.com\/mms\/images\/catalog\/colors\/100005\/views\/alt\/_supersocial_large_extended.png?design=xkg0-00ch-sqkj&superSocial=1",
+                "thumb_width": 800,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/www.customink.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.customink.com\/designs\/basicpolo\/xkg0-00ch-sqkj\/share?pc=EMAIL-40778&amp;utm_campaign=shared%20design&amp;utm_source=share%20link&amp;utm_medium=shared%20design&amp;utm_content=shared%20desktop",
+                "fallback": "CustomInk.com: Custom Ink Design 'basicpolo'",
+                "text": "Create, save, share, or order your own products at <http:\/\/CustomInk.com|CustomInk.com>",
+                "title": "Custom Ink Design 'basicpolo'",
+                "title_link": "https:\/\/www.customink.com\/designs\/basicpolo\/xkg0-00ch-sqkj\/share?pc=EMAIL-40778&utm_campaign=shared%20design&utm_source=share%20link&utm_medium=shared%20design&utm_content=shared%20desktop",
+                "service_name": "CustomInk.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc849620-69bc-4ceb-8d20-f36f2775bb07",
+        "type": "message",
+        "text": "Adding sponsors to the back costs an extra $10",
+        "user": "U012BUXVC6B",
+        "ts": "1639503953.472900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EFpZc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Adding sponsors to the back costs an extra $10"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F02QQDRC60J",
+                "created": 1639503955,
+                "timestamp": 1639503955,
+                "name": "tshirts 1.PNG",
+                "title": "tshirts 1.PNG",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U018WC9RM3K",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 435490,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02QQDRC60J\/tshirts_1.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02QQDRC60J\/download\/tshirts_1.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02QQDRC60J-22fe6778f4\/tshirts_1_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02QQDRC60J-22fe6778f4\/tshirts_1_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02QQDRC60J-22fe6778f4\/tshirts_1_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 297,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02QQDRC60J-22fe6778f4\/tshirts_1_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 395,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02QQDRC60J-22fe6778f4\/tshirts_1_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02QQDRC60J-22fe6778f4\/tshirts_1_720.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 593,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02QQDRC60J-22fe6778f4\/tshirts_1_800.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 659,
+                "thumb_800_h": 800,
+                "original_w": 702,
+                "original_h": 852,
+                "thumb_tiny": "AwAwACe1NKsMZdvy9azJrmSbIY4X+6OlWNRflE\/GqQoAsG6doPLxlzxn2psU8sAAwdvoRUIODmlkfd0FIZsRuJI1cdCM06qmnPmEp3U1bpiKl3atI5kVhnGMGqMkZjYKwwcZNa0nSs28\/wCPg\/QfypdR9CCpIIvOZlBwcZFRnpVmxOJH9dpxTYizZwrHuOct6+1WqjhHBP4VJQhsZL92s27Obl\/bitKXpWTOwaZz70uodBhqxaxNkSngdveqxNTRTuZUUnC7h07UwRrINqgelLRRQI\/\/2Q==",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U018WC9RM3K\/F02QQDRC60J\/tshirts_1.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02QQDRC60J-7dbf84940d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U018WC9RM3K",
+        "display_as_bot": false,
+        "ts": "1639503961.473000",
+        "client_msg_id": "81c137aa-28d1-494e-b774-9d187e211c64"
+    },
+    {
+        "client_msg_id": "0f2a1db1-8142-4289-bc7e-76537187cb85",
+        "type": "message",
+        "text": "It is being bought through CTE so we could charge $20 regardless of actual cost",
+        "user": "U018WC9RM3K",
+        "ts": "1639504004.474000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ygula",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It is being bought through CTE so we could charge $20 regardless of actual cost"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E233F4BC-5791-4B00-BE5F-15AC1092663D",
+        "type": "message",
+        "text": "Where’s that one from? Looks sick",
+        "user": "U012BUXVC6B",
+        "ts": "1639504035.474400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CDZA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Where’s that one from? Looks sick"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a943d093-67c5-42ed-a687-e62db25d2d77",
+        "type": "message",
+        "text": "cstom",
+        "user": "U018WC9RM3K",
+        "ts": "1639504060.474700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nu\/oZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cstom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "53380236-7b37-41ed-942f-2006310d84df",
+        "type": "message",
+        "text": "custom ink",
+        "user": "U018WC9RM3K",
+        "ts": "1639504066.474900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pdMk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "custom ink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "342d1a9d-323b-4467-99c1-ce73f55a8ef8",
+        "type": "message",
+        "text": "<!everyone> Below are the people and sizes I have. Please let me know if you want a tshirt ($20) and your size. Also any one that wants a sweatshirt($30) let me know.",
+        "user": "U018WC9RM3K",
+        "ts": "1639506857.477100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k6eQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Below are the people and sizes I have. Please let me know if you want a tshirt ($20) and your size. Also any one that wants a sweatshirt($30) let me know."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F02R3B283JM",
+                "created": 1639506886,
+                "timestamp": 1639506886,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U018WC9RM3K",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 26374,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02R3B283JM\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02R3B283JM\/download\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02R3B283JM-d2330db212\/image_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02R3B283JM-d2330db212\/image_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02R3B283JM-d2330db212\/image_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 345,
+                "thumb_360_h": 335,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02R3B283JM-d2330db212\/image_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "original_w": 345,
+                "original_h": 335,
+                "thumb_tiny": "AwAuADC\/g8\/K3\/fVJg8EKf8Avqggc\/c6+tJxuHCfgaAHYP8Adb\/vqjB\/ut\/31TcD0j\/OlAHon50APGdpGD+dOpP4O3T8KF5Uf0oAjyOfmX\/vmkJAOdy\/itOJPq\/5UmTkcv8AiKADIz95f++aMjP3l\/75pcn1f8qATnq\/5UAOBynUflSr90Ufw9T0\/Ghfujr+NADMH0b\/AL6pADuHyt\/31Slevyr+dN2\/MAUX86AHYP8Adb\/vqgA+jf8AfVJt\/wBlfzpdv+yv50AP\/h\/CgdBQAAuAKRBgYwB9KAP\/2Q==",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U018WC9RM3K\/F02R3B283JM\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02R3B283JM-4dd0e1a8b6",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U018WC9RM3K",
+        "display_as_bot": false,
+        "ts": "1639506889.477500",
+        "client_msg_id": "010b7d9d-540d-4605-9585-0a29a6a0919f"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F02QQDRC60J",
+                "created": 1639503955,
+                "timestamp": 1639503955,
+                "name": "tshirts 1.PNG",
+                "title": "tshirts 1.PNG",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U018WC9RM3K",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 435490,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02QQDRC60J\/tshirts_1.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02QQDRC60J\/download\/tshirts_1.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02QQDRC60J-22fe6778f4\/tshirts_1_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02QQDRC60J-22fe6778f4\/tshirts_1_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02QQDRC60J-22fe6778f4\/tshirts_1_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 297,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02QQDRC60J-22fe6778f4\/tshirts_1_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 395,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02QQDRC60J-22fe6778f4\/tshirts_1_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02QQDRC60J-22fe6778f4\/tshirts_1_720.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 593,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02QQDRC60J-22fe6778f4\/tshirts_1_800.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 659,
+                "thumb_800_h": 800,
+                "original_w": 702,
+                "original_h": 852,
+                "thumb_tiny": "AwAwACe1NKsMZdvy9azJrmSbIY4X+6OlWNRflE\/GqQoAsG6doPLxlzxn2psU8sAAwdvoRUIODmlkfd0FIZsRuJI1cdCM06qmnPmEp3U1bpiKl3atI5kVhnGMGqMkZjYKwwcZNa0nSs28\/wCPg\/QfypdR9CCpIIvOZlBwcZFRnpVmxOJH9dpxTYizZwrHuOct6+1WqjhHBP4VJQhsZL92s27Obl\/bitKXpWTOwaZz70uodBhqxaxNkSngdveqxNTRTuZUUnC7h07UwRrINqgelLRRQI\/\/2Q==",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U018WC9RM3K\/F02QQDRC60J\/tshirts_1.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02QQDRC60J-7dbf84940d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F02RE45H5HN",
+                "created": 1639503379,
+                "timestamp": 1639503379,
+                "name": "robotics.PNG",
+                "title": "robotics.PNG",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U018WC9RM3K",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 117274,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02RE45H5HN\/robotics.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02RE45H5HN\/download\/robotics.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02RE45H5HN-5e564de0f6\/robotics_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02RE45H5HN-5e564de0f6\/robotics_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02RE45H5HN-5e564de0f6\/robotics_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 293,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02RE45H5HN-5e564de0f6\/robotics_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 391,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02RE45H5HN-5e564de0f6\/robotics_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "original_w": 510,
+                "original_h": 415,
+                "thumb_tiny": "AwAnADDTooooAbIyqhLsFHqTiq0c207pHO0d6z7yQyXjhjkKdoHpTVUNtUkjIwMngHtSY0bSPHKNyMrD2p9Y2nMUvAvTdkEVs0xBRRRQBiOAdRcHpuNTXTKI9vy5PpVW7yLyX\/eNMLknmpcbu47k8DH7fGT13AH39626wbXLXkWOfmFb1UIKKKKAM\/ULbh5VUHOMms7Z7VtXv\/HpJ+H86yTTQFrTUUvkqMrzn61p1n6b\/rH+laFID\/\/Z",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U018WC9RM3K\/F02RE45H5HN\/robotics.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02RE45H5HN-5c6c0286b2",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U018WC9RM3K",
+        "ts": "1639506926.477800",
+        "client_msg_id": "f0816e9c-8159-4500-a8bb-595c22a1e5e3"
+    },
+    {
+        "client_msg_id": "02882609-c3fc-4f29-9d39-4dd6e225774f",
+        "type": "message",
+        "text": "<!everyone> Left is shirt right is sweatshirt. Please DM with shirt or sweatshirt and size Need to know ASAP will be ordering at lunch if possible.",
+        "user": "U018WC9RM3K",
+        "ts": "1639507015.479500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qif",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Left is shirt right is sweatshirt. Please DM with shirt or sweatshirt and size Need to know ASAP will be ordering at lunch if possible."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B92CBCB1-28F2-40FC-8213-379D6ECEF613",
+        "type": "message",
+        "text": "If I have the tee shirt from previous years do I need to get a shirt\/sweatshirt ",
+        "user": "U0118LQKKEZ",
+        "ts": "1639508071.480400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N+l8o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If I have the tee shirt from previous years do I need to get a shirt\/sweatshirt "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "ca034fd1769e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-02\/2115489678439_ca034fd1769e0a72e2f9_72.png",
+            "first_name": "Ellen",
+            "real_name": "Ellen Huynh",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "ellen.huynh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4f2daae1-8102-405a-a16f-81c885ed4a8a",
+        "type": "message",
+        "text": "I would say no <@U012BUXVC6B>",
+        "user": "U018WC9RM3K",
+        "ts": "1639508111.480800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ukT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would say no "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012BUXVC6B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "AC3B6452-089F-4BE0-A854-F6025E742D4D",
+        "type": "message",
+        "text": "If we stick with the blue one no you don't, if we get the new shirt you need a new shirt ",
+        "user": "U012BUXVC6B",
+        "ts": "1639508762.481600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=5g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If we stick with the blue one no you don't, if we get the new shirt you need a new shirt "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "FF65BF57-0CFB-4FFB-9EBF-AB0B3CED79AA",
+        "type": "message",
+        "text": "Do we stick with the old shirt or no? React to vote <!everyone> ",
+        "user": "U012BUXVC6B",
+        "ts": "1639508809.482500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iar",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do we stick with the old shirt or no? React to vote "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U012BUXVC6B",
+                    "U0118UR0J72",
+                    "U010WTHDW5Q",
+                    "U02DWDDVAP7",
+                    "U01BCRC513K"
+                ],
+                "count": 5
+            },
+            {
+                "name": "-1",
+                "users": [
+                    "U0135LQT8TB",
+                    "U018B1TFE3Y",
+                    "U0119239VCY",
+                    "U02EA7L1KGT"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "56e22acd-9124-439b-accf-1364c1519b25",
+        "type": "message",
+        "text": "Ok executive decision we are purchasing like 5 of the old shirt to tide us over thru third comp",
+        "user": "U012BUXVC6B",
+        "ts": "1639511314.485400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gFGYy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok executive decision we are purchasing like 5 of the old shirt to tide us over thru third comp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d1593d83-b028-4457-9b4e-135ff47bb800",
+        "type": "message",
+        "text": "If ya'll want new shirts or sweatshirts they can totally happen but I will not be involved",
+        "user": "U012BUXVC6B",
+        "ts": "1639511339.486000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/rqk+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If ya'll want new shirts or sweatshirts they can totally happen but I will not be involved"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "801e97d1-9019-4755-b6ab-1369596439f5",
+        "type": "message",
+        "text": "Also possibly buying socks",
+        "user": "U012BUXVC6B",
+        "ts": "1639511354.486400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A75b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also possibly buying socks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9da7e27b-9ce4-4527-9867-8dba6b5f6b2a",
+        "type": "message",
+        "text": "<@U012BUXVC6B> we cannot do that plan as they are out of all sizes except medium and small",
+        "user": "U018WC9RM3K",
+        "ts": "1639511377.487100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "emL3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012BUXVC6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we cannot do that plan as they are out of all sizes except medium and small"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "97a09536-59b8-46fc-b8de-b08d3b8b1e42",
+        "type": "message",
+        "text": "I am living and breathing in pain does anyone need a large who does not already have one",
+        "user": "U012BUXVC6B",
+        "ts": "1639511506.487500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5\/I8M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am living and breathing in pain does anyone need a large who does not already have one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b012bc03-bdd1-4433-aa36-7501f1da3ae2",
+        "type": "message",
+        "text": "Alternatively does anyone have a large and want a smaller size?",
+        "user": "U012BUXVC6B",
+        "ts": "1639511520.487900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BnoJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alternatively does anyone have a large and want a smaller size?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "83cb6ea0-3180-4d7c-a3d1-da84b88709a5",
+        "type": "message",
+        "text": "we have a scheduled meeting today right? probably just poll people then. I think there are a few ppl who want\/need something larger than a medium",
+        "user": "U022WGTQ602",
+        "ts": "1639511699.489500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "glY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we have a scheduled meeting today right? probably just poll people then. I think there are a few ppl who want\/need something larger than a medium"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4d29552b-219f-4632-ab18-625187c012d7",
+        "type": "message",
+        "text": "Yes we do, <@U018WC9RM3K> can I snag the shirt sizes doc?",
+        "user": "U012BUXVC6B",
+        "ts": "1639511721.490200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a=yQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes we do, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U018WC9RM3K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can I snag the shirt sizes doc?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "174a967c-a710-47cf-9333-657516f15dc8",
+        "type": "message",
+        "text": "which would mean they either go without a shirt for 3rd comp or we get new shirts",
+        "user": "U022WGTQ602",
+        "ts": "1639511746.490900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TJMUi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "which would mean they either go without a shirt for 3rd comp or we get new shirts"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "58443429-dcfe-4454-9850-cd71a389e6c2",
+        "type": "message",
+        "text": "the blue only comes in s and m they are out of everyother size",
+        "user": "U018WC9RM3K",
+        "ts": "1639511749.491100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aP9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the blue only comes in s and m they are out of everyother size"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "70178075-8fb7-4b89-a999-e382d47e94a5",
+        "type": "message",
+        "text": "Can I snag the doc tho? I think there are only a couple of folks who want a large and we had a couple at some point",
+        "user": "U012BUXVC6B",
+        "ts": "1639511788.491900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mn7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can I snag the doc tho? I think there are only a couple of folks who want a large and we had a couple at some point"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5dc5a5d7-460b-471e-863b-a071197ec29d",
+        "type": "message",
+        "text": "someone has em",
+        "user": "U012BUXVC6B",
+        "ts": "1639511790.492100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u7q3A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "someone has em"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5bb0f712-6b9a-469a-aa55-f9884c15ec3a",
+        "type": "message",
+        "text": "what product (name) is the new design?",
+        "user": "U022WGTQ602",
+        "ts": "1639511923.493000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "syJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what product (name) is the new design?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1639511931.000000"
+        }
+    },
+    {
+        "client_msg_id": "59e83bde-34f9-43aa-91be-ac4851434b80",
+        "type": "message",
+        "text": "which one",
+        "user": "U018WC9RM3K",
+        "ts": "1639511951.493600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T8G92",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "which one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "32b92432-46bc-4992-9cc8-94bd4dbd14a1",
+        "type": "message",
+        "text": "the black and yellow one",
+        "user": "U022WGTQ602",
+        "ts": "1639511959.493800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eah",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the black and yellow one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "82704342-7df0-44be-b3e0-d275ad0183ba",
+        "type": "message",
+        "text": "reebok",
+        "user": "U018WC9RM3K",
+        "ts": "1639511985.494100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fIr\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "reebok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "00965e1f-b8ac-4bd4-8818-d6a5c43ff01b",
+        "type": "message",
+        "text": "did we ever try calling the company that wasn't responding to us?",
+        "user": "U022WGTQ602",
+        "ts": "1639512327.494600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ay+lF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "did we ever try calling the company that wasn't responding to us?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4c9fc3b7-eea0-4c69-87aa-2c9b857b4303",
+        "type": "message",
+        "text": "call and email",
+        "user": "U018WC9RM3K",
+        "ts": "1639512369.494800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TGLWU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "call and email"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6F6288BF-F09D-46A7-B051-1BDFF616265F",
+        "type": "message",
+        "text": "Shoooot and still nothin?",
+        "user": "U012BUXVC6B",
+        "ts": "1639512388.495200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NpJQY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Shoooot and still nothin?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "aa518f53-dd66-413a-b36c-aa5f79a7f9b6",
+        "type": "message",
+        "text": "hence why we need to figure out a new plan",
+        "user": "U018WC9RM3K",
+        "ts": "1639512425.495500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HrFY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hence why we need to figure out a new plan"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E161562A-FF2E-4E8D-8055-4A228970B8A9",
+        "type": "message",
+        "text": "Any chance they could be ordered tmr to give us a moment of time?",
+        "user": "U012BUXVC6B",
+        "ts": "1639512453.496000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0UIvk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any chance they could be ordered tmr to give us a moment of time?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f10bb682-fe22-4256-9744-b303e9099f51",
+        "type": "message",
+        "text": "isn't the entire thing that we can't order those because they're not responding",
+        "user": "U022WGTQ602",
+        "ts": "1639512553.497400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "csGC+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "isn't the entire thing that we can't order those because they're not responding"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5675f352-5e43-422f-81dc-df24880db8e3",
+        "type": "message",
+        "text": "3 small and 3 medium blue shirts will get most everybody. I think that the sweatshirt or  the same design on aa  shirt could be an alternate.",
+        "user": "U018WC9RM3K",
+        "ts": "1639513514.499200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AVzzs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3 small and 3 medium blue shirts will get most everybody. I think that the sweatshirt or  the same design on aa  shirt could be an alternate."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "513255dc-aeed-483a-8ca0-e04b617508f7",
+        "type": "message",
+        "text": "Shoot, aigt that might be what we need to do",
+        "user": "U012BUXVC6B",
+        "ts": "1639513888.499700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sMnT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Shoot, aigt that might be what we need to do"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "833848ec-206a-4cac-bf1a-534b51111457",
+        "type": "message",
+        "text": "<https:\/\/www.amazon.com\/Gildan-Ultra-Cotton-Piqu%C3%A9-G380\/dp\/B00VZDB6B8\/ref=sr_1_6?crid=NC05N5ZFOEDQ&amp;keywords=gildan%2Bultra%2Bcotton%2Bpique%2Bpolo&amp;qid=1639514341&amp;sprefix=gildan%2Bultra%2Bcotton%2Bp%2Caps%2C207&amp;sr=8-6&amp;th=1|https:\/\/www.amazon.com\/Gildan-Ultra-Cotton-Piqu%C3%A9-G380\/dp\/B00VZDB6B8\/ref=sr_1_6?[…]1&amp;sprefix=gildan%2Bultra%2Bcotton%2Bp%2Caps%2C207&amp;sr=8-6&amp;th=1>",
+        "user": "U012BUXVC6B",
+        "ts": "1639514369.499900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uf1P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.com\/Gildan-Ultra-Cotton-Piqu%C3%A9-G380\/dp\/B00VZDB6B8\/ref=sr_1_6?crid=NC05N5ZFOEDQ&keywords=gildan%2Bultra%2Bcotton%2Bpique%2Bpolo&qid=1639514341&sprefix=gildan%2Bultra%2Bcotton%2Bp%2Caps%2C207&sr=8-6&th=1",
+                                "text": "https:\/\/www.amazon.com\/Gildan-Ultra-Cotton-Piqu%C3%A9-G380\/dp\/B00VZDB6B8\/ref=sr_1_6?[…]1&sprefix=gildan%2Bultra%2Bcotton%2Bp%2Caps%2C207&sr=8-6&th=1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d10d7e9c-63a0-403f-a97c-918d9ad442e8",
+        "type": "message",
+        "text": "Heres a blank polo how about we just snag the missing sizes here",
+        "user": "U012BUXVC6B",
+        "ts": "1639514382.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T=z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Heres a blank polo how about we just snag the missing sizes here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3a444574-8c01-443c-b549-f03134d54863",
+        "type": "message",
+        "text": "We could see if Ms. Crow could do a couple of polos for people",
+        "user": "U018WC9RM3K",
+        "ts": "1639515273.000900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MoP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We could see if Ms. Crow could do a couple of polos for people"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "05F418C6-C90A-47E6-A7EA-A2FEBB2B7834",
+        "type": "message",
+        "text": "Not a bad idea, the quality was pretty garbage from the shirts I’ve see ",
+        "user": "U012BUXVC6B",
+        "ts": "1639516318.001900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BdQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not a bad idea, the quality was pretty garbage from the shirts I’ve see "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "071D979A-5AAE-4518-9454-4D87BF72FD71",
+        "type": "message",
+        "text": "I’m thinking we grab what we need from custom ink and then try and print on the xl one(s?) from Amazon",
+        "user": "U012BUXVC6B",
+        "ts": "1639516366.002900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GjuQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m thinking we grab what we need from custom ink and then try and print on the xl one(s?) from Amazon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ddf961c5-9ec3-47ee-b21e-a217b188d085",
+        "type": "message",
+        "text": "<@U012BUXVC6B> and <@U022WGTQ602> no one in the shop so I am headed home",
+        "user": "U018WC9RM3K",
+        "ts": "1639525119.003700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EFks",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012BUXVC6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " no one in the shop so I am headed home"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e1842adf-41f7-46dd-bce9-14dc5b4da222",
+        "type": "message",
+        "text": "alr, so should I just try to work on vision at home? at least get boxes drawn",
+        "user": "U022WGTQ602",
+        "ts": "1639525922.004500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rQb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alr, so should I just try to work on vision at home? at least get boxes drawn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "515e44a0-bcb4-4e63-aca5-0734d4254129",
+        "type": "message",
+        "text": "That should work I think",
+        "user": "U018WC9RM3K",
+        "ts": "1639531278.004800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BC48p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That should work I think"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "A2BECA7F-C88E-4EA1-9BC2-075ABDEE23E9",
+        "type": "message",
+        "text": "What place did McKnight get at the comp",
+        "user": "U010WTHDW5Q",
+        "ts": "1639546573.005100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iqr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What place did McKnight get at the comp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "fa6090fe6c02",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2456400319351_fa6090fe6c023108503a_72.png",
+            "first_name": "Lydia",
+            "real_name": "Lydia Sorbo",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "lesorbo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0DC4CC94-DB6A-4921-ACBB-35462C92E8BC",
+        "type": "message",
+        "text": "7",
+        "user": "U012BUXVC6B",
+        "ts": "1639546584.005300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8OxU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010WTHDW5Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AB2A8D52-027E-42D6-8E5F-9CB09C553CCA",
+        "type": "message",
+        "text": "What was the highest amount of pts we scored",
+        "user": "U010WTHDW5Q",
+        "ts": "1639546662.005900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7V3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What was the highest amount of pts we scored"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "fa6090fe6c02",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2456400319351_fa6090fe6c023108503a_72.png",
+            "first_name": "Lydia",
+            "real_name": "Lydia Sorbo",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "lesorbo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9133592f-f63d-438a-905b-69a43ed97e45",
+        "type": "message",
+        "text": "179?",
+        "user": "U0118UR0J72",
+        "ts": "1639546677.006100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GVA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "179?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "37E71748-49EC-451B-A5C2-BFAA88E57FB0",
+        "type": "message",
+        "text": "Singlehandedly or w\/ alliance partner",
+        "user": "U010WTHDW5Q",
+        "ts": "1639546702.006700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+z4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Singlehandedly or w\/ alliance partner"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "fa6090fe6c02",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2456400319351_fa6090fe6c023108503a_72.png",
+            "first_name": "Lydia",
+            "real_name": "Lydia Sorbo",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "lesorbo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fe6620f7-d47a-4672-834a-4f795ab0b3c8",
+        "type": "message",
+        "text": "With",
+        "user": "U0118UR0J72",
+        "ts": "1639546721.006800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MTCVa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "With"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010WTHDW5Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3441b408-ee71-49ac-a22b-8cc0fa5969a2",
+        "type": "message",
+        "text": "Also Technototes is hosting a scrimmage on Friday the 7th, should we reach out and ask if we can attend?",
+        "user": "U012BUXVC6B",
+        "ts": "1639546761.007500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "khN9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also Technototes is hosting a scrimmage on Friday the 7th, should we reach out and ask if we can attend?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "809c3ce4-c455-40f1-a786-ae2857e4528e",
+        "type": "message",
+        "text": "Jk executive decision yes we will. It will be good to make nice with some top teams before interleagus",
+        "user": "U012BUXVC6B",
+        "ts": "1639546796.008100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n8ARr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jk executive decision yes we will. It will be good to make nice with some top teams before interleagus"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "044C37F8-18DC-497E-AA75-AA95E5850B0E",
+        "type": "message",
+        "text": "Is the robots name “tippy” lol",
+        "user": "U010WTHDW5Q",
+        "ts": "1639547265.008700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3h5Ol",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is the robots name “tippy” lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "fa6090fe6c02",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2456400319351_fa6090fe6c023108503a_72.png",
+            "first_name": "Lydia",
+            "real_name": "Lydia Sorbo",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "lesorbo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4B401595-F5FF-4ED3-BBBA-C4CA3417F3DA",
+        "type": "message",
+        "text": "I’m doing the comp post",
+        "user": "U010WTHDW5Q",
+        "ts": "1639547274.009000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/PwB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m doing the comp post"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "fa6090fe6c02",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2456400319351_fa6090fe6c023108503a_72.png",
+            "first_name": "Lydia",
+            "real_name": "Lydia Sorbo",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "lesorbo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "28A1362E-9A08-4091-9D3A-B0C6E5735B5C",
+        "type": "message",
+        "text": "Lmao uh ",
+        "user": "U012BUXVC6B",
+        "ts": "1639547282.009400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t2cI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lmao uh "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F869040B-5669-42EC-997A-41A69943757F",
+        "type": "message",
+        "text": "Yes",
+        "user": "U012BUXVC6B",
+        "ts": "1639547283.009500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cSo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8a72f3fe-1ca5-4269-9f63-37aaf1cd1250",
+        "type": "message",
+        "text": "Yes, or Tippy Bot",
+        "user": "U0118UR0J72",
+        "ts": "1639547284.009700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ynbrM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, or Tippy Bot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7D31A426-71A9-4C5D-AD28-01AA3D2BFE0B",
+        "type": "message",
+        "text": "Ooh, photo cred maybe…:point_right::point_left:",
+        "user": "U0135LQT8TB",
+        "ts": "1639547351.010500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9iF4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ooh, photo cred maybe…"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_left",
+                                "unicode": "1f448"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gdfe9743ea44",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dfe9743ea4477ab6cdd74b02c32fc903.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ethan Chiang",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "awesome.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010WTHDW5Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "407D7423-3AF5-489F-9C3B-BA6C76D620C0",
+        "type": "message",
+        "text": "What’s ur @",
+        "user": "U010WTHDW5Q",
+        "ts": "1639547370.010800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8X+K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What’s ur @"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "fa6090fe6c02",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2456400319351_fa6090fe6c023108503a_72.png",
+            "first_name": "Lydia",
+            "real_name": "Lydia Sorbo",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "lesorbo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5898F16A-5FA4-49C6-8CE9-5CAC98686882",
+        "type": "message",
+        "text": "Guys the clear bucket is :ok_hand: for pics",
+        "user": "U0135LQT8TB",
+        "ts": "1639548260.011500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+e=Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Guys the clear bucket is "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand",
+                                "unicode": "1f44c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for pics"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gdfe9743ea44",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dfe9743ea4477ab6cdd74b02c32fc903.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ethan Chiang",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "awesome.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U022WGTQ602",
+                    "U012BUXVC6B"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

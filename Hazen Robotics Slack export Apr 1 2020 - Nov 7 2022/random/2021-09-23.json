@@ -1,0 +1,98 @@
+[
+    {
+        "client_msg_id": "AF7A24A4-50B1-49F2-A103-8F378B1A43DB",
+        "type": "message",
+        "text": "<https:\/\/open.spotify.com\/playlist\/4HL3xR4twlYpAQS3OJ3k0I?si=zDcyLLK0Qj2wTxyvTU2v2Q&amp;dl_branch=1|https:\/\/open.spotify.com\/playlist\/4HL3xR4twlYpAQS3OJ3k0I?si=zDcyLLK0Qj2wTxyvTU2v2Q&amp;dl_branch=1>",
+        "user": "U012BUXVC6B",
+        "ts": "1632419978.034300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vdX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/playlist\/4HL3xR4twlYpAQS3OJ3k0I?si=zDcyLLK0Qj2wTxyvTU2v2Q&dl_branch=1",
+                                "text": "https:\/\/open.spotify.com\/playlist\/4HL3xR4twlYpAQS3OJ3k0I?si=zDcyLLK0Qj2wTxyvTU2v2Q&dl_branch=1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Spotify",
+                "service_url": "https:\/\/spotify.com",
+                "title": "Robotics Playlist 2022",
+                "title_link": "https:\/\/open.spotify.com\/playlist\/4HL3xR4twlYpAQS3OJ3k0I?si=zDcyLLK0Qj2wTxyvTU2v2Q&amp;dl_branch=1",
+                "thumb_url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b27389c5c957f376e8c87ed23dccab67616d0000b273bd69bbde4aeee723d6d08058ab67616d0000b273d77fa13e698bab43d4b4d9ffab67616d0000b273fd3c1fd41930c126bf8d68b7",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "fallback": "Spotify Audio: Robotics Playlist 2022",
+                "audio_html": "<iframe width=\"100%\" height=\"380\" title=\"Spotify Embed: Robotics Playlist 2022\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https:\/\/open.spotify.com\/embed\/playlist\/4HL3xR4twlYpAQS3OJ3k0I?si=zDcyLLK0Qj2wTxyvTU2v2Q&amp%3Bdl_branch=1\"><\/iframe>",
+                "audio_html_width": 456,
+                "audio_html_height": 380,
+                "from_url": "https:\/\/open.spotify.com\/playlist\/4HL3xR4twlYpAQS3OJ3k0I?si=zDcyLLK0Qj2wTxyvTU2v2Q&amp;dl_branch=1",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                "id": 1,
+                "original_url": "https:\/\/open.spotify.com\/playlist\/4HL3xR4twlYpAQS3OJ3k0I?si=zDcyLLK0Qj2wTxyvTU2v2Q&amp;dl_branch=1"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "27993798-0d86-4bba-bb50-c5f120883378",
+        "type": "message",
+        "text": "YOOOOOOOOOOOOOOOOOOOOOOO A PLAYLIST",
+        "user": "U01CZUZA4F3",
+        "ts": "1632433654.034600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pwreY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YOOOOOOOOOOOOOOOOOOOOOOO A PLAYLIST"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "2340daecb5c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-14\/1429586810659_2340daecb5c97157acec_72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Nguyen",
+            "display_name": "Derek Nguyen",
+            "team": "T010YRDV4KB",
+            "name": "derek.nguyen1028",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

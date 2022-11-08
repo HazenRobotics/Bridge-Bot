@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "ab1e7442-68c6-4e03-b1c6-89ce83ad8225",
+        "type": "message",
+        "text": "I will not be coming back till Friday because of flight cancelation so you will have to check with <@U01GV1PRQF9> if he can come in.",
+        "user": "U018WC9RM3K",
+        "ts": "1640712456.038700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8itB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will not be coming back till Friday because of flight cancelation so you will have to check with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01GV1PRQF9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if he can come in."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "736BCB7D-4FB8-4167-8FB8-F20188118BBC",
+        "type": "message",
+        "text": "I can come in on Thursday. ",
+        "user": "U01GV1PRQF9",
+        "ts": "1640712777.039300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eUTlU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can come in on Thursday. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gb4c024f8b6c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b4c024f8b6cff6c475129bf5f0213f59.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "Dave Goldy",
+            "display_name": "Dave Goldy",
+            "team": "T010YRDV4KB",
+            "name": "davegoldy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

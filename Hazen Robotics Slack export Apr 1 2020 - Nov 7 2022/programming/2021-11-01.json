@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "74b76c82-f7e0-47b9-8822-b7108ae3026a",
+        "type": "message",
+        "text": "OpenFTC EasyOpenCV lib download: <https:\/\/github.com\/OpenFTC\/EasyOpenCV>",
+        "user": "U022WGTQ602",
+        "ts": "1635806473.030000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/24",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OpenFTC EasyOpenCV lib download: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/OpenFTC\/EasyOpenCV"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "OpenFTC\/EasyOpenCV",
+                "text": "Finally, a straightforward and easy way to use OpenCV on an FTC robot! ",
+                "title": "OpenFTC\/EasyOpenCV",
+                "id": 1,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "82",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Java",
+                        "short": true
+                    }
+                ],
+                "bot_id": "B02EXAE6AB1",
+                "app_unfurl_url": "https:\/\/github.com\/OpenFTC\/EasyOpenCV",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY"
+            }
+        ]
+    }
+]

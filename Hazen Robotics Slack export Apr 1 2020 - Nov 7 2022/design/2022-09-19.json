@@ -1,0 +1,275 @@
+[
+    {
+        "client_msg_id": "9e130b02-23a1-4fca-9e6a-f5b707c91ca1",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/H6cZE72iVx8> DESIGN FUSION TUTORIAL",
+        "user": "U022WGTQ602",
+        "ts": "1663622791.717339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yS0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/H6cZE72iVx8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " DESIGN FUSION TUTORIAL"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/H6cZE72iVx8",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/H6cZE72iVx8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/H6cZE72iVx8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Simple Fusion 360 Tutorials with Alex | Basic Fusion Utilities!\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/H6cZE72iVx8",
+                "fallback": "YouTube Video: Simple Fusion 360 Tutorials with Alex | Basic Fusion Utilities!",
+                "title": "Simple Fusion 360 Tutorials with Alex | Basic Fusion Utilities!",
+                "title_link": "https:\/\/youtu.be\/H6cZE72iVx8",
+                "author_name": "Hazen Robotics",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCB2IdmZDGgYrSTGZLOdR_8w",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0a8a30d3-559b-49ef-98f8-88f0e64e93b6",
+        "type": "message",
+        "text": "<!channel> For everyone who missed the meeting, did not complete the tasks given in the meeting, or left prior to the final task given in the meeting than we would like for each and every one of you to watch the video posted above by Camden and to go onto Game Manual Zero (<https:\/\/gm0.org\/en\/latest\/docs\/common-mechanisms\/index.html>) and research different aspects of subsystems. Afterward i want each and every one of you to put together a summary on 3 sub systems of your choosing. This will need to be done by 3 pm on Wednesday 9\/21\/22.",
+        "user": "U01BCRC513K",
+        "ts": "1663625803.206369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fesb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " For everyone who missed the meeting, did not complete the tasks given in the meeting, or left prior to the final task given in the meeting than we would like for each and every one of you to watch the video posted above by Camden and to go onto Game Manual Zero ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gm0.org\/en\/latest\/docs\/common-mechanisms\/index.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") and research different aspects of subsystems. Afterward i want each and every one of you to put together a summary on 3 sub systems of your choosing. This will need to be done by 3 pm on Wednesday 9\/21\/22."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g1a3742ccdba",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a3742ccdbaa11b20e19f18ba9c093d7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Alex Ross",
+            "display_name": "Alex Ross",
+            "team": "T010YRDV4KB",
+            "name": "ale.ros001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01BCRC513K",
+            "ts": "1663625831.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/gm0.org\/en\/latest\/docs\/common-mechanisms\/index.html",
+                "image_url": "https:\/\/raw.githubusercontent.com\/gamemanual0\/gm0\/main\/source\/_static\/assets\/gm0-logo.png",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 79899,
+                "service_icon": "https:\/\/gm0.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/gm0.org\/en\/latest\/docs\/common-mechanisms\/index.html",
+                "fallback": "Game Manual 0: Common Mechanisms",
+                "text": "This chapter covers suggestions for design of common components of FTC robots: drivetrain, linear motion (slides and lifts), claws, intakes, and more. Design Tradeoffs, Drivetrains, Power Transmiss...",
+                "title": "Common Mechanisms",
+                "title_link": "https:\/\/gm0.org\/en\/latest\/docs\/common-mechanisms\/index.html",
+                "service_name": "Game Manual 0"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "02b83d7f-1c42-4720-bf92-60d20d55d967",
+        "type": "message",
+        "text": "i'm just saying based on this video and how little space the robots moving between the junctions is, diff swerve looks like it might be even more useful than we thought with how useful side to side movement can be <https:\/\/www.youtube.com\/watch?v=-sQX-HgmTSc>",
+        "user": "U022WGTQ602",
+        "ts": "1663637054.238689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bKu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i'm just saying based on this video and how little space the robots moving between the junctions is, diff swerve looks like it might be even more useful than we thought with how useful side to side movement can be "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=-sQX-HgmTSc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=-sQX-HgmTSc",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/-sQX-HgmTSc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/-sQX-HgmTSc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"How Do I Play POWERPLAY?\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=-sQX-HgmTSc",
+                "fallback": "YouTube Video: How Do I Play POWERPLAY?",
+                "title": "How Do I Play POWERPLAY?",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=-sQX-HgmTSc",
+                "author_name": "AndyMark Inc.",
+                "author_link": "https:\/\/www.youtube.com\/c\/Andymark",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "86f4d859-ee08-4ef6-9327-5ba2d59c75a8",
+        "type": "message",
+        "text": "There are swerve designs online you could try to copy. The main thing that makes swerve a disadvantage is is you lift is only 1 or 2 dimensions because you robot will have to be foward. In swerve every direction is foward....if that makes sense.",
+        "user": "U018WC9RM3K",
+        "ts": "1663637308.962509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LC\/T4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are swerve designs online you could try to copy. The main thing that makes swerve a disadvantage is is you lift is only 1 or 2 dimensions because you robot will have to be foward. In swerve every direction is foward....if that makes sense."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F30264BD-D45F-4511-BBA3-2BB34EE5E22A",
+        "type": "message",
+        "text": "Unless we mount our lift to a turret",
+        "user": "U02EA7L1KGT",
+        "ts": "1663637516.292149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CvOZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Unless we mount our lift to a turret"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "3b24be10b035",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-26\/4305995690752_3b24be10b035098cd409_72.png",
+            "first_name": "Asher",
+            "real_name": "Asher Stocker",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "asherstocker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

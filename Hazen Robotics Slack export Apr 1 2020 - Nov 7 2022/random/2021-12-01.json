@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "E8CF4EDF-E4AE-452E-ADE1-A747DD077B4C",
+        "type": "message",
+        "text": "I won't be able to attend robotics today because of an orthodontist appointment. Sorry for the short notice.",
+        "user": "U02ENRPMDCZ",
+        "ts": "1638389577.045500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b\/Tz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I won't be able to attend robotics today because of an orthodontist appointment. Sorry for the short notice."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "17b66d5a2701",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-13\/2483249218853_17b66d5a270198b7755b_72.jpg",
+            "first_name": "Vincent",
+            "real_name": "Vincent Luc",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "samuraivincent10",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

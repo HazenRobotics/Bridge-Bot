@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "6EB0AB9C-629E-4195-BA4D-E1D96555B78C",
+        "type": "message",
+        "text": "Yo, just sort of a self reminder, <http:\/\/8020.net|8020.net> has a “garage sale” eBay store with loads of cheap offcuts and lots. Let’s take advantage of it next year ",
+        "user": "U012BUXVC6B",
+        "ts": "1590556655.001300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vgSLC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo, just sort of a self reminder, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/8020.net",
+                                "text": "8020.net"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has a “garage sale” eBay store with loads of cheap offcuts and lots. Let’s take advantage of it next year "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

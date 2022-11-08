@@ -1,0 +1,242 @@
+[
+    {
+        "client_msg_id": "0095d46b-b9ec-48b6-aca6-9505cadf0405",
+        "type": "message",
+        "text": "<@U02DWDDVAP7> who’s all going to the meeting on monday",
+        "user": "U022WGTQ602",
+        "ts": "1664573304.061019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yxwy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " who’s all going to the meeting on monday"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1496e16e-5cc2-4566-b01d-b1c5a696822a",
+        "type": "message",
+        "text": "me and <@U02ENRPMDCZ>",
+        "user": "U02DWDDVAP7",
+        "ts": "1664573424.492219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LWoy1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "me and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02ENRPMDCZ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1664573435.806999",
+        "user": "U02ENRPMDCZ",
+        "text": "<@U02ENRPMDCZ> has joined the channel",
+        "inviter": "U02DWDDVAP7"
+    },
+    {
+        "client_msg_id": "fee6be8d-c650-4924-8b73-0e0fdf3fa950",
+        "type": "message",
+        "text": "alrighty, I'll probably be there too, are y'all just walking over?",
+        "user": "U022WGTQ602",
+        "ts": "1664573477.095229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wtgF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alrighty, I'll probably be there too, are y'all just walking over?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664573477.095229",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1664803656.216059",
+        "reply_users": [
+            "U02DWDDVAP7"
+        ],
+        "replies": [
+            {
+                "user": "U02DWDDVAP7",
+                "ts": "1664803656.216059"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "072C07A8-C6D8-4281-ACBF-CDDDE165A286",
+        "type": "message",
+        "text": "Probably ",
+        "user": "U02ENRPMDCZ",
+        "ts": "1664573519.347009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gll",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Probably "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "17b66d5a2701",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-13\/2483249218853_17b66d5a270198b7755b_72.jpg",
+            "first_name": "Vincent",
+            "real_name": "Vincent Luc",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "samuraivincent10",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "D6400AB5-072D-43DC-8C50-E6B3E8D88171",
+        "type": "message",
+        "text": "Can i see the presentation we have if at all?",
+        "user": "U02ENRPMDCZ",
+        "ts": "1664573552.008839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nz=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can i see the presentation we have if at all?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "17b66d5a2701",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-13\/2483249218853_17b66d5a270198b7755b_72.jpg",
+            "first_name": "Vincent",
+            "real_name": "Vincent Luc",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "samuraivincent10",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664573552.008839",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1664805570.625129",
+        "reply_users": [
+            "U02DWDDVAP7"
+        ],
+        "replies": [
+            {
+                "user": "U02DWDDVAP7",
+                "ts": "1664803663.867009"
+            },
+            {
+                "user": "U02DWDDVAP7",
+                "ts": "1664805570.625129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

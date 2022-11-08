@@ -1,0 +1,85 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1643078965.000200",
+        "user": "U01CZUZA4F3",
+        "text": "<@U01CZUZA4F3> has joined the channel"
+    },
+    {
+        "client_msg_id": "e7be0235-9c42-48b7-a19b-660835f7f480",
+        "type": "message",
+        "text": "yo is there anything I can do to help you guys here or is outreach just completely dead at this point",
+        "user": "U01CZUZA4F3",
+        "ts": "1643079098.000700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UST",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yo is there anything I can do to help you guys here or is outreach just completely dead at this point"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "2340daecb5c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-14\/1429586810659_2340daecb5c97157acec_72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Nguyen",
+            "display_name": "Derek Nguyen",
+            "team": "T010YRDV4KB",
+            "name": "derek.nguyen1028",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "62bd9768-9f37-41f6-96a0-bb431169bfc2",
+        "type": "message",
+        "text": "I don't think I'll join any other parts of the club until competitions calm down because I don't wanna be a burden to you guys",
+        "user": "U01CZUZA4F3",
+        "ts": "1643079145.001400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yqX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't think I'll join any other parts of the club until competitions calm down because I don't wanna be a burden to you guys"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "2340daecb5c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-14\/1429586810659_2340daecb5c97157acec_72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Nguyen",
+            "display_name": "Derek Nguyen",
+            "team": "T010YRDV4KB",
+            "name": "derek.nguyen1028",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

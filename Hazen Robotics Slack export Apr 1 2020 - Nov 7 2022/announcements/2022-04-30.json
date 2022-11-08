@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "ae773512-94f3-4ac4-9f91-371059193a65",
+        "type": "message",
+        "text": "Yeah this is not discord",
+        "user": "U02DWDDVAP7",
+        "ts": "1651375730.582659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VCO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah this is not discord"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

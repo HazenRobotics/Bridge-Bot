@@ -1,0 +1,99 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1588192190.000200",
+        "user": "U012BUXVC6B",
+        "text": "<@U012BUXVC6B> has joined the channel"
+    },
+    {
+        "client_msg_id": "78C1CED0-6A06-4DFB-B486-61749724CC9A",
+        "type": "message",
+        "text": "Good meme  ",
+        "user": "U012BUXVC6B",
+        "ts": "1588192251.001300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xha",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good meme  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1588192339.001500",
+        "user": "U0135A58PA5",
+        "text": "<@U0135A58PA5> has joined the channel"
+    },
+    {
+        "client_msg_id": "1235d40a-1c1c-4cf4-9fb6-7d1e811aa1d4",
+        "type": "message",
+        "text": "Hello!",
+        "user": "U0118UR0J72",
+        "ts": "1588194176.001700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6ufm4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1588204350.001900",
+        "user": "U0135LQT8TB",
+        "text": "<@U0135LQT8TB> has joined the channel"
+    }
+]

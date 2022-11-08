@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "3f1be60b-c31b-4906-9abb-8e669d4c167c",
+        "type": "message",
+        "text": "think the strictest reading of the rules means that you would only get the points for placing the ducks on level 3. Sections \"4.5.2 Autonomous Period\" &amp; \"4.5.4 End Game\" say that tasks are \"Scored at Rest\". Scored at Rest is defined as\n\n\"The achievement is considered Scored based on the position of the Robot or Scoring Element when the entire field has come to rest after the Match Period ends.\"\n\nAlso, the definition of Deliver\/Delivered requires the duck or TSE to touch the floor to count.\n\n\"c) the Sweeper Plate must knock the Duck or Team Shipping Element off the Carousel onto the Playing Field Floor.\"\n\nIn a strict reading of the rules, this means that the ducks and TSE must remain on the floor at the end of the Autonomous period and the end of the match to be counted as delivered since they are \"Scored at Rest\".\n\nI think this will be clarified via a forum post. I believe delivering ducks or TSE need to be \"Scored Live\". Otherwise, why include the ducks as freight if they can cannot be scored in the shipping hub without losing out on other points?",
+        "user": "U018WC9RM3K",
+        "ts": "1637507998.001600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XXRy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "think the strictest reading of the rules means that you would only get the points for placing the ducks on level 3. Sections \"4.5.2 Autonomous Period\" & \"4.5.4 End Game\" say that tasks are \"Scored at Rest\". Scored at Rest is defined as\n\n\"The achievement is considered Scored based on the position of the Robot or Scoring Element when the entire field has come to rest after the Match Period ends.\"\n\nAlso, the definition of Deliver\/Delivered requires the duck or TSE to touch the floor to count.\n\n\"c) the Sweeper Plate must knock the Duck or Team Shipping Element off the Carousel onto the Playing Field Floor.\"\n\nIn a strict reading of the rules, this means that the ducks and TSE must remain on the floor at the end of the Autonomous period and the end of the match to be counted as delivered since they are \"Scored at Rest\".\n\nI think this will be clarified via a forum post. I believe delivering ducks or TSE need to be \"Scored Live\". Otherwise, why include the ducks as freight if they can cannot be scored in the shipping hub without losing out on other points?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

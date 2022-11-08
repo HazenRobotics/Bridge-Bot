@@ -1,0 +1,206 @@
+[
+    {
+        "client_msg_id": "eff45751-68bc-4a19-bd71-1a62eaf18a67",
+        "type": "message",
+        "text": "Thank you all for working hard and exploring your passions in STEM! Happy Thanksgiving!",
+        "user": "U018WC9RM3K",
+        "ts": "1637855224.337900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2jAi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you all for working hard and exploring your passions in STEM! Happy Thanksgiving!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3bb66868-dfbe-46fe-90ff-68d7514fac7e",
+        "type": "message",
+        "text": "Here are the permission form links for next competition:\n1. Permission slip (everyone): <https:\/\/forms.gle\/scxL4y8pKR7URUhf9> \n2. Proof of Vax or Test in 72 hours (New people, test only): <https:\/\/forms.gle\/FrgwttLSXpmN7ESE6>\n3. Spectators Contact Tracing: <https:\/\/forms.gle\/EsoeeS7P3X2LmhBfA>\n",
+        "user": "U018WC9RM3K",
+        "ts": "1637855522.339300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gCPz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here are the permission form links for next competition:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Permission slip (everyone): "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/forms.gle\/scxL4y8pKR7URUhf9"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Proof of Vax or Test in 72 hours (New people, test only): "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/forms.gle\/FrgwttLSXpmN7ESE6"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Spectators Contact Tracing: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/forms.gle\/EsoeeS7P3X2LmhBfA"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/forms.gle\/scxL4y8pKR7URUhf9",
+                "title": "Google Forms - create and analyze surveys, for free.",
+                "title_link": "https:\/\/forms.gle\/scxL4y8pKR7URUhf9",
+                "text": "Create a new survey on your own or with others at the same time. Choose from a variety of survey types and analyze results in Google Forms. Free from Google.",
+                "fallback": "Google Forms - create and analyze surveys, for free.",
+                "service_icon": "https:\/\/accounts.google.com\/favicon.ico",
+                "service_name": "accounts.google.com",
+                "id": 1,
+                "original_url": "https:\/\/forms.gle\/scxL4y8pKR7URUhf9"
+            },
+            {
+                "from_url": "https:\/\/forms.gle\/FrgwttLSXpmN7ESE6",
+                "title": "Google Forms - create and analyze surveys, for free.",
+                "title_link": "https:\/\/forms.gle\/FrgwttLSXpmN7ESE6",
+                "text": "Create a new survey on your own or with others at the same time. Choose from a variety of survey types and analyze results in Google Forms. Free from Google.",
+                "fallback": "Google Forms - create and analyze surveys, for free.",
+                "service_icon": "https:\/\/accounts.google.com\/favicon.ico",
+                "service_name": "accounts.google.com",
+                "id": 2,
+                "original_url": "https:\/\/forms.gle\/FrgwttLSXpmN7ESE6"
+            },
+            {
+                "from_url": "https:\/\/forms.gle\/EsoeeS7P3X2LmhBfA",
+                "title": "Google Forms - create and analyze surveys, for free.",
+                "title_link": "https:\/\/forms.gle\/EsoeeS7P3X2LmhBfA",
+                "text": "Create a new survey on your own or with others at the same time. Choose from a variety of survey types and analyze results in Google Forms. Free from Google.",
+                "fallback": "Google Forms - create and analyze surveys, for free.",
+                "service_icon": "https:\/\/accounts.google.com\/favicon.ico",
+                "service_name": "accounts.google.com",
+                "id": 3,
+                "original_url": "https:\/\/forms.gle\/EsoeeS7P3X2LmhBfA"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "979A3FEF-6615-46C7-AB14-2176758C3D3D",
+        "type": "message",
+        "text": "Aight so meeting tomorrow! It’s going to be a casual day, wrapping up assembly of the 13in robot and letting programmers have their go. Let’s start at 9, programmers y’all are welcome to come in a hour or so later to let us finish assembly and hopefully get you something resembling odometry. We’ll then spend some time testing the 13in bot, getting everything ready and figuring out if there are any glaring flaws we’ve missed. Then, assuming we can get some sort of odometry set up, y’all will have the rest of the day to start testing auto. ",
+        "user": "U012BUXVC6B",
+        "ts": "1637890409.342800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "05O0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aight so meeting tomorrow! It’s going to be a casual day, wrapping up assembly of the 13in robot and letting programmers have their go. Let’s start at 9, programmers y’all are welcome to come in a hour or so later to let us finish assembly and hopefully get you something resembling odometry. We’ll then spend some time testing the 13in bot, getting everything ready and figuring out if there are any glaring flaws we’ve missed. Then, assuming we can get some sort of odometry set up, y’all will have the rest of the day to start testing auto. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

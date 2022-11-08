@@ -1,0 +1,369 @@
+[
+    {
+        "client_msg_id": "acf1c5c3-a70a-4df4-9660-6e99b6161f1f",
+        "type": "message",
+        "text": "<@U0119239VCY> <@U018WC9RM3K> any luck finding Mr. Peck Corban?",
+        "user": "U0118UR0J72",
+        "ts": "1653662601.513979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oF=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U018WC9RM3K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " any luck finding Mr. Peck Corban?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "looks like I messed up the start methods",
+        "files": [
+            {
+                "id": "F03HCMVTCCU",
+                "created": 1653663119,
+                "timestamp": 1653663119,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02DWDDVAP7",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 10805,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F03HCMVTCCU\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F03HCMVTCCU\/download\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03HCMVTCCU-1ffad5347d\/image_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03HCMVTCCU-1ffad5347d\/image_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03HCMVTCCU-1ffad5347d\/image_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 60,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03HCMVTCCU-1ffad5347d\/image_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 80,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03HCMVTCCU-1ffad5347d\/image_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "original_w": 502,
+                "original_h": 84,
+                "thumb_tiny": "AwAIADCnkc0fL602imIdxQApNNpV60DHFV9aTaP7wpT1pKBH\/9k=",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U02DWDDVAP7\/F03HCMVTCCU\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F03HCMVTCCU-af31851a90",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02DWDDVAP7",
+        "display_as_bot": false,
+        "ts": "1653663140.229079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aPUNf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "looks like I messed up the start methods"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "362feec7-b81d-4fdb-8db9-b6b288635c4e",
+        "thread_ts": "1653621562.429939",
+        "parent_user_id": "U0119239VCY"
+    },
+    {
+        "client_msg_id": "38e4fdee-83fa-43da-8648-96b43506f4e7",
+        "type": "message",
+        "text": "it works yay",
+        "user": "U02DWDDVAP7",
+        "ts": "1653669020.655589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9OEG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it works yay"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7d805dc3-f77b-4ba1-8cd2-a9ceeb3536b3",
+        "type": "message",
+        "text": "i assume it was because start_java is a function right? and you just passed in a variable",
+        "user": "U022WGTQ602",
+        "ts": "1653669616.412699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nF3PO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i assume it was because start_java is a function right? and you just passed in a variable"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1653621562.429939",
+        "parent_user_id": "U0119239VCY"
+    },
+    {
+        "client_msg_id": "D2D72044-6310-4679-8275-629618EA23BB",
+        "type": "message",
+        "text": "Is there like a vocab list for the programming stuff or something cuz I don’t really know like what classes and systems and methods mean\/are",
+        "user": "U038SBX0FJM",
+        "ts": "1653687985.482379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aLEP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is there like a vocab list for the programming stuff or something cuz I don’t really know like what classes and systems and methods mean\/are"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "388e8c9e68d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3282906370181_388e8c9e68d4853f6e10_72.jpg",
+            "first_name": "Peter",
+            "real_name": "Peter Koenig",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "absolutebesttrombone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1653687985.482379",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1653867684.274219",
+        "reply_users": [
+            "U022WGTQ602",
+            "U02DWDDVAP7"
+        ],
+        "replies": [
+            {
+                "user": "U022WGTQ602",
+                "ts": "1653702517.991829"
+            },
+            {
+                "user": "U02DWDDVAP7",
+                "ts": "1653867684.274219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "there’s not really a “vocab list” for the programming stuff, <https:\/\/www.w3schools.com\/java\/java_ref_keywords.asp|this> is just the list of all the reserved words in java. There’s also <https:\/\/docs.oracle.com\/javase\/7\/docs\/api\/overview-summary.html|this> website which contains all of the libraries in java. While these are good to know, the real way to learn is to actually go out and learn the language and apply it for something, there’s a billion free courses out there and im sure mr peck would be happy to point you to other resources",
+        "user": "U022WGTQ602",
+        "ts": "1653702517.991829",
+        "thread_ts": "1653687985.482379",
+        "root": {
+            "client_msg_id": "D2D72044-6310-4679-8275-629618EA23BB",
+            "type": "message",
+            "text": "Is there like a vocab list for the programming stuff or something cuz I don’t really know like what classes and systems and methods mean\/are",
+            "user": "U038SBX0FJM",
+            "ts": "1653687985.482379",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "aLEP",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Is there like a vocab list for the programming stuff or something cuz I don’t really know like what classes and systems and methods mean\/are"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T010YRDV4KB",
+            "thread_ts": "1653687985.482379",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1653867684.274219",
+            "reply_users": [
+                "U022WGTQ602",
+                "U02DWDDVAP7"
+            ],
+            "replies": [
+                {
+                    "user": "U022WGTQ602",
+                    "ts": "1653702517.991829"
+                },
+                {
+                    "user": "U02DWDDVAP7",
+                    "ts": "1653867684.274219"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jk2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "there’s not really a “vocab list” for the programming stuff, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.w3schools.com\/java\/java_ref_keywords.asp",
+                                "text": "this"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is just the list of all the reserved words in java. There’s also "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.oracle.com\/javase\/7\/docs\/api\/overview-summary.html",
+                                "text": "this"
+                            },
+                            {
+                                "type": "text",
+                                "text": " website which contains all of the libraries in java. While these are good to know, the real way to learn is to actually go out and learn the language and apply it for something, there’s a billion free courses out there and im sure mr peck would be happy to point you to other resources"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.w3schools.com\/java\/java_ref_keywords.asp",
+                "image_url": "https:\/\/www.w3schools.com\/images\/w3schools_logo_436_2.png",
+                "image_width": 436,
+                "image_height": 228,
+                "image_bytes": 6369,
+                "service_icon": "https:\/\/www.w3schools.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.w3schools.com\/java\/java_ref_keywords.asp",
+                "fallback": "Java Keywords",
+                "text": "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more.",
+                "title": "Java Keywords",
+                "title_link": "https:\/\/www.w3schools.com\/java\/java_ref_keywords.asp",
+                "service_name": "w3schools.com"
+            }
+        ],
+        "client_msg_id": "3b59512b-d78c-4858-9211-63027192508d",
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1653702538.000000"
+        }
+    }
+]

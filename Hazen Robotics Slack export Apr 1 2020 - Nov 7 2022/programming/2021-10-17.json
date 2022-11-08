@@ -1,0 +1,310 @@
+[
+    {
+        "client_msg_id": "eaf0da08-f8aa-4b4e-8279-b19284bf5e3e",
+        "type": "message",
+        "text": "Are we using opencv or just using tfod with the FreightFrenzy.tflite model?",
+        "user": "U0118UR0J72",
+        "ts": "1634500597.185100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GvlY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are we using opencv or just using tfod with the FreightFrenzy.tflite model?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6dd01d64-c0b8-465f-b1bc-3b87d0106c01",
+        "type": "message",
+        "text": "Our current plan is to just use tfod for recognizing the barcode position",
+        "user": "U0119239VCY",
+        "ts": "1634501376.186300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TpoU4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Our current plan is to just use tfod for recognizing the barcode position"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "356fccaa-3e2c-4c9c-b279-a8a60b2005ae",
+        "type": "message",
+        "text": "If we want to do a object detection model though we'll want to use opencv",
+        "user": "U0119239VCY",
+        "ts": "1634501395.186900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lUrl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If we want to do a object detection model though we'll want to use opencv"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ca120863-83dd-44c6-959f-207336b36cde",
+        "type": "message",
+        "text": "When working with Victor and Camden we wanted something simple to get started. Then if we had more time we would work to train another model that was more advanced.",
+        "user": "U018WC9RM3K",
+        "ts": "1634501487.188100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7+0k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When working with Victor and Camden we wanted something simple to get started. Then if we had more time we would work to train another model that was more advanced."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7ea7795c-54ab-47f9-ae7a-a7d3d583f693",
+        "type": "message",
+        "text": "Cool",
+        "user": "U0118UR0J72",
+        "ts": "1634501582.190100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bc8H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "66d5c034-58ae-4c3d-9214-12b783c537d8",
+        "type": "message",
+        "text": "On Friday, Corban, Camden, and I worked to change (Sams) code from last year to recognize positions instead of stacks. Sam\/ Corban you may want to double check that code ( TenserfolwUtil). Additionally this needs to be put into a teleop or auto class to test on robot",
+        "user": "U018WC9RM3K",
+        "ts": "1634501603.190600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1vWD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On Friday, Corban, Camden, and I worked to change (Sams) code from last year to recognize positions instead of stacks. Sam\/ Corban you may want to double check that code ( TenserfolwUtil). Additionally this needs to be put into a teleop or auto class to test on robot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a611ada7-4e3c-4e47-8bc0-0992f30cd1d5",
+        "type": "message",
+        "text": "Okay",
+        "user": "U0118UR0J72",
+        "ts": "1634501639.190800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P6N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b0495181-5c3c-47ba-b26e-914802055ceb",
+        "type": "message",
+        "text": "where are we on the kingcon ring launcher? have we figured out what positions the servo needs to be in?",
+        "user": "U022WGTQ602",
+        "ts": "1634506920.191700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ERv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "where are we on the kingcon ring launcher? have we figured out what positions the servo needs to be in?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1634506989.000000"
+        }
+    }
+]

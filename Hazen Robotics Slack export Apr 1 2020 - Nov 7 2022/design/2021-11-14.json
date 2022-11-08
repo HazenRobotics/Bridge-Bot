@@ -1,0 +1,614 @@
+[
+    {
+        "client_msg_id": "0459BD0A-124A-46B5-BD57-2B58BFE7A43D",
+        "type": "message",
+        "text": "Actually shouldn’t affect the intake too much, we can definitely do that!",
+        "user": "U012BUXVC6B",
+        "ts": "1636936676.024200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bkDB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Actually shouldn’t affect the intake too much, we can definitely do that!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "32d3b747-b45b-4752-a1ce-a59840778f4a",
+        "type": "message",
+        "text": "also one thing to keep in mind as we continue to design and start building the 13in bot, we'll need to figure out how to prevent balls\/cubes\/other stuff from falling into our robot, probably with some sort of slanted platform",
+        "user": "U022WGTQ602",
+        "ts": "1636936810.026100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0g+S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also one thing to keep in mind as we continue to design and start building the 13in bot, we'll need to figure out how to prevent balls\/cubes\/other stuff from falling into our robot, probably with some sort of slanted platform"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "C6611C39-1C7F-4F76-998A-F432460E3663",
+        "type": "message",
+        "text": "Yup",
+        "user": "U018B1TFE3Y",
+        "ts": "1636936848.026300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ukTgK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "92779329-4d97-493f-bf46-717f8522eec3",
+        "type": "message",
+        "text": "Also under",
+        "user": "U018WC9RM3K",
+        "ts": "1636936874.026500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DlrxW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also under"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4FE53DE1-A1D1-44C1-A448-C1E0036C11B2",
+        "type": "message",
+        "text": "Yeah. Maybe it’s worth increasing the ground clearance to the height of a ball, at least on one side? We shouldn’t have the same crossmembers that we do now under the electronics so hopefully that will help",
+        "user": "U012BUXVC6B",
+        "ts": "1636936951.027900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zNX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah. Maybe it’s worth increasing the ground clearance to the height of a ball, at least on one side? We shouldn’t have the same crossmembers that we do now under the electronics so hopefully that will help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "278CE113-D0D1-4AC3-A5E5-A7733C959373",
+        "type": "message",
+        "text": "<@U018B1TFE3Y> can you get the 13in integration somewhat done today? I’d like to do a pass over it and get it somewhat ready to manufacture tmr ",
+        "user": "U012BUXVC6B",
+        "ts": "1636936983.028900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ww7bt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U018B1TFE3Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you get the 13in integration somewhat done today? I’d like to do a pass over it and get it somewhat ready to manufacture tmr "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "17AE5495-0930-461A-B30E-A67317DCE645",
+        "type": "message",
+        "text": "Since I’m mildly panicking about balance issues like McKnight had",
+        "user": "U012BUXVC6B",
+        "ts": "1636936997.029500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nM8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Since I’m mildly panicking about balance issues like McKnight had"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "491df7c1-27bb-4f19-aa2b-6fc50f395d5f",
+        "type": "message",
+        "text": "i forgot abt that, we could consider adding some beneficial weight to the bottom of our robot to prevent that from happening, not enough to slow us down, but just enough to ground us",
+        "user": "U022WGTQ602",
+        "ts": "1636937102.030500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gtp64",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i forgot abt that, we could consider adding some beneficial weight to the bottom of our robot to prevent that from happening, not enough to slow us down, but just enough to ground us"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "CEB00737-D9E9-4910-AA1B-48834DCD4E8C",
+        "type": "message",
+        "text": "Yeah probably, our robot is definitely fast enough, so some extra weight probably wouldn’t hurt ",
+        "user": "U012BUXVC6B",
+        "ts": "1636937132.031400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f\/l5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah probably, our robot is definitely fast enough, so some extra weight probably wouldn’t hurt "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F5DB9BC8-6E9E-463A-9C2D-6ABC63229BDD",
+        "type": "message",
+        "text": "Maybe a bit of steel box tubes across the back",
+        "user": "U012BUXVC6B",
+        "ts": "1636937141.031900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u2ox",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe a bit of steel box tubes across the back"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b0447a2b-de2b-4061-aef9-2451ed804145",
+        "type": "message",
+        "text": "yea",
+        "user": "U022WGTQ602",
+        "ts": "1636937146.032100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g\/ts",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yea"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fe52560a-1dbb-4cee-9ef5-fdc84534a241",
+        "type": "message",
+        "text": "also have y'all considered using a vertical lift instead of our slanted lift? it would keep the lift inside the robots width and length, would probably lessen the chance of it falling over",
+        "user": "U022WGTQ602",
+        "ts": "1636937211.033300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b+xP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also have y'all considered using a vertical lift instead of our slanted lift? it would keep the lift inside the robots width and length, would probably lessen the chance of it falling over"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "30AAE6CB-DE80-4A3A-B136-AED83745DEAD",
+        "type": "message",
+        "text": "I don’t think the lift can be completely vertical but we’ve talked about matching the angle of the alliance hub, however that makes scoring into the shared hub even harder than it already so",
+        "user": "U012BUXVC6B",
+        "ts": "1636937260.034500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f=GR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don’t think the lift can be completely vertical but we’ve talked about matching the angle of the alliance hub, however that makes scoring into the shared hub even harder than it already so"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "395a1333-6ddd-4966-8424-8bad98810505",
+        "type": "message",
+        "text": "oh yea, forgot about our troubles with the shared hub, we already had a tough enough time depositing stuff there with our slanted lift, vertical would amplify that considerably",
+        "user": "U022WGTQ602",
+        "ts": "1636937395.036300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "91SM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh yea, forgot about our troubles with the shared hub, we already had a tough enough time depositing stuff there with our slanted lift, vertical would amplify that considerably"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6c3b8cd3-daaa-4713-bfcc-ee8b0012efa4",
+        "type": "message",
+        "text": "do we want to make the lift more horizontal? (decreasing the angle)",
+        "user": "U018B1TFE3Y",
+        "ts": "1636938558.036800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8OA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do we want to make the lift more horizontal? (decreasing the angle)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a8ef8c4c-8719-41ba-905f-bf7bfb199180",
+        "type": "message",
+        "text": "at first thought i don't think we should, our lift is barely long enough to cap rn, and decreasing the angle would cause our lift to have to be longer which would increase our odds of tipping (i think) and overall make our robot more clunky to move around but it wouldn't be a bad idea to test",
+        "user": "U022WGTQ602",
+        "ts": "1636938713.039000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ds7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "at first thought i don't think we should, our lift is barely long enough to cap rn, and decreasing the angle would cause our lift to have to be longer which would increase our odds of tipping (i think) and overall make our robot more clunky to move around but it wouldn't be a bad idea to test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

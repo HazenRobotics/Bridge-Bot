@@ -1,0 +1,217 @@
+[
+    {
+        "client_msg_id": "9a694ec1-7322-43ad-89c0-cc7e88061519",
+        "type": "message",
+        "text": "I know \\ is an escape character but to type it in a string I would do like `String ex = \"\\\\\";` Right? I get an error when using `ex`.",
+        "user": "U0118UR0J72",
+        "ts": "1626995549.001100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iyS=9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know \\ is an escape character but to type it in a string I would do like "
+                            },
+                            {
+                                "type": "text",
+                                "text": "String ex = \"\\\\\";",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Right? I get an error when using "
+                            },
+                            {
+                                "type": "text",
+                                "text": "ex",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1626995549.001100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1627014392.001400",
+        "reply_users": [
+            "U0119239VCY",
+            "U0118UR0J72"
+        ],
+        "replies": [
+            {
+                "user": "U0119239VCY",
+                "ts": "1626999864.001200"
+            },
+            {
+                "user": "U0118UR0J72",
+                "ts": "1627014392.001400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "61dd9e4c-1ccd-4dab-b20c-98a8b4d11759",
+        "type": "message",
+        "text": "Huh, that looks like it should work, is the error from how you are using the string?",
+        "user": "U0119239VCY",
+        "ts": "1626999864.001200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Mh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Huh, that looks like it should work, is the error from how you are using the string?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1626995549.001100",
+        "parent_user_id": "U0118UR0J72"
+    },
+    {
+        "client_msg_id": "9dc96408-294d-4a7a-bd8c-bfae45aeae6b",
+        "type": "message",
+        "text": "Yup, I was using `String.replaceAll()` which was using `\"\\\\\"`, `\"*\"`, and `\"?\"` as different things. I didn't realize `String.replace()` replaced all the occurrences in the Sting",
+        "user": "U0118UR0J72",
+        "ts": "1627014392.001400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2t7Y+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup, I was using "
+                            },
+                            {
+                                "type": "text",
+                                "text": "String.replaceAll()",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " which was using "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"\\\\\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"*\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"?\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " as different things. I didn't realize "
+                            },
+                            {
+                                "type": "text",
+                                "text": "String.replace()",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " replaced all the occurrences in the Sting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1626995549.001100",
+        "parent_user_id": "U0118UR0J72"
+    }
+]

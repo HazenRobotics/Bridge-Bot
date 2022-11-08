@@ -1,0 +1,434 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1636040510.000200",
+        "user": "U0135LQT8TB",
+        "text": "<@U0135LQT8TB> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1636040511.000300",
+        "user": "U0135LQT8TB",
+        "text": "set the channel description: spam andrew",
+        "purpose": "spam andrew"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1636040545.000500",
+        "user": "U012BUXVC6B",
+        "text": "<@U012BUXVC6B> has joined the channel",
+        "inviter": "U0135LQT8TB"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1636040545.000700",
+        "user": "U0118UR0J72",
+        "text": "<@U0118UR0J72> has joined the channel",
+        "inviter": "U0135LQT8TB"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1636040545.000900",
+        "user": "U0119239VCY",
+        "text": "<@U0119239VCY> has joined the channel",
+        "inviter": "U0135LQT8TB"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1636040545.001100",
+        "user": "U018B1TFE3Y",
+        "text": "<@U018B1TFE3Y> has joined the channel",
+        "inviter": "U0135LQT8TB"
+    },
+    {
+        "client_msg_id": "1137ba00-d44c-4df5-9fab-c896a28ecde5",
+        "type": "message",
+        "text": "<@U012BUXVC6B> spam",
+        "user": "U0135LQT8TB",
+        "ts": "1636040568.001400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "08n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012BUXVC6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " spam"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gdfe9743ea44",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dfe9743ea4477ab6cdd74b02c32fc903.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ethan Chiang",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "awesome.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7a2f9204-3db8-43d2-bd9b-85b53f7c27ba",
+        "type": "message",
+        "text": "<https:\/\/app.slack.com\/team\/U0135LQT8TB|Ethan Chiang>  [8:42 AM]\n<@U012BUXVC6B> spam",
+        "user": "U0118UR0J72",
+        "ts": "1636040573.001600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wmgUn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/app.slack.com\/team\/U0135LQT8TB",
+                                "text": "Ethan Chiang"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  [8:42 AM]\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012BUXVC6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " spam"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2f9ff436-c3fe-41fe-a586-688b806685c5",
+        "type": "message",
+        "text": "<https:\/\/app.slack.com\/team\/U0118UR0J72|Sam DePoule>  [8:42 AM]\n<https:\/\/app.slack.com\/team\/U0135LQT8TB|Ethan Chiang>  [8:42 AM]\n<@U012BUXVC6B> spam",
+        "user": "U0119239VCY",
+        "ts": "1636040592.001800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ixxll",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/app.slack.com\/team\/U0118UR0J72",
+                                "text": "Sam DePoule"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  [8:42 AM]\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/app.slack.com\/team\/U0135LQT8TB",
+                                "text": "Ethan Chiang"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  [8:42 AM]\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012BUXVC6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " spam"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "A8715C7C-101F-4FDA-A313-391B6C4FEAAD",
+        "type": "message",
+        "text": "I have the best team mates",
+        "user": "U012BUXVC6B",
+        "ts": "1636041506.002400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CEUU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have the best team mates"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f9c0c3ec-2e3d-4a34-b487-9b02d57de07d",
+        "type": "message",
+        "text": "<https:\/\/app.slack.com\/team\/U012BUXVC6B|Andrew Lana>  [8:58 AM]\nI have the best team mates",
+        "user": "U0118UR0J72",
+        "ts": "1636041525.002600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y7REW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/app.slack.com\/team\/U012BUXVC6B",
+                                "text": "Andrew Lana"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  [8:58 AM]\nI have the best team mates"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5c6675a0-3438-4569-bf51-80b51cbb3b37",
+        "type": "message",
+        "text": "<https:\/\/app.slack.com\/team\/U0118UR0J72|Sam DePoule>  [8:58 AM]\n<https:\/\/app.slack.com\/team\/U012BUXVC6B|Andrew Lana>  [8:58 AM]\nI have the best team mates",
+        "user": "U0135LQT8TB",
+        "ts": "1636041531.002800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v72k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/app.slack.com\/team\/U0118UR0J72",
+                                "text": "Sam DePoule"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  [8:58 AM]\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/app.slack.com\/team\/U012BUXVC6B",
+                                "text": "Andrew Lana"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  [8:58 AM]\nI have the best team mates"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gdfe9743ea44",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dfe9743ea4477ab6cdd74b02c32fc903.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ethan Chiang",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "awesome.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d68946e6-410a-47a1-bbc1-be74fd7f96d9",
+        "type": "message",
+        "text": "<https:\/\/app.slack.com\/team\/U0135LQT8TB|Ethan Chiang>  [8:58 AM]\n<https:\/\/app.slack.com\/team\/U0118UR0J72|Sam DePoule>  [8:58 AM]\n<https:\/\/app.slack.com\/team\/U012BUXVC6B|Andrew Lana>  [8:58 AM]\nI have the best team mates",
+        "user": "U0119239VCY",
+        "ts": "1636041559.003000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ao=J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/app.slack.com\/team\/U0135LQT8TB",
+                                "text": "Ethan Chiang"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  [8:58 AM]\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/app.slack.com\/team\/U0118UR0J72",
+                                "text": "Sam DePoule"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  [8:58 AM]\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/app.slack.com\/team\/U012BUXVC6B",
+                                "text": "Andrew Lana"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  [8:58 AM]\nI have the best team mates"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "EF70F973-4799-4B92-9210-7E4F8170043E",
+        "type": "message",
+        "text": "I feel nothing but pain ",
+        "user": "U012BUXVC6B",
+        "ts": "1636042510.003300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IxQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I feel nothing but pain "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

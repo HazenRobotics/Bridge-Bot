@@ -1,0 +1,356 @@
+[
+    {
+        "client_msg_id": "f9e26f7d-31d0-4c45-92aa-e6a6b42f18b4",
+        "type": "message",
+        "text": "<@U012BUXVC6B> and <@U0119239VCY> hopefully you have seen the emails from Ms. G and Ms. Ryan about coming in tomorrow to get the Raspberry Pis set up or at least organized. One thing I realized is that you are going to need a space where everyone can plug in the Pis and the screens. I cannot come in on Friday but I can do a virtual call. If the Pis have there own screens which I think they do. You may be better off using the networking lab 244 because there are electrical plugs under the desk. If that is the case let me know and I will try to clear the desks at some point.",
+        "user": "U018WC9RM3K",
+        "ts": "1627565968.075700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3w2H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012BUXVC6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hopefully you have seen the emails from Ms. G and Ms. Ryan about coming in tomorrow to get the Raspberry Pis set up or at least organized. One thing I realized is that you are going to need a space where everyone can plug in the Pis and the screens. I cannot come in on Friday but I can do a virtual call. If the Pis have there own screens which I think they do. You may be better off using the networking lab 244 because there are electrical plugs under the desk. If that is the case let me know and I will try to clear the desks at some point."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "960F0B6A-6165-4E8E-ABFB-A9552FB33671",
+        "type": "message",
+        "text": "Sounds all good! I’ll start writing up course material tonight so I can talk the first couple days over with G and Ryan tmr ",
+        "user": "U012BUXVC6B",
+        "ts": "1627603062.000800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ybf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds all good! I’ll start writing up course material tonight so I can talk the first couple days over with G and Ryan tmr "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9470da08-80ad-4a77-837d-45faf17473e4",
+        "type": "message",
+        "text": "also andrew, since we have quite a bit of time each day and we need to fill time with stuff, it would probably be a good idea when we give code to them going line by line and walking through the code so that they understand to an extent why the code does what it does instead of just being given code and pressing a button and it working",
+        "user": "U022WGTQ602",
+        "ts": "1627611537.003500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VV+P+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also andrew, since we have quite a bit of time each day and we need to fill time with stuff, it would probably be a good idea when we give code to them going line by line and walking through the code so that they understand to an extent why the code does what it does instead of just being given code and pressing a button and it working"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4BB6BB32-4F4D-4065-A985-E9CD9CBB2C5C",
+        "type": "message",
+        "text": "Ok bet, you’re totally right. I could get a pi set up on the projector or smart board so we can share code that way",
+        "user": "U012BUXVC6B",
+        "ts": "1627611592.004500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gQD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok bet, you’re totally right. I could get a pi set up on the projector or smart board so we can share code that way"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9cbbfdc9-faf7-4722-8f77-76dfb61af8bd",
+        "type": "message",
+        "text": "not sure where to put this question so i'll just put it here.\nI just finished watching this <https:\/\/www.youtube.com\/watch?v=8HEfIJlcFbs|video> and it got me thinking about the design of our robot and its movement.  If you look at the 10:00 minute mark where they're talking about the movement of their robot, you notice that it is only using 3 wheels.  To me, based off the movement of the robot and how it handles strafing and rotating, it seems more efficient because you don't have wheels fighting against one another like we have when we strafe or rotate. I was wondering if y'all had ever considered using these omni wheels for a robot and if you had, what did you see the downsides to it were?  In our autonomous phase where accuracy is critical, this wheel design seems like an arguably better choice.",
+        "user": "U022WGTQ602",
+        "ts": "1627612858.009600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fzhBd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not sure where to put this question so i'll just put it here.\nI just finished watching this "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=8HEfIJlcFbs",
+                                "text": "video"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and it got me thinking about the design of our robot and its movement.  If you look at the 10:00 minute mark where they're talking about the movement of their robot, you notice that it is only using 3 wheels.  To me, based off the movement of the robot and how it handles strafing and rotating, it seems more efficient because you don't have wheels fighting against one another like we have when we strafe or rotate. I was wondering if y'all had ever considered using these omni wheels for a robot and if you had, what did you see the downsides to it were?  In our autonomous phase where accuracy is critical, this wheel design seems like an arguably better choice."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "World Record Domino Robot (100k dominoes in 24hrs)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=8HEfIJlcFbs",
+                "author_name": "Mark Rober",
+                "author_link": "https:\/\/www.youtube.com\/c\/MarkRober",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/8HEfIJlcFbs\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: World Record Domino Robot (100k dominoes in 24hrs)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/8HEfIJlcFbs?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=8HEfIJlcFbs",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=8HEfIJlcFbs"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "032175DB-5D16-468D-AFC7-6173A7DD894A",
+        "type": "message",
+        "text": "This is definitely a question for <@U018B1TFE3Y> so imma tag him, but yeah this type of drivetrain used to be super popular in FTC. I’m not entirely sure why it’s mostly died out, but I think it’s because it doesn’t offer a ton of advantages over mecanum wheels with decent odometry, while being a form factor that’s kinda a pain to design a chassis and mechanisms around. That’s just sorta why I’ve avoided it anyway, but it’s certainly worth exploring, especially if the game this year lends itself to the awkward wheel placement ",
+        "user": "U012BUXVC6B",
+        "ts": "1627617471.013900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2bU1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is definitely a question for "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U018B1TFE3Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " so imma tag him, but yeah this type of drivetrain used to be super popular in FTC. I’m not entirely sure why it’s mostly died out, but I think it’s because it doesn’t offer a ton of advantages over mecanum wheels with decent odometry, while being a form factor that’s kinda a pain to design a chassis and mechanisms around. That’s just sorta why I’ve avoided it anyway, but it’s certainly worth exploring, especially if the game this year lends itself to the awkward wheel placement "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "D0313842-9D30-4C78-AF05-BD1016A321A9",
+        "type": "message",
+        "text": "I think it’s more of a stability thing",
+        "user": "U018B1TFE3Y",
+        "ts": "1627617887.014500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8iynt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it’s more of a stability thing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1DCF6CCE-8BD1-4AD8-BA70-C1136CD20E47",
+        "type": "message",
+        "text": "Because you put a hole lot of load on the whole robot",
+        "user": "U018B1TFE3Y",
+        "ts": "1627617918.015300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0ZNB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Because you put a hole lot of load on the whole robot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

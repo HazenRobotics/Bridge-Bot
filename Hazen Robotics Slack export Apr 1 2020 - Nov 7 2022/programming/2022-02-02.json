@@ -1,0 +1,308 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1643843621.920719",
+        "user": "U02ENRPMDCZ",
+        "text": "set the channel topic: 01110000 01110010 01101111 01100111 01110010 01100001 01101101 01101101 01101001 01101110 01100111 00100000 01100100 01110101 01101000",
+        "topic": "01110000 01110010 01101111 01100111 01110010 01100001 01101101 01101101 01101001 01101110 01100111 00100000 01100100 01110101 01101000"
+    },
+    {
+        "client_msg_id": "85786504-0ca5-43e6-af08-05e51a403a31",
+        "type": "message",
+        "text": "oops",
+        "user": "U02ENRPMDCZ",
+        "ts": "1643843629.705259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wBugx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oops"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "17b66d5a2701",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-13\/2483249218853_17b66d5a270198b7755b_72.jpg",
+            "first_name": "Vincent",
+            "real_name": "Vincent Luc",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "samuraivincent10",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cdc4062f-5c37-4ab1-b200-0a939a5e4038",
+        "type": "message",
+        "text": "<@U0118UR0J72>  how do you log things to a csv file?",
+        "user": "U0119239VCY",
+        "ts": "1643854641.121679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w7b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0118UR0J72"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  how do you log things to a csv file?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a7f6d622-64c9-4b14-973d-c86ef62dff3e",
+        "type": "message",
+        "text": "When you create the file name it myfilename.csv",
+        "user": "U0118UR0J72",
+        "ts": "1643854665.992789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Jax",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When you create the file name it myfilename.csv"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ca1ac03b-8963-45ff-844d-6a92bd5fbd92",
+        "type": "message",
+        "text": "There are assisting methods in Robot.java to log easily",
+        "user": "U0118UR0J72",
+        "ts": "1643854690.450059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5ZNyg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are assisting methods in Robot.java to log easily"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "39acf26a-7e14-4379-acbb-9c6a53763ffc",
+        "type": "message",
+        "text": "How do I add data to the file once I create it?",
+        "user": "U0119239VCY",
+        "ts": "1643854815.094739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oktTa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How do I add data to the file once I create it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "11d625c3-b2de-4b8e-b795-a7b1fdb9fd72",
+        "type": "message",
+        "text": "Wait actually I think I figured it out",
+        "user": "U0119239VCY",
+        "ts": "1643855052.843169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C+ly",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wait actually I think I figured it out"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Sensor data",
+        "files": [
+            {
+                "id": "F03186YPJMC",
+                "created": 1643861406,
+                "timestamp": 1643861406,
+                "name": "chart (1).webm",
+                "title": "chart (1).webm",
+                "mimetype": "video\/webm",
+                "filetype": "webm",
+                "pretty_type": "WebM",
+                "user": "U018WC9RM3K",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 519840,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "transcription": {
+                    "status": "none"
+                },
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F03186YPJMC\/chart__1_.webm?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F03186YPJMC\/download\/chart__1_.webm?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "hls": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03186YPJMC-5e279ce30c\/file.m3u8?_xcb=73d05&t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "hls_embed": "data:application\/vnd.apple.mpegurl;base64,I0VYVE0zVQojRVhULVgtVkVSU0lPTjozCiNFWFQtWC1JTkRFUEVOREVOVC1TRUdNRU5UUwojRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9MTMwNzY3MyxBVkVSQUdFLUJBTkRXSURUSD0xMzA3NjczLENPREVDUz0iYXZjMS42NDAwMWYsbXA0YS40MC41IixSRVNPTFVUSU9OPTEyNjB4NzIwLEZSQU1FLVJBVEU9MjkuOTcwCmRhdGE6YXBwbGljYXRpb24vdm5kLmFwcGxlLm1wZWd1cmw7YmFzZTY0LEkwVllWRTB6VlFvalJWaFVMVmd0VmtWU1UwbFBUam96Q2lORldGUXRXQzFVUVZKSFJWUkVWVkpCVkVsUFRqbzNDaU5GV0ZRdFdDMU5SVVJKUVMxVFJWRlZSVTVEUlRveENpTkZXRlF0V0MxUVRFRlpURWxUVkMxVVdWQkZPbFpQUkFvalJWaFVTVTVHT2pZdU1EQTJMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREF4TUZsU1JGWTBTMEl0UmpBek1UZzJXVkJLVFVNdE5XVXlOemxqWlRNd1l5OW1hV3hsWDBoZk1qWTBYekV5T0RCNE56SXdYek0xTURCTFFsQlRYemRSVmtKU1h6QXdNREF4TG5SekNpTkZXRlJKVGtZNk15NHpNRE1zQ21oMGRIQnpPaTh2Wm1sc1pYTXVjMnhoWTJzdVkyOXRMMlpwYkdWekxYUnRZaTlVTURFd1dWSkVWalJMUWkxR01ETXhPRFpaVUVwTlF5MDFaVEkzT1dObE16QmpMMlpwYkdWZlNGOHlOalJmTVRJNE1IZzNNakJmTXpVd01FdENVRk5mTjFGV1FsSmZNREF3TURJdWRITUtJMFZZVkMxWUxVVk9SRXhKVTFRSwo=",
+                "duration_ms": 9309,
+                "media_display_type": "video",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03186YPJMC-5e279ce30c\/chart__1__thumb_video.jpeg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_video_w": 700,
+                "thumb_video_h": 400,
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U018WC9RM3K\/F03186YPJMC\/chart__1_.webm",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F03186YPJMC-740cae803f",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U018WC9RM3K",
+        "display_as_bot": false,
+        "ts": "1643861413.858619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bHP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sensor data"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6e63d13f-1ade-41e9-a8ab-e3c65615eb32"
+    }
+]

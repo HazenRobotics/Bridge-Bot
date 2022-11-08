@@ -1,0 +1,157 @@
+[
+    {
+        "client_msg_id": "AD1823E2-46B0-4AF1-A6EC-CDB3F44060C6",
+        "type": "message",
+        "text": "Aight so <@U018WC9RM3K> <@U0118UR0J72> <@U0119239VCY> we’re all good to come in around noon tmr? I can pick you up at like 11:30 sam ",
+        "user": "U012BUXVC6B",
+        "ts": "1614310246.031600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zxGa0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aight so "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U018WC9RM3K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0118UR0J72"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we’re all good to come in around noon tmr? I can pick you up at like 11:30 sam "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "71cd85a5-14ba-4353-934d-d1933023c400",
+        "type": "message",
+        "text": "Can you pick me up at like 11:40 or 50?",
+        "user": "U0118UR0J72",
+        "ts": "1614311047.032400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "izq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can you pick me up at like 11:40 or 50?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1614311047.032400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1614311066.032600",
+        "reply_users": [
+            "U012BUXVC6B"
+        ],
+        "replies": [
+            {
+                "user": "U012BUXVC6B",
+                "ts": "1614311066.032600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "D6CDFB61-E00A-494B-9613-2290BA64968C",
+        "type": "message",
+        "text": "Yeee",
+        "user": "U012BUXVC6B",
+        "ts": "1614311066.032600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wd9Ys",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeee"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1614311047.032400",
+        "parent_user_id": "U0118UR0J72"
+    }
+]

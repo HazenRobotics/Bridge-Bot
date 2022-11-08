@@ -1,0 +1,125 @@
+[
+    {
+        "client_msg_id": "B168D823-F56F-4389-A4E7-C04D5BB8B5EC",
+        "type": "message",
+        "text": "Meeting in 5 minutes! ",
+        "user": "U010WTHDW5Q",
+        "ts": "1610578552.000300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BoKi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Meeting in 5 minutes! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "fa6090fe6c02",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2456400319351_fa6090fe6c023108503a_72.png",
+            "first_name": "Lydia",
+            "real_name": "Lydia Sorbo",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "lesorbo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "flag-se",
+                "users": [
+                    "U012BUXVC6B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4BECF8AC-51BA-4068-9F9C-A65E50ABBACE",
+        "type": "message",
+        "text": "My power is still out, I can’t make it to the meeting",
+        "user": "U01AGHWTKFF",
+        "ts": "1610579275.001300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x+kz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My power is still out, I can’t make it to the meeting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "6490e6d401d2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-30\/1491271419888_6490e6d401d20a8b37b4_72.png",
+            "first_name": "Etasha",
+            "real_name": "Etasha Thareja",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "eta.tha000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F0B5508A-AE4B-44B7-A050-BFE8622B6046",
+        "type": "message",
+        "text": "No worries ;)",
+        "user": "U010WTHDW5Q",
+        "ts": "1610579304.001500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R3G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No worries ;)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "fa6090fe6c02",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2456400319351_fa6090fe6c023108503a_72.png",
+            "first_name": "Lydia",
+            "real_name": "Lydia Sorbo",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "lesorbo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

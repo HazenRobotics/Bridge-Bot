@@ -1,0 +1,294 @@
+[
+    {
+        "client_msg_id": "3d524f7b-2819-4910-8605-95c755f2e457",
+        "type": "message",
+        "text": "<!channel> join this <https:\/\/trello.com\/invite\/b\/jkGrSE5m\/9e049344fcd74c0c7c96d7f8543e8197\/2022-2023-ftc-season|trello link>, this will be the to-do list\/workspace for the rest of the season",
+        "user": "U022WGTQ602",
+        "ts": "1650993518.767809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=ry6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " join this "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/trello.com\/invite\/b\/jkGrSE5m\/9e049344fcd74c0c7c96d7f8543e8197\/2022-2023-ftc-season",
+                                "text": "trello link"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", this will be the to-do list\/workspace for the rest of the season"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1e824e82-143f-45c2-b9d3-12fd340b182d",
+        "type": "message",
+        "text": "victor in the background \"Alex, i call dibs on the coffee\" :joy:",
+        "user": "U01BCRC513K",
+        "ts": "1651012782.385399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vGl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "victor in the background \"Alex, i call dibs on the coffee\" "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g1a3742ccdba",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a3742ccdbaa11b20e19f18ba9c093d7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Alex Ross",
+            "display_name": "Alex Ross",
+            "team": "T010YRDV4KB",
+            "name": "ale.ros001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1650676282.925759",
+        "parent_user_id": "U018B1TFE3Y"
+    },
+    {
+        "client_msg_id": "c58aae49-93d6-495f-bafa-83c4595403e1",
+        "type": "message",
+        "text": "there was also a single pepper packet in there",
+        "user": "U01BCRC513K",
+        "ts": "1651012811.733249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RRGH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "there was also a single pepper packet in there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g1a3742ccdba",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a3742ccdbaa11b20e19f18ba9c093d7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Alex Ross",
+            "display_name": "Alex Ross",
+            "team": "T010YRDV4KB",
+            "name": "ale.ros001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1650676402.305559",
+        "parent_user_id": "U02EA7L1KGT"
+    },
+    {
+        "client_msg_id": "118c9e94-9798-4470-97c7-7cd9729b51a4",
+        "type": "message",
+        "text": "<@U022WGTQ602> one thing that we should do is make a list of what things are most important and all the deadlines of the tasks",
+        "user": "U01BCRC513K",
+        "ts": "1651014022.690499",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2q1w\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " one thing that we should do is make a list of what things are most important and all the deadlines of the tasks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g1a3742ccdba",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a3742ccdbaa11b20e19f18ba9c093d7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Alex Ross",
+            "display_name": "Alex Ross",
+            "team": "T010YRDV4KB",
+            "name": "ale.ros001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c1677e42-0d06-4534-b28f-7f8eb6511ab6",
+        "type": "message",
+        "text": "do we still need to fill out attendance forms for robotics or is that gone now",
+        "user": "U01CZUZA4F3",
+        "ts": "1651036840.827349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gFVP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do we still need to fill out attendance forms for robotics or is that gone now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "2340daecb5c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-14\/1429586810659_2340daecb5c97157acec_72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Nguyen",
+            "display_name": "Derek Nguyen",
+            "team": "T010YRDV4KB",
+            "name": "derek.nguyen1028",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "547d59e1-ee3f-4682-9b6a-ac1973fbbcb8",
+        "type": "message",
+        "text": "we're going to start enforcing it again soon since we need to keep track of attendance and minutes for budgeting purposes",
+        "user": "U022WGTQ602",
+        "ts": "1651038168.694599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HSG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we're going to start enforcing it again soon since we need to keep track of attendance and minutes for budgeting purposes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f522d058-8f44-4e62-bfda-57ba57daaf5d",
+        "type": "message",
+        "text": "alright",
+        "user": "U01CZUZA4F3",
+        "ts": "1651039873.786229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Shx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alright"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "2340daecb5c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-14\/1429586810659_2340daecb5c97157acec_72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Nguyen",
+            "display_name": "Derek Nguyen",
+            "team": "T010YRDV4KB",
+            "name": "derek.nguyen1028",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

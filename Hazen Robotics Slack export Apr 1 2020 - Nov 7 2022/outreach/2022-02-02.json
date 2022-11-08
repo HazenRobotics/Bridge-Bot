@@ -1,0 +1,144 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1643843974.036289",
+        "user": "U012BUXVC6B",
+        "text": "<@U012BUXVC6B> has joined the channel"
+    },
+    {
+        "client_msg_id": "5c41227b-1291-4597-a45a-37271109ac2d",
+        "type": "message",
+        "text": "Hello all,\n\nAfter watching <https:\/\/www.youtube.com\/watch?v=nPkr9HmglG0|The Boy Who Harnessed The Wind> the Hazen Robotics team wanted to raise money to support <https:\/\/movingwindmills.org\/#william|William Kamkwamba’s> organization Moving Windmills. Robotics students are raising money for Moving Windmills <https:\/\/movingwindmills.org\/project\/phase-zero\/#stem-hub-clubs|STEM Hub Clubs> until this Thursday 2.3.2022 and would appreciate any donation you could make to the cause. You or your students can donate at the ASB office. If you promote this to others outside Hazen they can donate through the Hazen Robotics Booster account (<https:\/\/hazenrobotics.wixsite.com\/hazenrobotics\/fundraisers|instructions>).\n\nIf you have any questions please let me know.\n\nThank you for time and consideration,",
+        "user": "U018WC9RM3K",
+        "ts": "1643861629.193259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CgQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello all,\n\nAfter watching "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=nPkr9HmglG0",
+                                "text": "The Boy Who Harnessed The Wind"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the Hazen Robotics team wanted to raise money to support "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/movingwindmills.org\/#william",
+                                "text": "William Kamkwamba’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " organization Moving Windmills. Robotics students are raising money for Moving Windmills "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/movingwindmills.org\/project\/phase-zero\/#stem-hub-clubs",
+                                "text": "STEM Hub Clubs"
+                            },
+                            {
+                                "type": "text",
+                                "text": " until this Thursday 2.3.2022 and would appreciate any donation you could make to the cause. You or your students can donate at the ASB office. If you promote this to others outside Hazen they can donate through the Hazen Robotics Booster account ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/hazenrobotics.wixsite.com\/hazenrobotics\/fundraisers",
+                                "text": "instructions"
+                            },
+                            {
+                                "type": "text",
+                                "text": ").\n\nIf you have any questions please let me know.\n\nThank you for time and consideration,"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=nPkr9HmglG0",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/nPkr9HmglG0\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/nPkr9HmglG0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=nPkr9HmglG0",
+                "fallback": "YouTube Video: The Boy Who Harnessed The Wind | Offical Trailer [HD] | Netflix",
+                "title": "The Boy Who Harnessed The Wind | Offical Trailer [HD] | Netflix",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=nPkr9HmglG0",
+                "author_name": "Netflix",
+                "author_link": "https:\/\/www.youtube.com\/c\/Netflix",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            },
+            {
+                "from_url": "https:\/\/movingwindmills.org\/#william",
+                "image_url": "https:\/\/movingwindmills.org\/wp-content\/uploads\/2021\/10\/screenshot-mwp-moving-windmills-website-1280x720-1.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 97625,
+                "id": 2,
+                "original_url": "https:\/\/movingwindmills.org\/#william",
+                "fallback": "Moving Windmills Project: Moving Windmills - Inspiring Innovation - Moving Windmills Project",
+                "title": "Moving Windmills - Inspiring Innovation - Moving Windmills Project",
+                "title_link": "https:\/\/movingwindmills.org\/#william",
+                "service_name": "Moving Windmills Project",
+                "fields": [
+                    {
+                        "value": "18 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            },
+            {
+                "from_url": "https:\/\/movingwindmills.org\/project\/phase-zero\/#stem-hub-clubs",
+                "image_url": "https:\/\/movingwindmills.org\/wp-content\/uploads\/2020\/04\/Moving-Windmills_LyricFinal-2_osk-edits.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 196301,
+                "id": 3,
+                "original_url": "https:\/\/movingwindmills.org\/project\/phase-zero\/#stem-hub-clubs",
+                "fallback": "Moving Windmills Project: Phase Zero 2021 - Community development in Kasungu - Moving Windmills Project",
+                "title": "Phase Zero 2021 - Community development in Kasungu - Moving Windmills Project",
+                "title_link": "https:\/\/movingwindmills.org\/project\/phase-zero\/#stem-hub-clubs",
+                "service_name": "Moving Windmills Project",
+                "fields": [
+                    {
+                        "value": "8 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    }
+]

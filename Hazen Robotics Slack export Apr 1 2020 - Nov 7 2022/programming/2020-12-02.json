@@ -1,0 +1,116 @@
+[
+    {
+        "client_msg_id": "a296d574-d6f4-467d-ba0d-c4b6ff538479",
+        "type": "message",
+        "text": "what's the difference between tensorFlow and vuforia?",
+        "user": "U0118UR0J72",
+        "ts": "1606950857.201500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YilmJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what's the difference between tensorFlow and vuforia?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f84565ec-58dc-468e-83ab-7d4164a52d81",
+        "type": "message",
+        "text": "Tensorflow is for object detection and vuforia is for tracking the marks on the walls and positioning, right?",
+        "user": "U012BUXVC6B",
+        "ts": "1606950891.202100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PE62",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tensorflow is for object detection and vuforia is for tracking the marks on the walls and positioning, right?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f3f8f141-ecab-4f0b-a448-4bb9d5f5bcb2",
+        "type": "message",
+        "text": "Tensorflow is the AI model to recognize an object, Victoria works with the camera and uses a tensorflow object",
+        "user": "U018WC9RM3K",
+        "ts": "1606954532.203600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RvFl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tensorflow is the AI model to recognize an object, Victoria works with the camera and uses a tensorflow object"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

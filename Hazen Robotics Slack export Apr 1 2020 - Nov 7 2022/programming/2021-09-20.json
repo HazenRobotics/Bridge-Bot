@@ -1,0 +1,154 @@
+[
+    {
+        "client_msg_id": "0149fc9f-63c2-4c73-923e-844f32e6a80b",
+        "type": "message",
+        "text": "correct me if I'm wrong, but I think I figured out why identifying the team's shipping element gains more points than the duck. From reading game manual 2, it seems to me that the reason the shipping element is worth more is that there are already TensorFlow models that can identify a yellow rubber duck, but if we want it to identify our object, we need to create our own model.  Is this correct or is there something I'm missing?",
+        "user": "U022WGTQ602",
+        "ts": "1632151057.095700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QSowC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "correct me if I'm wrong, but I think I figured out why identifying the team's shipping element gains more points than the duck. From reading game manual 2, it seems to me that the reason the shipping element is worth more is that there are already TensorFlow models that can identify a yellow rubber duck, but if we want it to identify our object, we need to create our own model.  Is this correct or is there something I'm missing?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3f783e1e-91ab-47e1-a4bc-1f0c84a302ac",
+        "type": "message",
+        "text": "I think you're right, they usually provide some sort of pre-trained model to use",
+        "user": "U0119239VCY",
+        "ts": "1632151382.096700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qW4pU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think you're right, they usually provide some sort of pre-trained model to use"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f8c2dd7c-abba-4bf6-863a-5259a4dc41be",
+        "type": "message",
+        "text": "ah ok",
+        "user": "U022WGTQ602",
+        "ts": "1632151608.096900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "liTP\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7b8ff042-7458-4344-87d9-e6ee2920e396",
+        "type": "message",
+        "text": "I can help you all understand how to create your own model. It is really not that bad",
+        "user": "U018WC9RM3K",
+        "ts": "1632163969.097400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RYy7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can help you all understand how to create your own model. It is really not that bad"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

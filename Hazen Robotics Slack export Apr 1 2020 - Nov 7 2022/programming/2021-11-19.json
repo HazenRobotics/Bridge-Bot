@@ -1,0 +1,250 @@
+[
+    {
+        "client_msg_id": "80df812b-ad5a-42e2-9492-76cae96576a2",
+        "type": "message",
+        "text": "<https:\/\/blog.roboflow.com\/training-a-tensorflow-object-detection-model-with-a-custom-dataset\/>",
+        "user": "U018WC9RM3K",
+        "ts": "1637375083.069300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jgrV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/blog.roboflow.com\/training-a-tensorflow-object-detection-model-with-a-custom-dataset\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/blog.roboflow.com\/training-a-tensorflow-object-detection-model-with-a-custom-dataset\/",
+                "service_name": "Roboflow Blog",
+                "title": "Training a TensorFlow MobileNet Object Detection Model with a Custom Dataset",
+                "title_link": "https:\/\/blog.roboflow.com\/training-a-tensorflow-object-detection-model-with-a-custom-dataset\/",
+                "text": "Change two lines of code and have a custom trained object detection model leveraging the TensorFlow 1.5 API.",
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Joseph Nelson",
+                        "short": true
+                    },
+                    {
+                        "title": "Filed under",
+                        "value": "Tutorials",
+                        "short": true
+                    }
+                ],
+                "ts": 1581233640,
+                "image_url": "https:\/\/blog.roboflow.com\/content\/images\/2020\/07\/train_mobilenet_ssd.png",
+                "image_width": 325,
+                "image_height": 250,
+                "image_bytes": 1048876,
+                "fallback": "Roboflow Blog: Training a TensorFlow MobileNet Object Detection Model with a Custom Dataset",
+                "service_icon": "https:\/\/blog.roboflow.com\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/blog.roboflow.com\/training-a-tensorflow-object-detection-model-with-a-custom-dataset\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4fdfa43a-4475-4201-83a4-a247337aaa50",
+        "type": "message",
+        "text": "<https:\/\/colab.research.google.com\/drive\/1wTMIrJhYsQdq_u7ROOkf0Lu_fsX5Mu8a#scrollTo=H9yeoUXru93V>",
+        "user": "U018WC9RM3K",
+        "ts": "1637375093.069600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1P6lu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/colab.research.google.com\/drive\/1wTMIrJhYsQdq_u7ROOkf0Lu_fsX5Mu8a#scrollTo=H9yeoUXru93V"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/colab.research.google.com\/drive\/1wTMIrJhYsQdq_u7ROOkf0Lu_fsX5Mu8a#scrollTo=H9yeoUXru93V",
+                "title": "Google Colaboratory",
+                "title_link": "https:\/\/colab.research.google.com\/drive\/1wTMIrJhYsQdq_u7ROOkf0Lu_fsX5Mu8a#scrollTo=H9yeoUXru93V",
+                "image_url": "https:\/\/colab.research.google.com\/img\/colab_favicon_256px.png",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 4534,
+                "fallback": "Google Colaboratory",
+                "service_icon": "https:\/\/colab.research.google.com\/img\/favicon.ico?vrz=colab-20211118-060053-RC00_410742426",
+                "service_name": "colab.research.google.com",
+                "id": 1,
+                "original_url": "https:\/\/colab.research.google.com\/drive\/1wTMIrJhYsQdq_u7ROOkf0Lu_fsX5Mu8a#scrollTo=H9yeoUXru93V"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1dbd1a6c-b22c-4605-b658-3c44da287f72",
+        "type": "message",
+        "text": "<https:\/\/github.com\/josephofiowa\/tensorflow-object-detection>",
+        "user": "U018WC9RM3K",
+        "ts": "1637375102.069900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "35Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/josephofiowa\/tensorflow-object-detection"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "josephofiowa\/tensorflow-object-detection",
+                "text": "How to train an object detection model easy for free",
+                "title": "josephofiowa\/tensorflow-object-detection",
+                "id": 1,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "8",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Jupyter Notebook",
+                        "short": true
+                    }
+                ],
+                "bot_id": "B02EXAE6AB1",
+                "app_unfurl_url": "https:\/\/github.com\/josephofiowa\/tensorflow-object-detection",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4cc808f2-1cbf-43e8-a9f0-6fdded358621",
+        "type": "message",
+        "text": "<https:\/\/github.com\/google\/ftc-object-detection>",
+        "user": "U018WC9RM3K",
+        "ts": "1637376532.070200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bn6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/google\/ftc-object-detection"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "google\/ftc-object-detection",
+                "text": "Object detection with machine learning for FTC!",
+                "title": "google\/ftc-object-detection",
+                "id": 1,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "27",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "C++",
+                        "short": true
+                    }
+                ],
+                "bot_id": "B02EXAE6AB1",
+                "app_unfurl_url": "https:\/\/github.com\/google\/ftc-object-detection",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY"
+            }
+        ]
+    }
+]

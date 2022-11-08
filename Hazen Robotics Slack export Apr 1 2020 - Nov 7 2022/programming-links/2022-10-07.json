@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "d7871583-36a7-4d4b-bda8-a54e21d40829",
+        "type": "message",
+        "text": "<https:\/\/codehs.com\/join_class\/73F8E>",
+        "user": "U0118UR0J72",
+        "ts": "1665164960.093949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Nm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/codehs.com\/join_class\/73F8E"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1665164960.093949",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1666726085.710939",
+        "reply_users": [
+            "U0118UR0J72"
+        ],
+        "replies": [
+            {
+                "user": "U0118UR0J72",
+                "ts": "1666726085.710939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

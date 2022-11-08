@@ -1,0 +1,272 @@
+[
+    {
+        "client_msg_id": "ADA36081-0E1B-4E83-9868-127B317EA444",
+        "type": "message",
+        "text": "Hey there, does anyone have the link for the Trello?",
+        "user": "U02DVNN88UE",
+        "ts": "1632239679.098800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5U+G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey there, does anyone have the link for the Trello?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "16ae608684b6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-10\/2491138403025_16ae608684b6f0fb3c46_72.png",
+            "first_name": "Isaac",
+            "real_name": "Isaac Richards",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "isaaczrichards",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cd181405-bc9c-4efb-8cc9-55a45c2af780",
+        "type": "message",
+        "text": "yea, it's in general",
+        "user": "U022WGTQ602",
+        "ts": "1632239860.099000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "89s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yea, it's in general"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b75d4c1e-0f10-4b9b-9802-366087b05a83",
+        "type": "message",
+        "text": "oh wait, it's far back, i'll post it again",
+        "user": "U022WGTQ602",
+        "ts": "1632239878.099300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DU=0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh wait, it's far back, i'll post it again"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "154e2cf7-2c98-4812-aca4-577459f6ca36",
+        "type": "message",
+        "text": "Ethan brought up the idea of optical surface tracking sensors for odometry",
+        "user": "U012BUXVC6B",
+        "ts": "1632249917.099900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eZ+nO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ethan brought up the idea of optical surface tracking sensors for odometry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2df27f67-5173-4f7a-b627-254d0db3f8cf",
+        "type": "message",
+        "text": "<@U0119239VCY> thoughts? Might be able to find an i2c one with a big enough working distance to be useful",
+        "user": "U012BUXVC6B",
+        "ts": "1632249948.100600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "18Pe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thoughts? Might be able to find an i2c one with a big enough working distance to be useful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a684e057-a132-44d7-a2cb-f282f419d70d",
+        "type": "message",
+        "text": "I've never heard of those before, would it even work on the foam tiles since the surface is all the same?",
+        "user": "U0119239VCY",
+        "ts": "1632254191.101600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C1XI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've never heard of those before, would it even work on the foam tiles since the surface is all the same?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "72458f17-fd3f-4d75-8dd4-6c5c322d7c9a",
+        "type": "message",
+        "text": "The sensors are probably similar to the things on mice",
+        "user": "U0118UR0J72",
+        "ts": "1632267812.102100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+RTO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The sensors are probably similar to the things on mice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

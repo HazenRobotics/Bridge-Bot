@@ -1,0 +1,265 @@
+[
+    {
+        "client_msg_id": "4f0bf96c-1bad-4696-aa12-50edd6e1ba40",
+        "type": "message",
+        "text": "<@U018WC9RM3K> <@U0119239VCY> we got some data for the ball, duck, and cubes, what's our next step?",
+        "user": "U022WGTQ602",
+        "ts": "1633718660.163900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9OKA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U018WC9RM3K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we got some data for the ball, duck, and cubes, what's our next step?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "83f6b8e0-ba3b-46a4-8021-5e32ab2b9a02",
+        "type": "message",
+        "text": "<@U0118UR0J72> while the servo is directly attached to the wheel, the servo itself still has a gear ratio of 67:1",
+        "user": "U022WGTQ602",
+        "ts": "1633720495.166400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oKkg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0118UR0J72"
+                            },
+                            {
+                                "type": "text",
+                                "text": " while the servo is directly attached to the wheel, the servo itself still has a gear ratio of 67:1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7a6b973a-ee79-4343-804a-3a9d3f0f100d",
+        "type": "message",
+        "text": "should I include it in my code or does it matter?",
+        "user": "U022WGTQ602",
+        "ts": "1633720510.166900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QRb\/w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "should I include it in my code or does it matter?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9f51e210-5279-47da-9215-e74fd2b2604b",
+        "type": "message",
+        "text": "also it doesn't look like there is built in encoder support for continuous (only up to 300 degrees with the gobilda servo) so we'll have to figure out how to deal with that",
+        "user": "U022WGTQ602",
+        "ts": "1633721079.169200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rCKk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also it doesn't look like there is built in encoder support for continuous (only up to 300 degrees with the gobilda servo) so we'll have to figure out how to deal with that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "022101d3-2de4-4340-9bcb-951baaa797d0",
+        "type": "message",
+        "text": "yea according to gm0 CRServos don't have position control",
+        "user": "U022WGTQ602",
+        "ts": "1633721347.170800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ps8aH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yea according to gm0 CRServos don't have position control"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "image capturing code",
+        "files": [
+            {
+                "id": "F02GT35SSSK",
+                "created": 1633735168,
+                "timestamp": 1633735168,
+                "name": "Final Record Dataset.ipynb",
+                "title": "Final Record Dataset.ipynb",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U0118UR0J72",
+                "user_team": "T010YRDV4KB",
+                "editable": true,
+                "size": 5622,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02GT35SSSK\/final_record_dataset.ipynb?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02GT35SSSK\/download\/final_record_dataset.ipynb?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U0118UR0J72\/F02GT35SSSK\/final_record_dataset.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02GT35SSSK-76c50e776e",
+                "edit_link": "https:\/\/hazen-robotics.slack.com\/files\/U0118UR0J72\/F02GT35SSSK\/final_record_dataset.ipynb\/edit",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0118UR0J72",
+        "display_as_bot": false,
+        "ts": "1633735185.171200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U+4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "image capturing code"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "22f1a39b-ef6d-4092-86af-6e5e40389693"
+    }
+]

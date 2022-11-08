@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "4522637E-F003-4DCB-9469-4B2016985C68",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/tDacjrSCeq4|https:\/\/youtu.be\/tDacjrSCeq4>",
+        "user": "U038AS2R6UV",
+        "ts": "1662405528.689429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HUx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/tDacjrSCeq4",
+                                "text": "https:\/\/youtu.be\/tDacjrSCeq4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g2c4eee482c1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2c4eee482c1daf21ca41a736f9ca5bd1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Pottorff",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "ryan.pottorff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/tDacjrSCeq4",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/tDacjrSCeq4\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/tDacjrSCeq4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Shouting in the Datacenter\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/tDacjrSCeq4",
+                "fallback": "YouTube Video: Shouting in the Datacenter",
+                "title": "Shouting in the Datacenter",
+                "title_link": "https:\/\/youtu.be\/tDacjrSCeq4",
+                "author_name": "Bryan Cantrill",
+                "author_link": "https:\/\/www.youtube.com\/user\/bcantrill",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    }
+]

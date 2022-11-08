@@ -1,0 +1,921 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1613946715.000200",
+        "user": "U010WTHDW5Q",
+        "text": "<@U010WTHDW5Q> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1613946715.000300",
+        "user": "U010WTHDW5Q",
+        "text": "set the channel description: Elementary stem club",
+        "purpose": "Elementary stem club"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1613946739.000500",
+        "user": "U012BUXVC6B",
+        "text": "<@U012BUXVC6B> has joined the channel",
+        "inviter": "U010WTHDW5Q"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1613946739.000700",
+        "user": "U018WC9RM3K",
+        "text": "<@U018WC9RM3K> has joined the channel",
+        "inviter": "U010WTHDW5Q"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1613946739.000900",
+        "user": "U0118LQKKEZ",
+        "text": "<@U0118LQKKEZ> has joined the channel",
+        "inviter": "U010WTHDW5Q"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1613946739.001100",
+        "user": "U0119239VCY",
+        "text": "<@U0119239VCY> has joined the channel",
+        "inviter": "U010WTHDW5Q"
+    },
+    {
+        "client_msg_id": "75A3F1F0-89DB-4202-A7D7-3137D81D7A54",
+        "type": "message",
+        "text": "<@U012BUXVC6B> have you made any progress on the curriculum for elementary stem club? Ellen and I need to make sure we know what we are doing pretty soon so we have time to be ready for Thursday ",
+        "user": "U010WTHDW5Q",
+        "ts": "1613946800.002600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XlKYU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012BUXVC6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " have you made any progress on the curriculum for elementary stem club? Ellen and I need to make sure we know what we are doing pretty soon so we have time to be ready for Thursday "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "fa6090fe6c02",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2456400319351_fa6090fe6c023108503a_72.png",
+            "first_name": "Lydia",
+            "real_name": "Lydia Sorbo",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "lesorbo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6D334A01-CCCE-49F8-8A4D-F88BAC319F37",
+        "type": "message",
+        "text": "I’m going to work on it tonight, I believe the best way to go would be to start teaching with tinker cad  ",
+        "user": "U012BUXVC6B",
+        "ts": "1613954993.003400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q7d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m going to work on it tonight, I believe the best way to go would be to start teaching with tinker cad  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "837F08D9-DBBC-4A87-BDD1-43D140E66CBC",
+        "type": "message",
+        "text": "Hopefully all y’all will need to do is familiarize yourself with the software ",
+        "user": "U012BUXVC6B",
+        "ts": "1613955048.004300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JfTT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hopefully all y’all will need to do is familiarize yourself with the software "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010WTHDW5Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2F7C0C11-F45F-40AF-A63E-D4C3706D930B",
+        "type": "message",
+        "text": "I think tinker cad is a good place to start too",
+        "user": "U0118LQKKEZ",
+        "ts": "1613955093.004900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aIH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think tinker cad is a good place to start too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "ca034fd1769e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-02\/2115489678439_ca034fd1769e0a72e2f9_72.png",
+            "first_name": "Ellen",
+            "real_name": "Ellen Huynh",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "ellen.huynh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "EBD52696-CD0F-4CD0-90D8-C4DB0870F5E9",
+        "type": "message",
+        "text": "But I think we need to kinda come up with some sort of lesson plan with clear step by step ",
+        "user": "U0118LQKKEZ",
+        "ts": "1613955146.006000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j7U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But I think we need to kinda come up with some sort of lesson plan with clear step by step "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "ca034fd1769e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-02\/2115489678439_ca034fd1769e0a72e2f9_72.png",
+            "first_name": "Ellen",
+            "real_name": "Ellen Huynh",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "ellen.huynh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "12152EE1-5116-4E29-B285-2AD0D99BA029",
+        "type": "message",
+        "text": "^i agree",
+        "user": "U010WTHDW5Q",
+        "ts": "1613955163.006200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QDygN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^i agree"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "fa6090fe6c02",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2456400319351_fa6090fe6c023108503a_72.png",
+            "first_name": "Lydia",
+            "real_name": "Lydia Sorbo",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "lesorbo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5C5CDE1E-593B-4ED1-87B0-62C258B618BE",
+        "type": "message",
+        "text": "Tinkercad has a built in lesson plan that I’m going to try and follow",
+        "user": "U012BUXVC6B",
+        "ts": "1613955193.007000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D382g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tinkercad has a built in lesson plan that I’m going to try and follow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B2DA0804-2BCE-4AB6-8C25-963E30C8A74F",
+        "type": "message",
+        "text": "I’ll make sure it works for us tonight ",
+        "user": "U012BUXVC6B",
+        "ts": "1613955200.007300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V9ZT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ll make sure it works for us tonight "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F60D9806-C06E-40C7-931C-824EB428C12E",
+        "type": "message",
+        "text": "Ok let us know which one you choose",
+        "user": "U010WTHDW5Q",
+        "ts": "1613955213.007800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bxyMI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok let us know which one you choose"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "fa6090fe6c02",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2456400319351_fa6090fe6c023108503a_72.png",
+            "first_name": "Lydia",
+            "real_name": "Lydia Sorbo",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "lesorbo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "30CB6269-9CBF-4467-86A5-923A90177700",
+        "type": "message",
+        "text": "Sounds good!",
+        "user": "U0118LQKKEZ",
+        "ts": "1613955213.007900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F=wE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds good!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "ca034fd1769e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-02\/2115489678439_ca034fd1769e0a72e2f9_72.png",
+            "first_name": "Ellen",
+            "real_name": "Ellen Huynh",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "ellen.huynh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6af53314-3208-4fde-804b-1fde35246124",
+        "type": "message",
+        "text": "Hmm. so the tinkercad classroom stuff is not nearly as good as I've been told",
+        "user": "U012BUXVC6B",
+        "ts": "1613969024.008800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "51Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hmm. so the tinkercad classroom stuff is not nearly as good as I've been told"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "08fa34a1-4e9a-44e1-ac52-6ecedc7b91c4",
+        "type": "message",
+        "text": "It doesn't allow you to send lessons to your students like I've been told it does, and the coach of my FLL team said that it didn't work well for them",
+        "user": "U012BUXVC6B",
+        "ts": "1613969068.009700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gg3kU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It doesn't allow you to send lessons to your students like I've been told it does, and the coach of my FLL team said that it didn't work well for them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3c820cb2-7348-4796-8c16-a5e6d45d130d",
+        "type": "message",
+        "text": "So I'm gonna outline a simpler curriculum of our own, that'll be shorter and simpler.",
+        "user": "U012BUXVC6B",
+        "ts": "1613969106.010500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RWq9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So I'm gonna outline a simpler curriculum of our own, that'll be shorter and simpler."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bca88c97-9f44-438a-b6c1-2598d6d707d6",
+        "type": "message",
+        "text": "The meeting Thursday is just a planning meeting correct?",
+        "user": "U012BUXVC6B",
+        "ts": "1613969122.010900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i+x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The meeting Thursday is just a planning meeting correct?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "07C253D9-9C97-4E55-BC2D-243C64D7AFD1",
+        "type": "message",
+        "text": "What do you mean by planning-I thought we were beginning to teach on Thursday",
+        "user": "U010WTHDW5Q",
+        "ts": "1613969156.011700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gqlB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What do you mean by planning-I thought we were beginning to teach on Thursday"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "fa6090fe6c02",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2456400319351_fa6090fe6c023108503a_72.png",
+            "first_name": "Lydia",
+            "real_name": "Lydia Sorbo",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "lesorbo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9f84f189-6bea-4106-a1d7-708309a73eda",
+        "type": "message",
+        "text": "I will check with elementary teacher tomorrow. Lydia is correct.",
+        "user": "U018WC9RM3K",
+        "ts": "1613969209.013100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Bw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will check with elementary teacher tomorrow. Lydia is correct."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "93d72162-20a5-4f1d-ba08-c7482b9fb786",
+        "type": "message",
+        "text": "Ok, I was mistaken. Should I reach out to the elementary teacher to see if they have something planned? I haven't heard from them",
+        "user": "U012BUXVC6B",
+        "ts": "1613969961.013900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vAUEu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, I was mistaken. Should I reach out to the elementary teacher to see if they have something planned? I haven't heard from them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "86559135-7ef6-4448-9e89-8fc29fcdc13e",
+        "type": "message",
+        "text": "<@U010WTHDW5Q> <@U0118LQKKEZ> <https:\/\/rentonschools-my.sharepoint.com\/:w:\/g\/personal\/kpeck1_rentonschools_us\/ESgT3O6-fzJBmVhY7AQdjnEBT534sCF53hT3RStWHfBn5g?e=f8kWar>",
+        "user": "U012BUXVC6B",
+        "ts": "1613970174.014300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x78t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010WTHDW5Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0118LQKKEZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/rentonschools-my.sharepoint.com\/:w:\/g\/personal\/kpeck1_rentonschools_us\/ESgT3O6-fzJBmVhY7AQdjnEBT534sCF53hT3RStWHfBn5g?e=f8kWar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "file",
+                        "block_id": "EL+e",
+                        "file_id": "F01NRV4KEQM",
+                        "source": "remote",
+                        "file": {
+                            "id": "F01NRV4KEQM",
+                            "created": 1613970218,
+                            "timestamp": 1613970218,
+                            "name": "Elementary_School_Stem_Curriculum_docx",
+                            "title": "Elementary School Stem Curriculum.docx",
+                            "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                            "filetype": "docx",
+                            "pretty_type": "Word Document",
+                            "user": "U010XCBB0LT",
+                            "user_team": "T010YRDV4KB",
+                            "editable": false,
+                            "size": 359391,
+                            "mode": "external",
+                            "is_external": true,
+                            "external_type": "app",
+                            "is_public": true,
+                            "public_url_shared": false,
+                            "display_as_bot": false,
+                            "username": "",
+                            "url_private": "https:\/\/rentonschools-my.sharepoint.com\/:w:\/g\/personal\/kpeck1_rentonschools_us\/ESgT3O6-fzJBmVhY7AQdjnEBT534sCF53hT3RStWHfBn5g?e=f8kWar",
+                            "media_display_type": "unknown",
+                            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01NRV4KEQM-48f7c42759\/elementary_school_stem_curriculum_docx_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01NRV4KEQM-48f7c42759\/elementary_school_stem_curriculum_docx_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01NRV4KEQM-48f7c42759\/elementary_school_stem_curriculum_docx_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                            "thumb_360_w": 278,
+                            "thumb_360_h": 360,
+                            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01NRV4KEQM-48f7c42759\/elementary_school_stem_curriculum_docx_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                            "thumb_480_w": 371,
+                            "thumb_480_h": 480,
+                            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01NRV4KEQM-48f7c42759\/elementary_school_stem_curriculum_docx_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01NRV4KEQM-48f7c42759\/elementary_school_stem_curriculum_docx_720.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                            "thumb_720_w": 556,
+                            "thumb_720_h": 720,
+                            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01NRV4KEQM-48f7c42759\/elementary_school_stem_curriculum_docx_800.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                            "thumb_800_w": 800,
+                            "thumb_800_h": 1036,
+                            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01NRV4KEQM-48f7c42759\/elementary_school_stem_curriculum_docx_960.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                            "thumb_960_w": 741,
+                            "thumb_960_h": 960,
+                            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01NRV4KEQM-48f7c42759\/elementary_school_stem_curriculum_docx_1024.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                            "thumb_1024_w": 791,
+                            "thumb_1024_h": 1024,
+                            "original_w": 800,
+                            "original_h": 1036,
+                            "thumb_tiny": "AwAwACXSLYo3D1prjmkxnuKAH7h60bh60mwetGwetADqKB0ooAa3PFAGB3of9Kb+VADvzpfzpFz2xS\/N7UALRRRQA1utJtP+TTiM0oGKAGAH0\/Wlx7frTqKAAdKKKKAP\/9k=",
+                            "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U010XCBB0LT\/F01NRV4KEQM\/elementary_school_stem_curriculum_docx",
+                            "comments_count": 0,
+                            "shares": {},
+                            "channels": [],
+                            "groups": [],
+                            "ims": [],
+                            "external_id": "01FKYDW2RICPOO5PT7GJAZSWCY5QCB3DTR::3760609743",
+                            "external_url": "https:\/\/rentonschools-my.sharepoint.com\/:w:\/g\/personal\/kpeck1_rentonschools_us\/ESgT3O6-fzJBmVhY7AQdjnEBT534sCF53hT3RStWHfBn5g?e=f8kWar",
+                            "has_rich_preview": true,
+                            "file_access": "visible"
+                        }
+                    }
+                ],
+                "fallback": "[no preview available]",
+                "bot_id": "B018GCMQ6S1",
+                "app_unfurl_url": "https:\/\/rentonschools-my.sharepoint.com\/:w:\/g\/personal\/kpeck1_rentonschools_us\/ESgT3O6-fzJBmVhY7AQdjnEBT534sCF53hT3RStWHfBn5g?e=f8kWar",
+                "is_app_unfurl": true
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0118LQKKEZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1B90ABD3-D339-49D0-B494-824F648EAE68",
+        "type": "message",
+        "text": "If possible, I think we should create a canvas page so we can include the links they need so the can come back to reference it ",
+        "user": "U0118LQKKEZ",
+        "ts": "1613975408.016000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rWJF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If possible, I think we should create a canvas page so we can include the links they need so the can come back to reference it "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "ca034fd1769e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-02\/2115489678439_ca034fd1769e0a72e2f9_72.png",
+            "first_name": "Ellen",
+            "real_name": "Ellen Huynh",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "ellen.huynh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "C6BE54BE-ED3D-432F-8755-50FEE6730162",
+        "type": "message",
+        "text": "Oh yeah, canvas is a great idea! Are elementary schoolers already using it?",
+        "user": "U012BUXVC6B",
+        "ts": "1613978756.016600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+ic",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh yeah, canvas is a great idea! Are elementary schoolers already using it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

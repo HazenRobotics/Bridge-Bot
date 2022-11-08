@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "f8a60ac6-d451-42e9-8db2-4286882fc820",
+        "type": "message",
+        "text": "<!channel> still looking for a designer to be a student mentor for McKnight, they have another meeting today so if you are interested message me and I can send you the details. you can get community service hours and it looks really good on college apps",
+        "user": "U022WGTQ602",
+        "ts": "1664308748.622259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T=4k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " still looking for a designer to be a student mentor for McKnight, they have another meeting today so if you are interested message me and I can send you the details. you can get community service hours and it looks really good on college apps"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664308748.622259",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1664375123.644959",
+        "reply_users": [
+            "U02DWDDVAP7",
+            "U022WGTQ602"
+        ],
+        "replies": [
+            {
+                "user": "U02DWDDVAP7",
+                "ts": "1664374845.460139"
+            },
+            {
+                "user": "U022WGTQ602",
+                "ts": "1664375123.644959"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

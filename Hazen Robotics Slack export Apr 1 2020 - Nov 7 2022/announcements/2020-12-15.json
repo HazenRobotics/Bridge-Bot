@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "73552faa-6d34-431d-a401-596a3fa2b220",
+        "type": "message",
+        "text": "my parents may or may not have a discount with the USPS",
+        "user": "U018QFHSHJS",
+        "ts": "1608090896.298000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gVG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my parents may or may not have a discount with the USPS"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "37dff344d6eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1314722996100_37dff344d6ebf1a57728_72.gif",
+            "first_name": "Preston",
+            "real_name": "Preston Lazaro",
+            "display_name": "Preston Lazaro",
+            "team": "T010YRDV4KB",
+            "name": "prestonlazaro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

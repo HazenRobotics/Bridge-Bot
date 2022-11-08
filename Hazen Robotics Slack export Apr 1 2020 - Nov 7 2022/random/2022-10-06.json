@@ -1,0 +1,679 @@
+[
+    {
+        "client_msg_id": "e15ef6db-7b7c-4003-93b3-5f8c9d03615f",
+        "type": "message",
+        "text": "speedy printer <https:\/\/www.youtube.com\/watch?v=a6XRs-g6ngw>",
+        "user": "U022WGTQ602",
+        "ts": "1665041616.063149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "svA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "speedy printer "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=a6XRs-g6ngw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=a6XRs-g6ngw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/a6XRs-g6ngw\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/a6XRs-g6ngw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"3DBenchy printed in 03:27 (mm:ss)\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=a6XRs-g6ngw",
+                "fallback": "YouTube Video: 3DBenchy printed in 03:27 (mm:ss)",
+                "title": "3DBenchy printed in 03:27 (mm:ss)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=a6XRs-g6ngw",
+                "author_name": "247printing",
+                "author_link": "https:\/\/www.youtube.com\/c\/247printing",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "gaming",
+        "files": [
+            {
+                "id": "F0464AUBMME",
+                "created": 1665064962,
+                "timestamp": 1665064962,
+                "name": "cachedVideo.mp4",
+                "title": "cachedVideo.mp4",
+                "mimetype": "video\/quicktime",
+                "filetype": "mov",
+                "pretty_type": "QuickTime Movie",
+                "user": "U02DWDDVAP7",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 2732245,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "transcription": {
+                    "status": "none"
+                },
+                "mp4": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0464AUBMME-b908dd65fc\/cachedvideo.mp4?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0464AUBMME-b908dd65fc\/cachedvideo.mp4?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F0464AUBMME\/download\/cachedvideo.mp4?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "hls": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0464AUBMME-b908dd65fc\/file.m3u8?_xcb=88083&t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "hls_embed": "data:application\/vnd.apple.mpegurl;base64,I0VYVE0zVQojRVhULVgtVkVSU0lPTjozCiNFWFQtWC1JTkRFUEVOREVOVC1TRUdNRU5UUwojRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9NDQwNDgyLEFWRVJBR0UtQkFORFdJRFRIPTQ0MDQ4MixDT0RFQ1M9ImF2YzEuNjQwMDFlLG1wNGEuNDAuNSIsUkVTT0xVVElPTj00MDZ4NzIwLEZSQU1FLVJBVEU9MjkuOTcwCmRhdGE6YXBwbGljYXRpb24vdm5kLmFwcGxlLm1wZWd1cmw7YmFzZTY0LEkwVllWRTB6VlFvalJWaFVMVmd0VmtWU1UwbFBUam96Q2lORldGUXRXQzFVUVZKSFJWUkVWVkpCVkVsUFRqbzNDaU5GV0ZRdFdDMU5SVVJKUVMxVFJWRlZSVTVEUlRveENpTkZXRlF0V0MxUVRFRlpURWxUVkMxVVdWQkZPbFpQUkFvalJWaFVTVTVHT2pZdU1EQTJMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREF4TUZsU1JGWTBTMEl0UmpBME5qUkJWVUpOVFVVdFlqa3dPR1JrTmpWbVl5OW1hV3hsWDBoZk1qWTBYekV5T0RCNE56SXdYek0xTURCTFFsQlRYemRSVmtKU1h6QXdNREF4TG5SekNpTkZXRlJKVGtZNk1TNDNNRElzQ21oMGRIQnpPaTh2Wm1sc1pYTXVjMnhoWTJzdVkyOXRMMlpwYkdWekxYUnRZaTlVTURFd1dWSkVWalJMUWkxR01EUTJORUZWUWsxTlJTMWlPVEE0WkdRMk5XWmpMMlpwYkdWZlNGOHlOalJmTVRJNE1IZzNNakJmTXpVd01FdENVRk5mTjFGV1FsSmZNREF3TURJdWRITUtJMFZZVkMxWUxVVk9SRXhKVTFRSwo=",
+                "mp4_low": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0464AUBMME-b908dd65fc\/cachedvideo_trans.mp4?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "duration_ms": 7707,
+                "media_display_type": "video",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0464AUBMME-b908dd65fc\/cachedvideo_thumb_video.jpeg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_video_w": 360,
+                "thumb_video_h": 640,
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U02DWDDVAP7\/F0464AUBMME\/cachedvideo.mp4",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F0464AUBMME-0e4af6e431",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02DWDDVAP7",
+        "display_as_bot": false,
+        "ts": "1665064966.569359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aX9MQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "gaming"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "39518151-1bc1-4ab6-95a4-871e92688376"
+    },
+    {
+        "client_msg_id": "AC18D648-D0D2-4397-A2AA-40338D4A0F93",
+        "type": "message",
+        "text": "Wait I just realized doesn’t the h510 flow block most of the front?",
+        "user": "U02ENRPMDCZ",
+        "ts": "1665074769.334869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/DL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wait I just realized "
+                            },
+                            {
+                                "type": "text",
+                                "text": "doesn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the h510 flow block most of the front?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "17b66d5a2701",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-13\/2483249218853_17b66d5a270198b7755b_72.jpg",
+            "first_name": "Vincent",
+            "real_name": "Vincent Luc",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "samuraivincent10",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "359443f1-ae78-4812-a78f-6f6f76fc52e5",
+        "type": "message",
+        "text": "Only the white model",
+        "user": "U02DWDDVAP7",
+        "ts": "1665075181.326479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JHbE9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Only the white model"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5286f6c6-e502-41d0-bb36-a2b91c4a0a16",
+        "type": "message",
+        "text": "Black has a mesh front",
+        "user": "U02DWDDVAP7",
+        "ts": "1665075202.082229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VaghN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Black has a mesh front"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "DE02C449-289F-4C0E-AC4A-85AB6F005816",
+        "type": "message",
+        "text": "I thought the mesh would block most of the light until I realized my case has mesh and the lights are fine",
+        "user": "U02ENRPMDCZ",
+        "ts": "1665076013.469109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KOqyI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I thought the mesh would block most of the light until I realized my case has mesh and the lights are fine"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "17b66d5a2701",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-13\/2483249218853_17b66d5a270198b7755b_72.jpg",
+            "first_name": "Vincent",
+            "real_name": "Vincent Luc",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "samuraivincent10",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Got a cone score and a cap, looking good for this year :muscle:",
+        "files": [
+            {
+                "id": "F045K8GRUGL",
+                "created": 1665085472,
+                "timestamp": 1665085472,
+                "name": "20221006_124303.jpg",
+                "title": "20221006_124303.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U02535ABH2A",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 369815,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F045K8GRUGL\/20221006_124303.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F045K8GRUGL\/download\/20221006_124303.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F045K8GRUGL-857a112bce\/20221006_124303_64.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F045K8GRUGL-857a112bce\/20221006_124303_80.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F045K8GRUGL-857a112bce\/20221006_124303_360.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F045K8GRUGL-857a112bce\/20221006_124303_480.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F045K8GRUGL-857a112bce\/20221006_124303_160.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F045K8GRUGL-857a112bce\/20221006_124303_720.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F045K8GRUGL-857a112bce\/20221006_124303_800.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1732,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F045K8GRUGL-857a112bce\/20221006_124303_960.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 444,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F045K8GRUGL-857a112bce\/20221006_124303_1024.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "original_w": 1848,
+                "original_h": 4000,
+                "thumb_tiny": "AwAwABZke4FowuWZSOtJ5hXI3MpA4A9aekqJKxERyOCQaUwOR8pGevIpDEjuCI8yON2fxp32lfWoZopOOM\/SovKk\/ummIuPKZJThtqDj60kMzyOQSoA5x61AUDcNIQccDsaiAcH0pDuaZAak2D3qr5rRx\/eOSab9pk\/v\/pQAqqYnQsRuJyQewqeSSJ+D94DqKgT99dyPzjpUkcKpJtXpjJzTEM8p5XKqPlHfGKX7G\/qKsoCoIzx2HpTs0rjP\/9k=",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U02535ABH2A\/F045K8GRUGL\/20221006_124303.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F045K8GRUGL-b982a40b04",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02535ABH2A",
+        "display_as_bot": false,
+        "ts": "1665085494.687199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TzajX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got a cone score and a cap, looking good for this year "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3a3faa35-f138-46e2-9b96-a2fe639bb7e4"
+    },
+    {
+        "type": "message",
+        "text": "crane capstone",
+        "files": [
+            {
+                "id": "F045K90LQP6",
+                "created": 1665085681,
+                "timestamp": 1665085681,
+                "name": "IMG_1474.jpg",
+                "title": "IMG_1474",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U038AS2R6UV",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 936828,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F045K90LQP6\/img_1474.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F045K90LQP6\/download\/img_1474.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F045K90LQP6-0f0afb04fe\/img_1474_64.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F045K90LQP6-0f0afb04fe\/img_1474_80.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F045K90LQP6-0f0afb04fe\/img_1474_360.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F045K90LQP6-0f0afb04fe\/img_1474_480.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F045K90LQP6-0f0afb04fe\/img_1474_160.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F045K90LQP6-0f0afb04fe\/img_1474_720.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F045K90LQP6-0f0afb04fe\/img_1474_800.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F045K90LQP6-0f0afb04fe\/img_1474_960.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F045K90LQP6-0f0afb04fe\/img_1474_1024.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACRvlou3dKGYenSnfICNqBvyzTikL\/ckAPp1p6qgxllOOhzQBSY\/MxAwM1YssOJFIyDjtUhVJCpjCAgknd3qVUOPvAH2PFFxtW3HrGqjCggUu0eppu8JwzLn3NHnJ\/eX86QimiqHJH3iPWlfapBPrV5gACSBWY5aWQtjjtigaHTMhixGDnP6VAC2Mjd+eKsOgSLdjBI496q4LYLE47iiI5O7HA\/3zz7nNLlfUVbS2gKAguQfenfZYPV\/zqrk2GTXHnDapwp6n0qss5jXarAnPXFOI2g5NVtpLYVSfTilZBce0zOfmOaQHPWgxSKu5lYD1xTARTEWUuHRcK2BS\/apf79Vs0uaBn\/\/2Q==",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U038AS2R6UV\/F045K90LQP6\/img_1474.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F045K90LQP6-1c7fcb1373",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U038AS2R6UV",
+        "display_as_bot": false,
+        "ts": "1665085698.349689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ks5Sk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "crane capstone"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "37F8F562-99E8-4A0F-AED5-FB361E4E7F6B"
+    },
+    {
+        "client_msg_id": "A8838B46-BA80-414C-8E7D-8648DE5ACDD5",
+        "type": "message",
+        "text": "The capstone does not fit sizing requirements ",
+        "user": "U02ENRPMDCZ",
+        "ts": "1665085746.988989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wsD\/E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The capstone does not fit sizing requirements "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "17b66d5a2701",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-13\/2483249218853_17b66d5a270198b7755b_72.jpg",
+            "first_name": "Vincent",
+            "real_name": "Vincent Luc",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "samuraivincent10",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B6DCF056-967F-4D9F-BB46-108A4684862B",
+        "type": "message",
+        "text": "That cone is not scored as it didn’t go around his head",
+        "user": "U02ENRPMDCZ",
+        "ts": "1665085767.753669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4\/pn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That cone is not scored as it "
+                            },
+                            {
+                                "type": "text",
+                                "text": "didn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " go around his head"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "17b66d5a2701",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-13\/2483249218853_17b66d5a270198b7755b_72.jpg",
+            "first_name": "Vincent",
+            "real_name": "Vincent Luc",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "samuraivincent10",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5181607C-FDBE-45BA-8EF4-BCA4707B4DA3",
+        "type": "message",
+        "text": "We need to step up our game",
+        "user": "U02ENRPMDCZ",
+        "ts": "1665085800.458889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JZiR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We need to step up our game"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "17b66d5a2701",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-13\/2483249218853_17b66d5a270198b7755b_72.jpg",
+            "first_name": "Vincent",
+            "real_name": "Vincent Luc",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "samuraivincent10",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3dabeeb1-d6f1-4a61-b657-232982a251e1",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=nMPCXuvL8EM>",
+        "user": "U02DWDDVAP7",
+        "ts": "1665086481.901609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IsR9H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=nMPCXuvL8EM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=nMPCXuvL8EM",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/nMPCXuvL8EM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/nMPCXuvL8EM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Nintendo Direct: The Super Mario Bros. Movie\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=nMPCXuvL8EM",
+                "fallback": "YouTube Video: Nintendo Direct: The Super Mario Bros. Movie",
+                "title": "Nintendo Direct: The Super Mario Bros. Movie",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=nMPCXuvL8EM",
+                "author_name": "Nintendo of America",
+                "author_link": "https:\/\/www.youtube.com\/c\/nintendo",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "314ba602-e2be-45ce-a1e6-1ec7436fa1e6",
+        "type": "message",
+        "text": "Do the mario",
+        "user": "U02DWDDVAP7",
+        "ts": "1665086485.043999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BL2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do the mario"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

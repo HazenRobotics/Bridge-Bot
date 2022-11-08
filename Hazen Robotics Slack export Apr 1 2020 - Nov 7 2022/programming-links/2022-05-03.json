@@ -1,0 +1,124 @@
+[
+    {
+        "client_msg_id": "7efff661-ecd8-4675-9488-9db0f03171a4",
+        "type": "message",
+        "text": "<@U022WGTQ602>\nthis is really cool for default parameters in C++\ninstead of doing this in Java:\n```public void printTime( ) {\n\tprintTime( 12, 30 );\n}\npublic void printTime( int hour ) {\n\tprintTime( hour, 30);\n}\npublic void printTime( int hour, int min ) {\n    System.out.println( hour + \":\" + min );\n}```\nyou can do this in C++:\n```void printTime( int hour = 12, int min = 30 ) {\n\tcout &lt;&lt; hour &lt;&lt; \":\" &lt;&lt; min &lt;&lt; endl;\n}```\ncool right?",
+        "user": "U0118UR0J72",
+        "ts": "1651601151.794659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S==+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nthis is really cool for default parameters in C++\ninstead of doing this in Java:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "public void printTime( ) {\n\tprintTime( 12, 30 );\n}\npublic void printTime( int hour ) {\n\tprintTime( hour, 30);\n}\npublic void printTime( int hour, int min ) {\n    System.out.println( hour + \":\" + min );\n}"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nyou can do this in C++:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "void printTime( int hour = 12, int min = 30 ) {\n\tcout << hour << \":\" << min << endl;\n}"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool right?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1651073227.133469",
+        "parent_user_id": "U018WC9RM3K"
+    },
+    {
+        "client_msg_id": "faf41b4d-e63e-4b63-aec4-b49edb10b053",
+        "type": "message",
+        "text": "yep, same reason I love python functions, you can do the same thing, I was sad when I found out java doesn't have it",
+        "user": "U022WGTQ602",
+        "ts": "1651601333.261489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TLa4M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yep, same reason I love python functions, you can do the same thing, I was sad when I found out java doesn't have it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1651073227.133469",
+        "parent_user_id": "U018WC9RM3K"
+    }
+]

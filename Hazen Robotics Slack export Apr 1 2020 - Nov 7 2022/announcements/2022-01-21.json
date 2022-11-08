@@ -1,0 +1,91 @@
+[
+    {
+        "client_msg_id": "D6CA2488-32DA-47A6-836F-43B51B5B1E72",
+        "type": "message",
+        "text": "<https:\/\/www.westernalliedrobotics.com\/|https:\/\/www.westernalliedrobotics.com\/>",
+        "user": "U012BUXVC6B",
+        "ts": "1642790147.100800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4HB+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.westernalliedrobotics.com\/",
+                                "text": "https:\/\/www.westernalliedrobotics.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.westernalliedrobotics.com\/",
+                "id": 1,
+                "original_url": "https:\/\/www.westernalliedrobotics.com\/",
+                "fallback": "Home",
+                "text": "Pacific Northwest Robot Fighting Club",
+                "title": "Home",
+                "title_link": "https:\/\/www.westernalliedrobotics.com\/",
+                "service_name": "westernalliedrobotics.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "82EBA037-18E1-4537-9992-35B2388EA02B",
+        "type": "message",
+        "text": "They got an event on 4\/9",
+        "user": "U012BUXVC6B",
+        "ts": "1642790162.101200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aQxyl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They got an event on 4\/9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

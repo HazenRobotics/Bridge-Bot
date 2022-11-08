@@ -1,0 +1,140 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1651080797.730139",
+        "user": "U02DWDDVAP7",
+        "text": "<@U02DWDDVAP7> has joined the channel"
+    },
+    {
+        "client_msg_id": "9c165e4f-41a7-4f5f-8c8a-450885c45bbb",
+        "type": "message",
+        "text": "<@U01CZUZA4F3> turn <#C010YRE0N4R|random> stuff into robotics memes and then talk to leadership",
+        "user": "U02DWDDVAP7",
+        "ts": "1651080845.944599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zot",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01CZUZA4F3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " turn "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010YRE0N4R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " stuff into robotics memes and then talk to leadership"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "59b228c6-43c4-4c92-a078-ae96115f8041",
+        "type": "message",
+        "text": ":skull: so this is why you wanted me to check slack",
+        "user": "U01CZUZA4F3",
+        "ts": "1651081365.739169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=oX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "skull",
+                                "unicode": "1f480"
+                            },
+                            {
+                                "type": "text",
+                                "text": " so this is why you wanted me to check slack"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "2340daecb5c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-14\/1429586810659_2340daecb5c97157acec_72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Nguyen",
+            "display_name": "Derek Nguyen",
+            "team": "T010YRDV4KB",
+            "name": "derek.nguyen1028",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e27273ed-e939-47a0-9a31-364ed9aab2ba",
+        "type": "message",
+        "text": "yes",
+        "user": "U02DWDDVAP7",
+        "ts": "1651082347.258039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rlf7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

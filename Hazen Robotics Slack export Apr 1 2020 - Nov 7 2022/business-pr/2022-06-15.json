@@ -1,0 +1,50 @@
+[
+    {
+        "client_msg_id": "62540817-9a31-4fe8-82be-38d67fae6d9c",
+        "type": "message",
+        "text": "I LOVE ROBOTICS!!!",
+        "user": "U018QFHSHJS",
+        "ts": "1655276811.845309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "an\/w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I LOVE ROBOTICS!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "37dff344d6eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1314722996100_37dff344d6ebf1a57728_72.gif",
+            "first_name": "Preston",
+            "real_name": "Preston Lazaro",
+            "display_name": "Preston Lazaro",
+            "team": "T010YRDV4KB",
+            "name": "prestonlazaro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U022WGTQ602",
+                    "U02DWDDVAP7"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

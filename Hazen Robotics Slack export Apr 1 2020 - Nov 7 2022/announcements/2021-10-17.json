@@ -1,0 +1,459 @@
+[
+    {
+        "client_msg_id": "558EE90D-2545-41E8-BC8E-B08F6277FA91",
+        "type": "message",
+        "text": "40",
+        "user": "U012BUXVC6B",
+        "ts": "1634499933.270500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yl64",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "40"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F02HZ0N458V",
+                "created": 1634499954,
+                "timestamp": 1634499954,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U012BUXVC6B",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 628623,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02HZ0N458V\/image_from_ios.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02HZ0N458V\/download\/image_from_ios.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02HZ0N458V-1d183c3f51\/image_from_ios_64.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02HZ0N458V-1d183c3f51\/image_from_ios_80.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02HZ0N458V-1d183c3f51\/image_from_ios_360.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02HZ0N458V-1d183c3f51\/image_from_ios_480.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02HZ0N458V-1d183c3f51\/image_from_ios_160.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02HZ0N458V-1d183c3f51\/image_from_ios_720.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02HZ0N458V-1d183c3f51\/image_from_ios_800.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02HZ0N458V-1d183c3f51\/image_from_ios_960.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02HZ0N458V-1d183c3f51\/image_from_ios_1024.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACSwzbVyMficUqukpGxz8pzxSMBJGwHORxVa0UhyDUg3qXWIVSx6DnpQclflIB9xTN8cK7d2MDpnNOikEq5AI+vegdx9FNQEKAzbj3OMU6gZEHG5ueR1qrayAzt71afGNpOM8Cqy2zJKrKeM80EtO4t3bk5kTJPcU+zfMYTB479qmKgsGPUDFUvNMFyw6rnpTE9HctyLIzZWUoPTbmm+XL\/z8H\/vkVKrBlBByDS0FFGO7DYEqgEdGqyZAE3KN3sKzR05pRK0R+Q8+lAzTcblxuK+4qGa2Ej7s0yC8V+HG0\/pViJmKAvjd7UC3CJNiBRTsGmqirnaOpyaWkB\/\/9k=",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U012BUXVC6B\/F02HZ0N458V\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02HZ0N458V-a1cbae0751",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U012BUXVC6B",
+        "display_as_bot": false,
+        "ts": "1634499961.270800",
+        "client_msg_id": "E6571672-84C2-422C-9A3E-D2C3143A3144"
+    },
+    {
+        "client_msg_id": "0ea19985-cc2f-413d-a934-317a2cbf201c",
+        "type": "message",
+        "text": "nice",
+        "user": "U018B1TFE3Y",
+        "ts": "1634499994.271300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CJKNG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b36fe24b-0e6b-4f65-ac09-506da6a239c1",
+        "type": "message",
+        "text": "which school are they for?",
+        "user": "U022WGTQ602",
+        "ts": "1634500085.272000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XNR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "which school are they for?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "BBA2C48B-628B-43AD-ACAF-04A46BBBBFDE",
+        "type": "message",
+        "text": "Meadow crest early learning ",
+        "user": "U012BUXVC6B",
+        "ts": "1634500102.272400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y6F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Meadow crest early learning "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "298FD8DD-CC47-453F-8754-ECFA91A6CAB4",
+        "type": "message",
+        "text": "^this might be a good post opportunity too-and if we upload this 3D print design onto nih then we can include a link in our caption for other teams",
+        "user": "U010WTHDW5Q",
+        "ts": "1634500180.273500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6rHM3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^this might be a good post opportunity too-and if we upload this 3D print design onto nih then we can include a link in our caption for other teams"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "fa6090fe6c02",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2456400319351_fa6090fe6c023108503a_72.png",
+            "first_name": "Lydia",
+            "real_name": "Lydia Sorbo",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "lesorbo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6DAA5D8D-DB4F-42F5-A48B-0F9E0BEA6817",
+        "type": "message",
+        "text": "I think we should post it for sure - it’s not an original design though. I was sorta thinking we offer our ability to print em and also link to the finger guards",
+        "user": "U012BUXVC6B",
+        "ts": "1634500230.274700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hqz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think we should post it for sure - it’s not an original design though. I was sorta thinking we offer our ability to print em and also link to the finger guards"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010WTHDW5Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3ce1c292-6d14-4f75-ad8a-e35597c4f18a",
+        "type": "message",
+        "text": "So what's the current status with KingCon? Sorry, I've kinda been out of touch with that (I think a few others have as well), so if there's an update as to what we're doing and will be presenting etc. please let me know",
+        "user": "U018QFHSHJS",
+        "ts": "1634506225.275700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xRi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So what's the current status with KingCon? Sorry, I've kinda been out of touch with that (I think a few others have as well), so if there's an update as to what we're doing and will be presenting etc. please let me know"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "37dff344d6eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1314722996100_37dff344d6ebf1a57728_72.gif",
+            "first_name": "Preston",
+            "real_name": "Preston Lazaro",
+            "display_name": "Preston Lazaro",
+            "team": "T010YRDV4KB",
+            "name": "prestonlazaro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "91da1d31-ac4f-4796-a64b-6100c34f207b",
+        "type": "message",
+        "text": "<@U018QFHSHJS> I think a lot of those details still need to be solidified. I think this is something we can look at as a club on Monday or Wednesday. We will also need to submit a head count of students \/ families that plan to attend to present verse using the discount code for entrance.",
+        "user": "U018WC9RM3K",
+        "ts": "1634507437.277300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iGkwG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U018QFHSHJS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I think a lot of those details still need to be solidified. I think this is something we can look at as a club on Monday or Wednesday. We will also need to submit a head count of students \/ families that plan to attend to present verse using the discount code for entrance."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "C421F47E-B482-4B18-95FE-57C609017B70",
+        "type": "message",
+        "text": "Oh yes, absolutely. I’ll get a doc together ",
+        "user": "U012BUXVC6B",
+        "ts": "1634522784.277800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cYDj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh yes, absolutely. I’ll get a doc together "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e6cb451e-d882-490a-a627-1fdb14f8e5ad",
+        "type": "message",
+        "text": "Good idea. I'll try coming by tomorrow for a few minutes, though I am not sure if I can, I have work from 2:30 to 6:15. Though I'll try and if not I'll come by on Wednesday",
+        "user": "U018QFHSHJS",
+        "ts": "1634532246.278600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K=S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good idea. I'll try coming by tomorrow for a few minutes, though I am not sure if I can, I have work from 2:30 to 6:15. Though I'll try and if not I'll come by on Wednesday"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "37dff344d6eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1314722996100_37dff344d6ebf1a57728_72.gif",
+            "first_name": "Preston",
+            "real_name": "Preston Lazaro",
+            "display_name": "Preston Lazaro",
+            "team": "T010YRDV4KB",
+            "name": "prestonlazaro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

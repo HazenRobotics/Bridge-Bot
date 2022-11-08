@@ -1,0 +1,108 @@
+[
+    {
+        "client_msg_id": "54630d8d-0f84-43b2-8ee7-0a4775e0df48",
+        "type": "message",
+        "text": "I was gonna take today after school to see if everything's ready.",
+        "user": "U0118UR0J72",
+        "ts": "1663075752.724889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nT2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was gonna take today after school to see if everything's ready."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662989121.756859",
+        "parent_user_id": "U02DWDDVAP7"
+    },
+    {
+        "client_msg_id": "c745bfec-3d3c-48b2-b7a8-363455922145",
+        "type": "message",
+        "text": "Does anyone have a command idea for <@U0423AWF8JF>\nAlso <#C04290TN5L3|bridge-channel> for bridge stuff",
+        "user": "U02DWDDVAP7",
+        "ts": "1663105257.968879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wXs9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone have a command idea for "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0423AWF8JF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nAlso "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04290TN5L3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for bridge stuff"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02DWDDVAP7",
+            "ts": "1663105705.000000"
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663105480.370139",
+        "user": "U0423AWF8JF",
+        "text": "<@U0423AWF8JF> has joined the channel",
+        "inviter": "U02DWDDVAP7"
+    }
+]

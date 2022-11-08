@@ -1,0 +1,61 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1596908292.000200",
+        "user": "U018B1TFE3Y",
+        "text": "<@U018B1TFE3Y> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1596908328.000400",
+        "user": "U018WC9RM3K",
+        "text": "<@U018WC9RM3K> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1596909151.000600",
+        "user": "U018B209ELW",
+        "text": "<@U018B209ELW> has joined the channel"
+    },
+    {
+        "client_msg_id": "8a692dc1-e3be-4946-8722-037a209a356e",
+        "type": "message",
+        "text": "<https:\/\/rentonschools-my.sharepoint.com\/:f:\/r\/personal\/kpeck1_rentonschools_us\/Documents\/Clubs\/Robotics\/Robotics%202020-2021?csf=1&amp;web=1&amp;e=K6O1Zr>",
+        "user": "U012BUXVC6B",
+        "ts": "1596909496.000800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y4F3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/rentonschools-my.sharepoint.com\/:f:\/r\/personal\/kpeck1_rentonschools_us\/Documents\/Clubs\/Robotics\/Robotics%202020-2021?csf=1&web=1&e=K6O1Zr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

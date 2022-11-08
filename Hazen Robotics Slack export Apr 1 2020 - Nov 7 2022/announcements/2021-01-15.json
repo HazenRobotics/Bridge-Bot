@@ -1,0 +1,158 @@
+[
+    {
+        "client_msg_id": "4776d1ea-8655-40cb-9f1b-b285efb84605",
+        "type": "message",
+        "text": "I just had a conflict with today’s meeting come up. I am going to have to miss the meeting. Send me a message if there is anything you need from me.",
+        "user": "U01GV1PRQF9",
+        "ts": "1610744698.001900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=yxJ2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just had a conflict with today’s meeting come up. I am going to have to miss the meeting. Send me a message if there is anything you need from me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gb4c024f8b6c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b4c024f8b6cff6c475129bf5f0213f59.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "Dave Goldy",
+            "display_name": "Dave Goldy",
+            "team": "T010YRDV4KB",
+            "name": "davegoldy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "91C7322B-A970-45C4-BC6E-3FBE45F4774F",
+        "type": "message",
+        "text": "All good, will do",
+        "user": "U012BUXVC6B",
+        "ts": "1610751540.002200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xtp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "All good, will do"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "BE7DC673-ABA3-4BCB-ABC4-C8BA7BB601B0",
+        "type": "message",
+        "text": "<@U010WTHDW5Q> can you get a minutes file going?",
+        "user": "U012BUXVC6B",
+        "ts": "1610751554.002700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mv\/Qt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010WTHDW5Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you get a minutes file going?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "41584CE6-C32A-45C1-BC76-4017DAC750BC",
+        "type": "message",
+        "text": "Already did",
+        "user": "U010WTHDW5Q",
+        "ts": "1610751754.003100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qoT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Already did"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "fa6090fe6c02",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2456400319351_fa6090fe6c023108503a_72.png",
+            "first_name": "Lydia",
+            "real_name": "Lydia Sorbo",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "lesorbo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

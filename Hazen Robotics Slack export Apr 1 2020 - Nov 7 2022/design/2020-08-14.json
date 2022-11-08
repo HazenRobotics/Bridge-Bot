@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "eca00d0d-bfcc-4e46-b25e-8903fc91c15d",
+        "type": "message",
+        "text": "<https:\/\/www.autodesk.com\/shortcuts\/fusion-360>\nthis is a link to Fusion shortcuts they come in handy quite a bit",
+        "user": "U018B1TFE3Y",
+        "ts": "1597390317.001800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ua2E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.autodesk.com\/shortcuts\/fusion-360"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nthis is a link to Fusion shortcuts they come in handy quite a bit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Fusion 360 Keyboard Shortcuts, Hotkeys &amp; Commands Guide | Autodesk",
+                "title_link": "https:\/\/www.autodesk.com\/shortcuts\/fusion-360",
+                "text": "Learn Fusion 360 hotkeys and commands with the Shortcut Keyboard Guide to help you work faster and be more efficient while using Fusion 360 software.",
+                "fallback": "Fusion 360 Keyboard Shortcuts, Hotkeys &amp; Commands Guide | Autodesk",
+                "from_url": "https:\/\/www.autodesk.com\/shortcuts\/fusion-360",
+                "service_icon": "https:\/\/www.autodesk.com\/favicon.ico",
+                "service_name": "autodesk.com",
+                "id": 1,
+                "original_url": "https:\/\/www.autodesk.com\/shortcuts\/fusion-360"
+            }
+        ]
+    }
+]

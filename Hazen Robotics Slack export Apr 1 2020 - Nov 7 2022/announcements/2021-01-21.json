@@ -1,0 +1,97 @@
+[
+    {
+        "client_msg_id": "81ee2f51-0420-45be-acc1-4157bac455d3",
+        "type": "message",
+        "text": "<@U010YRDV4TT> <@U01CZUZA4F3> <@U01DB5V9C8Y>  <@U018QFHSHJS> you still need to accept invite to hazen team on <http:\/\/firstinspires.org|firstinspires.org> and\/or have parents fill out a release form. If you have questions on how to do that please ask <@U012BUXVC6B>",
+        "user": "U018WC9RM3K",
+        "ts": "1611259498.003300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sckbo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010YRDV4TT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01CZUZA4F3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01DB5V9C8Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U018QFHSHJS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you still need to accept invite to hazen team on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/firstinspires.org",
+                                "text": "firstinspires.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and\/or have parents fill out a release form. If you have questions on how to do that please ask "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012BUXVC6B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "flag-se",
+                "users": [
+                    "U012BUXVC6B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U012BUXVC6B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

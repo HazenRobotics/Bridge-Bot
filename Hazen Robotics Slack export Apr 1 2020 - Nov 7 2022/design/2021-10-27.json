@@ -1,0 +1,228 @@
+[
+    {
+        "client_msg_id": "eb896eec-c68a-45e7-8c19-d62915c1b687",
+        "type": "message",
+        "text": "<@U018B1TFE3Y> Had a chance to check the lift and bucket nonsense yet?",
+        "user": "U012BUXVC6B",
+        "ts": "1635398699.006100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I=F\/i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U018B1TFE3Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Had a chance to check the lift and bucket nonsense yet?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1635398699.006100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1635405114.008300",
+        "reply_users": [
+            "U018B1TFE3Y"
+        ],
+        "replies": [
+            {
+                "user": "U018B1TFE3Y",
+                "ts": "1635405114.008300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a03ed3f8-00be-4bce-99f9-1ee048b50632",
+        "type": "message",
+        "text": "also <@U0135LQT8TB> is there anything we need to add to the side panels for the funnel things",
+        "user": "U012BUXVC6B",
+        "ts": "1635398718.006600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YfCK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0135LQT8TB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is there anything we need to add to the side panels for the funnel things"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a5e7dd51-32b4-4d86-b764-fa453676eceb",
+        "type": "message",
+        "text": "or can it all be done after the fact",
+        "user": "U012BUXVC6B",
+        "ts": "1635398725.006900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mLC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or can it all be done after the fact"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1b68e6f9-62c8-4ada-887b-81d913221080",
+        "type": "message",
+        "text": "<@U02EA7L1KGT> <https:\/\/www.revrobotics.com\/rev-45-1900\/> Here's the rev lift kit we have a few of, it's great for things that only need to be lifted once. It's rigged like the cascading lift described in <https:\/\/gm0.org\/en\/latest\/docs\/robot-design\/linear-motion-guide\/rigging.html|game manual 0>",
+        "user": "U012BUXVC6B",
+        "ts": "1635399115.008000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uJXy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02EA7L1KGT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.revrobotics.com\/rev-45-1900\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Here's the rev lift kit we have a few of, it's great for things that only need to be lifted once. It's rigged like the cascading lift described in "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gm0.org\/en\/latest\/docs\/robot-design\/linear-motion-guide\/rigging.html",
+                                "text": "game manual 0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "REV Robotics",
+                "title": "15mm Extrusion Lift Kit",
+                "title_link": "https:\/\/www.revrobotics.com\/rev-45-1900\/",
+                "text": "REV Robotics designs, builds and manufactures robotics parts and components used by students for learning about science, technology, engineering, and math (STEM). Our parts are commonly used within the FIRST Robotics Competition and the FIRST Tech Challenge.",
+                "fallback": "REV Robotics: 15mm Extrusion Lift Kit",
+                "thumb_url": "https:\/\/cdn11.bigcommerce.com\/s-t3eo8vwp22\/products\/542\/images\/1680\/15mm_Extrusion_Lift_Kit_V5__50243.1618524253.500.500.png?c=2",
+                "from_url": "https:\/\/www.revrobotics.com\/rev-45-1900\/",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "id": 1,
+                "original_url": "https:\/\/www.revrobotics.com\/rev-45-1900\/"
+            },
+            {
+                "service_name": "Game Manual 0",
+                "title": "Rigging",
+                "title_link": "https:\/\/gm0.org\/en\/latest\/docs\/robot-design\/linear-motion-guide\/rigging.html",
+                "text": "Rigging refers to the way that string, belt, or chain is set up to extend and retract a linear extension. This is an important and time-consuming requirement for any team that uses linear extension...",
+                "fallback": "Game Manual 0: Rigging",
+                "image_url": "https:\/\/raw.githubusercontent.com\/gamemanual0\/gm0\/main\/source\/_static\/assets\/gm0-logo.png",
+                "from_url": "https:\/\/gm0.org\/en\/latest\/docs\/robot-design\/linear-motion-guide\/rigging.html",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 79899,
+                "service_icon": "https:\/\/gm0.org\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/gm0.org\/en\/latest\/docs\/robot-design\/linear-motion-guide\/rigging.html"
+            }
+        ]
+    }
+]

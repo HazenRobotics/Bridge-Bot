@@ -1,0 +1,61 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1596908292.000900",
+        "user": "U018B1TFE3Y",
+        "text": "<@U018B1TFE3Y> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1596908328.001100",
+        "user": "U018WC9RM3K",
+        "text": "<@U018WC9RM3K> has joined the channel"
+    },
+    {
+        "client_msg_id": "02f98773-05f5-49b0-acf2-92ff2aa1e050",
+        "type": "message",
+        "text": "<https:\/\/www.firstinspires.org\/sites\/default\/files\/uploads\/resource_library\/ftc\/game-manual-part-1-remote.pdf>",
+        "user": "U012BUXVC6B",
+        "ts": "1596908959.001300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rhus",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.firstinspires.org\/sites\/default\/files\/uploads\/resource_library\/ftc\/game-manual-part-1-remote.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1596909151.001500",
+        "user": "U018B209ELW",
+        "text": "<@U018B209ELW> has joined the channel"
+    }
+]

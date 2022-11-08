@@ -1,0 +1,392 @@
+[
+    {
+        "type": "message",
+        "text": "also i feel that context is necessary for anyone who is looking at this who isn’t sam lmao, look at #2 on this sheet, this was my brute force code solution for it, there was certainly a better way to do this but tbh i didn’t care since it worked",
+        "files": [
+            {
+                "id": "F03HNNKGU0Y",
+                "created": 1653493670,
+                "timestamp": 1653493670,
+                "name": "Problem Sheet - Unit 3.pdf",
+                "title": "Problem Sheet - Unit 3.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U022WGTQ602",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 126205,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F03HNNKGU0Y\/problem_sheet_-_unit_3.pdf?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F03HNNKGU0Y\/download\/problem_sheet_-_unit_3.pdf?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03HNNKGU0Y-785e45c5d3\/problem_sheet_-_unit_3_thumb_pdf.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U022WGTQ602\/F03HNNKGU0Y\/problem_sheet_-_unit_3.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F03HNNKGU0Y-5100c6a7cf",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U022WGTQ602",
+        "display_as_bot": false,
+        "ts": "1653493672.221059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H\/B\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also i feel that context is necessary for anyone who is looking at this who isn’t sam lmao, look at #2 on this sheet, this was my brute force code solution for it, there was certainly a better way to do this but tbh i didn’t care since it worked"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1653493705.000000"
+        },
+        "client_msg_id": "1c24d374-e0d8-41c8-95c9-324377732a18",
+        "thread_ts": "1653435205.106189",
+        "parent_user_id": "U0118UR0J72",
+        "subtype": "thread_broadcast",
+        "root": {
+            "client_msg_id": "da66fe27-3a4a-488b-9b0e-2cf1d172a23d",
+            "type": "message",
+            "text": "<@U022WGTQ602> why\n```for a in range(1,10):\n    for b in range(1,10):\n        if a != b and int(str(a) + str(b)) % 2 == 0:\n            ab = int(str(a) + str(b))\n            for c in range(1,10):\n                if a != c and b != c and int(str(ab) + str(c)) % 3 == 0:\n                    abc = int(str(ab) + str(c))\n                    for d in range(1,10):\n                        if a != d and b != d and c != d and int(str(abc) + str(d)) % 4 == 0:\n                            abcd = int(str(abc) + str(d))\n                            for e in range(1,10):\n                                if a != e and b != e and c != e and d != e and int(str(abcd) + str(e)) % 5 == 0:\n                                    abcde = int(str(abcd) + str(e))\n                                    for f in range(1,10):\n                                        if a != f and b != f and c != f and d != f and e != f and int(str(abcde) + str(f)) % 6 == 0:\n                                            abcdef = int(str(abcde) + str(f))\n                                            for g in range(1,10):\n                                                if a != g and b != g and c != g and d != g and e != g and f != g and int(str(abcdef) + str(g)) % 7 == 0:\n                                                    abcdefg = int(str(abcdef) + str(g))\n                                                    for h in range(1,10):\n                                                        if a != h and b != h and c != h and d != h and e != h and f != h and g != h and int(str(abcdefg) + str(h)) % 8 == 0:\n                                                            abcdefgh = int(str(abcdefg) + str(h))\n                                                            for i in range(1,10):\n                                                                if a != i and b != i and c != i and d != i and e != i and f != i and g != i and h != i and int(str(abcdefgh) + str(i)) % 9 == 0:\n                                                                    abcdefghi = int(str(abcdefgh) + str(i))\n                                                                    print(abcdefghi)```",
+            "user": "U0118UR0J72",
+            "ts": "1653435205.106189",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "upU",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U022WGTQ602"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " why\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_preformatted",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "for a in range(1,10):\n    for b in range(1,10):\n        if a != b and int(str(a) + str(b)) % 2 == 0:\n            ab = int(str(a) + str(b))\n            for c in range(1,10):\n                if a != c and b != c and int(str(ab) + str(c)) % 3 == 0:\n                    abc = int(str(ab) + str(c))\n                    for d in range(1,10):\n                        if a != d and b != d and c != d and int(str(abc) + str(d)) % 4 == 0:\n                            abcd = int(str(abc) + str(d))\n                            for e in range(1,10):\n                                if a != e and b != e and c != e and d != e and int(str(abcd) + str(e)) % 5 == 0:\n                                    abcde = int(str(abcd) + str(e))\n                                    for f in range(1,10):\n                                        if a != f and b != f and c != f and d != f and e != f and int(str(abcde) + str(f)) % 6 == 0:\n                                            abcdef = int(str(abcde) + str(f))\n                                            for g in range(1,10):\n                                                if a != g and b != g and c != g and d != g and e != g and f != g and int(str(abcdef) + str(g)) % 7 == 0:\n                                                    abcdefg = int(str(abcdef) + str(g))\n                                                    for h in range(1,10):\n                                                        if a != h and b != h and c != h and d != h and e != h and f != h and g != h and int(str(abcdefg) + str(h)) % 8 == 0:\n                                                            abcdefgh = int(str(abcdefg) + str(h))\n                                                            for i in range(1,10):\n                                                                if a != i and b != i and c != i and d != i and e != i and f != i and g != i and h != i and int(str(abcdefgh) + str(i)) % 9 == 0:\n                                                                    abcdefghi = int(str(abcdefgh) + str(i))\n                                                                    print(abcdefghi)"
+                                }
+                            ],
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "T010YRDV4KB",
+            "edited": {
+                "user": "U0118UR0J72",
+                "ts": "1653435235.000000"
+            },
+            "thread_ts": "1653435205.106189",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1653499113.633919",
+            "reply_users": [
+                "U022WGTQ602",
+                "U02DWDDVAP7"
+            ],
+            "replies": [
+                {
+                    "user": "U022WGTQ602",
+                    "ts": "1653493672.221059"
+                },
+                {
+                    "user": "U02DWDDVAP7",
+                    "ts": "1653499113.633919"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        }
+    },
+    {
+        "client_msg_id": "f8e09bcf-e423-4a01-8fc6-c1b5ab0b08d9",
+        "type": "message",
+        "text": "yea for the long if statements that are like if a != f, b != f,… etc. i could have just been adding numbers to a list and doing if !(f in [list of numbers already used])",
+        "user": "U022WGTQ602",
+        "ts": "1653493817.580399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yTuf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yea for the long if statements that are like if a != f, b != f,… etc. i could have just been adding numbers to a list and doing if !(f in [list of numbers already used])"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "So you were programing like me\nIf it works\n**IT WORKS**",
+        "user": "U02DWDDVAP7",
+        "ts": "1653499113.633919",
+        "thread_ts": "1653435205.106189",
+        "root": {
+            "client_msg_id": "da66fe27-3a4a-488b-9b0e-2cf1d172a23d",
+            "type": "message",
+            "text": "<@U022WGTQ602> why\n```for a in range(1,10):\n    for b in range(1,10):\n        if a != b and int(str(a) + str(b)) % 2 == 0:\n            ab = int(str(a) + str(b))\n            for c in range(1,10):\n                if a != c and b != c and int(str(ab) + str(c)) % 3 == 0:\n                    abc = int(str(ab) + str(c))\n                    for d in range(1,10):\n                        if a != d and b != d and c != d and int(str(abc) + str(d)) % 4 == 0:\n                            abcd = int(str(abc) + str(d))\n                            for e in range(1,10):\n                                if a != e and b != e and c != e and d != e and int(str(abcd) + str(e)) % 5 == 0:\n                                    abcde = int(str(abcd) + str(e))\n                                    for f in range(1,10):\n                                        if a != f and b != f and c != f and d != f and e != f and int(str(abcde) + str(f)) % 6 == 0:\n                                            abcdef = int(str(abcde) + str(f))\n                                            for g in range(1,10):\n                                                if a != g and b != g and c != g and d != g and e != g and f != g and int(str(abcdef) + str(g)) % 7 == 0:\n                                                    abcdefg = int(str(abcdef) + str(g))\n                                                    for h in range(1,10):\n                                                        if a != h and b != h and c != h and d != h and e != h and f != h and g != h and int(str(abcdefg) + str(h)) % 8 == 0:\n                                                            abcdefgh = int(str(abcdefg) + str(h))\n                                                            for i in range(1,10):\n                                                                if a != i and b != i and c != i and d != i and e != i and f != i and g != i and h != i and int(str(abcdefgh) + str(i)) % 9 == 0:\n                                                                    abcdefghi = int(str(abcdefgh) + str(i))\n                                                                    print(abcdefghi)```",
+            "user": "U0118UR0J72",
+            "ts": "1653435205.106189",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "upU",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U022WGTQ602"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " why\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_preformatted",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "for a in range(1,10):\n    for b in range(1,10):\n        if a != b and int(str(a) + str(b)) % 2 == 0:\n            ab = int(str(a) + str(b))\n            for c in range(1,10):\n                if a != c and b != c and int(str(ab) + str(c)) % 3 == 0:\n                    abc = int(str(ab) + str(c))\n                    for d in range(1,10):\n                        if a != d and b != d and c != d and int(str(abc) + str(d)) % 4 == 0:\n                            abcd = int(str(abc) + str(d))\n                            for e in range(1,10):\n                                if a != e and b != e and c != e and d != e and int(str(abcd) + str(e)) % 5 == 0:\n                                    abcde = int(str(abcd) + str(e))\n                                    for f in range(1,10):\n                                        if a != f and b != f and c != f and d != f and e != f and int(str(abcde) + str(f)) % 6 == 0:\n                                            abcdef = int(str(abcde) + str(f))\n                                            for g in range(1,10):\n                                                if a != g and b != g and c != g and d != g and e != g and f != g and int(str(abcdef) + str(g)) % 7 == 0:\n                                                    abcdefg = int(str(abcdef) + str(g))\n                                                    for h in range(1,10):\n                                                        if a != h and b != h and c != h and d != h and e != h and f != h and g != h and int(str(abcdefg) + str(h)) % 8 == 0:\n                                                            abcdefgh = int(str(abcdefg) + str(h))\n                                                            for i in range(1,10):\n                                                                if a != i and b != i and c != i and d != i and e != i and f != i and g != i and h != i and int(str(abcdefgh) + str(i)) % 9 == 0:\n                                                                    abcdefghi = int(str(abcdefgh) + str(i))\n                                                                    print(abcdefghi)"
+                                }
+                            ],
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "T010YRDV4KB",
+            "edited": {
+                "user": "U0118UR0J72",
+                "ts": "1653435235.000000"
+            },
+            "thread_ts": "1653435205.106189",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1653499113.633919",
+            "reply_users": [
+                "U022WGTQ602",
+                "U02DWDDVAP7"
+            ],
+            "replies": [
+                {
+                    "user": "U022WGTQ602",
+                    "ts": "1653493672.221059"
+                },
+                {
+                    "user": "U02DWDDVAP7",
+                    "ts": "1653499113.633919"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "caSq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So you were programing like me\nIf it works\n*"
+                            },
+                            {
+                                "type": "text",
+                                "text": "IT WORKS",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "*"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "155b2c05-1e58-42fd-a45a-18714f1a8609"
+    },
+    {
+        "client_msg_id": "155fecc7-7798-4230-b660-12871d93903f",
+        "type": "message",
+        "text": "main difference is this was coded together in 5 minutes with no expectation of maintaining it, whereas your code is being added to and changed over time",
+        "user": "U022WGTQ602",
+        "ts": "1653499212.777109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Eg+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "main difference is this was coded together in 5 minutes with no expectation of maintaining it, whereas your code is being added to and changed over time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1653500381.000000"
+        }
+    },
+    {
+        "client_msg_id": "a50eb3f5-fdf7-4eef-8a83-266a5761af1a",
+        "type": "message",
+        "text": "<@U0118UR0J72> any clue why all dpad inputs (up\/down\/left\/right) control the lift when up and down are supposed to control the bucket? using gp1",
+        "user": "U022WGTQ602",
+        "ts": "1653516630.487979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EXMh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0118UR0J72"
+                            },
+                            {
+                                "type": "text",
+                                "text": " any clue why all dpad inputs (up\/down\/left\/right) control the lift when up and down are supposed to control the bucket? using gp1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8f6ee66c-727e-4a39-833a-5b922b4e0496",
+        "type": "message",
+        "text": "Idk, one of the controllers did the same thing when using the dead or the joystick",
+        "user": "U0118UR0J72",
+        "ts": "1653516758.877709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bfla",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Idk, one of the controllers did the same thing when using the dead or the joystick"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

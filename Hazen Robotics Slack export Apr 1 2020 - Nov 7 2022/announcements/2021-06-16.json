@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "8FE0BE8A-25CC-4BB4-9FDD-FC7A034FBF1E",
+        "type": "message",
+        "text": "<!everyone> meeting again at 2:15 in the shop! Probably gonna be our last in-person meeting for the year, so it’ll be chill. ",
+        "user": "U012BUXVC6B",
+        "ts": "1623868975.107100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U56",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " meeting again at 2:15 in the shop! Probably gonna be our last in-person meeting for the year, so it’ll be chill. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7a894746-3636-40ef-b1d9-0a63561e4818",
+        "type": "message",
+        "text": "Btw I can make it for an hour today",
+        "user": "U0118UR0J72",
+        "ts": "1623876617.107500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4\/x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Btw I can make it for an hour today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

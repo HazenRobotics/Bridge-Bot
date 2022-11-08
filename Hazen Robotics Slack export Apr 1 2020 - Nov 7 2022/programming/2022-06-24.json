@@ -1,0 +1,280 @@
+[
+    {
+        "client_msg_id": "c77f2a21-6cf2-4782-b2e1-4468a22f424c",
+        "type": "message",
+        "text": "Lets say that we have:\nSuperclass\"\nClass\nmethod1\nmethod2\n\nIf method1 calls method2. and method2 has @Override in Class and Class calls method1\nWhich version of method 2 is called the Class or the Super class version",
+        "user": "U02DWDDVAP7",
+        "ts": "1656121324.498679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "esjX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lets say that we have:\nSuperclass\"\nClass\nmethod1\nmethod2\n\nIf method1 calls method2. and method2 has @Override in Class and Class calls method1\nWhich version of method 2 is called the Class or the Super class version"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c2e7ab61-fb8b-4c3b-be43-2464d0f997a9",
+        "type": "message",
+        "text": "can you elaborate? do both classes have 2 same-named methods? or does the child class only have method1?",
+        "user": "U022WGTQ602",
+        "ts": "1656121726.461309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7GHP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "can you elaborate? do both classes have 2 same-named methods? or does the child class only have method1?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1656121737.000000"
+        }
+    },
+    {
+        "client_msg_id": "3d1fb88e-4f64-4a97-83c2-9a5d7173c51e",
+        "type": "message",
+        "text": "<@U022WGTQ602>\nyes its uses @Override\nNot method2",
+        "user": "U02DWDDVAP7",
+        "ts": "1656122122.901599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C9W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nyes its uses @Override\nNot method2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3a06a3a8-0609-4b2e-80b6-f3a071c3d1d2",
+        "type": "message",
+        "text": "fyi @Override doesn't actually do anything, it just helps when debugging so that you don't make a dumb mistake",
+        "user": "U022WGTQ602",
+        "ts": "1656122179.900589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OTeA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "fyi @Override doesn't actually do anything, it just helps when debugging so that you don't make a dumb mistake"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9dcb2c4d-6d7c-4887-90b4-754133c6f648",
+        "type": "message",
+        "text": "oh",
+        "user": "U02DWDDVAP7",
+        "ts": "1656122204.520769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y1BBV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5b1edc77-6963-4067-aa7a-974fb6264f97",
+        "type": "message",
+        "text": "so making 2 same-named methods in Class would just overwrite the ones you made in SuperClass, regardless of if you used @Override or not",
+        "user": "U022WGTQ602",
+        "ts": "1656122244.563629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lmmK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so making 2 same-named methods in Class would just overwrite the ones you made in SuperClass, regardless of if you used @Override or not"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "55a69891-7a08-4fd7-8801-7125fb66dc58",
+        "type": "message",
+        "text": "So if battle in child calls attack. and attack calls save. Super and child have save. So you are saying attacks save will be superclass's",
+        "user": "U02DWDDVAP7",
+        "ts": "1656122432.658289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gAu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So if battle in child calls attack. and attack calls save. Super and child have save. So you are saying attacks save will be superclass's"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02DWDDVAP7",
+            "ts": "1656122513.000000"
+        }
+    }
+]

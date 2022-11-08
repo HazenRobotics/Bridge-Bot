@@ -1,0 +1,953 @@
+[
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "Done mass archiving",
+        "user": "U0423AWF8JF",
+        "ts": "1667677274.917879",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kg+Ow",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Done mass archiving"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "client_msg_id": "d13ba221-94bd-411a-8b76-a75cfd1acfa0",
+        "type": "message",
+        "text": "<@U022WGTQ602> what time are the mcknight kids supposed to be at mcknight tomorrow?",
+        "user": "U02535ABH2A",
+        "ts": "1667704972.691939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j=0T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " what time are the mcknight kids supposed to be at mcknight tomorrow?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02535ABH2A",
+            "ts": "1667704982.000000"
+        },
+        "thread_ts": "1667704972.691939",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1667706030.784159",
+        "reply_users": [
+            "U022WGTQ602"
+        ],
+        "replies": [
+            {
+                "user": "U022WGTQ602",
+                "ts": "1667706030.784159"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1E93CE17-9AF4-4561-9E7F-362C425C1EE8",
+        "type": "message",
+        "text": "Also sorry for it being late but where’s the permission slip we gotta get signed? I signed up on first already",
+        "user": "U038SBX0FJM",
+        "ts": "1667705031.548799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ziqU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also sorry for it being late but where’s the permission slip we gotta get signed? I signed up on first already"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "388e8c9e68d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3282906370181_388e8c9e68d4853f6e10_72.jpg",
+            "first_name": "Peter",
+            "real_name": "Peter Koenig",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "absolutebesttrombone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U038SBX0FJM",
+            "ts": "1667705041.000000"
+        }
+    },
+    {
+        "client_msg_id": "65286682-4B92-47D3-B75C-1F9F7D2BFD6D",
+        "type": "message",
+        "text": "And are we meeting at hazen at 7 or mount si at 7?",
+        "user": "U038SBX0FJM",
+        "ts": "1667705064.000739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jki",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And are we meeting at hazen at 7 or mount si at 7?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "388e8c9e68d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3282906370181_388e8c9e68d4853f6e10_72.jpg",
+            "first_name": "Peter",
+            "real_name": "Peter Koenig",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "absolutebesttrombone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "aa2dbd54-a89f-48a9-b36c-d92784583856",
+        "type": "message",
+        "text": "the permission slip's in <#C010YRE0E6M|announcements>, specifically in the google form",
+        "user": "U02535ABH2A",
+        "ts": "1667705192.188589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l1xyy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the permission slip's in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C010YRE0E6M"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", specifically in the google form"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02535ABH2A",
+            "ts": "1667705208.000000"
+        }
+    },
+    {
+        "client_msg_id": "596AD433-20F1-441F-91D2-037608110F65",
+        "type": "message",
+        "text": "Lol I didn’t see it at the top",
+        "user": "U038SBX0FJM",
+        "ts": "1667705256.822229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JCJ7N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lol I didn’t see it at the top"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "388e8c9e68d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3282906370181_388e8c9e68d4853f6e10_72.jpg",
+            "first_name": "Peter",
+            "real_name": "Peter Koenig",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "absolutebesttrombone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3C703E55-88F6-4227-81D5-C8984B0DC75F",
+        "type": "message",
+        "text": "I’m dumb",
+        "user": "U038SBX0FJM",
+        "ts": "1667705260.013189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2PFPX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m dumb"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "388e8c9e68d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3282906370181_388e8c9e68d4853f6e10_72.jpg",
+            "first_name": "Peter",
+            "real_name": "Peter Koenig",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "absolutebesttrombone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "CB2255E3-E663-4E8F-B1FF-FC81ABE5F0BE",
+        "type": "message",
+        "text": "Does comp finish at 4 and then we’d head back to hazen by then?",
+        "user": "U038SBX0FJM",
+        "ts": "1667705871.697509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EXI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does comp finish at 4 and then we’d head back to hazen by then?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "388e8c9e68d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3282906370181_388e8c9e68d4853f6e10_72.jpg",
+            "first_name": "Peter",
+            "real_name": "Peter Koenig",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "absolutebesttrombone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667705871.697509",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1667706059.896349",
+        "reply_users": [
+            "U022WGTQ602"
+        ],
+        "replies": [
+            {
+                "user": "U022WGTQ602",
+                "ts": "1667706059.896349"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "7:30-45",
+        "user": "U022WGTQ602",
+        "ts": "1667706030.784159",
+        "thread_ts": "1667704972.691939",
+        "root": {
+            "client_msg_id": "d13ba221-94bd-411a-8b76-a75cfd1acfa0",
+            "type": "message",
+            "text": "<@U022WGTQ602> what time are the mcknight kids supposed to be at mcknight tomorrow?",
+            "user": "U02535ABH2A",
+            "ts": "1667704972.691939",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "j=0T",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U022WGTQ602"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " what time are the mcknight kids supposed to be at mcknight tomorrow?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T010YRDV4KB",
+            "edited": {
+                "user": "U02535ABH2A",
+                "ts": "1667704982.000000"
+            },
+            "thread_ts": "1667704972.691939",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1667706030.784159",
+            "reply_users": [
+                "U022WGTQ602"
+            ],
+            "replies": [
+                {
+                    "user": "U022WGTQ602",
+                    "ts": "1667706030.784159"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iNX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "7:30-45"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "ec2ce41c-5df7-46ec-9f41-de63dd4207dc"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "supposed to end at 4, actually will end at 6 or later",
+        "user": "U022WGTQ602",
+        "ts": "1667706059.896349",
+        "thread_ts": "1667705871.697509",
+        "root": {
+            "client_msg_id": "CB2255E3-E663-4E8F-B1FF-FC81ABE5F0BE",
+            "type": "message",
+            "text": "Does comp finish at 4 and then we’d head back to hazen by then?",
+            "user": "U038SBX0FJM",
+            "ts": "1667705871.697509",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "EXI",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Does comp finish at 4 and then we’d head back to hazen by then?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T010YRDV4KB",
+            "thread_ts": "1667705871.697509",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1667706059.896349",
+            "reply_users": [
+                "U022WGTQ602"
+            ],
+            "replies": [
+                {
+                    "user": "U022WGTQ602",
+                    "ts": "1667706059.896349"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UR8Dv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "supposed to end at 4, actually will end at 6 or later"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2b89a1d2-7467-40ac-8db5-86923f525a5f"
+    },
+    {
+        "client_msg_id": "D1FEF2DD-0BE6-47D4-999C-74B402DBB59A",
+        "type": "message",
+        "text": "K, if I needed to leave early, one of my parents could pick me up, what would be the procedure for that?",
+        "user": "U038SBX0FJM",
+        "ts": "1667706093.445589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SiCn\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "K, if I needed to leave early, one of my parents could pick me up, what would be the procedure for that?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "388e8c9e68d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3282906370181_388e8c9e68d4853f6e10_72.jpg",
+            "first_name": "Peter",
+            "real_name": "Peter Koenig",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "absolutebesttrombone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4633da8d-fa17-4e06-a6a3-6ac1c196dd07",
+        "type": "message",
+        "text": "you would just have to let peck know, assuming it is your parents, not you driving yourself",
+        "user": "U022WGTQ602",
+        "ts": "1667706226.166069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zmwm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you would just have to let peck know, assuming it is your parents, not you driving yourself"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3E0F7B5B-494E-45CB-9D5B-2BCC7E8BF826",
+        "type": "message",
+        "text": "Aight",
+        "user": "U038SBX0FJM",
+        "ts": "1667706310.775149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MSr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aight"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "388e8c9e68d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3282906370181_388e8c9e68d4853f6e10_72.jpg",
+            "first_name": "Peter",
+            "real_name": "Peter Koenig",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "absolutebesttrombone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E39B47A9-090A-4BAC-A4C7-C323CD4FC8E8",
+        "type": "message",
+        "text": "Should I at him and let him know rn? Or just wait till tomorrow",
+        "user": "U038SBX0FJM",
+        "ts": "1667706340.437339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0gdIK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Should I at him and let him know rn? Or just wait till tomorrow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "388e8c9e68d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3282906370181_388e8c9e68d4853f6e10_72.jpg",
+            "first_name": "Peter",
+            "real_name": "Peter Koenig",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "absolutebesttrombone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ebcaea42-3eb1-4b0e-8612-f892e3acf2f8",
+        "type": "message",
+        "text": "I'd tell him now",
+        "user": "U0118UR0J72",
+        "ts": "1667706945.856419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uG1Fy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd tell him now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7fa711f2-fe2d-47f3-a835-d97319c0681b",
+        "type": "message",
+        "text": "I already asked him lmao",
+        "user": "U022WGTQ602",
+        "ts": "1667706961.037629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7m+cN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I already asked him lmao"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8a396242-ab32-41ea-81ed-d253c67acfc2",
+        "type": "message",
+        "text": "mentioned you by name so he might know, still probably a good idea to talk to him",
+        "user": "U022WGTQ602",
+        "ts": "1667706980.484889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hFRR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mentioned you by name so he might know, still probably a good idea to talk to him"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "53615E1A-8597-4B49-90E7-A9F7758D120B",
+        "type": "message",
+        "text": "<@U018WC9RM3K> what’s the procedure for if I need to leave early?(my parents would pick me up)",
+        "user": "U038SBX0FJM",
+        "ts": "1667707064.618549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8JoO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U018WC9RM3K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " what’s the procedure for if I need to leave early?(my parents would pick me up)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "388e8c9e68d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3282906370181_388e8c9e68d4853f6e10_72.jpg",
+            "first_name": "Peter",
+            "real_name": "Peter Koenig",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "absolutebesttrombone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667707064.618549",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1667714646.386639",
+        "reply_users": [
+            "U018WC9RM3K",
+            "U038SBX0FJM"
+        ],
+        "replies": [
+            {
+                "user": "U018WC9RM3K",
+                "ts": "1667708337.228399"
+            },
+            {
+                "user": "U038SBX0FJM",
+                "ts": "1667708390.478889"
+            },
+            {
+                "user": "U018WC9RM3K",
+                "ts": "1667714646.386639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7be33664-94d6-427e-beec-8818fc39f47f",
+        "type": "message",
+        "text": "1) let Mr. Peck know you are leaving\n2) parents can pick you up\nNote: driving self needs extra form\nNote: driving other needs extra form",
+        "user": "U018WC9RM3K",
+        "ts": "1667708337.228399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MQt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1) let Mr. Peck know you are leaving\n2) parents can pick you up\nNote: driving self needs extra form\nNote: driving other needs extra form"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667707064.618549",
+        "parent_user_id": "U038SBX0FJM"
+    },
+    {
+        "client_msg_id": "3D4B1B2B-6DD4-462C-88F4-DBB522D2DCF9",
+        "type": "message",
+        "text": "Ok thanks",
+        "user": "U038SBX0FJM",
+        "ts": "1667708390.478889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rVt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "388e8c9e68d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3282906370181_388e8c9e68d4853f6e10_72.jpg",
+            "first_name": "Peter",
+            "real_name": "Peter Koenig",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "absolutebesttrombone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667707064.618549",
+        "parent_user_id": "U038SBX0FJM"
+    },
+    {
+        "client_msg_id": "ad8db2b3-1138-4472-9f58-85e1aa0c0e20",
+        "type": "message",
+        "text": "You still need parental consent form on first",
+        "user": "U018WC9RM3K",
+        "ts": "1667714646.386639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ce02",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You still need parental consent form on first"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667707064.618549",
+        "parent_user_id": "U038SBX0FJM"
+    }
+]

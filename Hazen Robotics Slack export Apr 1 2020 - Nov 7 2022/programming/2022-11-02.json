@@ -1,0 +1,144 @@
+[
+    {
+        "client_msg_id": "b2ccdefa-e5ae-4550-85d4-a963cc9afc94",
+        "type": "message",
+        "text": "<@U02DWDDVAP7> where did you make the comment with the controls?",
+        "user": "U0118UR0J72",
+        "ts": "1667416220.933399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9a3J2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02DWDDVAP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " where did you make the comment with the controls?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667416220.933399",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1667423322.021659",
+        "reply_users": [
+            "U02DWDDVAP7",
+            "U0118UR0J72"
+        ],
+        "replies": [
+            {
+                "user": "U02DWDDVAP7",
+                "ts": "1667418198.955029"
+            },
+            {
+                "user": "U0118UR0J72",
+                "ts": "1667423322.021659"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c0802e49-e590-4602-ba1b-2d63bd2a3948",
+        "type": "message",
+        "text": "They are built into the telemetry",
+        "user": "U02DWDDVAP7",
+        "ts": "1667418198.955029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xoDr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They are built into the telemetry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667416220.933399",
+        "parent_user_id": "U0118UR0J72"
+    },
+    {
+        "client_msg_id": "3eb6615d-6c5c-43b7-8933-37257763ccc9",
+        "type": "message",
+        "text": "Oh ok thx",
+        "user": "U0118UR0J72",
+        "ts": "1667423322.021659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uIa8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh ok thx"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667416220.933399",
+        "parent_user_id": "U0118UR0J72"
+    }
+]

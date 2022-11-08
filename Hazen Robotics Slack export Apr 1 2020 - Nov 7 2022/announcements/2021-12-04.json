@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "0d9bf7db-53ee-4360-923a-e7771eeacd89",
+        "type": "message",
+        "text": "some pretty interesting designs in this match <https:\/\/www.youtube.com\/watch?v=_m9wx2PuNl4&amp;t=12s>",
+        "user": "U022WGTQ602",
+        "ts": "1638664964.391700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xrS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "some pretty interesting designs in this match "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=_m9wx2PuNl4&t=12s"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=_m9wx2PuNl4&amp;t=12s",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "MI Coloma FTC Qualifier Finals Match 2 (290)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=_m9wx2PuNl4&amp;t=12s",
+                "author_name": "FTC 12611 TechNova",
+                "author_link": "https:\/\/www.youtube.com\/c\/FTC12611TechNova",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/_m9wx2PuNl4?feature=oembed&start=12&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "fallback": "YouTube Video: MI Coloma FTC Qualifier Finals Match 2 (290)",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/_m9wx2PuNl4\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=_m9wx2PuNl4&amp;t=12s"
+            }
+        ]
+    }
+]

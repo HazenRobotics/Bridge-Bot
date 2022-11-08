@@ -1,0 +1,186 @@
+[
+    {
+        "client_msg_id": "da4c4c21-7bef-49bb-8f72-221d8f5e269f",
+        "type": "message",
+        "text": "Meeting today y'all",
+        "user": "U012BUXVC6B",
+        "ts": "1605736934.238400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gyWL\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Meeting today y'all"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01BMGWR39S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "87dff080-d16c-4cb2-aa7b-6034529c47ee",
+        "type": "message",
+        "text": "Will be there",
+        "user": "U018QFHSHJS",
+        "ts": "1605738859.238700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qe\/J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will be there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "37dff344d6eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1314722996100_37dff344d6ebf1a57728_72.gif",
+            "first_name": "Preston",
+            "real_name": "Preston Lazaro",
+            "display_name": "Preston Lazaro",
+            "team": "T010YRDV4KB",
+            "name": "prestonlazaro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U012BUXVC6B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3CCC2BD6-397F-48C2-A08A-6C263D8DB7A1",
+        "type": "message",
+        "text": "<!everyone>, Anyone who isn’t working on anything or has some free time this weekend look into an award we could try to work towards. Figure out what the requirements are and come up with a plan on how we can accomplish them to present on Friday. I’m pretty sure they’re all listed in game manual part one  ",
+        "user": "U012BUXVC6B",
+        "ts": "1605744449.241200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y04l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Anyone who isn’t working on anything or has some free time this weekend look into an award we could try to work towards. Figure out what the requirements are and come up with a plan on how we can accomplish them to present on Friday. I’m pretty sure they’re all listed in game manual part one  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U012BUXVC6B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B4229D08-E00E-42C0-9426-7B35669C1284",
+        "type": "message",
+        "text": "<https:\/\/www.firstinspires.org\/sites\/default\/files\/uploads\/resource_library\/ftc\/game-manual-part-1-remote.pdf|https:\/\/www.firstinspires.org\/sites\/default\/files\/uploads\/resource_library\/ftc\/game-manual-part-1-remote.pdf>",
+        "user": "U012BUXVC6B",
+        "ts": "1605744452.241400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hYqb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.firstinspires.org\/sites\/default\/files\/uploads\/resource_library\/ftc\/game-manual-part-1-remote.pdf",
+                                "text": "https:\/\/www.firstinspires.org\/sites\/default\/files\/uploads\/resource_library\/ftc\/game-manual-part-1-remote.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

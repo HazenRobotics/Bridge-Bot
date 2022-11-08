@@ -1,0 +1,235 @@
+[
+    {
+        "type": "message",
+        "text": "Lets do the mario",
+        "files": [
+            {
+                "id": "F044WG4PDRQ",
+                "created": 1664809640,
+                "timestamp": 1664809640,
+                "name": "MarioSnes.jar",
+                "title": "MarioSnes.jar",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U02DWDDVAP7",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 3047311,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F044WG4PDRQ\/mariosnes.jar?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F044WG4PDRQ\/download\/mariosnes.jar?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U02DWDDVAP7\/F044WG4PDRQ\/mariosnes.jar",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F044WG4PDRQ-4f3b833823",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02DWDDVAP7",
+        "display_as_bot": false,
+        "ts": "1664809702.508329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Lrgz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lets do the mario"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "dad9e73c-3c86-444c-84b4-2dea719048d1"
+    },
+    {
+        "client_msg_id": "8fe9c0c2-6a38-4c8d-a6f9-3e40f0622a27",
+        "type": "message",
+        "text": "yooooo, nice, only change is that when you have the star you forgot to switch up the textures so he switches from red to blue lmao",
+        "user": "U022WGTQ602",
+        "ts": "1664809895.617059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oeF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yooooo, nice, only change is that when you have the star you forgot to switch up the textures so he switches from red to blue lmao"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664809895.617059",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1664810564.261589",
+        "reply_users": [
+            "U02DWDDVAP7",
+            "U022WGTQ602"
+        ],
+        "replies": [
+            {
+                "user": "U02DWDDVAP7",
+                "ts": "1664810550.530909"
+            },
+            {
+                "user": "U022WGTQ602",
+                "ts": "1664810564.261589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "875b35d7-4df3-4ebc-a4e0-9970a24d87ec",
+        "type": "message",
+        "text": "Changes made to Mario: C\nhanged most sprites\n When you get 20 coins you grow\nMovement changes\nNo dead mario animation just respawn",
+        "user": "U02DWDDVAP7",
+        "ts": "1664810046.688999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qr+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Changes made to Mario: C\nhanged most sprites\n When you get 20 coins you grow\nMovement changes\nNo dead mario animation just respawn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b0346739-3caa-46c7-96ef-1012fe0f8daf",
+        "type": "message",
+        "text": "I looked and there is 3 different colored marios",
+        "user": "U02DWDDVAP7",
+        "ts": "1664810550.530909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aqQP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I looked and there is 3 different colored marios"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664809895.617059",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "5205662b-33a2-4c5b-99cf-19f0b81266aa",
+        "type": "message",
+        "text": "fun",
+        "user": "U022WGTQ602",
+        "ts": "1664810564.261589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qqhp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "fun"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664809895.617059",
+        "parent_user_id": "U022WGTQ602"
+    }
+]

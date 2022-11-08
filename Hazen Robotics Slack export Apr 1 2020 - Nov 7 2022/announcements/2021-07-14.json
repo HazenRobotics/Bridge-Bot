@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "510d7cdf-53e8-4e8f-b654-4c53c7a2e895",
+        "type": "message",
+        "text": "I believe it is 10 -12",
+        "user": "U018WC9RM3K",
+        "ts": "1626279738.026500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v06u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I believe it is 10 -12"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

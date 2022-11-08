@@ -1,0 +1,526 @@
+[
+    {
+        "client_msg_id": "de89a5a2-a458-4663-9069-7918d835d16e",
+        "type": "message",
+        "text": "I might not be there till late or at all. Working on band stuff for the game Friday.",
+        "user": "U0118UR0J72",
+        "ts": "1634591094.193300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vc\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I might not be there till late or at all. Working on band stuff for the game Friday."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b13a5c2c-6d25-4e70-8f4f-1c538dd16994",
+        "type": "message",
+        "text": "has anyone seen this error message? I keep getting it when I try to upload code to the KC robot, I clicked ok and it reset the control hub wifi name and password so I had to go change that but afterwards it didn't fix anything, everything on the control hub is up to date so I don't know why it isn't working",
+        "user": "U022WGTQ602",
+        "ts": "1634597786.195200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RgKy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "has anyone seen this error message? I keep getting it when I try to upload code to the KC robot, I clicked ok and it reset the control hub wifi name and password so I had to go change that but afterwards it didn't fix anything, everything on the control hub is up to date so I don't know why it isn't working"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F02JKJQ6HGR",
+                "created": 1634597790,
+                "timestamp": 1634597790,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U022WGTQ602",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 255180,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02JKJQ6HGR\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02JKJQ6HGR\/download\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02JKJQ6HGR-08e53d81b6\/image_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02JKJQ6HGR-08e53d81b6\/image_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02JKJQ6HGR-08e53d81b6\/image_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 193,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02JKJQ6HGR-08e53d81b6\/image_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 257,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02JKJQ6HGR-08e53d81b6\/image_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02JKJQ6HGR-08e53d81b6\/image_720.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 720,
+                "thumb_720_h": 386,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02JKJQ6HGR-08e53d81b6\/image_800.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 429,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02JKJQ6HGR-08e53d81b6\/image_960.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 960,
+                "thumb_960_h": 515,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02JKJQ6HGR-08e53d81b6\/image_1024.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 549,
+                "original_w": 1920,
+                "original_h": 1029,
+                "thumb_tiny": "AwAZADCt2pM0vakoAQMfajP0pRikIGOKAE3GlDHNNpR1oAdRTqKAIxRzUtNNADMUYOafSigD\/9k=",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U022WGTQ602\/F02JKJQ6HGR\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02JKJQ6HGR-913293ec73",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U022WGTQ602",
+        "display_as_bot": false,
+        "ts": "1634597793.195300",
+        "client_msg_id": "5355956f-c6b8-42db-ad89-5197dea16fb3"
+    },
+    {
+        "client_msg_id": "dba796d5-e0f0-4887-81ee-a47768a4f904",
+        "type": "message",
+        "text": "this is the error message I get when I click cancel",
+        "user": "U022WGTQ602",
+        "ts": "1634597900.195800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JkX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is the error message I get when I click cancel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "05a233b3-885c-47d2-a471-13e9e20c20ef",
+        "type": "message",
+        "text": "Installation did not succeed.\nThe application could not be installed: INSTALL_FAILED_VERSION_DOWNGRADE\n\nList of apks:\n[0] 'C:\\Users\\hazen\\StudioProjects\\tile-runner\\TeamCode\\build\\outputs\\apk\\debug\\TeamCode-debug.apk'\nThe device already has a newer version of this application.",
+        "user": "U022WGTQ602",
+        "ts": "1634597902.196000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IIOw4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Installation did not succeed.\nThe application could not be installed: INSTALL_FAILED_VERSION_DOWNGRADE\n\nList of apks:\n[0] 'C:\\Users\\hazen\\StudioProjects\\tile-runner\\TeamCode\\build\\outputs\\apk\\debug\\TeamCode-debug.apk'\nThe device already has a newer version of this application."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e3ec4ff0-2a36-4e6d-9742-83235c791701",
+        "type": "message",
+        "text": "Have you pulled the latest code? And do you mean Technicolor?",
+        "user": "U0118UR0J72",
+        "ts": "1634597956.196600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ulv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Have you pulled the latest code? And do you mean Technicolor?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e8da515f-944b-454d-b469-94a3b3ea0066",
+        "type": "message",
+        "text": "yea I tried pulling the code and it updated some files, but it didn't change anything, I've tried uploading a different repo, uploading to a different hub, but nothing is working, about to try to upload from a different computer to see if that changed anything.  yea I mean technicolor",
+        "user": "U022WGTQ602",
+        "ts": "1634598597.198300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L6y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yea I tried pulling the code and it updated some files, but it didn't change anything, I've tried uploading a different repo, uploading to a different hub, but nothing is working, about to try to upload from a different computer to see if that changed anything.  yea I mean technicolor"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1634599729.000000"
+        }
+    },
+    {
+        "client_msg_id": "581c7e0f-f055-4d03-9384-eb071ff70761",
+        "type": "message",
+        "text": "tried a new computer, same result on both control hubs",
+        "user": "U022WGTQ602",
+        "ts": "1634600537.199000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bv+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tried a new computer, same result on both control hubs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e892d490-048c-4908-b232-87043b09f9c2",
+        "type": "message",
+        "text": "You've tried multiple computers and hubs?",
+        "user": "U0118UR0J72",
+        "ts": "1634601368.199500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+116",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You've tried multiple computers and hubs?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9931e13f-12a9-42ad-b27f-450bd1c07abc",
+        "type": "message",
+        "text": "also I think Gradle was version 7 since I got a message that was asking if I wanted to upgrade from 7.0.2 to 7.0.3 and I believe it updated when it was building, would that be the source of the issue?",
+        "user": "U022WGTQ602",
+        "ts": "1634601994.202800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E9X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also I think Gradle was version 7 since I got a message that was asking if I wanted to upgrade from 7.0.2 to 7.0.3 and I believe it updated when it was building, would that be the source of the issue?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5f1a1648-911b-425b-afc7-ba8b7cc21575",
+        "type": "message",
+        "text": "I'm pretty sure it's probably because the code you're using doesn't use the latest FTC app, so since the new version is already installed on the control hub it's warning you that you're downgrading the app",
+        "user": "U0119239VCY",
+        "ts": "1634602161.205900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LANx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm pretty sure it's probably because the code you're using doesn't use the latest FTC app, so since the new version is already installed on the control hub it's warning you that you're downgrading the app"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8d55a232-7f19-4beb-a50d-9b6d0edca367",
+        "type": "message",
+        "text": "It should be a pretty easy fix though, we just have to go through and change the implemented ftc app version in gradle",
+        "user": "U0119239VCY",
+        "ts": "1634602196.207000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u=I=H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It should be a pretty easy fix though, we just have to go through and change the implemented ftc app version in gradle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "281c3329-4b72-4a79-a989-6e9ee485f007",
+        "type": "message",
+        "text": "Ye gradle is just the compiler and he haven't had issues with updating gradle to 7.0.3 yet.",
+        "user": "U0118UR0J72",
+        "ts": "1634602361.207700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s13",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ye gradle is just the compiler and he haven't had issues with updating gradle to 7.0.3 yet."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

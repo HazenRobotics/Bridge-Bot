@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "8470b434-32ff-4313-a71c-8ebf42f44cd4",
+        "type": "message",
+        "text": "<!channel> season theme reveal <https:\/\/www.youtube.com\/watch?v=m-qwsMmkFwg>",
+        "user": "U022WGTQ602",
+        "ts": "1650757033.207239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r=Cf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " season theme reveal "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=m-qwsMmkFwg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=m-qwsMmkFwg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/m-qwsMmkFwg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/m-qwsMmkFwg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=m-qwsMmkFwg",
+                "fallback": "YouTube Video: 2022-2023 Robotics Season FIRST ENERGIZE presented by Qualcomm: Innovation Can’t Wait",
+                "title": "2022-2023 Robotics Season FIRST ENERGIZE presented by Qualcomm: Innovation Can’t Wait",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=m-qwsMmkFwg",
+                "author_name": "Official FIRST",
+                "author_link": "https:\/\/www.youtube.com\/c\/OfficialFIRST",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    }
+]

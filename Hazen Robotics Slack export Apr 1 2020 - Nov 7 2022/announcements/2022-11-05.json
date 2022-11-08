@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "9bc983c6-465a-48bd-bf50-bed36445c8dc",
+        "type": "message",
+        "text": "<!everyone> REMINDER, competition is tomorrow, be at Hazen at 7:00am, the 15 people on this spreadsheet are the ones who are going be part of our competition team at comp <https:\/\/docs.google.com\/spreadsheets\/d\/1jbqD8VBaFV5YkPbMbDZLpERqX4NFvTrFKvbomQrI_Qo\/edit?usp=sharing> (look on the second page)",
+        "user": "U022WGTQ602",
+        "ts": "1667710284.798879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a1fb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " REMINDER, competition is tomorrow, be at Hazen at 7:00am, the 15 people on this spreadsheet are the ones who are going be part of our competition team at comp "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1jbqD8VBaFV5YkPbMbDZLpERqX4NFvTrFKvbomQrI_Qo\/edit?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (look on the second page)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

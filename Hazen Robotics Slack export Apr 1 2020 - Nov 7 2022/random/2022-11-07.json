@@ -1,0 +1,210 @@
+[
+    {
+        "client_msg_id": "0f9f21ec-6b0a-41d9-bfb7-d3547bf283fb",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=0CutVc9WRc4&amp;t=2s>",
+        "user": "U02DWDDVAP7",
+        "ts": "1667842742.193129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ljn\/C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=0CutVc9WRc4&t=2s"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=0CutVc9WRc4&amp;t=2s",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/0CutVc9WRc4\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/0CutVc9WRc4?feature=oembed&start=2&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Why we hate engineers\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=0CutVc9WRc4&amp;t=2s",
+                "fallback": "YouTube Video: Why we hate engineers",
+                "title": "Why we hate engineers",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=0CutVc9WRc4&amp;t=2s",
+                "author_name": "CS Ghost Animation",
+                "author_link": "https:\/\/www.youtube.com\/c\/CSGhostAnimation",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F049E1ECTJB",
+                "created": 1667842907,
+                "timestamp": 1667842907,
+                "name": "image.png",
+                "title": "image",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02EA7L1KGT",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 350559,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F049E1ECTJB\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F049E1ECTJB\/download\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F049E1ECTJB-90ef4813f2\/image_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F049E1ECTJB-90ef4813f2\/image_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F049E1ECTJB-90ef4813f2\/image_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 358,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F049E1ECTJB-90ef4813f2\/image_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 477,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F049E1ECTJB-90ef4813f2\/image_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "original_w": 577,
+                "original_h": 581,
+                "thumb_tiny": "AwAwAC\/RdlRSzHAFU52WSYNHcqmBjGe\/NXJNuw7\/ALuMmqsP2SRtqL83XnNADGLgD\/SRuGW4B6YoDnkNdg5BHHarLxQIpdlAAXBPtiqxmsASDj8jQA6GQpJmS6Vl54q4pDAFTkGqKzWLNhcZ+hqxDcQMwijJyO2DQA2+V3iCoQMnnnHFVZIhEgmQ5ZTk46VZ1AZtT9RWcs0ixGMD5T7UDNSQb7Rx\/eWs426gdAfck1fgczWhwMN0xUQjlRQHZFJ7ZoEyulsjOMNsOKngjMV2ilw2QegpzK5GP3RP+9TreJhIHIAHs2aAJbhmwFAyD1+XNQFflA29Onyn\/GpJFZzu8khvXANMELdTHyP9letAFiBiUwwwR7Yol6jmo4VKN\/qsE9WwB\/KpJe1AEeff9f8A69TR\/cFRc+9Sp9wUAf\/Z",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U02EA7L1KGT\/F049E1ECTJB\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F049E1ECTJB-522ed8e011",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02EA7L1KGT",
+        "display_as_bot": false,
+        "ts": "1667842911.237999",
+        "client_msg_id": "5C6D5428-23EC-4309-975F-5A565A87091A"
+    },
+    {
+        "client_msg_id": "3fe946bc-ee69-4d5f-98a5-4e14974fe139",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=0CutVc9WRc4&amp;t=2s>",
+        "user": "U02DWDDVAP7",
+        "ts": "1667842986.140689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xj=Sn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=0CutVc9WRc4&t=2s"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=0CutVc9WRc4&amp;t=2s",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/0CutVc9WRc4\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/0CutVc9WRc4?feature=oembed&start=2&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Why we hate engineers\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=0CutVc9WRc4&amp;t=2s",
+                "fallback": "YouTube Video: Why we hate engineers",
+                "title": "Why we hate engineers",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=0CutVc9WRc4&amp;t=2s",
+                "author_name": "CS Ghost Animation",
+                "author_link": "https:\/\/www.youtube.com\/c\/CSGhostAnimation",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BB978BEF-F097-419A-B2F1-99EE3A7C06DE",
+        "type": "message",
+        "text": "Thanks for the self repost",
+        "user": "U02EA7L1KGT",
+        "ts": "1667843083.969159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eApl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the self repost"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "3b24be10b035",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-26\/4305995690752_3b24be10b035098cd409_72.png",
+            "first_name": "Asher",
+            "real_name": "Asher Stocker",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "asherstocker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

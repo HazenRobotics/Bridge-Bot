@@ -1,0 +1,444 @@
+[
+    {
+        "client_msg_id": "FCE813D5-A28D-4A15-A9C1-BE66DE63C640",
+        "type": "message",
+        "text": "<@U0119239VCY> <@U0118UR0J72> <@U018WC9RM3K> is it better to have a single duck spinner in the center or two on the sides? If y’all want to use motors it would be easier to have a single one in the center ",
+        "user": "U012BUXVC6B",
+        "ts": "1637682653.084500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "orp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0118UR0J72"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U018WC9RM3K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is it better to have a single duck spinner in the center or two on the sides? If y’all want to use motors it would be easier to have a single one in the center "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "10bbca5a-3c4c-4fbe-8933-fb9fbaf47eaa",
+        "type": "message",
+        "text": "I mean 1 in the center works alright, but the sides would be a bit more preferable.",
+        "user": "U0118UR0J72",
+        "ts": "1637682808.085200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=YpC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I mean 1 in the center works alright, but the sides would be a bit more preferable."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "da95b429-fa71-4c45-9f87-be01b127c325",
+        "type": "message",
+        "text": "have we checked on the tf model training? is it running ok\/finished?",
+        "user": "U022WGTQ602",
+        "ts": "1637689493.086000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ppB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "have we checked on the tf model training? is it running ok\/finished?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "937f0333-932f-4086-8911-a09a51a27aec",
+        "type": "message",
+        "text": "Yes, it's finished so it should be all set for exporting and testing",
+        "user": "U0119239VCY",
+        "ts": "1637689884.086700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ABkL4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, it's finished so it should be all set for exporting and testing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7a0d4eba-682f-4192-abae-9c502ff929c2",
+        "type": "message",
+        "text": "nice",
+        "user": "U022WGTQ602",
+        "ts": "1637693796.087000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mxc3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "724edf2b-78a1-40f4-b819-b550a0930a4d",
+        "type": "message",
+        "text": "<@U0119239VCY> did you exit out of the tensorflow training? It doesn't look like it exited corrrctly",
+        "user": "U022WGTQ602",
+        "ts": "1637707919.088700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gDEnS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " did you exit out of the tensorflow training? It doesn't look like it exited corrrctly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F02NGR6845A",
+                "created": 1637707994,
+                "timestamp": 1637707994,
+                "name": "IMG_20211123_145241311.jpg",
+                "title": "IMG_20211123_145241311.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U022WGTQ602",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 909209,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02NGR6845A\/img_20211123_145241311.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02NGR6845A\/download\/img_20211123_145241311.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02NGR6845A-a8788e53ce\/img_20211123_145241311_64.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02NGR6845A-a8788e53ce\/img_20211123_145241311_80.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02NGR6845A-a8788e53ce\/img_20211123_145241311_360.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02NGR6845A-a8788e53ce\/img_20211123_145241311_480.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02NGR6845A-a8788e53ce\/img_20211123_145241311_160.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02NGR6845A-a8788e53ce\/img_20211123_145241311_720.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02NGR6845A-a8788e53ce\/img_20211123_145241311_800.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02NGR6845A-a8788e53ce\/img_20211123_145241311_960.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02NGR6845A-a8788e53ce\/img_20211123_145241311_1024.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 4000,
+                "original_h": 3000,
+                "thumb_tiny": "AwAkADCK4\/4+EGc4HanxttkB9DUUmPtRA7CnHjuacVoD3H3KqJmyM56VXx7fpVmcBgjZ6rUGB71S2ENx7UlOIA9aaevFJodx7c3LmpO1QqcyOR3NPJJ70R2ExxyRyTgU2k59aMH+8aoQGnZWNdxwzdh6UxlYfSmZpMaFjOATjvTi\/HQUxPu\/jSnoahD6jg3B4oLkIDx1po+6aD\/qx9aLsqyJEbcBkCnMiY+7+ppkfQVK3SpuxtI\/\/9k=",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U022WGTQ602\/F02NGR6845A\/img_20211123_145241311.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02NGR6845A-270ef223d7",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U022WGTQ602",
+        "display_as_bot": false,
+        "ts": "1637707998.088800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sHjO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "786f7a3e-905d-4706-bc9f-7c2a8699335a"
+    },
+    {
+        "client_msg_id": "62fbcad6-73b8-4a52-8e1c-15f5c32349d1",
+        "type": "message",
+        "text": "I just interrupted the batch job which is what it said to do in the video, so I'm not sure if that's what I was supposed to do but if not then maybe try using the checkpoint file before the last one",
+        "user": "U0119239VCY",
+        "ts": "1637708238.091600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HWQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just interrupted the batch job which is what it said to do in the video, so I'm not sure if that's what I was supposed to do but if not then maybe try using the checkpoint file before the last one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "be0405ac-2acb-452f-b46a-6d310dd972c2",
+        "type": "message",
+        "text": "yea, idk if our model ran correctly, there should be .meta .data and .index files for each checkpoint but I only see .index and .data files",
+        "user": "U022WGTQ602",
+        "ts": "1637710956.093600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fGN8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yea, idk if our model ran correctly, there should be .meta .data and .index files for each checkpoint but I only see .index and .data files"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cdfe80dc-70ed-4170-bdc8-7751f2428157",
+        "type": "message",
+        "text": "dang, thats super unfortunate",
+        "user": "U0119239VCY",
+        "ts": "1637711019.093900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3vFJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dang, thats super unfortunate"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

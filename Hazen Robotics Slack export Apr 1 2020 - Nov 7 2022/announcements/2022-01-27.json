@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "7CED21A8-D802-4790-B322-A12E8CC04D23",
+        "type": "message",
+        "text": "Ayo I’ve gotta go take a test for FBLA, I’ll be back within the hour",
+        "user": "U012BUXVC6B",
+        "ts": "1643320948.115500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=sY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ayo I’ve gotta go take a test for FBLA, I’ll be back within the hour"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7121f88b-27db-42b6-8fd5-cf47e6202266",
+        "type": "message",
+        "text": "Cool",
+        "user": "U0118UR0J72",
+        "ts": "1643320965.115700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dol",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

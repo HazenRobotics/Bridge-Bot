@@ -1,0 +1,376 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663356234.639779",
+        "user": "U0118UR0J72",
+        "text": "<@U0118UR0J72> has joined the channel"
+    },
+    {
+        "client_msg_id": "c19085ad-28b3-4cdc-a110-764cfd02cc2b",
+        "type": "message",
+        "text": "<https:\/\/trello.com\/c\/SWOac9AK>",
+        "user": "U0118UR0J72",
+        "ts": "1663356332.691489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lnpp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/trello.com\/c\/SWOac9AK"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "\/trello link <https:\/\/trello.com\/invite\/b\/jkGrSE5m\/52b917deb3eea63205fb1356c6fbac6f\/2022-2023-ftc-season>",
+        "user": "U0118UR0J72",
+        "ts": "1663356543.220149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ogy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\/trello link "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/trello.com\/invite\/b\/jkGrSE5m\/52b917deb3eea63205fb1356c6fbac6f\/2022-2023-ftc-season"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U0118UR0J72> associated <#C042V747G7N> with <https:\/\/trello.com\/b\/jkGrSE5m|2022-2023 FTC Season>. New cards will be created in the *To-Do (Back Log)* list.",
+        "ts": "1663356543.300009",
+        "bot_id": "B02E3862SLD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NGKjn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0118UR0J72"
+                            },
+                            {
+                                "type": "text",
+                                "text": " associated "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C042V747G7N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " with "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/trello.com\/b\/jkGrSE5m",
+                                "text": "2022-2023 FTC Season"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". New cards will be created in the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "To-Do (Back Log)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " list."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "attachments": [
+            {
+                "id": 1,
+                "fallback": "2022-2023 FTC Season (<https:\/\/trello.com\/b\/jkGrSE5m>)",
+                "title": "2022-2023 FTC Season",
+                "title_link": "https:\/\/trello.com\/b\/jkGrSE5m",
+                "author_name": "Board",
+                "callback_id": "callback-idBoard:626827024c9beb4085821d0c-ts:1663356543205",
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "selectList",
+                        "text": "Change Default List",
+                        "type": "select",
+                        "data_source": "static",
+                        "options": [
+                            {
+                                "text": "To-Do (Back Log)",
+                                "value": "{\"idBoard\":\"626827024c9beb4085821d0c\",\"idList\":\"626827024c9beb4085821d0d\",\"idOrganization\":\"613d2d7b441cdd0a00339424\"}"
+                            },
+                            {
+                                "text": "2021-2022 Finish",
+                                "value": "{\"idBoard\":\"626827024c9beb4085821d0c\",\"idList\":\"629a73830eb0c133165b2eb6\",\"idOrganization\":\"613d2d7b441cdd0a00339424\"}"
+                            },
+                            {
+                                "text": "Blocked (Needs Leadership Attention)",
+                                "value": "{\"idBoard\":\"626827024c9beb4085821d0c\",\"idList\":\"62682a7d8eb4af0a12e6a28a\",\"idOrganization\":\"613d2d7b441cdd0a00339424\"}"
+                            },
+                            {
+                                "text": "Doing",
+                                "value": "{\"idBoard\":\"626827024c9beb4085821d0c\",\"idList\":\"626827024c9beb4085821d0e\",\"idOrganization\":\"613d2d7b441cdd0a00339424\"}"
+                            },
+                            {
+                                "text": "Done",
+                                "value": "{\"idBoard\":\"626827024c9beb4085821d0c\",\"idList\":\"626827024c9beb4085821d0f\",\"idOrganization\":\"613d2d7b441cdd0a00339424\"}"
+                            },
+                            {
+                                "text": "Non-Season Related Activities",
+                                "value": "{\"idBoard\":\"626827024c9beb4085821d0c\",\"idList\":\"62a11e5cc2f7487ddf9d45d6\",\"idOrganization\":\"613d2d7b441cdd0a00339424\"}"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "2",
+                        "name": "joinBoard",
+                        "text": "Join",
+                        "type": "button",
+                        "value": "{\"idBoard\":\"626827024c9beb4085821d0c\",\"idOrganization\":\"613d2d7b441cdd0a00339424\"}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "subscribe",
+                        "text": "Watch",
+                        "type": "button",
+                        "value": "{\"idBoard\":\"626827024c9beb4085821d0c\",\"idOrganization\":\"613d2d7b441cdd0a00339424\"}",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "star",
+                        "text": ":star:",
+                        "type": "button",
+                        "value": "{\"idBoard\":\"626827024c9beb4085821d0c\",\"idOrganization\":\"613d2d7b441cdd0a00339424\"}",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "This content can't be displayed.",
+        "ts": "1663356614.828839",
+        "bot_id": "B02E3862SLD",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "jiM",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*<https:\/\/trello.com\/c\/vhkqHXHq|Possible advisor – Mr. Barber (Career Center)>*\nIn list *To-Do (Back Log)* on *<https:\/\/trello.com\/b\/jkGrSE5m|2022-2023 FTC Season>*",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "AnV",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": ":bust_in_silhouette: Sam DePoule  ",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "actions",
+                "block_id": "Cnmv",
+                "elements": [
+                    {
+                        "type": "static_select",
+                        "action_id": "card-actions",
+                        "placeholder": {
+                            "type": "plain_text",
+                            "text": "Quick actions",
+                            "emoji": true
+                        },
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Add members",
+                                    "emoji": true
+                                },
+                                "value": "{\"action\":\"openAddMembersModal\",\"idCard\":\"631bacd6ed818e0459494b22\",\"idOrganization\":\"613d2d7b441cdd0a00339424\"}"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Add labels",
+                                    "emoji": true
+                                },
+                                "value": "{\"action\":\"openAddLabelsModal\",\"idCard\":\"631bacd6ed818e0459494b22\",\"idOrganization\":\"613d2d7b441cdd0a00339424\"}"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Add checklist",
+                                    "emoji": true
+                                },
+                                "value": "{\"action\":\"openAddChecklistModal\",\"idCard\":\"631bacd6ed818e0459494b22\",\"idOrganization\":\"613d2d7b441cdd0a00339424\"}"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Set due date",
+                                    "emoji": true
+                                },
+                                "value": "{\"action\":\"openSetDueModal\",\"idCard\":\"631bacd6ed818e0459494b22\",\"idOrganization\":\"613d2d7b441cdd0a00339424\"}"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Move",
+                                    "emoji": true
+                                },
+                                "value": "{\"action\":\"openMoveModal\",\"idCard\":\"631bacd6ed818e0459494b22\",\"idOrganization\":\"613d2d7b441cdd0a00339424\"}"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Join card",
+                                    "emoji": true
+                                },
+                                "value": "{\"action\":\"joinCard\",\"idCard\":\"631bacd6ed818e0459494b22\",\"idOrganization\":\"613d2d7b441cdd0a00339424\"}"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Watch",
+                                    "emoji": true
+                                },
+                                "value": "{\"action\":\"subscribe\",\"idCard\":\"631bacd6ed818e0459494b22\",\"idOrganization\":\"613d2d7b441cdd0a00339424\"}"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Add comment",
+                                    "emoji": true
+                                },
+                                "value": "{\"action\":\"openAddCommentModal\",\"idCard\":\"631bacd6ed818e0459494b22\",\"idOrganization\":\"613d2d7b441cdd0a00339424\"}"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "Attach conversation",
+                                    "emoji": true
+                                },
+                                "value": "{\"action\":\"link\",\"idCard\":\"631bacd6ed818e0459494b22\",\"idOrganization\":\"613d2d7b441cdd0a00339424\"}"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "See card details",
+                                    "emoji": true
+                                },
+                                "value": "{\"action\":\"openCardDetailsModal\",\"idCard\":\"631bacd6ed818e0459494b22\",\"idOrganization\":\"613d2d7b441cdd0a00339424\"}"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "block_id": "M2JN",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Description:*\nHe's working on CTE\/Comp Sci stuff, needs experience.\nTry to get him to advise on Wednesdays.",
+                    "verbatim": false
+                }
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663356848.486999",
+        "user": "U02535ABH2A",
+        "text": "<@U02535ABH2A> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663357360.205079",
+        "user": "U022WGTQ602",
+        "text": "<@U022WGTQ602> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663357365.582689",
+        "user": "U038AS2R6UV",
+        "text": "<@U038AS2R6UV> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1663362809.117539",
+        "user": "U02EA7L1KGT",
+        "text": "<@U02EA7L1KGT> has joined the channel"
+    }
+]

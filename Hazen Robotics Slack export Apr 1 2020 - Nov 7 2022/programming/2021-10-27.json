@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "788a398a-02d1-440a-b205-4dfc1c9d6a7a",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=1_tFzuxQ-FM|https:\/\/www.youtube.com\/watch?v=1_tFzuxQ-FM>",
+        "user": "U018WC9RM3K",
+        "ts": "1635370211.006000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VCn4y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=1_tFzuxQ-FM",
+                                "text": "https:\/\/www.youtube.com\/watch?v=1_tFzuxQ-FM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "FTC TensorFlow Object Detection Training Tutorial",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=1_tFzuxQ-FM",
+                "author_name": "Shengming Y.",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCK_fUQomjIm8Vj_IvhjPjpw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/1_tFzuxQ-FM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: FTC TensorFlow Object Detection Training Tutorial",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/1_tFzuxQ-FM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=1_tFzuxQ-FM",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=1_tFzuxQ-FM"
+            }
+        ]
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "6369be8a-7ccd-438b-8cd0-c4e515c86fdb",
+        "type": "message",
+        "text": "It works so badly tho",
+        "user": "U0118UR0J72",
+        "ts": "1663072349.997409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e6z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It works so badly tho"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "668a4cf4-7678-4fe5-bee7-0dc8e904c1d3",
+        "type": "message",
+        "text": "eh, it's more the lack of fine tuning\/driving thats the issue, not the actual arm itself, if they actually tune it, it could be pretty good",
+        "user": "U022WGTQ602",
+        "ts": "1663078691.845429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vlP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "eh, it's more the lack of fine tuning\/driving thats the issue, not the actual arm itself, if they actually tune it, it could be pretty good"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

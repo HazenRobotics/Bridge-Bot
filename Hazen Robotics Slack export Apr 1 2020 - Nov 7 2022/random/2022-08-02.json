@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "cede559d-863e-42c3-9cae-7084f773b395",
+        "type": "message",
+        "text": "For graduated seniors if interested: <https:\/\/aws.amazon.com\/government-education\/imagine-conference-2022\/> Note is tomorrow so you would have to register today.",
+        "user": "U018WC9RM3K",
+        "ts": "1659460915.978379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s8Z+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For graduated seniors if interested: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/aws.amazon.com\/government-education\/imagine-conference-2022\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Note is tomorrow so you would have to register today."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/aws.amazon.com\/government-education\/imagine-conference-2022\/",
+                "thumb_url": "https:\/\/a0.awsstatic.com\/libra-css\/images\/logos\/aws_logo_smile_179x109.png",
+                "thumb_width": 179,
+                "thumb_height": 109,
+                "service_icon": "https:\/\/a0.awsstatic.com\/libra-css\/images\/site\/touch-icon-iphone-114-smile.png",
+                "id": 1,
+                "original_url": "https:\/\/aws.amazon.com\/government-education\/imagine-conference-2022\/",
+                "fallback": "Amazon Web Services, Inc.: IMAGINE 2022 | For education, state, and local leaders | AWS",
+                "text": "The IMAGINE 2022 conference brings together leaders from education and government to learn the latest innovations and best practices in the cloud.",
+                "title": "IMAGINE 2022 | For education, state, and local leaders | AWS",
+                "title_link": "https:\/\/aws.amazon.com\/government-education\/imagine-conference-2022\/",
+                "service_name": "Amazon Web Services, Inc."
+            }
+        ]
+    }
+]

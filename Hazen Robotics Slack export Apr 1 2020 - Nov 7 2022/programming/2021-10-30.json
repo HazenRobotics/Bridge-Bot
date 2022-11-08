@@ -1,0 +1,867 @@
+[
+    {
+        "client_msg_id": "35146c8f-93a0-4645-b42d-3787fe73ee94",
+        "type": "message",
+        "text": "<@U0119239VCY> what do I do about this?\n`Exception in thread \"man\" java.lang.UnsupportedClassVersionError: com\/pacman\/MyAppLauncher has been compiled by a more recent version of the Java Runtime (class file version 55.0), this version of the Java Runtime only recognizes class file version up to 52.0`",
+        "user": "U022WGTQ602",
+        "ts": "1635639714.008800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VieD1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " what do I do about this?\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Exception in thread \"man\" java.lang.UnsupportedClassVersionError: com\/pacman\/MyAppLauncher has been compiled by a more recent version of the Java Runtime (class file version 55.0), this version of the Java Runtime only recognizes class file version up to 52.0",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "46840a41-f4f4-4b90-8ea9-730f7b541070",
+        "type": "message",
+        "text": "(running the jar in cmd)",
+        "user": "U022WGTQ602",
+        "ts": "1635639772.009800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7kAD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(running the jar in cmd)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "095c531e-f2ff-4f09-8e38-1f9a56693144",
+        "type": "message",
+        "text": "Are you running it on one of the programming laptops?",
+        "user": "U0119239VCY",
+        "ts": "1635639781.010000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M84Cn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are you running it on one of the programming laptops?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1a1f1105-49e3-4bcd-af7d-6294c05956a7",
+        "type": "message",
+        "text": "ye",
+        "user": "U022WGTQ602",
+        "ts": "1635639785.010200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b=G\/t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ye"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "540dc181-8271-4f90-b556-e00949ba7399",
+        "type": "message",
+        "text": "You'll need to install Java 11 since I'm pretty sure Sam compiled the jar with 11",
+        "user": "U0119239VCY",
+        "ts": "1635640081.011500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6SQKb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You'll need to install Java 11 since I'm pretty sure Sam compiled the jar with 11"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3ce8c28a-61b9-459b-86b9-181bfc71d7b8",
+        "type": "message",
+        "text": "This is Sam",
+        "user": "U022WGTQ602",
+        "ts": "1635640097.012200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "27OFQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is Sam"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b7a2b8a7-13b1-4a60-9f11-1b6a46a0ca84",
+        "type": "message",
+        "text": "lol and I did",
+        "user": "U022WGTQ602",
+        "ts": "1635640100.012400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HJh8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lol and I did"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6082dccf-0a2b-4419-9e4d-b42e85e40bf8",
+        "type": "message",
+        "text": "Idk how to download 11",
+        "user": "U022WGTQ602",
+        "ts": "1635640107.012800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pkaQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Idk how to download 11"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "414ec7da-4393-434f-af0a-830ab468dbe6",
+        "type": "message",
+        "text": "nor switch which version cmd is using",
+        "user": "U022WGTQ602",
+        "ts": "1635640118.013100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ulhc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nor switch which version cmd is using"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d4f48fa7-31d2-4586-95e9-f0ab17fc6f73",
+        "type": "message",
+        "text": "Maybe I switch it in the environment variables",
+        "user": "U022WGTQ602",
+        "ts": "1635640127.013400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Attgp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe I switch it in the environment variables"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1635640153.000000"
+        }
+    },
+    {
+        "client_msg_id": "15e16caf-6e55-4972-93f2-1cfe60de7c72",
+        "type": "message",
+        "text": "I'm pretty sure Java is backwards compatible so we can just install whatever the latest release is",
+        "user": "U0119239VCY",
+        "ts": "1635640202.014500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+2lk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm pretty sure Java is backwards compatible so we can just install whatever the latest release is"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "417e0ad3-fe09-431d-b80f-1d38fd2a4fc4",
+        "type": "message",
+        "text": "<https:\/\/www.openlogic.com\/openjdk-downloads?field_java_parent_version_target_id=406&amp;field_operating_system_target_id=436&amp;field_architecture_target_id=391&amp;field_java_package_target_id=396|https:\/\/www.openlogic.com\/openjdk-downloads?field_java_parent_version_target_id=406&amp;field_operating_system_target_id=436&amp;field_architecture_target_id=391&amp;field_java_package_target_id=396>",
+        "user": "U0119239VCY",
+        "ts": "1635640209.014700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wQQ5n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.openlogic.com\/openjdk-downloads?field_java_parent_version_target_id=406&field_operating_system_target_id=436&field_architecture_target_id=391&field_java_package_target_id=396",
+                                "text": "https:\/\/www.openlogic.com\/openjdk-downloads?field_java_parent_version_target_id=406&field_operating_system_target_id=436&field_architecture_target_id=391&field_java_package_target_id=396"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "OpenJDK Downloads | Download Java JDK 8 &amp; 11 | OpenLogic",
+                "title_link": "https:\/\/www.openlogic.com\/openjdk-downloads?field_java_parent_version_target_id=406&field_operating_system_target_id=436&field_architecture_target_id=391&field_java_package_target_id=396",
+                "text": "OpenLogic provides free OpenJDK Java downloads for OpenJDK 8 and OpenJDK 11. Get your JDK download today. Plus, get answers to your FAQ about Java development and download Java JDK 8 and Java 11.",
+                "fallback": "OpenJDK Downloads | Download Java JDK 8 &amp; 11 | OpenLogic",
+                "from_url": "https:\/\/www.openlogic.com\/openjdk-downloads?field_java_parent_version_target_id=406&field_operating_system_target_id=436&field_architecture_target_id=391&field_java_package_target_id=396",
+                "service_icon": "https:\/\/www.openlogic.com\/sites\/openlogic\/themes\/custom\/openlogic\/images\/favicons\/favicon-16px.ico",
+                "service_name": "openlogic.com",
+                "id": 1,
+                "original_url": "https:\/\/www.openlogic.com\/openjdk-downloads?field_java_parent_version_target_id=406&amp;field_operating_system_target_id=436&amp;field_architecture_target_id=391&amp;field_java_package_target_id=396"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5ca86825-274f-47b7-8aaa-8802e648863b",
+        "type": "message",
+        "text": "Hopefully running the msi file fixes it?",
+        "user": "U0119239VCY",
+        "ts": "1635640246.015300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e1TnE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hopefully running the msi file fixes it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c930192c-0947-4d50-b846-d446296227e1",
+        "type": "message",
+        "text": "ok, one sec",
+        "user": "U022WGTQ602",
+        "ts": "1635640254.015500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EE4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, one sec"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5ff08805-4ec2-4865-aec4-02d4e4388e5e",
+        "type": "message",
+        "text": "3 min left on the download",
+        "user": "U022WGTQ602",
+        "ts": "1635640277.015700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "br7q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3 min left on the download"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8407dad0-3fd9-4d98-9ce0-fdfb5622b132",
+        "type": "message",
+        "text": "do I need to switch the environmetn variables or smthn still says version 1.8",
+        "user": "U022WGTQ602",
+        "ts": "1635640581.016100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+GTj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do I need to switch the environmetn variables or smthn still says version 1.8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "36af47e2-322f-457c-b34d-8ddbcaea3b30",
+        "type": "message",
+        "text": "Uuuh, maybe? I'm not actually sure",
+        "user": "U0119239VCY",
+        "ts": "1635640644.016500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9oGl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Uuuh, maybe? I'm not actually sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "23179274-2fe6-4894-a5fc-c9810e17bef1",
+        "type": "message",
+        "text": "also java home is set to sdk 15",
+        "user": "U022WGTQ602",
+        "ts": "1635640665.016700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+rzb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also java home is set to sdk 15"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4b6916e3-1d11-4cf4-8ecd-af0a97e73e73",
+        "type": "message",
+        "text": "I'm not sure what to do to get the jar to work.",
+        "user": "U022WGTQ602",
+        "ts": "1635640998.017200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c0\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm not sure what to do to get the jar to work."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "357d8d60-f0e5-4d15-8445-0f01520663b1",
+        "type": "message",
+        "text": "I also have the code on here and idea but idea doesn't recognize strings and integers",
+        "user": "U022WGTQ602",
+        "ts": "1635641033.017800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=3h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I also have the code on here and idea but idea doesn't recognize strings and integers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4d717115-fc25-4432-ba6e-0219cb937943",
+        "type": "message",
+        "text": "And it's using the modle sdk inside pacman",
+        "user": "U022WGTQ602",
+        "ts": "1635641060.018100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GXgx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And it's using the modle sdk inside pacman"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "52a4a4c4-9e4d-4672-9f5f-ad934b81cf8a",
+        "type": "message",
+        "text": "Anyways, best of luck to whoever is working on this tomorrow",
+        "user": "U022WGTQ602",
+        "ts": "1635641084.018500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+FGOA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyways, best of luck to whoever is working on this tomorrow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

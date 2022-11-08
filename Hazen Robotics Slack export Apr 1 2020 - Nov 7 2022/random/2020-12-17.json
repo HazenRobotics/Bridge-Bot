@@ -1,0 +1,100 @@
+[
+    {
+        "client_msg_id": "EAF16A8C-8507-43AC-9855-F0B3A799DAB1",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/72VkAoYt8mk|https:\/\/youtu.be\/72VkAoYt8mk>",
+        "user": "U012BUXVC6B",
+        "ts": "1608265283.009800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d5k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/72VkAoYt8mk",
+                                "text": "https:\/\/youtu.be\/72VkAoYt8mk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Space or Nothing - First Student Rocket to Space",
+                "title_link": "https:\/\/youtu.be\/72VkAoYt8mk",
+                "author_name": "Joseph DeRose",
+                "author_link": "https:\/\/www.youtube.com\/user\/marinmaker",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/72VkAoYt8mk\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Space or Nothing - First Student Rocket to Space",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/72VkAoYt8mk?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/72VkAoYt8mk",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/72VkAoYt8mk"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5C5B6DE3-C3E4-4265-9405-151885FE0B0E",
+        "type": "message",
+        "text": "Also worth watching",
+        "user": "U012BUXVC6B",
+        "ts": "1608265289.010100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iNX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also worth watching"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

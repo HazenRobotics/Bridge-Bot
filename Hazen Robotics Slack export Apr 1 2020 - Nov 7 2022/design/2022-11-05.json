@@ -1,0 +1,246 @@
+[
+    {
+        "bot_id": "B042G31JYFK",
+        "type": "message",
+        "text": "Done mass archiving",
+        "user": "U0423AWF8JF",
+        "ts": "1667677276.419769",
+        "app_id": "A041WRBKX8E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DVF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Done mass archiving"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "bot_profile": {
+            "id": "B042G31JYFK",
+            "app_id": "A041WRBKX8E",
+            "name": "Bridge",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-13\/4074991651187_dac05d4ae58db57a217c_72.png"
+            },
+            "deleted": true,
+            "updated": 1667862305,
+            "team_id": "T010YRDV4KB"
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F049KPT7NA1",
+                "created": 1667692956,
+                "timestamp": 1667692956,
+                "name": "Test Beacon Body New.stl",
+                "title": "Test Beacon Body New.stl",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U041K6T5YDA",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 1180984,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F049KPT7NA1\/test_beacon_body_new.stl?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F049KPT7NA1\/download\/test_beacon_body_new.stl?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U041K6T5YDA\/F049KPT7NA1\/test_beacon_body_new.stl",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F049KPT7NA1-3e010e6825",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U041K6T5YDA",
+        "display_as_bot": false,
+        "ts": "1667692958.272279",
+        "client_msg_id": "f783f21b-a5eb-43a9-a722-f996bedfe0f5"
+    },
+    {
+        "type": "message",
+        "text": "programming team takeover was a major success",
+        "files": [
+            {
+                "id": "F04ACE461A4",
+                "created": 1667694612,
+                "timestamp": 1667694612,
+                "name": "VID_20221105_172510072.mp4",
+                "title": "VID_20221105_172510072.mp4",
+                "mimetype": "video\/mp4",
+                "filetype": "mp4",
+                "pretty_type": "MPEG 4 Video",
+                "user": "U022WGTQ602",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 24961455,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "transcription": {
+                    "status": "complete",
+                    "locale": "en-US"
+                },
+                "mp4": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F04ACE461A4-2966da1da3\/vid_20221105_172510072.mp4?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F04ACE461A4-2966da1da3\/vid_20221105_172510072.mp4?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F04ACE461A4\/download\/vid_20221105_172510072.mp4?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "vtt": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F04ACE461A4-2966da1da3\/file.vtt?_xcb=5291c&t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "hls": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F04ACE461A4-2966da1da3\/file.m3u8?_xcb=5291c&t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "hls_embed": "data:application\/vnd.apple.mpegurl;base64,I0VYVE0zVQojRVhULVgtVkVSU0lPTjozCiNFWFQtWC1JTkRFUEVOREVOVC1TRUdNRU5UUwojRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9MTc1MzY2NSxBVkVSQUdFLUJBTkRXSURUSD0xNzUzNjY1LENPREVDUz0iYXZjMS42NDAwMWYsbXA0YS40MC41IixSRVNPTFVUSU9OPTYwOHgxMDgwLEZSQU1FLVJBVEU9MjkuOTcwLFNVQlRJVExFUz0ic3VicyIKZGF0YTphcHBsaWNhdGlvbi92bmQuYXBwbGUubXBlZ3VybDtiYXNlNjQsSTBWWVZFMHpWUW9qUlZoVUxWZ3RWa1ZTVTBsUFRqb3pDaU5GV0ZRdFdDMVVRVkpIUlZSRVZWSkJWRWxQVGpvM0NpTkZXRlF0V0MxTlJVUkpRUzFUUlZGVlJVNURSVG94Q2lORldGUXRXQzFRVEVGWlRFbFRWQzFVV1ZCRk9sWlBSQW9qUlZoVVNVNUdPall1TURBMkxBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQXhNRmxTUkZZMFMwSXRSakEwUVVORk5EWXhRVFF0TWprMk5tUmhNV1JoTXk5bWFXeGxYMGhmTWpZMFh6RTVNakI0TVRBNE1GODJOVEF3UzBKUVUxODNVVlpDVWw4d01EQXdNUzUwY3dvalJWaFVTVTVHT2pNdU5qY3dMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREF4TUZsU1JGWTBTMEl0UmpBMFFVTkZORFl4UVRRdE1qazJObVJoTVdSaE15OW1hV3hsWDBoZk1qWTBYekU1TWpCNE1UQTRNRjgyTlRBd1MwSlFVMTgzVVZaQ1VsOHdNREF3TWk1MGN3b2pSVmhVTFZndFJVNUVURWxUVkFvPQojRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9MTEyMzg2OCxBVkVSQUdFLUJBTkRXSURUSD0xMTIzODY4LENPREVDUz0iYXZjMS42NDAwMWUsbXA0YS40MC41IixSRVNPTFVUSU9OPTQwNng3MjAsRlJBTUUtUkFURT0yOS45NzAsU1VCVElUTEVTPSJzdWJzIgpodHRwczovL2ZpbGVzLnNsYWNrLmNvbS9maWxlcy10bWIvVDAxMFlSRFY0S0ItRjA0QUNFNDYxQTQtMjk2NmRhMWRhMy9maWxlX0hfMjY0XzEyODB4NzIwXzM1MDBLQlBTXzdRVkJSLm0zdTgKI0VYVC1YLU1FRElBOlRZUEU9U1VCVElUTEVTLEdST1VQLUlEPSJzdWJzIixOQU1FPSJFbmdsaXNoIixERUZBVUxUPVlFUyxBVVRPU0VMRUNUPVlFUyxGT1JDRUQ9Tk8sTEFOR1VBR0U9ImVuZyIsVVJJPSJkYXRhOmFwcGxpY2F0aW9uL3ZuZC5hcHBsZS5tcGVndXJsO2Jhc2U2NCxJMFZZVkUwelZRb2pSVmhVTFZndFZrVlNVMGxQVGpvekNpTkZXRlF0V0MxVVFWSkhSVlJFVlZKQlZFbFBUam8yTURBS0kwVllWQzFZTFUxRlJFbEJMVk5GVVZWRlRrTkZPakVLSTBWWVZDMVlMVkJNUVZsTVNWTlVMVlJaVUVVNlZrOUVDaU5GV0ZSSlRrWTZPUzQyTnpZc0NtaDBkSEJ6T2k4dlptbHNaWE11YzJ4aFkyc3VZMjl0TDJacGJHVnpMWFJ0WWk5VU1ERXdXVkpFVmpSTFFpMUdNRFJCUTBVME5qRkJOQzB5T1RZMlpHRXhaR0V6TDJacGJHVXVkblIwQ2lORldGUXRXQzFGVGtSTVNWTlUiCg==",
+                "mp4_low": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F04ACE461A4-2966da1da3\/vid_20221105_172510072_trans.mp4?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "duration_ms": 9676,
+                "media_display_type": "video",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F04ACE461A4-2966da1da3\/vid_20221105_172510072_thumb_video.jpeg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_video_w": 1080,
+                "thumb_video_h": 1920,
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U022WGTQ602\/F04ACE461A4\/vid_20221105_172510072.mp4",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F04ACE461A4-2b14c01613",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F049R71AHFE",
+                "created": 1667694616,
+                "timestamp": 1667694616,
+                "name": "VID_20221105_172523843.mp4",
+                "title": "VID_20221105_172523843.mp4",
+                "mimetype": "video\/mp4",
+                "filetype": "mp4",
+                "pretty_type": "MPEG 4 Video",
+                "user": "U022WGTQ602",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 14033603,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "transcription": {
+                    "status": "complete",
+                    "locale": "en-US"
+                },
+                "mp4": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F049R71AHFE-9ae3a0689f\/vid_20221105_172523843.mp4?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F049R71AHFE-9ae3a0689f\/vid_20221105_172523843.mp4?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F049R71AHFE\/download\/vid_20221105_172523843.mp4?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "vtt": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F049R71AHFE-9ae3a0689f\/file.vtt?_xcb=6639c&t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "hls": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F049R71AHFE-9ae3a0689f\/file.m3u8?_xcb=6639c&t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "hls_embed": "data:application\/vnd.apple.mpegurl;base64,I0VYVE0zVQojRVhULVgtVkVSU0lPTjozCiNFWFQtWC1JTkRFUEVOREVOVC1TRUdNRU5UUwojRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9MTgxNTk5NCxBVkVSQUdFLUJBTkRXSURUSD0xODE1OTk0LENPREVDUz0iYXZjMS42NDAwMWYsbXA0YS40MC41IixSRVNPTFVUSU9OPTYwOHgxMDgwLEZSQU1FLVJBVEU9MjkuOTcwLFNVQlRJVExFUz0ic3VicyIKZGF0YTphcHBsaWNhdGlvbi92bmQuYXBwbGUubXBlZ3VybDtiYXNlNjQsSTBWWVZFMHpWUW9qUlZoVUxWZ3RWa1ZTVTBsUFRqb3pDaU5GV0ZRdFdDMVVRVkpIUlZSRVZWSkJWRWxQVGpvM0NpTkZXRlF0V0MxTlJVUkpRUzFUUlZGVlJVNURSVG94Q2lORldGUXRXQzFRVEVGWlRFbFRWQzFVV1ZCRk9sWlBSQW9qUlZoVVNVNUdPalV1TkRNNUxBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQXhNRmxTUkZZMFMwSXRSakEwT1ZJM01VRklSa1V0T1dGbE0yRXdOamc1Wmk5bWFXeGxYMGhmTWpZMFh6RTVNakI0TVRBNE1GODJOVEF3UzBKUVUxODNVVlpDVWw4d01EQXdNUzUwY3dvalJWaFVMVmd0UlU1RVRFbFRWQW89CiNFWFQtWC1TVFJFQU0tSU5GOkJBTkRXSURUSD0xMTcyMjI0LEFWRVJBR0UtQkFORFdJRFRIPTExNzIyMjQsQ09ERUNTPSJhdmMxLjY0MDAxZSxtcDRhLjQwLjUiLFJFU09MVVRJT049NDA2eDcyMCxGUkFNRS1SQVRFPTI5Ljk3MCxTVUJUSVRMRVM9InN1YnMiCmh0dHBzOi8vZmlsZXMuc2xhY2suY29tL2ZpbGVzLXRtYi9UMDEwWVJEVjRLQi1GMDQ5UjcxQUhGRS05YWUzYTA2ODlmL2ZpbGVfSF8yNjRfMTI4MHg3MjBfMzUwMEtCUFNfN1FWQlIubTN1OAojRVhULVgtTUVESUE6VFlQRT1TVUJUSVRMRVMsR1JPVVAtSUQ9InN1YnMiLE5BTUU9IkVuZ2xpc2giLERFRkFVTFQ9WUVTLEFVVE9TRUxFQ1Q9WUVTLEZPUkNFRD1OTyxMQU5HVUFHRT0iZW5nIixVUkk9ImRhdGE6YXBwbGljYXRpb24vdm5kLmFwcGxlLm1wZWd1cmw7YmFzZTY0LEkwVllWRTB6VlFvalJWaFVMVmd0VmtWU1UwbFBUam96Q2lORldGUXRXQzFVUVZKSFJWUkVWVkpCVkVsUFRqbzJNREFLSTBWWVZDMVlMVTFGUkVsQkxWTkZVVlZGVGtORk9qRUtJMFZZVkMxWUxWQk1RVmxNU1ZOVUxWUlpVRVU2Vms5RUNpTkZXRlJKVGtZNk5TNDBNemdzQ21oMGRIQnpPaTh2Wm1sc1pYTXVjMnhoWTJzdVkyOXRMMlpwYkdWekxYUnRZaTlVTURFd1dWSkVWalJMUWkxR01EUTVVamN4UVVoR1JTMDVZV1V6WVRBMk9EbG1MMlpwYkdVdWRuUjBDaU5GV0ZRdFdDMUZUa1JNU1ZOVSIK",
+                "mp4_low": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F049R71AHFE-9ae3a0689f\/vid_20221105_172523843_trans.mp4?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "duration_ms": 5438,
+                "media_display_type": "video",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F049R71AHFE-9ae3a0689f\/vid_20221105_172523843_thumb_video.jpeg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_video_w": 1080,
+                "thumb_video_h": 1920,
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U022WGTQ602\/F049R71AHFE\/vid_20221105_172523843.mp4",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F049R71AHFE-5889546c6f",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U022WGTQ602",
+        "ts": "1667694630.344989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eRW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "programming team takeover was a major success"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "080dd944-01f2-44b7-a4c5-4610dad12375"
+    },
+    {
+        "client_msg_id": "202CB113-9CA8-4475-B8B5-F1A5EEB11A38",
+        "type": "message",
+        "text": "If y’all can, get some binder clips cause that is a way we could potentially get the side panels on",
+        "user": "U02ENRPMDCZ",
+        "ts": "1667713509.119969",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iAo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If "
+                            },
+                            {
+                                "type": "text",
+                                "text": "y’all"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can, get some binder clips cause that is a way we could potentially get the side panels"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "on"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "17b66d5a2701",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-13\/2483249218853_17b66d5a270198b7755b_72.jpg",
+            "first_name": "Vincent",
+            "real_name": "Vincent Luc",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "samuraivincent10",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

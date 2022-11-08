@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "4f89cc3e-7f12-4ca5-bc44-dee29379083d",
+        "type": "message",
+        "text": "Corban Thompson is inviting you to a scheduled Zoom meeting.\n\nTopic: Corban Thompson's Personal Meeting Room\n\nJoin Zoom Meeting\n<https:\/\/us04web.zoom.us\/j\/5925791081?pwd=cFhud3FGU0dkcnVicHZzL3c5eFVLdz09>\n\nMeeting ID: <tel:5925791081|592 579 1081>\nPasscode: 654258",
+        "user": "U0119239VCY",
+        "ts": "1601677159.009600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "riT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Corban Thompson is inviting you to a scheduled Zoom meeting.\n\nTopic: Corban Thompson's Personal Meeting Room\n\nJoin Zoom Meeting\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us04web.zoom.us\/j\/5925791081?pwd=cFhud3FGU0dkcnVicHZzL3c5eFVLdz09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nMeeting ID: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:5925791081",
+                                "text": "592 579 1081"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPasscode: 654258"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

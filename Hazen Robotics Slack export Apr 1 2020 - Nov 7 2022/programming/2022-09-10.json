@@ -1,0 +1,194 @@
+[
+    {
+        "client_msg_id": "a07a4d11-a685-4c0f-afec-634eb6ce5c71",
+        "type": "message",
+        "text": "<@U0118UR0J72> realized that this should have been done a few days ago, but I can get it done today, what should I do for the new season on the github side? should I just clone our freight frenzy repo and rename it? or should I clone the FTC sdk and attempt to copy certain configurations over (like the Robot and MecanumDrive classes)",
+        "user": "U022WGTQ602",
+        "ts": "1662821390.676649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "flFL2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0118UR0J72"
+                            },
+                            {
+                                "type": "text",
+                                "text": " realized that this should have been done a few days ago, but I can get it done today, what should I do for the new season on the github side? should I just clone our freight frenzy repo and rename it? or should I clone the FTC sdk and attempt to copy certain configurations over (like the Robot and MecanumDrive classes)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2cb65203-a5d7-44fd-bdea-b4f3b4d2a683",
+        "type": "message",
+        "text": "<@U0118UR0J72> trying to create a new repo, the only issue is that the org.firstinspires.ftc.teamcode.R import doesn’t work, i can’t find what i’m missing in the new repo, and it works completely fine in the old freight-frenzy repo",
+        "user": "U022WGTQ602",
+        "ts": "1662840264.237399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mHmj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0118UR0J72"
+                            },
+                            {
+                                "type": "text",
+                                "text": " trying to create a new repo, the only issue is that the org.firstinspires.ftc.teamcode.R import doesn’t work, i can’t find what i’m missing in the new repo, and it works completely fine in the old freight-frenzy repo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "65d42e11-c1ca-4eba-9055-72e282cfc16d",
+        "type": "message",
+        "text": "Probably some of the stuff in the gradle files make sure everything there is identical",
+        "user": "U0118UR0J72",
+        "ts": "1662840322.025669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cZ70+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Probably some of the stuff in the gradle files make sure everything there is identical"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "14efdcb7-d571-4594-8a73-f84729ec09af",
+        "type": "message",
+        "text": "<@U022WGTQ602> <https:\/\/github.com\/Connerbruner\/Last-breath-of-the-Billionares>",
+        "user": "U02DWDDVAP7",
+        "ts": "1662842933.744799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F6E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/Connerbruner\/Last-breath-of-the-Billionares"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "color": "24292f",
+                "bot_id": "B02EXAE6AB1",
+                "app_unfurl_url": "https:\/\/github.com\/Connerbruner\/Last-breath-of-the-Billionares",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "Connerbruner\/Last-breath-of-the-Billionares",
+                "title": "Connerbruner\/Last-breath-of-the-Billionares",
+                "fields": [
+                    {
+                        "value": "1",
+                        "title": "Stars",
+                        "short": true
+                    },
+                    {
+                        "value": "Java",
+                        "title": "Language",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    }
+]

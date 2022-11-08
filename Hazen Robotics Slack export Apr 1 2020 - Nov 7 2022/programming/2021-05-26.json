@@ -1,0 +1,120 @@
+[
+    {
+        "client_msg_id": "8317fc9b-9cf7-4819-8ebe-08befb9fd9b9",
+        "type": "message",
+        "text": "Should we create an empty TeleOp class with comments labelling and instructing what they need to do?",
+        "user": "U0118UR0J72",
+        "ts": "1622065549.001200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fvV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Should we create an empty TeleOp class with comments labelling and instructing what they need to do?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9e9c20dc-6755-484e-a4ed-9df74d9cc3d2",
+        "type": "message",
+        "text": "<@U0119239VCY> I added a TutorialTeleOp class to DeadRoadRunner but I don't exactly know how we should lay it out. We should also make sure they have a way to code or if they are doing it at robotics meetings only",
+        "user": "U0118UR0J72",
+        "ts": "1622066125.002700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p2Wz\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I added a TutorialTeleOp class to DeadRoadRunner but I don't exactly know how we should lay it out. We should also make sure they have a way to code or if they are doing it at robotics meetings only"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "45791c2a-b294-429e-a3ef-29dd50d8ce03",
+        "type": "message",
+        "text": "Ok, we can figure out what our plan is for the next week sometime, there are some really good resources that other teams have for teaching people programming in ftc so I will compile some of those into a document when I get a chance and we can use some of those as well",
+        "user": "U0119239VCY",
+        "ts": "1622068629.002800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YsPf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, we can figure out what our plan is for the next week sometime, there are some really good resources that other teams have for teaching people programming in ftc so I will compile some of those into a document when I get a chance and we can use some of those as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

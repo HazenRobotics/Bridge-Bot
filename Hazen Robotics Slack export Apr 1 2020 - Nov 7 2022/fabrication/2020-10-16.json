@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "FF08AE74-B74C-452A-A016-1968A6B14568",
+        "type": "message",
+        "text": "How goes CNCing stuff today?",
+        "user": "U012BUXVC6B",
+        "ts": "1602874766.004800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UhvA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How goes CNCing stuff today?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

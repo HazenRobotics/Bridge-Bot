@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "AFFBE015-2368-4173-92B9-E9CB9173CFF0",
+        "type": "message",
+        "text": "Fantastic meme ",
+        "user": "U012BUXVC6B",
+        "ts": "1637595475.002300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oAjiu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fantastic meme "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1637600645.002500",
+        "user": "U022WGTQ602",
+        "text": "<@U022WGTQ602> has joined the channel"
+    }
+]

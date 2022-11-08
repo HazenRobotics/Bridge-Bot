@@ -1,0 +1,477 @@
+[
+    {
+        "type": "message",
+        "text": "any clue why im getting this error? trying to run meepmeeppaths, finally got the application set up correctly (I think) but I'm getting an index out of bounds error whenever I try to run any of the meep meep autos that are already in made by y'all, any clue why?",
+        "files": [
+            {
+                "id": "F030GK9PDRN",
+                "created": 1642914010,
+                "timestamp": 1642914010,
+                "name": "Screen Shot 2022-01-22 at 8.58.27 PM.png",
+                "title": "Screen Shot 2022-01-22 at 8.58.27 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U022WGTQ602",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 111552,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F030GK9PDRN\/screen_shot_2022-01-22_at_8.58.27_pm.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F030GK9PDRN\/download\/screen_shot_2022-01-22_at_8.58.27_pm.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F030GK9PDRN-908d6c298c\/screen_shot_2022-01-22_at_8.58.27_pm_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F030GK9PDRN-908d6c298c\/screen_shot_2022-01-22_at_8.58.27_pm_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F030GK9PDRN-908d6c298c\/screen_shot_2022-01-22_at_8.58.27_pm_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 164,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F030GK9PDRN-908d6c298c\/screen_shot_2022-01-22_at_8.58.27_pm_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 218,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F030GK9PDRN-908d6c298c\/screen_shot_2022-01-22_at_8.58.27_pm_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F030GK9PDRN-908d6c298c\/screen_shot_2022-01-22_at_8.58.27_pm_720.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 720,
+                "thumb_720_h": 327,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F030GK9PDRN-908d6c298c\/screen_shot_2022-01-22_at_8.58.27_pm_800.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 364,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F030GK9PDRN-908d6c298c\/screen_shot_2022-01-22_at_8.58.27_pm_960.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 960,
+                "thumb_960_h": 436,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F030GK9PDRN-908d6c298c\/screen_shot_2022-01-22_at_8.58.27_pm_1024.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 466,
+                "original_w": 1478,
+                "original_h": 672,
+                "thumb_tiny": "AwAVADCv9M0nNLn3oB9zQAnNHPrS\/nR+dACd6KKPxoAMj0oyPT9aSkoAXPtRRRQAUUUUAf\/Z",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U022WGTQ602\/F030GK9PDRN\/screen_shot_2022-01-22_at_8.58.27_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F030GK9PDRN-fa66d38fcb",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F02V96KF2J0",
+                "created": 1642914022,
+                "timestamp": 1642914022,
+                "name": "Screen Shot 2022-01-22 at 8.59.23 PM.png",
+                "title": "Screen Shot 2022-01-22 at 8.59.23 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U022WGTQ602",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 507229,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02V96KF2J0\/screen_shot_2022-01-22_at_8.59.23_pm.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02V96KF2J0\/download\/screen_shot_2022-01-22_at_8.59.23_pm.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02V96KF2J0-348b11fc2d\/screen_shot_2022-01-22_at_8.59.23_pm_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02V96KF2J0-348b11fc2d\/screen_shot_2022-01-22_at_8.59.23_pm_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02V96KF2J0-348b11fc2d\/screen_shot_2022-01-22_at_8.59.23_pm_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 279,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02V96KF2J0-348b11fc2d\/screen_shot_2022-01-22_at_8.59.23_pm_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 372,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02V96KF2J0-348b11fc2d\/screen_shot_2022-01-22_at_8.59.23_pm_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02V96KF2J0-348b11fc2d\/screen_shot_2022-01-22_at_8.59.23_pm_720.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 720,
+                "thumb_720_h": 559,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02V96KF2J0-348b11fc2d\/screen_shot_2022-01-22_at_8.59.23_pm_800.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 621,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02V96KF2J0-348b11fc2d\/screen_shot_2022-01-22_at_8.59.23_pm_960.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 960,
+                "thumb_960_h": 745,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02V96KF2J0-348b11fc2d\/screen_shot_2022-01-22_at_8.59.23_pm_1024.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 795,
+                "original_w": 2250,
+                "original_h": 1746,
+                "thumb_tiny": "AwAlADCruPtSbj7Uh4NLj2\/WgAyfWk3Gjj0\/WigA3GlDHI5pKB1oAD1pe3Q0pAz3o\/E0ANP0opSR70mfrQAUd6PzpRgnvQApHNFKaQdKAEzRRRQAmPelA5zmgdaWgD\/\/2Q==",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U022WGTQ602\/F02V96KF2J0\/screen_shot_2022-01-22_at_8.59.23_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02V96KF2J0-e2da170a04",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U022WGTQ602",
+        "ts": "1642914035.030000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EVt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "any clue why im getting this error? trying to run meepmeeppaths, finally got the application set up correctly (I think) but I'm getting an index out of bounds error whenever I try to run any of the meep meep autos that are already in made by y'all, any clue why?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "f8578066-61a7-4bc8-b63f-4d9473b50429"
+    },
+    {
+        "client_msg_id": "dd1a66e5-5233-4ce0-8cb1-701c1778f81b",
+        "type": "message",
+        "text": "In the program arguments, there should be an option to pass in the current opened file, select that one",
+        "user": "U0119239VCY",
+        "ts": "1642914134.031700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SI0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In the program arguments, there should be an option to pass in the current opened file, select that one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "any clue the exact argument? tried a bunch of different ones but keep getting this error, most notably tried $FileClass$ and $FileName$ which showed 'com.example.meepmeeppaths.BlueOutAutoDuck' and 'BlueOutAutoDuck.java' but neither of those worked",
+        "files": [
+            {
+                "id": "F02V6UBFZSP",
+                "created": 1642915010,
+                "timestamp": 1642915010,
+                "name": "Screen Shot 2022-01-22 at 9.16.38 PM.png",
+                "title": "Screen Shot 2022-01-22 at 9.16.38 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U022WGTQ602",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 92834,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02V6UBFZSP\/screen_shot_2022-01-22_at_9.16.38_pm.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02V6UBFZSP\/download\/screen_shot_2022-01-22_at_9.16.38_pm.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02V6UBFZSP-d15b68403a\/screen_shot_2022-01-22_at_9.16.38_pm_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02V6UBFZSP-d15b68403a\/screen_shot_2022-01-22_at_9.16.38_pm_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02V6UBFZSP-d15b68403a\/screen_shot_2022-01-22_at_9.16.38_pm_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 45,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02V6UBFZSP-d15b68403a\/screen_shot_2022-01-22_at_9.16.38_pm_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 60,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02V6UBFZSP-d15b68403a\/screen_shot_2022-01-22_at_9.16.38_pm_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02V6UBFZSP-d15b68403a\/screen_shot_2022-01-22_at_9.16.38_pm_720.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 720,
+                "thumb_720_h": 91,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02V6UBFZSP-d15b68403a\/screen_shot_2022-01-22_at_9.16.38_pm_800.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 101,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02V6UBFZSP-d15b68403a\/screen_shot_2022-01-22_at_9.16.38_pm_960.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 960,
+                "thumb_960_h": 121,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02V6UBFZSP-d15b68403a\/screen_shot_2022-01-22_at_9.16.38_pm_1024.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 129,
+                "original_w": 2606,
+                "original_h": 328,
+                "thumb_tiny": "AwAGADCpg+tGD60tFACc0c0vakoATn1pcGiloA\/\/2Q==",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U022WGTQ602\/F02V6UBFZSP\/screen_shot_2022-01-22_at_9.16.38_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02V6UBFZSP-ff6a9a1092",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U022WGTQ602",
+        "display_as_bot": false,
+        "ts": "1642915335.034200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mcLD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "any clue the exact argument? tried a bunch of different ones but keep getting this error, most notably tried $FileClass$ and $FileName$ which showed 'com.example.meepmeeppaths.BlueOutAutoDuck' and 'BlueOutAutoDuck.java' but neither of those worked"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "94d8b72e-41ec-4aa5-b071-b10b0fa634b6"
+    },
+    {
+        "client_msg_id": "623dce08-afdc-4d9d-a507-db5bfdbbdb5b",
+        "type": "message",
+        "text": "Huh, the file class one should have worked, I haven't ever seen that error before though",
+        "user": "U0119239VCY",
+        "ts": "1642916018.035300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HUaB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Huh, the file class one should have worked, I haven't ever seen that error before though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "32ae698b-ed19-455b-9092-55d0c9b7b140",
+        "type": "message",
+        "text": "alr, figured out the error, was running on java 17 when I should have been running on java 11, it works now, thanks for the help :)",
+        "user": "U022WGTQ602",
+        "ts": "1642916134.036200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l4gg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alr, figured out the error, was running on java 17 when I should have been running on java 11, it works now, thanks for the help :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1642916174.000000"
+        }
+    },
+    {
+        "client_msg_id": "93c436df-3d48-4753-a85f-1a8e8194fe14",
+        "type": "message",
+        "text": "Awesome, have fun messing with roadrunner!",
+        "user": "U0119239VCY",
+        "ts": "1642916263.037300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LGU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome, have fun messing with roadrunner!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "41ded303-25e8-4cae-b64e-ffe8f86d9e78",
+        "type": "message",
+        "text": "welp... just figured this out which is useful but wish we discovered this earlier, AFAIK we could've used teachable machine to make a model, albiet a classification model instead of a detection model, but this means that we can use teachable machine to have a view of freight in our bucket and identify them, so I'll work on that Monday and hopefully we'll have something of value by the end of the day <https:\/\/www.youtube.com\/watch?v=aeMWWvteF2U>",
+        "user": "U022WGTQ602",
+        "ts": "1642921630.039700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JjBrw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "welp... just figured this out which is useful but wish we discovered this earlier, AFAIK we could've used teachable machine to make a model, albiet a classification model instead of a detection model, but this means that we can use teachable machine to have a view of freight in our bucket and identify them, so I'll work on that Monday and hopefully we'll have something of value by the end of the day "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=aeMWWvteF2U"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1642921653.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=aeMWWvteF2U",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/aeMWWvteF2U\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/aeMWWvteF2U?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=aeMWWvteF2U",
+                "fallback": "YouTube Video: Robotic Eagles - Custom FTC Image Recognition Tutorial",
+                "title": "Robotic Eagles - Custom FTC Image Recognition Tutorial",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=aeMWWvteF2U",
+                "author_name": "Robotic Eagles",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCDyaXSM0mqQ7KLNyQ2etN0w",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0dcafb5f-94cd-4793-8440-597fd4d7fc0c",
+        "type": "message",
+        "text": "since in that case theres no reason to identify exactly where the freight is, just that it's there",
+        "user": "U022WGTQ602",
+        "ts": "1642921687.040500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "crty8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "since in that case theres no reason to identify exactly where the freight is, just that it's there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

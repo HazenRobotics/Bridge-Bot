@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "52066B93-5314-443A-945A-F98DEE6CF634",
+        "type": "message",
+        "text": "<!everyone>  broadcast club wants to shoot the commercial soon. They need 3 people and the commercial would be 30 sec",
+        "user": "U0135LQT8TB",
+        "ts": "1602982858.102800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=FzAM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  broadcast club wants to shoot the commercial soon. They need 3 people and the commercial would be 30 sec"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "gdfe9743ea44",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dfe9743ea4477ab6cdd74b02c32fc903.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ethan Chiang",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "awesome.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

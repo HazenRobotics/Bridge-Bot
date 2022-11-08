@@ -1,0 +1,197 @@
+[
+    {
+        "client_msg_id": "47A57911-100A-4346-A9ED-EEB546FCBA9C",
+        "type": "message",
+        "text": "<@U01BCRC513K> why did you misalign the top holes where i need to put my extrusion ",
+        "user": "U02EA7L1KGT",
+        "ts": "1665006885.570539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g1JJU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01BCRC513K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " why did you misalign the top holes where i need to put my extrusion "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "3b24be10b035",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-26\/4305995690752_3b24be10b035098cd409_72.png",
+            "first_name": "Asher",
+            "real_name": "Asher Stocker",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "asherstocker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "12F7D460-D257-41DE-B017-ADF8733F7DC0",
+        "type": "message",
+        "text": "But get the less consequential bottom holes that dont need to be aligned perfectly spaced and centered",
+        "user": "U02EA7L1KGT",
+        "ts": "1665006944.382099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m=56",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But get the less consequential "
+                            },
+                            {
+                                "type": "text",
+                                "text": "b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ottom holes that dont need to be aligned perfectly spaced and centered"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "3b24be10b035",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-26\/4305995690752_3b24be10b035098cd409_72.png",
+            "first_name": "Asher",
+            "real_name": "Asher Stocker",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "asherstocker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Cone Sleeve design is ready for printing",
+        "files": [
+            {
+                "id": "F04587TBW2Z",
+                "created": 1665009442,
+                "timestamp": 1665009442,
+                "name": "Cone Sleeve.stl",
+                "title": "Cone Sleeve.stl",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U041K6T5YDA",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 296084,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F04587TBW2Z\/cone_sleeve.stl?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F04587TBW2Z\/download\/cone_sleeve.stl?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U041K6T5YDA\/F04587TBW2Z\/cone_sleeve.stl",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F04587TBW2Z-33969c00df",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U041K6T5YDA",
+        "display_as_bot": false,
+        "ts": "1665009464.009609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C9I2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cone Sleeve design is ready for printing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "bed8f9c4-d40f-4d0c-af52-832a20002d4f"
+    },
+    {
+        "client_msg_id": "335fcf7e-8e4a-4c6b-ba59-0fe0248a6714",
+        "type": "message",
+        "text": "<@U01BCRC513K>\n<@U041A549GUW> needs access to the 2022-2023 season on Fusion to work on 3D design, could you give him access when you have time?\nHis username is just David Ricardo",
+        "user": "U041K6T5YDA",
+        "ts": "1665011522.226039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9q3qc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01BCRC513K"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U041A549GUW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " needs access to the 2022-2023 season on Fusion to work on 3D design, could you give him access when you have time?\nHis username is just David Ricardo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "9e0866b73ea5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-09-10\/4061187148933_9e0866b73ea5f5924c57_72.jpg",
+            "first_name": "Earnest",
+            "real_name": "Earnest Wheelwright",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "ear.whe000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

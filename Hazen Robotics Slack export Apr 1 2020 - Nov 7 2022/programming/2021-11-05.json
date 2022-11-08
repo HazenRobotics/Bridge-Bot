@@ -1,0 +1,367 @@
+[
+    {
+        "client_msg_id": "9b4170e7-8833-40f1-85d2-82380083de8a",
+        "type": "message",
+        "text": "<https:\/\/www.desmos.com\/calculator\/0weieqcrbb>",
+        "user": "U0118UR0J72",
+        "ts": "1636141461.030800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5T0a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.desmos.com\/calculator\/0weieqcrbb"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.desmos.com\/calculator\/0weieqcrbb",
+                "service_name": "Desmos",
+                "title": "Robot Starting Position",
+                "title_link": "https:\/\/www.desmos.com\/calculator\/0weieqcrbb",
+                "text": "Robot Starting Position",
+                "image_url": "https:\/\/saved-work.desmos.com\/calc_thumbs\/production\/0weieqcrbb.png",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 8484,
+                "fallback": "Desmos: Robot Starting Position",
+                "service_icon": "https:\/\/www.desmos.com\/assets\/img\/apple-touch-icon-precomposed.png",
+                "id": 1,
+                "original_url": "https:\/\/www.desmos.com\/calculator\/0weieqcrbb"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ed31446b-e790-44f9-849c-8d9bfa657635",
+        "type": "message",
+        "text": "`motor.setMode(STOP_AND_RESET_ENCODER);`\n`motor.setMode(RUN_USING_ENCODER);`\n`motor.setTargetPosition(numEncoderTicks);`\n`motor.setPower(power);`",
+        "user": "U0118UR0J72",
+        "ts": "1636157100.031300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OtS1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "motor.setMode(STOP_AND_RESET_ENCODER);",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "motor.setMode(RUN_USING_ENCODER);",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "motor.setTargetPosition(numEncoderTicks);",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "motor.setPower(power);",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0118UR0J72",
+            "ts": "1636157299.000000"
+        }
+    },
+    {
+        "client_msg_id": "1351D256-EDA1-4A06-88A1-BED4AA7A642B",
+        "type": "message",
+        "text": "Ayo are y’all still there?",
+        "user": "U012BUXVC6B",
+        "ts": "1636167635.031900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ql4VJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ayo are y’all still there?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "78d307f7-0d49-449d-97a5-23b0e48d949b",
+        "type": "message",
+        "text": "Yes",
+        "user": "U018WC9RM3K",
+        "ts": "1636168176.032100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jU1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5514bde9-23df-4ef3-b420-9777cbccfc17",
+        "type": "message",
+        "text": "<@U0119239VCY> we should have tested values at an orientation on 0 degrees rotation",
+        "user": "U018WC9RM3K",
+        "ts": "1636170154.034600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CLB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we should have tested values at an orientation on 0 degrees rotation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3e38382d-9982-4222-aa82-4eafa764e1ce",
+        "type": "message",
+        "text": "If the values in a different position with 0 rotation are accurate then we know for sure it is the rotational x, y components causing the position to be off.",
+        "user": "U018WC9RM3K",
+        "ts": "1636170409.037300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "33MPE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If the values in a different position with 0 rotation are accurate then we know for sure it is the rotational x, y components causing the position to be off."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "17e71459-216d-4c3d-b6f7-4ff453f6e489",
+        "type": "message",
+        "text": "I did try that, the problem is that the rotation value comes from the camera angle which we don't have control over",
+        "user": "U0119239VCY",
+        "ts": "1636171199.038200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fMqw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I did try that, the problem is that the rotation value comes from the camera angle which we don't have control over"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "73F472D4-9AC8-4F38-85E4-3947BC2B9EE1",
+        "type": "message",
+        "text": "Thanks for the hard work today y'all, we’ll get whatever nonsense this is figured out ",
+        "user": "U012BUXVC6B",
+        "ts": "1636177786.038800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B8D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the hard work today y'all, we’ll get whatever nonsense this is figured out "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

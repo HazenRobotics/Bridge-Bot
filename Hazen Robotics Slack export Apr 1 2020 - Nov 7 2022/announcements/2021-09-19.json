@@ -1,0 +1,1207 @@
+[
+    {
+        "client_msg_id": "18487593-60d1-49b9-902c-12eb7d475911",
+        "type": "message",
+        "text": "Hmm we should have done robot in 3 day",
+        "user": "U012BUXVC6B",
+        "ts": "1632080271.129400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iKq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hmm we should have done robot in 3 day"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c262b033-5681-4ccd-b98e-600ef49703d7",
+        "type": "message",
+        "text": "what do you mean?",
+        "user": "U01BCRC513K",
+        "ts": "1632080304.129700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dk\/q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what do you mean?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g1a3742ccdba",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a3742ccdbaa11b20e19f18ba9c093d7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Alex Ross",
+            "display_name": "Alex Ross",
+            "team": "T010YRDV4KB",
+            "name": "ale.ros001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ad8c0890-c7ad-4c43-b635-531e2c636821",
+        "type": "message",
+        "text": "**3 days*?*",
+        "user": "U0118UR0J72",
+        "ts": "1632080331.130700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EziSV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "*3 days*?",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2f3bb6a6-1733-453c-b91f-ec4528321db5",
+        "type": "message",
+        "text": "It's a pretty common things in first, skilled teams and alums will challenge themselves to design and build a robot in 3 days or 30 hours after the game is released",
+        "user": "U012BUXVC6B",
+        "ts": "1632080365.131500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J59",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's a pretty common things in first, skilled teams and alums will challenge themselves to design and build a robot in 3 days or 30 hours after the game is released"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f084a804-1c03-407c-99d3-49dd68b8169e",
+        "type": "message",
+        "text": "Also, I think we should try a 3 dead wheel encoder setup this year. (And we might not have to use the motor encoders)",
+        "user": "U0118UR0J72",
+        "ts": "1632080459.133800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5BEF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, I think we should try a 3 dead wheel encoder setup this year. (And we might not have to use the motor encoders)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632080459.133800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1632080768.134800",
+        "reply_users": [
+            "U012BUXVC6B",
+            "U0118UR0J72"
+        ],
+        "replies": [
+            {
+                "user": "U012BUXVC6B",
+                "ts": "1632080573.134600"
+            },
+            {
+                "user": "U0118UR0J72",
+                "ts": "1632080768.134800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d584aaea-6f82-4f2c-af59-63031fc8ab6a",
+        "type": "message",
+        "text": "yeah but it is usually just a prototype before they start making massive changes, kind of just a base model that they make their real robot from but i am up for that",
+        "user": "U01BCRC513K",
+        "ts": "1632080461.133900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lIY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah but it is usually just a prototype before they start making massive changes, kind of just a base model that they make their real robot from but i am up for that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g1a3742ccdba",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1a3742ccdbaa11b20e19f18ba9c093d7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Alex Ross",
+            "display_name": "Alex Ross",
+            "team": "T010YRDV4KB",
+            "name": "ale.ros001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "608451EF-B17B-4444-83C8-415053EFDF4A",
+        "type": "message",
+        "text": "Bet! The chassis I’m working on makes it easy, and dylan’s got some new odometry pods we should test this week",
+        "user": "U012BUXVC6B",
+        "ts": "1632080573.134600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ANd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bet! The chassis I’m working on makes it easy, and dylan’s got some new odometry pods we should test this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632080459.133800",
+        "parent_user_id": "U0118UR0J72"
+    },
+    {
+        "client_msg_id": "ba3c8ad2-e528-4192-baa1-1256df5424f9",
+        "type": "message",
+        "text": "Dope",
+        "user": "U0118UR0J72",
+        "ts": "1632080768.134800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ghh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dope"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632080459.133800",
+        "parent_user_id": "U0118UR0J72"
+    },
+    {
+        "client_msg_id": "e33148f3-db7d-4e1c-8d1b-3022fc740fe3",
+        "type": "message",
+        "text": "<!everyone> for all of ya'll who weren't here yesterday, the game video is out! Make sure you watch it a bunch of times here\n    <https:\/\/www.youtube.com\/watch?v=I6lX12idAf8>\nWe worked out an initial strategy for how we're going to score as many points as possible this year, I've typed it up in a word document below.\n    <https:\/\/rentonschools-my.sharepoint.com\/:w:\/g\/personal\/kpeck1_rentonschools_us\/EQtwJEXt12pImSK327RJkvQB6fmXtTa0i70M9DlaBr_C5w?e=iark01|Initial Strategy.docx>\nThe assignment I gave to everyone was to pick on of the mechanisms we know we'll need for the game this year, and research it. Find multiple examples of FTC or FRC robots using something similar, link them in a word doc, and give some commentary on their design. Pros\/Cons, how it relates to our application, that sort of thing. A good place to start is <https:\/\/gm0.org\/en\/latest\/docs\/robot-design\/index.html|game manual zero>, particularly the linear motion, intake, and drivetrain sections of the robot design page. Beyond that simply googling FTC and the mechanism you need or looking at footage from previous world competitions and researching their robots is awesome. Rover Ruckus was a very similar game to this so start there",
+        "user": "U012BUXVC6B",
+        "ts": "1632082273.142100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SkBQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for all of ya'll who weren't here yesterday, the game video is out! Make sure you watch it a bunch of times here\n    "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=I6lX12idAf8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWe worked out an initial strategy for how we're going to score as many points as possible this year, I've typed it up in a word document below.\n    "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/rentonschools-my.sharepoint.com\/:w:\/g\/personal\/kpeck1_rentonschools_us\/EQtwJEXt12pImSK327RJkvQB6fmXtTa0i70M9DlaBr_C5w?e=iark01",
+                                "text": "Initial Strategy.docx",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThe assignment I gave to everyone was to pick on of the mechanisms we know we'll need for the game this year, and research it. Find multiple examples of FTC or FRC robots using something similar, link them in a word doc, and give some commentary on their design. Pros\/Cons, how it relates to our application, that sort of thing. A good place to start is "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gm0.org\/en\/latest\/docs\/robot-design\/index.html",
+                                "text": "game manual zero"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", particularly the linear motion, intake, and drivetrain sections of the robot design page. Beyond that simply googling FTC and the mechanism you need or looking at footage from previous world competitions and researching their robots is awesome. Rover Ruckus was a very similar game to this so start there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "YouTube Video: FREIGHT FRENZY presented by Raytheon Technologies",
+                "from_url": "https:\/\/www.youtube.com\/watch?v=I6lX12idAf8",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "title": "FREIGHT FRENZY presented by Raytheon Technologies",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=I6lX12idAf8",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/I6lX12idAf8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "author_name": "FIRST Tech Challenge",
+                "author_link": "https:\/\/www.youtube.com\/user\/FIRSTTechChallenge",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/I6lX12idAf8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=I6lX12idAf8"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "af2f6b80-d74f-458b-90cd-50a9f44a111b",
+        "type": "message",
+        "text": "YOOOOOOOO ITS THE ROBOT WITH THE EYES",
+        "user": "U01CZUZA4F3",
+        "ts": "1632082799.143100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=63t3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YOOOOOOOO ITS THE ROBOT WITH THE EYES"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "2340daecb5c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-14\/1429586810659_2340daecb5c97157acec_72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Nguyen",
+            "display_name": "Derek Nguyen",
+            "team": "T010YRDV4KB",
+            "name": "derek.nguyen1028",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "212d6d1d-3965-4005-834b-b6b37381eeed",
+        "type": "message",
+        "text": "has our field been delivered? i've been looking at r\/FTC and i'm seeing some teams with robots practicing on the official fields",
+        "user": "U022WGTQ602",
+        "ts": "1632103667.144100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pOWHx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "has our field been delivered? i've been looking at r\/FTC and i'm seeing some teams with robots practicing on the official fields"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1632103676.000000"
+        }
+    },
+    {
+        "client_msg_id": "f242b757-d5c9-498d-9a40-30a535b6a8bf",
+        "type": "message",
+        "text": "We ordered it Thursday I think.",
+        "user": "U0118UR0J72",
+        "ts": "1632103688.144600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kQz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We ordered it Thursday I think."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fbaa7144-a947-439d-8b74-94db6318c068",
+        "type": "message",
+        "text": "We ordered it in may",
+        "user": "U018WC9RM3K",
+        "ts": "1632105233.145200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iM\/ts",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We ordered it in may"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f0632820-0941-490a-a463-e3284a57f81d",
+        "type": "message",
+        "text": "when is it arriving then?",
+        "user": "U022WGTQ602",
+        "ts": "1632105250.145900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xys",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "when is it arriving then?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1632105261.000000"
+        }
+    },
+    {
+        "client_msg_id": "55c43e4a-3292-47f7-b9ee-5e7e70faf847",
+        "type": "message",
+        "text": "I have to check tomorrow on when it is getting delivered",
+        "user": "U018WC9RM3K",
+        "ts": "1632105261.146100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mOecy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have to check tomorrow on when it is getting delivered"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7d5c47e4-5cc7-4348-a9a5-f6bcd8ff7320",
+        "type": "message",
+        "text": "There was no information on the order page",
+        "user": "U018WC9RM3K",
+        "ts": "1632105284.146900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tCdAz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There was no information on the order page"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6a38660b-30e4-45c3-9809-db8b61786817",
+        "type": "message",
+        "text": "Oh dang",
+        "user": "U0118UR0J72",
+        "ts": "1632105652.147100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hq3SE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh dang"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ca820e90-a1b6-44be-af44-2ac0f76ab692",
+        "type": "message",
+        "text": "also we may want to get some sort of word\/google document to summarize parts of gm1 &amp; 2 that includes stuff like freight item weights and shipping hubs heights",
+        "user": "U022WGTQ602",
+        "ts": "1632105949.148100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jK1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also we may want to get some sort of word\/google document to summarize parts of gm1 & 2 that includes stuff like freight item weights and shipping hubs heights"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "37e615fd-c6fd-47a8-8322-d0a6ec26f5e4",
+        "type": "message",
+        "text": "we would probably just take the individual pages from them",
+        "user": "U018B1TFE3Y",
+        "ts": "1632106533.148900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EsL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we would probably just take the individual pages from them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f6cea4e7-257e-4fcd-8aa6-4eb6a0a4b9fc",
+        "type": "message",
+        "text": "me might print them out at some point",
+        "user": "U018B1TFE3Y",
+        "ts": "1632106548.149100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZIG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "me might print them out at some point"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "d57fceec8e8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2529071155700_d57fceec8e8f3cab6531_72.jpg",
+            "first_name": "Dylan",
+            "real_name": "Dylan Chiang",
+            "display_name": "Dylan Chiang",
+            "team": "T010YRDV4KB",
+            "name": "dylan.2003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7540ED1F-7BCA-4E3F-826D-0AC9EABDA451",
+        "type": "message",
+        "text": "I’m kinda down to print out GM2",
+        "user": "U012BUXVC6B",
+        "ts": "1632106567.149500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Blz1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m kinda down to print out GM2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2741B886-1886-4AF5-B893-A9B1FB734BA3",
+        "type": "message",
+        "text": "It might be useful and it’s the schools money anyways ",
+        "user": "U012BUXVC6B",
+        "ts": "1632106578.149900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1y0P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It might be useful and it’s the schools money anyways "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f2ac24e0-f9cf-4666-9993-52bbe3e28385",
+        "type": "message",
+        "text": "what would be the point of printing it? since the pdf has stuff like ctrl+f which paper obviously doesn't have",
+        "user": "U022WGTQ602",
+        "ts": "1632106610.150500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IGg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what would be the point of printing it? since the pdf has stuff like ctrl+f which paper obviously doesn't have"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "431d1309-e83b-426d-a3f5-fc9e7a08f896",
+        "type": "message",
+        "text": "I'm old and like paper",
+        "user": "U012BUXVC6B",
+        "ts": "1632106624.150700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8C+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm old and like paper"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a41ff69c-6cd3-42bc-97d2-e3725c29d850",
+        "type": "message",
+        "text": "fair enough",
+        "user": "U022WGTQ602",
+        "ts": "1632106632.150900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o=eWz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "fair enough"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U012BUXVC6B> right now out of all the chassis ideas that have been proposed this is probably the best one, so other than the chassis issue the big issue is how are we going to get the intake\/claw going? What designs are we all thinking of for this?",
+        "files": [
+            {
+                "id": "F02EYASL0BC",
+                "created": 1632104413,
+                "timestamp": 1632104413,
+                "name": "Basic_Mecanum_2021-Sep-20_01-56-30AM-000_CustomizedView18692099242_png.png",
+                "title": "Basic_Mecanum_2021-Sep-20_01-56-30AM-000_CustomizedView18692099242_png.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U012BUXVC6B",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 6885002,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02EYASL0BC\/basic_mecanum_2021-sep-20_01-56-30am-000_customizedview18692099242_png.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F02EYASL0BC\/download\/basic_mecanum_2021-sep-20_01-56-30am-000_customizedview18692099242_png.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02EYASL0BC-009ef9fa80\/basic_mecanum_2021-sep-20_01-56-30am-000_customizedview18692099242_png_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02EYASL0BC-009ef9fa80\/basic_mecanum_2021-sep-20_01-56-30am-000_customizedview18692099242_png_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02EYASL0BC-009ef9fa80\/basic_mecanum_2021-sep-20_01-56-30am-000_customizedview18692099242_png_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02EYASL0BC-009ef9fa80\/basic_mecanum_2021-sep-20_01-56-30am-000_customizedview18692099242_png_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02EYASL0BC-009ef9fa80\/basic_mecanum_2021-sep-20_01-56-30am-000_customizedview18692099242_png_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02EYASL0BC-009ef9fa80\/basic_mecanum_2021-sep-20_01-56-30am-000_customizedview18692099242_png_720.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02EYASL0BC-009ef9fa80\/basic_mecanum_2021-sep-20_01-56-30am-000_customizedview18692099242_png_800.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02EYASL0BC-009ef9fa80\/basic_mecanum_2021-sep-20_01-56-30am-000_customizedview18692099242_png_960.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F02EYASL0BC-009ef9fa80\/basic_mecanum_2021-sep-20_01-56-30am-000_customizedview18692099242_png_1024.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 4000,
+                "original_h": 3000,
+                "thumb_tiny": "AwAkADCEooYjnj3o2r6fzp5RmYngZPTNNkUoMk0AJtHp+tG0en60qBSDuYinqQrfLQAzYCPu8UmxfSrJk4PQHHWgOMHaBz3pXYyNm2jPbufSm5DpuZgQPSnOu4Ac8HPFN8thnbgE8Zx0piFKpkjaDx0HWlPy44I7fdzmkEZHO7n24pdnvQBG2ccAA56jkihZQg+enGBSe9MNuV5jb8DQBOKWkpaACiiigApKWkoA\/9k=",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U012BUXVC6B\/F02EYASL0BC\/basic_mecanum_2021-sep-20_01-56-30am-000_customizedview18692099242_png.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F02EYASL0BC-d03c1e9cbf",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U01BCRC513K",
+        "display_as_bot": false,
+        "ts": "1632106871.151000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ToWB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012BUXVC6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " right now out of all the chassis ideas that have been proposed this is probably the best one, so other than the chassis issue the big issue is how are we going to get the intake\/claw going? What designs are we all thinking of for this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dbfe8fbd-3f15-469e-aaf8-a23264c49265",
+        "type": "message",
+        "text": "Ethan has been working on something over the past week, although it's likely going to need to be reworked now that we know of the barriers",
+        "user": "U012BUXVC6B",
+        "ts": "1632116407.151900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XXW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ethan has been working on something over the past week, although it's likely going to need to be reworked now that we know of the barriers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "28f7e41d-b4cd-4f16-a244-d6003817627d",
+        "type": "message",
+        "text": "Also <@U018B1TFE3Y> is going to be done with his other responsibilities this week and can start working as design lead full time so that'll help",
+        "user": "U012BUXVC6B",
+        "ts": "1632116447.152800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=TRE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U018B1TFE3Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is going to be done with his other responsibilities this week and can start working as design lead full time so that'll help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

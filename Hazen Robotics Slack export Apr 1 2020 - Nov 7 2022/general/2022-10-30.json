@@ -1,0 +1,495 @@
+[
+    {
+        "client_msg_id": "2b8454e3-a917-4e47-86db-45d85f120b0e",
+        "type": "message",
+        "text": "do we have robot?",
+        "user": "U02DWDDVAP7",
+        "ts": "1667141315.547859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/ABTZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do we have robot?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "hank",
+                "users": [
+                    "U02EA7L1KGT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E65B2CF9-F4EB-498A-BE16-47475C976691",
+        "type": "message",
+        "text": "<@U018WC9RM3K> the best way to wire this, especially if y’all put the expansion hub on the turret is a slip ring ",
+        "user": "U012BUXVC6B",
+        "ts": "1667185460.198929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mRtjl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U018WC9RM3K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the best way to wire this, especially if "
+                            },
+                            {
+                                "type": "text",
+                                "text": "y’all"
+                            },
+                            {
+                                "type": "text",
+                                "text": " put the expansion hub on the turret is a slip ring "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "CD569AA5-B7F6-4C60-BF71-CD48F24474FA",
+        "type": "message",
+        "text": "<https:\/\/www.adafruit.com\/product\/736?gclid=Cj0KCQjwwfiaBhC7ARIsAGvcPe6uEcSMZV4R2DktR-o7jXETKYr2VSFBUUO_nzjWP0sh6-Vkr93T3dgaAjK0EALw_wcB|https:\/\/www.adafruit.com\/product\/736?gclid=Cj0KCQjwwfiaBhC7ARIsAGvcPe6uEcSMZV4R2DktR-o7jXETKYr2VSFBUUO_nzjWP0sh6-Vkr93T3dgaAjK0EALw_wcB>",
+        "user": "U012BUXVC6B",
+        "ts": "1667185462.052689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cjpWu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.adafruit.com\/product\/736?gclid=Cj0KCQjwwfiaBhC7ARIsAGvcPe6uEcSMZV4R2DktR-o7jXETKYr2VSFBUUO_nzjWP0sh6-Vkr93T3dgaAjK0EALw_wcB",
+                                "text": "https:\/\/www.adafruit.com\/product\/736?gclid=Cj0KCQjwwfiaBhC7ARIsAGvcPe6uEcSMZV4R2DktR-o7jXETKYr2VSFBUUO_nzjWP0sh6-Vkr93T3dgaAjK0EALw_wcB"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.adafruit.com\/product\/736?gclid=Cj0KCQjwwfiaBhC7ARIsAGvcPe6uEcSMZV4R2DktR-o7jXETKYr2VSFBUUO_nzjWP0sh6-Vkr93T3dgaAjK0EALw_wcB",
+                "thumb_url": "https:\/\/www.adafruit.com\/images\/480x360\/736-05.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "service_icon": "https:\/\/cdn-shop.adafruit.com\/static\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.adafruit.com\/product\/736?gclid=Cj0KCQjwwfiaBhC7ARIsAGvcPe6uEcSMZV4R2DktR-o7jXETKYr2VSFBUUO_nzjWP0sh6-Vkr93T3dgaAjK0EALw_wcB",
+                "fallback": "Slip Ring with Flange - 22mm diameter, 6 wires, max 240V @ 2A",
+                "text": "With a slip ring assembly, your electronics can now twist and turn safely. Add wheel encoders, 360 degree sensors, rotating LEDs, rotors and more! We&amp;#39;ve seen a lot of people DIY slip ...",
+                "title": "Slip Ring with Flange - 22mm diameter, 6 wires, max 240V @ 2A",
+                "title_link": "https:\/\/www.adafruit.com\/product\/736?gclid=Cj0KCQjwwfiaBhC7ARIsAGvcPe6uEcSMZV4R2DktR-o7jXETKYr2VSFBUUO_nzjWP0sh6-Vkr93T3dgaAjK0EALw_wcB",
+                "service_name": "adafruit.com",
+                "fields": [
+                    {
+                        "value": "$14.95 USD",
+                        "title": "Price",
+                        "short": true
+                    },
+                    {
+                        "value": "1 in stock",
+                        "title": "Stock",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7DF169F2-790B-4D0F-9504-FFAF5F4DEFA8",
+        "type": "message",
+        "text": "Unfortunately it’s a little too late for that",
+        "user": "U02EA7L1KGT",
+        "ts": "1667185570.336579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TENEL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Unfortunately it’s a little too late for that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "3b24be10b035",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-26\/4305995690752_3b24be10b035098cd409_72.png",
+            "first_name": "Asher",
+            "real_name": "Asher Stocker",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "asherstocker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "27abcbe6-6ce8-43aa-a8d9-69e0ada13c96",
+        "type": "message",
+        "text": "Next design",
+        "user": "U018WC9RM3K",
+        "ts": "1667185593.824249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sAMm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Next design"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667185593.824249",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1667185603.651239",
+        "reply_users": [
+            "U02EA7L1KGT"
+        ],
+        "replies": [
+            {
+                "user": "U02EA7L1KGT",
+                "ts": "1667185603.651239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "D864C096-B214-4E1B-B13F-5A3EC8FF58E7",
+        "type": "message",
+        "text": "Even if we had one ready to use by now, we just got the turret working with a central axle",
+        "user": "U02EA7L1KGT",
+        "ts": "1667185596.363849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TQ5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Even if we had one ready to use by now, we just got the turret working with a central axle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "3b24be10b035",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-26\/4305995690752_3b24be10b035098cd409_72.png",
+            "first_name": "Asher",
+            "real_name": "Asher Stocker",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "asherstocker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "756A39E9-3EE1-4081-BE32-7316C2B81500",
+        "type": "message",
+        "text": "For sure",
+        "user": "U02EA7L1KGT",
+        "ts": "1667185603.651239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e7IN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "3b24be10b035",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-26\/4305995690752_3b24be10b035098cd409_72.png",
+            "first_name": "Asher",
+            "real_name": "Asher Stocker",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "asherstocker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1667185593.824249",
+        "parent_user_id": "U018WC9RM3K"
+    },
+    {
+        "client_msg_id": "F5674BE0-2516-4ABE-B9CB-60E85D1BDC04",
+        "type": "message",
+        "text": "Ahhhh ok",
+        "user": "U012BUXVC6B",
+        "ts": "1667185649.675829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=ww3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahhhh ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "C1A0F4EA-D1CC-4EDB-B804-9645FD4AE18B",
+        "type": "message",
+        "text": "You can get them with a through bore ",
+        "user": "U012BUXVC6B",
+        "ts": "1667185654.835639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hHT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can get them with a through bore "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1956BFB1-CF73-4EBF-89A0-FE4853C1EB3D",
+        "type": "message",
+        "text": "Just worth keeping in mind, until then if you haven’t already implant somethin in tele op to keep it from rotating indefinitely ",
+        "user": "U012BUXVC6B",
+        "ts": "1667185687.970399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WozdZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just worth keeping in mind, until then if you "
+                            },
+                            {
+                                "type": "text",
+                                "text": "haven’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " already implant somethin in tele op to keep it from rotating indefinitely "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F85D55DC-F638-48B4-85A7-2B7D35651B06",
+        "type": "message",
+        "text": "Thats doable",
+        "user": "U02EA7L1KGT",
+        "ts": "1667185765.055129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "06=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thats doable"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "3b24be10b035",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-26\/4305995690752_3b24be10b035098cd409_72.png",
+            "first_name": "Asher",
+            "real_name": "Asher Stocker",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "asherstocker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

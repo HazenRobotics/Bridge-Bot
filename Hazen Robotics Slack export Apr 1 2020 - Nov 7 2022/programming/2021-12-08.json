@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "8c9ec207-80ff-430e-a2eb-c82ec3ffd771",
+        "type": "message",
+        "text": "we'll probably want to check this out for third comp\/the EP <http:\/\/firsttechchallenge.blogspot.com\/2021\/12\/first-tech-challenge-machine-learning.html> for TF stuff since their tool finally got released",
+        "user": "U022WGTQ602",
+        "ts": "1639034088.135700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HYsr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we'll probably want to check this out for third comp\/the EP "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/firsttechchallenge.blogspot.com\/2021\/12\/first-tech-challenge-machine-learning.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for TF stuff since their tool finally got released"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "http:\/\/firsttechchallenge.blogspot.com\/2021\/12\/first-tech-challenge-machine-learning.html",
+                "image_url": "https:\/\/1.bp.blogspot.com\/-hsvdHuK6boM\/YafCrVqVXWI\/AAAAAAAACD0\/fmrnI1Z7VdQ0ndiy5df1zOowLBUhFFbugCLcBGAsYHQ\/w1200-h630-p-k-no-nu\/ftcml.JPG",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 83132,
+                "service_icon": "http:\/\/firsttechchallenge.blogspot.com\/favicon.ico",
+                "id": 1,
+                "original_url": "http:\/\/firsttechchallenge.blogspot.com\/2021\/12\/first-tech-challenge-machine-learning.html",
+                "fallback": "FIRST Tech Challenge Machine Learning (ftc-ml) Toolchain for TensorFlow",
+                "text": "The official blog of the FIRST Tech Challenge - a STEM robotics programs for students grades 7-12.",
+                "title": "FIRST Tech Challenge Machine Learning (ftc-ml) Toolchain for TensorFlow",
+                "title_link": "http:\/\/firsttechchallenge.blogspot.com\/2021\/12\/first-tech-challenge-machine-learning.html",
+                "service_name": "firsttechchallenge.blogspot.com"
+            }
+        ]
+    }
+]

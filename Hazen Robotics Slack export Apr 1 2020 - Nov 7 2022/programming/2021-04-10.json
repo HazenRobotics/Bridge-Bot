@@ -1,0 +1,486 @@
+[
+    {
+        "client_msg_id": "1b925962-e0cc-4ab6-a4f8-1a5bc2169a7e",
+        "type": "message",
+        "text": "There's a way to make it go slower for specific trajectories and will only apply to the one movement if that's what you want, I think it's explained somewhere on that learn road runner website",
+        "user": "U0119239VCY",
+        "ts": "1618068372.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rhCT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There's a way to make it go slower for specific trajectories and will only apply to the one movement if that's what you want, I think it's explained somewhere on that learn road runner website"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "161cf0c9-9fad-4656-8c50-c5a882f8ee99",
+        "type": "message",
+        "text": "That may work. For four ring we want it to really fast in some places and a bit slow in others. Right no we have a full points autonomous with 4 rings but we need to shave off 8 to 10 seconds. Some ideas: picking up and shooting stack can be faster, recognize stack in int, and faster servo to shoot faster. <@U012BUXVC6B> do you need me to order the servo? If so send me the link",
+        "user": "U018WC9RM3K",
+        "ts": "1618068623.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b4R\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That may work. For four ring we want it to really fast in some places and a bit slow in others. Right no we have a full points autonomous with 4 rings but we need to shave off 8 to 10 seconds. Some ideas: picking up and shooting stack can be faster, recognize stack in int, and faster servo to shoot faster. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012BUXVC6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you need me to order the servo? If so send me the link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "34249c3e-93c6-4956-8377-1048a507a6a3",
+        "type": "message",
+        "text": "We could also do a little bit of gearing on the servo to get the pusher to go faster as well if that would be easier than finding a faster servo",
+        "user": "U0119239VCY",
+        "ts": "1618068779.000300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2k=oq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We could also do a little bit of gearing on the servo to get the pusher to go faster as well if that would be easier than finding a faster servo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0225ff5c-08da-4da5-9dc0-f794a6e0379a",
+        "type": "message",
+        "text": "Also if pid tuning went well and the robot is moving really accurately, we could experiment with creating trajectories where it does stuff while moving so it won't take as much time with decelerating and accelerating after each movement",
+        "user": "U0119239VCY",
+        "ts": "1618068908.000400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FDwh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also if pid tuning went well and the robot is moving really accurately, we could experiment with creating trajectories where it does stuff while moving so it won't take as much time with decelerating and accelerating after each movement"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "13aeb40a-929f-4051-94ec-8f6e6a817e5c",
+        "type": "message",
+        "text": "Yeah, we figured if we got at least somthing working the getting it to go faster would not take as long",
+        "user": "U018WC9RM3K",
+        "ts": "1618068991.000500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wvvXe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, we figured if we got at least somthing working the getting it to go faster would not take as long"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c526bc9d-ee1a-40bd-a22d-170f84aa69f5",
+        "type": "message",
+        "text": "Did you need to change the coordinates in the code for auto to make it work after you did the tuning or is it still using the same ones?",
+        "user": "U0119239VCY",
+        "ts": "1618069823.000600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ln0v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Did you need to change the coordinates in the code for auto to make it work after you did the tuning or is it still using the same ones?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b21d4c32-aef2-406b-9e96-8ee32492a461",
+        "type": "message",
+        "text": "Yes, we did the tune with a medium charged battery and realized that when we had a new battery things were a bit off so we were think to do two or three runnings and based off the battery use a slightly different one. It may be good for you to do the tuning again.",
+        "user": "U018WC9RM3K",
+        "ts": "1618069953.000700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nr0Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, we did the tune with a medium charged battery and realized that when we had a new battery things were a bit off so we were think to do two or three runnings and based off the battery use a slightly different one. It may be good for you to do the tuning again."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8f4f0941-1ffe-4306-9481-f98143b6b676",
+        "type": "message",
+        "text": "Two or three tunings",
+        "user": "U018WC9RM3K",
+        "ts": "1618070003.000800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Df",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Two or three tunings"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "884B16B7-F59E-4D97-8B74-131F2EA23B8A",
+        "type": "message",
+        "text": "Here’s a link to the fastest servo, if we think it’s worth the money to two day ship it out here it might buy us a second or two",
+        "user": "U012BUXVC6B",
+        "ts": "1618079516.001300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9CPe4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here’s a link to the fastest servo, if we think it’s worth the money to two day ship it out here it might buy us a second or two"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2F8DA05B-7E0F-4579-B656-762FC66E6D0E",
+        "type": "message",
+        "text": "<https:\/\/www.gobilda.com\/2000-series-dual-mode-servo-25-4-super-speed\/|https:\/\/www.gobilda.com\/2000-series-dual-mode-servo-25-4-super-speed\/>",
+        "user": "U012BUXVC6B",
+        "ts": "1618079519.001500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wHMu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.gobilda.com\/2000-series-dual-mode-servo-25-4-super-speed\/",
+                                "text": "https:\/\/www.gobilda.com\/2000-series-dual-mode-servo-25-4-super-speed\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "goBILDA",
+                "title": "2000 Series Dual Mode Servo (25-4, Super Speed)",
+                "title_link": "https:\/\/www.gobilda.com\/2000-series-dual-mode-servo-25-4-super-speed\/",
+                "text": "goBILDA is a modern build system designed for engineers, artists, students and makers. It's metric, lightweight, and has an ever-growing library of parts",
+                "fallback": "goBILDA: 2000 Series Dual Mode Servo (25-4, Super Speed)",
+                "thumb_url": "https:\/\/cdn11.bigcommerce.com\/s-eem7ijc77k\/products\/2194\/images\/26512\/2000-0025-0004__92265.1599851526.500.750.jpg?c=2",
+                "from_url": "https:\/\/www.gobilda.com\/2000-series-dual-mode-servo-25-4-super-speed\/",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "id": 1,
+                "original_url": "https:\/\/www.gobilda.com\/2000-series-dual-mode-servo-25-4-super-speed\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C15EDD3F-EA9A-45CF-8054-4012A27FDC57",
+        "type": "message",
+        "text": "Actually shipping is a touch cheaper here \n\n<https:\/\/www.servocity.com\/2000-series-dual-mode-servo-25-4-super-speed\/|https:\/\/www.servocity.com\/2000-series-dual-mode-servo-25-4-super-speed\/>\n\nAnd we can grab these \n\n<https:\/\/www.servocity.com\/32-pitch-24-tooth-6mm-bore-bevel-gear\/|https:\/\/www.servocity.com\/32-pitch-24-tooth-6mm-bore-bevel-gear\/>",
+        "user": "U012BUXVC6B",
+        "ts": "1618080438.002400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D=IFY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Actually shipping is a touch cheaper here \n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.servocity.com\/2000-series-dual-mode-servo-25-4-super-speed\/",
+                                "text": "https:\/\/www.servocity.com\/2000-series-dual-mode-servo-25-4-super-speed\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAnd we can grab these \n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.servocity.com\/32-pitch-24-tooth-6mm-bore-bevel-gear\/",
+                                "text": "https:\/\/www.servocity.com\/32-pitch-24-tooth-6mm-bore-bevel-gear\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ServoCity",
+                "title": "2000 Series Dual Mode Servo (25-4, Super Speed)",
+                "title_link": "https:\/\/www.servocity.com\/2000-series-dual-mode-servo-25-4-super-speed\/",
+                "text": "Welcome to ServoCity where you can get the parts you need to bring your ideas to life! From servos to switches, from actuators to Actobotics, we work hard to bring you the best components backed by unparalleled technical support",
+                "fallback": "ServoCity: 2000 Series Dual Mode Servo (25-4, Super Speed)",
+                "thumb_url": "https:\/\/cdn11.bigcommerce.com\/s-tnsp6i3ma6\/products\/10474\/images\/24302\/2000-0025-0004__13878.1600959994.386.513.jpg?c=2",
+                "from_url": "https:\/\/www.servocity.com\/2000-series-dual-mode-servo-25-4-super-speed\/",
+                "thumb_width": 386,
+                "thumb_height": 386,
+                "id": 1,
+                "original_url": "https:\/\/www.servocity.com\/2000-series-dual-mode-servo-25-4-super-speed\/"
+            },
+            {
+                "service_name": "ServoCity",
+                "title": "32 Pitch, 24 Tooth (6mm Bore) Bevel Gear",
+                "title_link": "https:\/\/www.servocity.com\/32-pitch-24-tooth-6mm-bore-bevel-gear\/",
+                "text": "Welcome to ServoCity where you can get the parts you need to bring your ideas to life! From servos to switches, from actuators to Actobotics, we work hard to bring you the best components backed by unparalleled technical support",
+                "fallback": "ServoCity: 32 Pitch, 24 Tooth (6mm Bore) Bevel Gear",
+                "thumb_url": "https:\/\/cdn11.bigcommerce.com\/s-tnsp6i3ma6\/products\/4314\/images\/19612\/615406__83344.1582660722.386.513.jpg?c=2",
+                "from_url": "https:\/\/www.servocity.com\/32-pitch-24-tooth-6mm-bore-bevel-gear\/",
+                "thumb_width": 386,
+                "thumb_height": 386,
+                "id": 2,
+                "original_url": "https:\/\/www.servocity.com\/32-pitch-24-tooth-6mm-bore-bevel-gear\/"
+            }
+        ]
+    }
+]

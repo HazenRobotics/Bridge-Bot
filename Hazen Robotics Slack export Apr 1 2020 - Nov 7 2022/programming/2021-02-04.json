@@ -1,0 +1,3193 @@
+[
+    {
+        "client_msg_id": "c209642f-983f-4d79-8c28-b9e7c4664c58",
+        "type": "message",
+        "text": "Oh, did you uninstall the old app on the phone?",
+        "user": "U0118UR0J72",
+        "ts": "1612426536.034800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FRQs7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh, did you uninstall the old app on the phone?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0118UR0J72",
+            "ts": "1612426550.000000"
+        }
+    },
+    {
+        "client_msg_id": "1AE5743D-0CF9-44F2-AD5D-5FFF46DD3852",
+        "type": "message",
+        "text": "Yup",
+        "user": "U012BUXVC6B",
+        "ts": "1612427956.035200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kiifl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E5A8841B-DF3A-45A2-AEB1-5A9EF9B3E706",
+        "type": "message",
+        "text": "The issue is that the last two release of the app don’t support android 4.4 I think",
+        "user": "U012BUXVC6B",
+        "ts": "1612427971.035800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UdKd5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The issue is that the last two release of the app don’t support android 4.4 I think"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "25664393-8b74-467c-a794-e48159d26e7c",
+        "type": "message",
+        "text": "Android 4.4? Dang, how old is that?",
+        "user": "U0118UR0J72",
+        "ts": "1612428015.037700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MZ1j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Android 4.4? Dang, how old is that?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "67AEE5A5-5725-43DE-9360-4D6B2DC6028D",
+        "type": "message",
+        "text": "Could build our own version from he source code that would, I’ve been trying to do that for a little while and can’t figure it out because I don’t know android studio ",
+        "user": "U012BUXVC6B",
+        "ts": "1612428022.038100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3PWwo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Could build our own version from he source code that would, I’ve been trying to do that for a little while and can’t figure it out because I don’t know android studio "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7F3D08E1-895F-4AAC-A755-AEA99B57B130",
+        "type": "message",
+        "text": "Ancient lmao",
+        "user": "U012BUXVC6B",
+        "ts": "1612428027.038300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I+K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ancient lmao"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B0749200-068B-427E-B075-B52036B63868",
+        "type": "message",
+        "text": "I think we just buy a control hub ",
+        "user": "U012BUXVC6B",
+        "ts": "1612428034.038600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vffzn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think we just buy a control hub "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4d94d9f2-a94d-4607-8729-a4fe991be84d",
+        "type": "message",
+        "text": "Okay",
+        "user": "U0118UR0J72",
+        "ts": "1612428042.038800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iWIA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "64c6cc06-c780-47e5-b088-dfa70403fe88",
+        "type": "message",
+        "text": "I'm good with that.",
+        "user": "U0118UR0J72",
+        "ts": "1612428053.039100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tr9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm good with that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8FB5EDDD-3E17-4B9F-9A97-4484DF73B46A",
+        "type": "message",
+        "text": "Me too ",
+        "user": "U012BUXVC6B",
+        "ts": "1612428313.039300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YPa9I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Me too "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b57002d7-5aab-4f3c-9b5c-3cd31f1bafc0",
+        "type": "message",
+        "text": "<@U012BUXVC6B> Double checking that you're coming over soon? at the garage(",
+        "user": "U0118UR0J72",
+        "ts": "1612461373.040100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wkOXe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012BUXVC6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Double checking that you're coming over soon? at the garage("
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B8021106-B1CF-4B74-915C-5EA61CDC5A6B",
+        "type": "message",
+        "text": "Yeee I’ll be over in half an hour",
+        "user": "U012BUXVC6B",
+        "ts": "1612461399.040500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DVFN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeee I’ll be over in half an hour"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e025a040-375e-4f31-9495-8d93083e943d",
+        "type": "message",
+        "text": "cool",
+        "user": "U0118UR0J72",
+        "ts": "1612461545.040700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a0V0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7E545F43-514A-4111-AF69-A80C8F9CA34C",
+        "type": "message",
+        "text": "In the mean time, could you create a purchase form for a control hub and anything else we need from rev?",
+        "user": "U012BUXVC6B",
+        "ts": "1612462197.041400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6dW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In the mean time, could you create a purchase form for a control hub and anything else we need from rev?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fbaee1eb-bfce-477a-a479-e9bd8de19bf7",
+        "type": "message",
+        "text": "Where do I find the purchase form?",
+        "user": "U0118UR0J72",
+        "ts": "1612462217.041700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eCK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Where do I find the purchase form?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "42C0589F-80DA-420B-971E-B437A44F1A89",
+        "type": "message",
+        "text": "In the budget section of the one note",
+        "user": "U012BUXVC6B",
+        "ts": "1612462235.042100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u+\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In the budget section of the one note"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "578A5EF3-9AD0-46D7-A47B-699AE59FB925",
+        "type": "message",
+        "text": "On my way over ",
+        "user": "U012BUXVC6B",
+        "ts": "1612463954.042600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ev7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On my way over "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d9df418d-27d2-4847-90fb-dfa32a2c87b1",
+        "type": "message",
+        "text": "Okay",
+        "user": "U0118UR0J72",
+        "ts": "1612463958.042700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9XK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "C46A78CB-ED2E-4EEC-8A32-15007ABBF608",
+        "type": "message",
+        "text": "I am here",
+        "user": "U012BUXVC6B",
+        "ts": "1612464392.042800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aSd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "18826DAA-B193-4D75-A3DD-09F0296DCA4A",
+        "type": "message",
+        "text": "Any luck?",
+        "user": "U012BUXVC6B",
+        "ts": "1612474961.043000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sclo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any luck?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "E6DD5730-5282-4466-893A-CFE3DB410040",
+        "type": "message",
+        "text": "<@U018WC9RM3K> I sent you an order form for a new control hub, assuming <@U0118UR0J72> hasn’t gotten the phones working can we order it?",
+        "user": "U012BUXVC6B",
+        "ts": "1612476947.043800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YIp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U018WC9RM3K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I sent you an order form for a new control hub, assuming "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0118UR0J72"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hasn’t gotten the phones working can we order it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1612476947.043800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1612485412.060000",
+        "reply_users": [
+            "U018WC9RM3K"
+        ],
+        "replies": [
+            {
+                "user": "U018WC9RM3K",
+                "ts": "1612485412.060000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "01583278-441b-43e3-8ec3-e675b4e784fb",
+        "type": "message",
+        "text": "wait no they connected",
+        "user": "U0118UR0J72",
+        "ts": "1612477322.044000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wlw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wait no they connected"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1d9b8ab2-da27-45a4-b9da-ba6761a45847",
+        "type": "message",
+        "text": "and you have code running?",
+        "user": "U012BUXVC6B",
+        "ts": "1612477335.044300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qR06",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and you have code running?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1293911d-1352-4715-b593-23bc4edb77a4",
+        "type": "message",
+        "text": "I'll test in 1 minute",
+        "user": "U0118UR0J72",
+        "ts": "1612477345.044600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GDd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll test in 1 minute"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8370545d-93cb-4e1a-95ce-622da6940764",
+        "type": "message",
+        "text": "Ok.",
+        "user": "U012BUXVC6B",
+        "ts": "1612477348.044900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iSQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4120464e-339d-4f6d-b895-cbb5e8378c9c",
+        "type": "message",
+        "text": "there's a wifi direct setting I just found called pair with robot controller and it was on the setting \"None-Do not pair with any device\"",
+        "user": "U0118UR0J72",
+        "ts": "1612477381.045500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FxS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "there's a wifi direct setting I just found called pair with robot controller and it was on the setting \"None-Do not pair with any device\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ef673398-ae8a-49cb-bc36-0743346bcf1b",
+        "type": "message",
+        "text": "Ahhhhhh ok",
+        "user": "U012BUXVC6B",
+        "ts": "1612477392.045700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TRsjp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahhhhhh ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b1a5da95-6d79-4ee5-9f5c-1d143ac2ca33",
+        "type": "message",
+        "text": "try and get code running real quick",
+        "user": "U012BUXVC6B",
+        "ts": "1612477404.046100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NQ9V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "try and get code running real quick"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2d00024e-ef36-4571-b008-c57240427cc9",
+        "type": "message",
+        "text": "yes, will do",
+        "user": "U0118UR0J72",
+        "ts": "1612477454.046300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YyWYQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, will do"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cdd38b39-0324-4120-bc00-75a1d487d1f9",
+        "type": "message",
+        "text": "update, RC still crashes when I run the code",
+        "user": "U0118UR0J72",
+        "ts": "1612477542.046600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v\/G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "update, RC still crashes when I run the code"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c3162af9-7921-4a0e-945e-0cb12b3bdf5c",
+        "type": "message",
+        "text": "but idk if that's a code issue or not",
+        "user": "U0118UR0J72",
+        "ts": "1612477553.046900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nzb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but idk if that's a code issue or not"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "FF8C7D38-8472-479B-AF27-EA92A1FDC001",
+        "type": "message",
+        "text": "Shoot. Do you have some example code to run?",
+        "user": "U012BUXVC6B",
+        "ts": "1612477569.047500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1C6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Shoot. Do you have some example code to run?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "986815bd-7ac3-4fbc-822f-9e618929d53f",
+        "type": "message",
+        "text": "I did and it crashes after I innit",
+        "user": "U0118UR0J72",
+        "ts": "1612477613.048200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DeX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I did and it crashes after I innit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dc381272-fd00-4987-8e81-41bfb0be6f4a",
+        "type": "message",
+        "text": "I'm gonna do some quickk investigating and troubleshooting",
+        "user": "U0118UR0J72",
+        "ts": "1612477624.048600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=o4wM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm gonna do some quickk investigating and troubleshooting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8598BDE2-4C56-4BCE-89D1-DE643EF49DD0",
+        "type": "message",
+        "text": "Ok. ",
+        "user": "U012BUXVC6B",
+        "ts": "1612477632.048900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KxCV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9aca5568-4180-44e4-9c01-3ccf7104d625",
+        "type": "message",
+        "text": "I believe it is a programming issue I must now find, because my base autonomous and teleop work",
+        "user": "U0118UR0J72",
+        "ts": "1612479462.049600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lRiHH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I believe it is a programming issue I must now find, because my base autonomous and teleop work"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "70ff7308-aa8d-4945-98fa-0eb39086709a",
+        "type": "message",
+        "text": "Yeah I was noticing that some part in the class for the robot causes the rc to crash",
+        "user": "U0119239VCY",
+        "ts": "1612480301.050700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=\/EVL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah I was noticing that some part in the class for the robot causes the rc to crash"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "860a6c29-36cb-4980-8b5d-07a42c2e3bbb",
+        "type": "message",
+        "text": "Oof I gotta find it, but atleast I got a head start since I know it is after initialization",
+        "user": "U0118UR0J72",
+        "ts": "1612480604.052400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ohT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oof I gotta find it, but atleast I got a head start since I know it is after initialization"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0118UR0J72",
+            "ts": "1612480624.000000"
+        }
+    },
+    {
+        "client_msg_id": "bad676a1-a0c3-4297-aaa7-160b6c700263",
+        "type": "message",
+        "text": "Any idea why the RC all of a sudden doesn't see the expansion hub and the lights are blinking blue?",
+        "user": "U0118UR0J72",
+        "ts": "1612480656.053600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gH9zV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any idea why the RC all of a sudden doesn't see the expansion hub and the lights are blinking blue?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b8013235-5ab9-4c1b-b1be-fa1d2616569f",
+        "type": "message",
+        "text": "<@U0119239VCY> the gyro should only by defined in the tracking class right? can I delete it from the robot class?",
+        "user": "U0118UR0J72",
+        "ts": "1612482147.054600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4GNXu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the gyro should only by defined in the tracking class right? can I delete it from the robot class?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0118UR0J72",
+            "ts": "1612482241.000000"
+        }
+    },
+    {
+        "client_msg_id": "280B1B40-5DB4-4CD3-B994-5C1100336C5B",
+        "type": "message",
+        "text": "Do we still need to order a control hub?",
+        "user": "U012BUXVC6B",
+        "ts": "1612483008.055400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tHH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do we still need to order a control hub?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4d04444b-5a64-41b7-b14c-b9abff2a8508",
+        "type": "message",
+        "text": "I don't think so",
+        "user": "U0118UR0J72",
+        "ts": "1612483018.055600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7jn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't think so"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3E5E96BA-3BC9-4578-BBA1-7D67B6676B0F",
+        "type": "message",
+        "text": "Ok, let me know if we do tmr.",
+        "user": "U012BUXVC6B",
+        "ts": "1612483193.056000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pwDke",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, let me know if we do tmr."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e5ab1afd-a90b-40c6-af6c-71c1b0e97b20",
+        "type": "message",
+        "text": "I will",
+        "user": "U0118UR0J72",
+        "ts": "1612483199.056200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x55yB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "EED42B50-BD5C-4E8A-8F04-4717FD6FF8A6",
+        "type": "message",
+        "text": "Unrelated but why does the android studio icon look stupid now",
+        "user": "U012BUXVC6B",
+        "ts": "1612483613.056800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QpRk5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Unrelated but why does the android studio icon look stupid now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cfb2714e-ab0e-48c8-9454-a3a093c36b12",
+        "type": "message",
+        "text": "The green one or the blue one",
+        "user": "U0118UR0J72",
+        "ts": "1612484101.057000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iwz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The green one or the blue one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "A85897B9-39D0-4792-946E-CC638BB83399",
+        "type": "message",
+        "text": "Blue one",
+        "user": "U012BUXVC6B",
+        "ts": "1612484113.057400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kNHL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Blue one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bdcb4b5d-6ab1-4ac5-9f0a-9f64e6380a92",
+        "type": "message",
+        "text": "<@U0119239VCY> does the drive train work for you?",
+        "user": "U0118UR0J72",
+        "ts": "1612484127.057800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mBc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " does the drive train work for you?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f17caa2c-76e2-488b-abe7-9c567044494f",
+        "type": "message",
+        "text": "I guess it just looks more modern",
+        "user": "U0118UR0J72",
+        "ts": "1612484139.058000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NkCk5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I guess it just looks more modern"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1612484139.058000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1612484966.059300",
+        "reply_users": [
+            "U012BUXVC6B",
+            "U0118UR0J72"
+        ],
+        "replies": [
+            {
+                "user": "U012BUXVC6B",
+                "ts": "1612484949.059100"
+            },
+            {
+                "user": "U0118UR0J72",
+                "ts": "1612484966.059300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c9fc0de6-ee82-4b7d-b1c5-f1195da47ed7",
+        "type": "message",
+        "text": "Yeah it works for me",
+        "user": "U0119239VCY",
+        "ts": "1612484291.058200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6r1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah it works for me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4b9e0382-a18e-458a-8dcb-103bc82857a1",
+        "type": "message",
+        "text": "Does the control hub produce logs?",
+        "user": "U0118UR0J72",
+        "ts": "1612484863.058800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IZs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does the control hub produce logs?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2709A9FD-62EC-46C1-95B6-D11E270581F8",
+        "type": "message",
+        "text": "Reject modernity embrace tradition ",
+        "user": "U012BUXVC6B",
+        "ts": "1612484949.059100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OTx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Reject modernity embrace tradition "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1612484139.058000",
+        "parent_user_id": "U0118UR0J72"
+    },
+    {
+        "client_msg_id": "c0e955f4-d02a-4892-9704-86d9b19512a7",
+        "type": "message",
+        "text": "???",
+        "user": "U0118UR0J72",
+        "ts": "1612484966.059300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+B6u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "???"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1612484139.058000",
+        "parent_user_id": "U0118UR0J72"
+    },
+    {
+        "client_msg_id": "76390593-335e-4029-a674-0a7758c81607",
+        "type": "message",
+        "text": "Ok, mecanum drive is the problem but I'll have to get back to work on this later.",
+        "user": "U0118UR0J72",
+        "ts": "1612484988.059800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rgE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, mecanum drive is the problem but I'll have to get back to work on this later."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7810a6a8-a6dd-4567-8532-19f58c4e35d4",
+        "type": "message",
+        "text": "Sent it in and it will be ordered Monday.",
+        "user": "U018WC9RM3K",
+        "ts": "1612485412.060000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Qk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sent it in and it will be ordered Monday."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1612476947.043800",
+        "parent_user_id": "U012BUXVC6B"
+    },
+    {
+        "client_msg_id": "29917da5-20cc-4d0b-bdc8-c4ce2c5b5764",
+        "type": "message",
+        "text": "I believe you can have a log on the phone and check the log from the app. You can even write to the log if an error happens if you use a try catch statement",
+        "user": "U018WC9RM3K",
+        "ts": "1612485666.062400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0z8j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I believe you can have a log on the phone and check the log from the app. You can even write to the log if an error happens if you use a try catch statement"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ef8c6a07-e016-484c-b5d7-4e3147fa7019",
+        "type": "message",
+        "text": "`try`\n`{`\n   `\/\/code to try`\n`}catch( exception to throw if try does not work)`\n`{`\n `\/\/code to run if exception happens including adding to log`\n`}` ",
+        "user": "U018WC9RM3K",
+        "ts": "1612485775.063000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "njH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "try",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "{",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "   \/\/code to try",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "}catch( exception to throw if try does not work)",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "{",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \/\/code to run if exception happens including adding to log",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "} ",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "282d9dff-92e3-480f-aa69-ca77cac18a5d",
+        "type": "message",
+        "text": "I'm not getting any exceptions though, the RC app just closes",
+        "user": "U0118UR0J72",
+        "ts": "1612485886.063600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Kljp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm not getting any exceptions though, the RC app just closes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e83ab6be-df05-4fbe-9872-09dd422e55f0",
+        "type": "message",
+        "text": "It comes up with a message saying this app has stopped working",
+        "user": "U0118UR0J72",
+        "ts": "1612485900.064100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o8LaY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It comes up with a message saying this app has stopped working"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2c9b48c8-3442-4611-8bf9-c10515c7f788",
+        "type": "message",
+        "text": "And it doesn't happen with any other methods, so I can get data from encoders and control the lift (which I think I broke)",
+        "user": "U0118UR0J72",
+        "ts": "1612485932.065600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JROd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And it doesn't happen with any other methods, so I can get data from encoders and control the lift (which I think I broke)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c601656a-ef3a-4299-a4bd-84dda6366cd1",
+        "type": "message",
+        "text": "The servo made a snap and fell off but I forgot about it",
+        "user": "U0118UR0J72",
+        "ts": "1612485956.066600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nN\/4A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The servo made a snap and fell off but I forgot about it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0118UR0J72",
+            "ts": "1612485972.000000"
+        }
+    },
+    {
+        "client_msg_id": "756eac31-62ba-4876-9a40-be1b6bdfd0b5",
+        "type": "message",
+        "text": "<https:\/\/www.geeksforgeeks.org\/types-of-exception-in-java-with-examples\/|you have to pick the exception you want. for example if you are dividing you may want to check and arithmetic>",
+        "user": "U018WC9RM3K",
+        "ts": "1612486035.067200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "svx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.geeksforgeeks.org\/types-of-exception-in-java-with-examples\/",
+                                "text": "you have to pick the exception you want. for example if you are dividing you may want to check and arithmetic"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GeeksforGeeks",
+                "title": "Types of Exception in Java with Examples - GeeksforGeeks",
+                "title_link": "https:\/\/www.geeksforgeeks.org\/types-of-exception-in-java-with-examples\/",
+                "text": "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice\/competitive programming\/company interview Questions.",
+                "fallback": "GeeksforGeeks: Types of Exception in Java with Examples - GeeksforGeeks",
+                "ts": 1481710844,
+                "from_url": "https:\/\/www.geeksforgeeks.org\/types-of-exception-in-java-with-examples\/",
+                "thumb_url": "https:\/\/media.geeksforgeeks.org\/wp-content\/cdn-uploads\/gfg_200x200-min.png",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.geeksforgeeks.org\/wp-content\/uploads\/gfg_200X200.png",
+                "id": 1,
+                "original_url": "https:\/\/www.geeksforgeeks.org\/types-of-exception-in-java-with-examples\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "623f9227-860f-4e4e-a287-0108d8f5a847",
+        "type": "message",
+        "text": "<https:\/\/www.w3schools.com\/java\/java_try_catch.asp>",
+        "user": "U018WC9RM3K",
+        "ts": "1612486078.067500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fBh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.w3schools.com\/java\/java_try_catch.asp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Java Exceptions (Try...Catch)",
+                "title_link": "https:\/\/www.w3schools.com\/java\/java_try_catch.asp",
+                "text": "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, Python, Bootstrap, Java and XML.",
+                "fallback": "Java Exceptions (Try...Catch)",
+                "from_url": "https:\/\/www.w3schools.com\/java\/java_try_catch.asp",
+                "service_icon": "https:\/\/www.w3schools.com\/favicon.ico",
+                "service_name": "w3schools.com",
+                "id": 1,
+                "original_url": "https:\/\/www.w3schools.com\/java\/java_try_catch.asp"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5aba8094-bda9-4779-9add-b8026538e81d",
+        "type": "message",
+        "text": "you would put the try catch around something you think is causing the error",
+        "user": "U018WC9RM3K",
+        "ts": "1612486115.068600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4l58m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you would put the try catch around something you think is causing the error"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5072a9da-d12d-45b1-9669-6f7a7b26df15",
+        "type": "message",
+        "text": "or could cause error",
+        "user": "U018WC9RM3K",
+        "ts": "1612486126.069100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qUar",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or could cause error"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7216a171-e321-4a97-8703-a8d7e25e2796",
+        "type": "message",
+        "text": "So it would test it and if it had an exception it wouldn't run the code?",
+        "user": "U0118UR0J72",
+        "ts": "1612486193.070800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iHC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So it would test it and if it had an exception it wouldn't run the code?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "05b55dcb-10d5-461f-be9f-ad1bd02757b2",
+        "type": "message",
+        "text": "Or do I need to like troubleshoot through all the exceptions?",
+        "user": "U0118UR0J72",
+        "ts": "1612486258.071500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+V9fb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or do I need to like troubleshoot through all the exceptions?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "af1b159c-52fc-47ef-91a1-55295b482275",
+        "type": "message",
+        "text": "it would run the code in the catch statment",
+        "user": "U018WC9RM3K",
+        "ts": "1612486270.071800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RFY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it would run the code in the catch statment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9e01663f-8700-44a3-81e9-258603593a62",
+        "type": "message",
+        "text": "kind of like the else part of the if else",
+        "user": "U018WC9RM3K",
+        "ts": "1612486280.072100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XUS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "kind of like the else part of the if else"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2e15977c-6a35-49a2-9c2f-019cd35218cb",
+        "type": "message",
+        "text": "So would my question be true if I put the same statement in both the try and catch?",
+        "user": "U0118UR0J72",
+        "ts": "1612486321.073300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Se8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So would my question be true if I put the same statement in both the try and catch?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "510a3795-b82f-4780-a10f-10f35fac41b7",
+        "type": "message",
+        "text": "you can print out the stack trace which is the commands leading up to the error",
+        "user": "U018WC9RM3K",
+        "ts": "1612486329.073900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WMAl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can print out the stack trace which is the commands leading up to the error"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3502fb4b-11eb-4e6a-a82b-5af35350d9d9",
+        "type": "message",
+        "text": "I think errors might already be logged to the robot controller log but I'm not sure",
+        "user": "U0119239VCY",
+        "ts": "1612486343.074100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4EKFU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think errors might already be logged to the robot controller log but I'm not sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "918e48a1-6bc8-4a8c-b837-d652a828d7c8",
+        "type": "message",
+        "text": "Oooo i want to print out commands leading up to the error, how do I do that?",
+        "user": "U0118UR0J72",
+        "ts": "1612486360.074800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h3Lxh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oooo i want to print out commands leading up to the error, how do I do that?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c324cd94-5361-48c0-89ea-02dae3c02f4e",
+        "type": "message",
+        "text": "<https:\/\/www.geeksforgeeks.org\/throwable-printstacktrace-method-in-java-with-examples\/>",
+        "user": "U018WC9RM3K",
+        "ts": "1612486369.075200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oEnG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.geeksforgeeks.org\/throwable-printstacktrace-method-in-java-with-examples\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GeeksforGeeks",
+                "title": "Throwable printStackTrace() method in Java with Examples - GeeksforGeeks",
+                "title_link": "https:\/\/www.geeksforgeeks.org\/throwable-printstacktrace-method-in-java-with-examples\/",
+                "text": "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice\/competitive programming\/company interview Questions.",
+                "fallback": "GeeksforGeeks: Throwable printStackTrace() method in Java with Examples - GeeksforGeeks",
+                "ts": 1540425770,
+                "from_url": "https:\/\/www.geeksforgeeks.org\/throwable-printstacktrace-method-in-java-with-examples\/",
+                "thumb_url": "https:\/\/media.geeksforgeeks.org\/wp-content\/cdn-uploads\/gfg_200x200-min.png",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.geeksforgeeks.org\/wp-content\/uploads\/gfg_200X200.png",
+                "id": 1,
+                "original_url": "https:\/\/www.geeksforgeeks.org\/throwable-printstacktrace-method-in-java-with-examples\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fdc99e80-4363-48bb-8203-f5f10f4f9034",
+        "type": "message",
+        "text": "<https:\/\/www.tutorialspoint.com\/java\/lang\/throwable_printstacktrace.htm>",
+        "user": "U018WC9RM3K",
+        "ts": "1612486394.075500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tAa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.tutorialspoint.com\/java\/lang\/throwable_printstacktrace.htm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Java.lang.Throwable.printStackTrace() Method - Tutorialspoint",
+                "title_link": "https:\/\/www.tutorialspoint.com\/java\/lang\/throwable_printstacktrace.htm",
+                "text": "Java.lang.Throwable.printStackTrace() Method - The java.lang.Throwable.printStackTrace() method prints this throwable and its backtrace to the standard error stream. It prints a stack trace for this Throwabl",
+                "fallback": "Java.lang.Throwable.printStackTrace() Method - Tutorialspoint",
+                "from_url": "https:\/\/www.tutorialspoint.com\/java\/lang\/throwable_printstacktrace.htm",
+                "service_icon": "https:\/\/www.tutorialspoint.com\/favicon.ico",
+                "service_name": "tutorialspoint.com",
+                "id": 1,
+                "original_url": "https:\/\/www.tutorialspoint.com\/java\/lang\/throwable_printstacktrace.htm"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3800ff0b-2a76-4f08-bdfd-76073d7272b4",
+        "type": "message",
+        "text": "Cool ill check that out once I've gotten home and finished my hw",
+        "user": "U0118UR0J72",
+        "ts": "1612486519.077000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8RV0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool ill check that out once I've gotten home and finished my hw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "03f2ddb9-f301-45e5-a7f5-0eec875a1521",
+        "type": "message",
+        "text": "<https:\/\/stackoverflow.com\/questions\/4341363\/android-print-full-exception-backtrace-to-log>",
+        "user": "U018WC9RM3K",
+        "ts": "1612486533.077200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dHXE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stackoverflow.com\/questions\/4341363\/android-print-full-exception-backtrace-to-log"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Stack Overflow",
+                "title": "Android - print full exception backtrace to log",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/4341363\/android-print-full-exception-backtrace-to-log",
+                "text": "I have a try\/catch block that throws an exception and I would like to see information about the exception in the Android device log. I read the log of the mobile device with this command from my",
+                "fallback": "Stack Overflow: Android - print full exception backtrace to log",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "from_url": "https:\/\/stackoverflow.com\/questions\/4341363\/android-print-full-exception-backtrace-to-log",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon.png?v=c78bd457575a",
+                "id": 1,
+                "original_url": "https:\/\/stackoverflow.com\/questions\/4341363\/android-print-full-exception-backtrace-to-log"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "64052494-e9d0-43dc-b090-bf59ef356c15",
+        "type": "message",
+        "text": "Last link is more specific to the phone log",
+        "user": "U018WC9RM3K",
+        "ts": "1612486550.077700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kmv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last link is more specific to the phone log"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

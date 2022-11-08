@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "cbf35b28-ce99-4e56-a858-ef4e48c13cc9",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/4Y3yUKzGzSw?t=142> major strategy thing, at this timestamp, human player for red, places the capping element on the cone before the robot picks it up",
+        "user": "U022WGTQ602",
+        "ts": "1667119542.893469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PVm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/4Y3yUKzGzSw?t=142"
+                            },
+                            {
+                                "type": "text",
+                                "text": " major strategy thing, at this timestamp, human player for red, places the capping element on the cone before the robot picks it up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1667119564.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/4Y3yUKzGzSw?t=142",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/4Y3yUKzGzSw\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/4Y3yUKzGzSw?start=142&feature=oembed&start=142&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"FTC POWER PLAY 166 PTS (WORLD RECORD PENALTY FREE) 12529 &amp; 16950\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/4Y3yUKzGzSw?t=142",
+                "fallback": "YouTube Video: FTC POWER PLAY 166 PTS (WORLD RECORD PENALTY FREE) 12529 & 16950",
+                "title": "FTC POWER PLAY 166 PTS (WORLD RECORD PENALTY FREE) 12529 &amp; 16950",
+                "title_link": "https:\/\/youtu.be\/4Y3yUKzGzSw?t=142",
+                "author_name": "KTM & VR – FTC teams",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCVLLvD_HfiTcjfE8QQc-wVQ",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    }
+]

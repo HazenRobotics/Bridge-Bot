@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "3779b167-5b83-4528-bc04-adc8ea0aa216",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=-QFoOCoaW7I>",
+        "user": "U018WC9RM3K",
+        "ts": "1623441130.016100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Dn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=-QFoOCoaW7I"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Implementing Computer Vision for Ultimate Goal - Detecting the Starter Stack Size",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=-QFoOCoaW7I",
+                "author_name": "Wizards.exe FTC #9794",
+                "author_link": "https:\/\/www.youtube.com\/c\/WizardsexeFTC9794",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/-QFoOCoaW7I\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Implementing Computer Vision for Ultimate Goal - Detecting the Starter Stack Size",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/-QFoOCoaW7I?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=-QFoOCoaW7I",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=-QFoOCoaW7I"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "79062d16-aa20-477b-90cc-962eca797fd8",
+        "type": "message",
+        "text": "<@U018WC9RM3K> was today the final hack your final meeting since you aren't going to be here next friday?",
+        "user": "U022WGTQ602",
+        "ts": "1623478192.016800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QC7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U018WC9RM3K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " was today the final hack your final meeting since you aren't going to be here next friday?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

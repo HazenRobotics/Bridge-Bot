@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "0758f138-3f70-41e5-8278-e14a0a67d356",
+        "type": "message",
+        "text": "well i found out why the vyper decided to drag it's face through the bed, basically i wrongly assumed the proper way to z-offset\/level it and leveled it the paper way like i did with the kobra, turns out that is the very wrong way to do it, you're supposed to do the z-offsetting during the first layer of the print, so the vyper should be good to go now",
+        "user": "U022WGTQ602",
+        "ts": "1666668088.826049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BOYB5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "well i found out why the vyper decided to drag it's face through the bed, basically i wrongly assumed the proper way to z-offset\/level it and leveled it the paper way like i did with the kobra, turns out that is the very wrong way to do it, you're supposed to do the z-offsetting during the first layer of the print, so the vyper should be good to go now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6FA59E26-2B75-4001-8E28-5AC30C61DA8B",
+        "type": "message",
+        "text": "Nice",
+        "user": "U02EA7L1KGT",
+        "ts": "1666674731.593009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ryf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "3b24be10b035",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-26\/4305995690752_3b24be10b035098cd409_72.png",
+            "first_name": "Asher",
+            "real_name": "Asher Stocker",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "asherstocker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

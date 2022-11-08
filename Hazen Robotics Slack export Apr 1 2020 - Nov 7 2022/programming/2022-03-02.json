@@ -1,0 +1,234 @@
+[
+    {
+        "client_msg_id": "406c69cd-4a41-41eb-8a6f-0f22ade694cf",
+        "type": "message",
+        "text": "do y'all have any ideas on how to fix the version of CH-Z? I've tried factory resetting it and updating it but its still trying to downgrade the version of the app when I upload code",
+        "user": "U022WGTQ602",
+        "ts": "1646264818.244469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h0W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do y'all have any ideas on how to fix the version of CH-Z? I've tried factory resetting it and updating it but its still trying to downgrade the version of the app when I upload code"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5c688cce-1307-4bb4-8d2b-f4ee4788c744",
+        "type": "message",
+        "text": "What's it downgrading to again?",
+        "user": "U0118UR0J72",
+        "ts": "1646265465.560469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7iI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What's it downgrading to again?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3b60fe47-7c0d-495e-b0bf-ef943ab6ab30",
+        "type": "message",
+        "text": "to 7.0",
+        "user": "U022WGTQ602",
+        "ts": "1646265632.871859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qzv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "to 7.0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "03a6686f-592c-4dd8-8bea-34f5a74b929a",
+        "type": "message",
+        "text": "Have you re-upload version 7.2 or wiped the control hub?",
+        "user": "U0118UR0J72",
+        "ts": "1646265711.031819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1nl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Have you re-upload version 7.2 or wiped the control hub?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2802b26f-d162-4c49-a70c-696f7a7f921a",
+        "type": "message",
+        "text": "I can only update to 7.1, when I try to do that and upload code it wants to revert to 7.0, I followed the instructions from rev on how to factory reset it by holding the the little button next to the power light  when I power it up but no success so far getting it to work",
+        "user": "U022WGTQ602",
+        "ts": "1646266220.163149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b0iAz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can only update to 7.1, when I try to do that and upload code it wants to revert to 7.0, I followed the instructions from rev on how to factory reset it by holding the the little button next to the power light  when I power it up but no success so far getting it to work"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "616be354-97e9-49e8-9422-786677ac4b66",
+        "type": "message",
+        "text": "*no success getting code to upload, pretty sure the factory reset worked",
+        "user": "U022WGTQ602",
+        "ts": "1646266315.484749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wgZL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "*no success getting code to upload, pretty sure the factory reset worked"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1646266326.000000"
+        }
+    }
+]

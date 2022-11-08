@@ -1,0 +1,77 @@
+[
+    {
+        "client_msg_id": "a2e8f2ab-0b51-43e1-8f36-32ad552e873f",
+        "type": "message",
+        "text": "<@U02EA7L1KGT> <@U02ENRPMDCZ> <https:\/\/www.youtube.com\/watch?v=oW25wdOJQjA>",
+        "user": "U02DWDDVAP7",
+        "ts": "1646165782.744359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7HTI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02EA7L1KGT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02ENRPMDCZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=oW25wdOJQjA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=oW25wdOJQjA",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/oW25wdOJQjA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/oW25wdOJQjA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=oW25wdOJQjA",
+                "fallback": "YouTube Video: freight frenzy but its a meme",
+                "title": "freight frenzy but its a meme",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=oW25wdOJQjA",
+                "author_name": "memes or something",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCC1Lf6MNmE9NrM-lgAnx5ZQ",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    }
+]

@@ -1,0 +1,310 @@
+[
+    {
+        "client_msg_id": "95581fd1-8d66-4fe9-ac7a-de06d6179f91",
+        "type": "message",
+        "text": "<@U022WGTQ602> got the code working...the have value for the metal is difficult",
+        "user": "U018WC9RM3K",
+        "ts": "1637810319.095600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7US9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " got the code working...the have value for the metal is difficult"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "57967d61-2a41-4b40-a043-42522c4938fd",
+        "type": "message",
+        "text": "I think if we use edge detection to narrow the scope of the cube box then we can get it",
+        "user": "U018WC9RM3K",
+        "ts": "1637810358.096800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O3m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think if we use edge detection to narrow the scope of the cube box then we can get it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5ee24b79-100c-41ca-98f1-cbc313814c34",
+        "type": "message",
+        "text": "ok, that's good to hear, we can start working on that friday",
+        "user": "U022WGTQ602",
+        "ts": "1637810604.097200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VWw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, that's good to hear, we can start working on that friday"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6cc4b349-2154-4ff2-aac4-e6486f345d1a",
+        "type": "message",
+        "text": "Dope",
+        "user": "U0118UR0J72",
+        "ts": "1637810620.097500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FTg8Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dope"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c6720ad8-0283-4506-89ae-8d177ceaf341",
+        "type": "message",
+        "text": "That's awesome! We can probably just leverage the pipeline we already created a while ago to do the edge detection",
+        "user": "U0119239VCY",
+        "ts": "1637810683.099100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j6H3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's awesome! We can probably just leverage the pipeline we already created a while ago to do the edge detection"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a9694139-b9fc-4a42-934b-835d3544c2d2",
+        "type": "message",
+        "text": "I was trying to figure out where that's at so I could test out my theory",
+        "user": "U018WC9RM3K",
+        "ts": "1637810763.101100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zMwN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was trying to figure out where that's at so I could test out my theory"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4446b5e3-87e4-4281-9911-e4a1a2208e10",
+        "type": "message",
+        "text": "I think it's somewhere on that second programming computer we've been using for vision stuff",
+        "user": "U0119239VCY",
+        "ts": "1637810794.101800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PUT8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it's somewhere on that second programming computer we've been using for vision stuff"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f14c8c43-776e-4f56-a668-389637a4abf6",
+        "type": "message",
+        "text": "I also have almost finished with the localization using both camera and dead wheels with fallbacks in case one or both of them fail during a match, so I think the only other big thing for next comp that we need to do after we finish object detection is to rewrite some of the paths to utilize the small bot's tiny power",
+        "user": "U0119239VCY",
+        "ts": "1637810946.104300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iH0p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I also have almost finished with the localization using both camera and dead wheels with fallbacks in case one or both of them fail during a match, so I think the only other big thing for next comp that we need to do after we finish object detection is to rewrite some of the paths to utilize the small bot's tiny power"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

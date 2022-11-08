@@ -1,0 +1,346 @@
+[
+    {
+        "client_msg_id": "eb5d7495-e573-44a8-8454-770ded9d6f41",
+        "type": "message",
+        "text": "Do you still need me to go?",
+        "user": "U02DWDDVAP7",
+        "ts": "1664374845.460139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6M\/c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you still need me to go?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664308748.622259",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "2e328885-a4d8-4f1f-a26c-69e3eaf5472d",
+        "type": "message",
+        "text": "still looking for someone with a more permanent position, but if you would like to it would be welcome, the kids already know what they should be working on (design doing design things\/chasis building) and programming should be good (teaching how to use servos and motors in blocks, the experienced programmers started teaching them that yesterday)",
+        "user": "U022WGTQ602",
+        "ts": "1664375123.644959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mP=zF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "still looking for someone with a more permanent position, but if you would like to it would be welcome, the kids already know what they should be working on (design doing design things\/chasis building) and programming should be good (teaching how to use servos and motors in blocks, the experienced programmers started teaching them that yesterday)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664308748.622259",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "type": "message",
+        "text": "<@U022WGTQ602> <@U0118UR0J72> Do we have any driver hubs with charging issues\n<https:\/\/form.jotform.com\/213504039455149>",
+        "files": [
+            {
+                "id": "F0448LJJZFF",
+                "created": 1664398398,
+                "timestamp": 1664398398,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02DWDDVAP7",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 127645,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F0448LJJZFF\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F0448LJJZFF\/download\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0448LJJZFF-dbe1073492\/image_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0448LJJZFF-dbe1073492\/image_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0448LJJZFF-dbe1073492\/image_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 280,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0448LJJZFF-dbe1073492\/image_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 373,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0448LJJZFF-dbe1073492\/image_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0448LJJZFF-dbe1073492\/image_720.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 720,
+                "thumb_720_h": 560,
+                "original_w": 779,
+                "original_h": 606,
+                "thumb_tiny": "AwAlADBiJLckkYO0AelP+xTei\/8AfVP09tqSnBPToM1eRg4yAQPcYoAzfsU3ov51HNA8KguF5OODmtjAqlqX+rT\/AHv6UAZ+fpRSUUwLdkXCybAT06VPJNOpO2Ntvriq1oAdw8zYxIwamMcZPmCbOQcLnrgUgK\/2y4\/56foKZLPJKAJGyB7VHRTAKKKKALNrtIbcueQRzippFjKt8hHJPBqC1\/i\/Cp3+4fpSAoUUUUwCiiigD\/\/Z",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U02DWDDVAP7\/F0448LJJZFF\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F0448LJJZFF-ebe8df764d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02DWDDVAP7",
+        "display_as_bot": false,
+        "ts": "1664398449.503049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vvf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0118UR0J72"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Do we have any driver hubs with charging issues\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/form.jotform.com\/213504039455149"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "952238da-6af4-4560-afe5-c3428b5d2c2d"
+    },
+    {
+        "client_msg_id": "596900fb-ec1a-49cf-80a6-9f390ec7bdf9",
+        "type": "message",
+        "text": "we've already fixed that with a piece of paper, but it wouldn't be a bad idea to ask for some",
+        "user": "U022WGTQ602",
+        "ts": "1664398506.932769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9T+0m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we've already fixed that with a piece of paper, but it wouldn't be a bad idea to ask for some"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664398506.932769",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1664398710.880339",
+        "reply_users": [
+            "U02DWDDVAP7",
+            "U022WGTQ602"
+        ],
+        "replies": [
+            {
+                "user": "U02DWDDVAP7",
+                "ts": "1664398572.602599"
+            },
+            {
+                "user": "U022WGTQ602",
+                "ts": "1664398710.880339"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d2346a92-b7f0-4a6b-b843-9c8fb305e9e1",
+        "type": "message",
+        "text": "Paper and batteries sounds like a fire hazard",
+        "user": "U02DWDDVAP7",
+        "ts": "1664398572.602599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lhHI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Paper and batteries sounds like a fire hazard"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664398506.932769",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "68489550-9226-41ef-9864-2de1d4a15de8",
+        "type": "message",
+        "text": "nah, it's not bad, just a little rolled up piece of paper put between the battery and the back of the driver hung, completely harmless",
+        "user": "U022WGTQ602",
+        "ts": "1664398710.880339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eWQl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nah, it's not bad, just a little rolled up piece of paper put between the battery and the back of the driver hung, completely harmless"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1664398506.932769",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "b39afe9d-7527-4e87-b694-7c95809fc0d3",
+        "type": "message",
+        "text": "All of them",
+        "user": "U0118UR0J72",
+        "ts": "1664430613.357309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+yg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "All of them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "bec844fb-524d-4cb6-a148-12c5080b56d6",
+        "type": "message",
+        "text": "<https:\/\/ftc-scoring.firstinspires.org:443\/event\/USWAKEPS1\/judging\/session\/team\/82cc74aa-a872-4424-bb61-c851317b1229>",
+        "user": "U018WC9RM3K",
+        "ts": "1619473219.000300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sPb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ftc-scoring.firstinspires.org:443\/event\/USWAKEPS1\/judging\/session\/team\/82cc74aa-a872-4424-bb61-c851317b1229"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "1b8e47ee-98c9-4f54-8500-86132b6b8833",
+        "type": "message",
+        "text": "GitHub announcements:\n• You may want to change your GitHub email to your personal one since your school email will be deleted (inaccessible) once you graduate.\n• Make sure your GitHub account either has your full name or has a recognizable username so we know who is uploading or making code changes.\n• If you added your email to the excel doc, I have sent you an invitation to the team. 4 of you haven't accepted it yet, and 2 haven't added their email yet.",
+        "user": "U0118UR0J72",
+        "ts": "1632839870.130500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=So",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GitHub announcements:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "You may want to change your GitHub email to your personal one since your school email will be deleted (inaccessible) once you graduate."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Make sure your GitHub account either has your full name or has a recognizable username so we know who is uploading or making code changes."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If you added your email to the excel doc, I have sent you an invitation to the team. 4 of you haven't accepted it yet, and 2 haven't added their email yet."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0118UR0J72",
+            "ts": "1632840171.000000"
+        }
+    }
+]

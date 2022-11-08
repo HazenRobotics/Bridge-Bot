@@ -1,0 +1,50 @@
+[
+    {
+        "client_msg_id": "e6daff09-1525-45db-9217-deb523c465fb",
+        "type": "message",
+        "text": "i just realized there's still rules in here :moyai::moyai:",
+        "user": "U01CZUZA4F3",
+        "ts": "1651272150.547859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0YFde",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i just realized there's still rules in here "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "moyai",
+                                "unicode": "1f5ff"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "moyai",
+                                "unicode": "1f5ff"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "2340daecb5c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-14\/1429586810659_2340daecb5c97157acec_72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Nguyen",
+            "display_name": "Derek Nguyen",
+            "team": "T010YRDV4KB",
+            "name": "derek.nguyen1028",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

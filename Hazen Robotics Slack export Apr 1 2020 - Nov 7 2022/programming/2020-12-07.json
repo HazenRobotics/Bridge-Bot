@@ -1,0 +1,631 @@
+[
+    {
+        "client_msg_id": "eb7b4e1a-5455-4cbe-b7cb-f1b70639fcf5",
+        "type": "message",
+        "text": "The gyro works, and I can rotate degrees but there are a few issues",
+        "user": "U0118UR0J72",
+        "ts": "1607368032.233100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aXwT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The gyro works, and I can rotate degrees but there are a few issues"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0118UR0J72",
+            "ts": "1607368048.000000"
+        }
+    },
+    {
+        "client_msg_id": "1e6a2482-f28c-4a93-883a-1a00939a7d34",
+        "type": "message",
+        "text": "When turning right 90 degrees, even at a slow speed, it will go a bit past 90 degrees due to the speed still being fast and not checking to set the power to zero enough",
+        "user": "U0118UR0J72",
+        "ts": "1607368127.234600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YDB7O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When turning right 90 degrees, even at a slow speed, it will go a bit past 90 degrees due to the speed still being fast and not checking to set the power to zero enough"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5c6d4898-c675-4d00-8743-17b62af96b66",
+        "type": "message",
+        "text": "also it only goes to 179.99 degrees (i.e. 0 being straight forward, negative being the right half, positive being the left half, and 180 being straight back) so idk how to turn more than 180 degrees",
+        "user": "U0118UR0J72",
+        "ts": "1607368263.235800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zOxH=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also it only goes to 179.99 degrees (i.e. 0 being straight forward, negative being the right half, positive being the left half, and 180 being straight back) so idk how to turn more than 180 degrees"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0118UR0J72",
+            "ts": "1607368280.000000"
+        }
+    },
+    {
+        "client_msg_id": "2A9C48C7-5E45-4F1C-8AD5-384537BAD5D8",
+        "type": "message",
+        "text": "With the first problem that sounds like a PID problem",
+        "user": "U012BUXVC6B",
+        "ts": "1607368585.236400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r1j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "With the first problem that sounds like a PID problem"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e86f1be1-ff8b-4169-9618-e4bad4b86afb",
+        "type": "message",
+        "text": "it's just not checking enough to stop at 90 degrees or it's going too fast",
+        "user": "U0118UR0J72",
+        "ts": "1607368626.237000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fby",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it's just not checking enough to stop at 90 degrees or it's going too fast"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "58b8060f-d5f3-487a-acf5-edc22a949341",
+        "type": "message",
+        "text": "I think we had a similar issue last year",
+        "user": "U0118UR0J72",
+        "ts": "1607368647.237400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WYEl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think we had a similar issue last year"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B6F9A855-82E3-41D9-A151-73A3AF5D35A4",
+        "type": "message",
+        "text": "<@U0119239VCY> ",
+        "user": "U012BUXVC6B",
+        "ts": "1607368653.237700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kb6bp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d3e4b9d3-ce0c-432e-8d4b-a9f2182057ef",
+        "type": "message",
+        "text": "Yeah probably just the momentum from the turn, it would probably help to gradually slow down as it approaches the end",
+        "user": "U0119239VCY",
+        "ts": "1607368807.239000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kNB2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah probably just the momentum from the turn, it would probably help to gradually slow down as it approaches the end"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bef88b4f-ce41-4de4-8a9e-2168ccace13d",
+        "type": "message",
+        "text": "so like exponentially slow down once it is like 75% done turning?",
+        "user": "U0118UR0J72",
+        "ts": "1607368855.240300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NqB9F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so like exponentially slow down once it is like 75% done turning?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9aa25d67-e16d-49ea-9147-c33a67778e55",
+        "type": "message",
+        "text": "thats weird that it doesn't go more than 180, maybe its something in the parameters that are passed in to the gyro",
+        "user": "U0119239VCY",
+        "ts": "1607368855.240400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wYwUk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thats weird that it doesn't go more than 180, maybe its something in the parameters that are passed in to the gyro"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5878148a-e57c-4624-a1fe-1f0ced93eafb",
+        "type": "message",
+        "text": "yeah",
+        "user": "U0119239VCY",
+        "ts": "1607368862.240700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oQG8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5497242e-a3d5-43ef-8fde-3f641b876d99",
+        "type": "message",
+        "text": "is there a way we could turn more than 180º?",
+        "user": "U0118UR0J72",
+        "ts": "1607368987.241300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bxBs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is there a way we could turn more than 180º?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1a3958d4-ddfe-42ec-a6c0-65bb63f399e0",
+        "type": "message",
+        "text": "cause if we check if it equals the number of degrees to turn it could skip over it",
+        "user": "U0118UR0J72",
+        "ts": "1607369011.241900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wo7s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cause if we check if it equals the number of degrees to turn it could skip over it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c663657a-a167-4860-899d-7d0fdb5ae613",
+        "type": "message",
+        "text": "last year we had this method, could we do something similar?\n```public int getNewGyroHeading()\n{\n    return ( gyro.getHeading() + 180 ) % 360;\n}```",
+        "user": "U0118UR0J72",
+        "ts": "1607369097.242400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sraAy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "last year we had this method, could we do something similar?\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "public int getNewGyroHeading()\n{\n    return ( gyro.getHeading() + 180 ) % 360;\n}"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7e07e5ba-15aa-4847-9a26-b11ad0cce922",
+        "type": "message",
+        "text": "Good news, I can consistently get it to turn 215 degrees",
+        "user": "U0118UR0J72",
+        "ts": "1607372890.243000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JLNl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good news, I can consistently get it to turn 215 degrees"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9c53e63a-8117-4459-aa2c-03a5ae9f6c49",
+        "type": "message",
+        "text": "Bad news, I'm trying to turn 90",
+        "user": "U0118UR0J72",
+        "ts": "1607372901.243400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7PDu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bad news, I'm trying to turn 90"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

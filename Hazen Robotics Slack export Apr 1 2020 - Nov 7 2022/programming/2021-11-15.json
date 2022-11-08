@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "bbb0c370-370f-4989-b46d-ce7ae42c2ccb",
+        "type": "message",
+        "text": "any idea on what I\/we should do if we don't have a meeting? I can do some work at home if it's something on github",
+        "user": "U022WGTQ602",
+        "ts": "1637006771.067600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q85",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "any idea on what I\/we should do if we don't have a meeting? I can do some work at home if it's something on github"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

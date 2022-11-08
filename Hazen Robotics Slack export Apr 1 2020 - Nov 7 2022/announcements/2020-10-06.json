@@ -1,0 +1,818 @@
+[
+    {
+        "client_msg_id": "b092af5c-9cd0-4d77-a650-bc2cab750e01",
+        "type": "message",
+        "text": "I am trying to get the Rev Hub replaced or fixed. Can any one help me answer the following questions: Can you describe the short in more detail? What was the HUB doing before it shorted? What happend that noticeably shorted the Hub? What behavior is Hub currently exhibiting? What is the LED status?",
+        "user": "U018WC9RM3K",
+        "ts": "1602012234.049800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dPn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am trying to get the Rev Hub replaced or fixed. Can any one help me answer the following questions: Can you describe the short in more detail? What was the HUB doing before it shorted? What happend that noticeably shorted the Hub? What behavior is Hub currently exhibiting? What is the LED status?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "DEB07F3D-30B6-4F25-AE26-B98BDA698A35",
+        "type": "message",
+        "text": "Sure",
+        "user": "U012BUXVC6B",
+        "ts": "1602012265.050000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1dJWH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ED651441-5FCD-4D70-AE32-6ABAA4D75BA6",
+        "type": "message",
+        "text": "The hub was on the robot while we were testing autonomous. It died after pushing the robot on the field back to it’s starting position. (Although, do we want to tell REV that?) It currently won’t turn on or show up as connected to any devices ",
+        "user": "U012BUXVC6B",
+        "ts": "1602012346.052100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S2F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The hub was on the robot while we were testing autonomous. It died after pushing the robot on the field back to it’s starting position. (Although, do we want to tell REV that?) It currently won’t turn on or show up as connected to any devices "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "544F3F3C-1862-4DED-A27F-53687076E27A",
+        "type": "message",
+        "text": "I’m not sure about the LED status but you can probably check that by just plugging it in",
+        "user": "U012BUXVC6B",
+        "ts": "1602012361.052700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qIqz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m not sure about the LED status but you can probably check that by just plugging it in"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "021157ba-532e-44be-8429-beef5218c3c0",
+        "type": "message",
+        "text": "Donyoubnow where the battery connector for rev hub might be",
+        "user": "U018WC9RM3K",
+        "ts": "1602012567.053700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GQtt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Donyoubnow where the battery connector for rev hub might be"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7D426FE5-99E4-4557-AF9E-219E6AE4C202",
+        "type": "message",
+        "text": "Should be in the tetrix box of cables on the left or in a box on the right side table in the closet ",
+        "user": "U012BUXVC6B",
+        "ts": "1602012606.054600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hfvd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Should be in the tetrix box of cables on the left or in a box on the right side table in the closet "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "217b5cbd-c4d2-48a2-aff5-17b9c55a768d",
+        "type": "message",
+        "text": "If unplug the hub into the computer should the led turn on?",
+        "user": "U018WC9RM3K",
+        "ts": "1602015144.055200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "76aVQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If unplug the hub into the computer should the led turn on?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "32b15af2-b770-421b-bcde-7adac8d121bd",
+        "type": "message",
+        "text": "If I plug",
+        "user": "U018WC9RM3K",
+        "ts": "1602015160.055500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LlYd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If I plug"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bd00f42b-df71-4c9b-a94c-dba75d4e40f9",
+        "type": "message",
+        "text": "The led should turn on if you plug power into it",
+        "user": "U0119239VCY",
+        "ts": "1602015232.056000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+B9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The led should turn on if you plug power into it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7f72ce01-9f12-456b-ab72-f536f58bcfdc",
+        "type": "message",
+        "text": "I am not sure which cord to use as we only have older batteries and connector the connect rev eqqipmnet",
+        "user": "U018WC9RM3K",
+        "ts": "1602015291.057300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yo9to",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am not sure which cord to use as we only have older batteries and connector the connect rev eqqipmnet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01BZU8MZPX",
+                "created": 1602015307,
+                "timestamp": 1602015307,
+                "name": "IMG_20201006_131458.jpg",
+                "title": "IMG_20201006_131458.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U018WC9RM3K",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 317430,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F01BZU8MZPX\/img_20201006_131458.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F01BZU8MZPX\/download\/img_20201006_131458.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01BZU8MZPX-c107bbb2eb\/img_20201006_131458_64.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01BZU8MZPX-c107bbb2eb\/img_20201006_131458_80.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01BZU8MZPX-c107bbb2eb\/img_20201006_131458_360.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01BZU8MZPX-c107bbb2eb\/img_20201006_131458_480.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01BZU8MZPX-c107bbb2eb\/img_20201006_131458_160.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01BZU8MZPX-c107bbb2eb\/img_20201006_131458_720.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01BZU8MZPX-c107bbb2eb\/img_20201006_131458_800.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01BZU8MZPX-c107bbb2eb\/img_20201006_131458_960.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01BZU8MZPX-c107bbb2eb\/img_20201006_131458_1024.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACS3mjNRvIsYy3Somu1H3VJ\/SkMnJA6nFNLr\/eH51SeQyHcaZTEXvMX+8Pzo8xf7w\/OqNFFgLVwC4AH1qqI+OCKszSCPBPSqhkHIVTj3NTqVoOHGR6Umaap4NLmqJDNFJRQBamkEYViueaiIE0YKjaQamcAgbhkZGajATbkZznoaRViv90kUZpzLumCj+LAq2PJbKoEHzYzjBGOppollKlq5II3clmQe28D+lM2Q\/wB9f+\/n\/wBagD\/\/2Q==",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U018WC9RM3K\/F01BZU8MZPX\/img_20201006_131458.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F01BZU8MZPX-612e22ac39",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F01BZU9N11B",
+                "created": 1602015333,
+                "timestamp": 1602015333,
+                "name": "IMG_20201006_131520.jpg",
+                "title": "IMG_20201006_131520.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U018WC9RM3K",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 554241,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F01BZU9N11B\/img_20201006_131520.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F01BZU9N11B\/download\/img_20201006_131520.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01BZU9N11B-bd1e10af7a\/img_20201006_131520_64.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01BZU9N11B-bd1e10af7a\/img_20201006_131520_80.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01BZU9N11B-bd1e10af7a\/img_20201006_131520_360.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01BZU9N11B-bd1e10af7a\/img_20201006_131520_480.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01BZU9N11B-bd1e10af7a\/img_20201006_131520_160.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01BZU9N11B-bd1e10af7a\/img_20201006_131520_720.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01BZU9N11B-bd1e10af7a\/img_20201006_131520_800.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01BZU9N11B-bd1e10af7a\/img_20201006_131520_960.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01BZU9N11B-bd1e10af7a\/img_20201006_131520_1024.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACSgzYxir32hghHfsaz261b6IremDTbAlgmlaUB\/un2qa4jDQt9KCcofpTS5CEHkYqYz5gaKCx7hS+SaVXxS+ZViK7dauRjdAv0qo3Wrdt\/qR7E1LGiJN5O0FifSrpGV5qLeFkUetT0gM7FFOkGJGHvTaoRG1WbXmMj3qs3Sp7PowpMZJKqgqSec1aFQsisQT2qUUhlK44mao6nuFzL+FRbaYj\/\/2Q==",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U018WC9RM3K\/F01BZU9N11B\/img_20201006_131520.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F01BZU9N11B-4236a2d6a3",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U018WC9RM3K",
+        "ts": "1602015338.057400",
+        "client_msg_id": "5d9f8410-2077-4667-8111-f86161f17f0f"
+    },
+    {
+        "client_msg_id": "5a3e398d-05f4-4c18-97b8-72354e539310",
+        "type": "message",
+        "text": "There was an adapter for those batteries for the rev system on last years robot which I have, was there not any more in the closet?",
+        "user": "U0119239VCY",
+        "ts": "1602015432.059000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PnHFk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There was an adapter for those batteries for the rev system on last years robot which I have, was there not any more in the closet?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "A13E05DC-BF39-415A-999B-697ADCDACF0F",
+        "type": "message",
+        "text": "<https:\/\/www.revrobotics.com\/rev-31-1385\/|https:\/\/www.revrobotics.com\/rev-31-1385\/>",
+        "user": "U012BUXVC6B",
+        "ts": "1602015511.060000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iLL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.revrobotics.com\/rev-31-1385\/",
+                                "text": "https:\/\/www.revrobotics.com\/rev-31-1385\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "REV Robotics",
+                "title": "Anderson Power Pole to XT30 Adapter - 2 Pack",
+                "title_link": "https:\/\/www.revrobotics.com\/rev-31-1385\/",
+                "text": "REV Robotics designs, builds and manufactures robotics parts and components used by students for learning about science, technology, engineering, and math (STEM). Our parts are commonly used within the FIRST Robotics Competition and the FIRST Tech Challenge.",
+                "fallback": "REV Robotics: Anderson Power Pole to XT30 Adapter - 2 Pack",
+                "thumb_url": "https:\/\/cdn11.bigcommerce.com\/s-t3eo8vwp22\/products\/244\/images\/883\/AA_Anderson_Power_Pole_Style_to_XT30_Adapter__74498.1496781661.500.500.png?c=2",
+                "from_url": "https:\/\/www.revrobotics.com\/rev-31-1385\/",
+                "thumb_width": 500,
+                "thumb_height": 499,
+                "id": 1,
+                "original_url": "https:\/\/www.revrobotics.com\/rev-31-1385\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4FEF775D-A70B-4763-B616-98F5F5C09C4F",
+        "type": "message",
+        "text": "This is the cable ",
+        "user": "U012BUXVC6B",
+        "ts": "1602015514.060300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DQYn9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is the cable "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3e516571-facb-4025-81d9-7507fd84f6c0",
+        "type": "message",
+        "text": "I just tried plugging the expansion hub that works into my computer and it looks like it should flash orange",
+        "user": "U0119239VCY",
+        "ts": "1602015522.060400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G5RU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just tried plugging the expansion hub that works into my computer and it looks like it should flash orange"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "84a0162f-4ccc-447b-8105-ab4d6c5b4993",
+        "type": "message",
+        "text": "Yeah, the pc makes a noise as though it has recognized a device but device does not show up and no led",
+        "user": "U018WC9RM3K",
+        "ts": "1602015584.061500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FQq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, the pc makes a noise as though it has recognized a device but device does not show up and no led"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5e389599-345b-456a-99d4-a50d8644854c",
+        "type": "message",
+        "text": "check in the device manager and see if an unknown device shows up",
+        "user": "U0119239VCY",
+        "ts": "1602015614.062000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5qWC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "check in the device manager and see if an unknown device shows up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2e92b8f3-a1ed-4a1a-ba69-fab99f20c7c6",
+        "type": "message",
+        "text": "on the pc",
+        "user": "U0119239VCY",
+        "ts": "1602015626.062200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aJX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "on the pc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "43270c03-216b-4a29-bfe4-761dca3cbe12",
+        "type": "message",
+        "text": "actually it looks like it just shows up as a usb serial port so never mind",
+        "user": "U0119239VCY",
+        "ts": "1602016020.062800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Ij",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "actually it looks like it just shows up as a usb serial port so never mind"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,234 @@
+[
+    {
+        "client_msg_id": "f41976c5-82e8-4a86-8642-991b556e928a",
+        "type": "message",
+        "text": "idk if this is possible\/feasible for us, but in terms of the barriers and odometry, couldn't we use the t265 vslam pointed at the ceiling as a method of odometry? I'm pretty sure it wouldn't be too majorly affected by the barrier but lmk if there's something i'm missing.  If it's feasible it might allow us to use a larger robot without messing up odometry",
+        "user": "U022WGTQ602",
+        "ts": "1632971362.133000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eUrm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "idk if this is possible\/feasible for us, but in terms of the barriers and odometry, couldn't we use the t265 vslam pointed at the ceiling as a method of odometry? I'm pretty sure it wouldn't be too majorly affected by the barrier but lmk if there's something i'm missing.  If it's feasible it might allow us to use a larger robot without messing up odometry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3fcf37b1-a5eb-4f27-b236-d7665d7abceb",
+        "type": "message",
+        "text": "If we are using it with road runner we'd have to figure out how to incorporate it and that'd be hard.",
+        "user": "U0118UR0J72",
+        "ts": "1632974601.134100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n\/x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If we are using it with road runner we'd have to figure out how to incorporate it and that'd be hard."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "974dc189-32bb-4378-8204-ada3a1149be2",
+        "type": "message",
+        "text": "yea from what I've been reading it's quite a pain to set the camera up in general but if we program the localizer for it right it is possible to have it output numbers that road runner would be able to take in",
+        "user": "U022WGTQ602",
+        "ts": "1632975085.135800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w8UC6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yea from what I've been reading it's quite a pain to set the camera up in general but if we program the localizer for it right it is possible to have it output numbers that road runner would be able to take in"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1632975117.000000"
+        }
+    },
+    {
+        "client_msg_id": "18a500b4-b772-425a-a11c-71846b33d1fd",
+        "type": "message",
+        "text": "That's what I've been working on implementing the last little while, so I just need to work on it a bit more and hopefully something like that will work",
+        "user": "U0119239VCY",
+        "ts": "1632975155.137400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5PMB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's what I've been working on implementing the last little while, so I just need to work on it a bit more and hopefully something like that will work"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a5ed51ec-5ebf-462b-8461-1c368c7ecf79",
+        "type": "message",
+        "text": "oh that's good to hear",
+        "user": "U022WGTQ602",
+        "ts": "1632975177.137600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GaWr1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh that's good to hear"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "03ebed74-0674-4ee3-9349-bcd18c752190",
+        "type": "message",
+        "text": "Also, freight frenzy has a bunch of problems when you clone it. I think the issue with it not building is because it is using .gradle from C:\\user and not from the project. Also when you open it in Android Studio in Project view, it takes you to C:\\user instead of C:\\user\\git\\freight-frenzy",
+        "user": "U0118UR0J72",
+        "ts": "1632975670.141800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "niZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, freight frenzy has a bunch of problems when you clone it. I think the issue with it not building is because it is using .gradle from C:\\user and not from the project. Also when you open it in Android Studio in Project view, it takes you to C:\\user instead of C:\\user\\git\\freight-frenzy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

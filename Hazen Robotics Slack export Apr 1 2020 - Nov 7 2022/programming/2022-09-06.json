@@ -1,0 +1,672 @@
+[
+    {
+        "client_msg_id": "e1660ff1-4b6b-49b4-b049-7de8a420ee7d",
+        "type": "message",
+        "text": "I need answers:\nWhat is better:\nfor(int i=0; i&lt;arr.length; i++) or for(int var: arr)\nAlso:\nfor(int i = 0; i &lt;2, i++) { neuron neuron = new neuron(); } or for(int i = 2; i&gt;0, i--) { neuron neuron = new neuron(); }",
+        "user": "U02DWDDVAP7",
+        "ts": "1662496123.061079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wg1Oa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I need answers:\nWhat is better:\nfor(int i=0; i<arr.length; i++) or for(int var: arr)\nAlso:\nfor(int i = 0; i <2, i++) { neuron neuron = new neuron(); } or for(int i = 2; i>0, i--) { neuron neuron = new neuron(); }"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02DWDDVAP7",
+            "ts": "1662496139.000000"
+        }
+    },
+    {
+        "client_msg_id": "603b5084-4882-4ac0-b4b4-ac1d0bb27b12",
+        "type": "message",
+        "text": "the regular for-loop vs for-each loop is faster but it’s a bit less readable",
+        "user": "U022WGTQ602",
+        "ts": "1662496169.931119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dsW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the regular for-loop vs for-each loop is faster but it’s a bit less readable"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662496169.931119",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1662496387.414469",
+        "reply_users": [
+            "U02DWDDVAP7",
+            "U022WGTQ602"
+        ],
+        "replies": [
+            {
+                "user": "U02DWDDVAP7",
+                "ts": "1662496319.240539"
+            },
+            {
+                "user": "U02DWDDVAP7",
+                "ts": "1662496334.848839"
+            },
+            {
+                "user": "U022WGTQ602",
+                "ts": "1662496387.414469"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "516f691d-2da5-4175-b49a-d657ef1a4fa4",
+        "type": "message",
+        "text": "the first one",
+        "user": "U022WGTQ602",
+        "ts": "1662496188.530509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eRsBl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the first one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5a25f369-c54b-4d50-a27d-f0ead9cd2170",
+        "type": "message",
+        "text": "also im hoping that your object types are capitalized and it’s just lowercase because you’re typing in slack",
+        "user": "U022WGTQ602",
+        "ts": "1662496229.502209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tiS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also im hoping that your object types are capitalized and it’s just lowercase because you’re typing in slack"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1d8fd463-893e-40fd-a979-5758f3494741",
+        "type": "message",
+        "text": "Yes I am not that evil",
+        "user": "U02DWDDVAP7",
+        "ts": "1662496250.031709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vR3Hl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes I am not that evil"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "914eca21-cb3a-4ccf-9bd9-456f28403e80",
+        "type": "message",
+        "text": "You count up when not looping through an array",
+        "user": "U02DWDDVAP7",
+        "ts": "1662496319.240539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VLX1m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You count up when not looping through an array"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662496169.931119",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "3c140d60-8d88-4f57-9737-f8eeea4329a5",
+        "type": "message",
+        "text": "Counting down just seems nicer",
+        "user": "U02DWDDVAP7",
+        "ts": "1662496334.848839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vihO4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Counting down just seems nicer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662496169.931119",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "ed5fb237-7c20-441a-ab26-82688bb5ed71",
+        "type": "message",
+        "text": "yea ik, it’s just normal formatting, sam could probably explain why better than i can lol",
+        "user": "U022WGTQ602",
+        "ts": "1662496387.414469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zXv+S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yea ik, it’s just normal formatting, sam could probably explain why better than i can lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662496169.931119",
+        "parent_user_id": "U022WGTQ602"
+    },
+    {
+        "client_msg_id": "9212AF1A-18CD-4A05-BD12-02CF663D4ACA",
+        "type": "message",
+        "text": "Conner you should try and make the most confusing code ever, just garble every possible standard.",
+        "user": "U038AS2R6UV",
+        "ts": "1662497127.494889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z0WkK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Conner you should try and make the most confusing code ever, just garble every possible standard."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g2c4eee482c1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2c4eee482c1daf21ca41a736f9ca5bd1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Pottorff",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "ryan.pottorff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662497127.494889",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1662497362.412219",
+        "reply_users": [
+            "U022WGTQ602",
+            "U02DWDDVAP7"
+        ],
+        "replies": [
+            {
+                "user": "U022WGTQ602",
+                "ts": "1662497253.385569"
+            },
+            {
+                "user": "U02DWDDVAP7",
+                "ts": "1662497362.412219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8E3084D7-F52D-47C9-8DB4-5F165F8A2B07",
+        "type": "message",
+        "text": "or i should idk",
+        "user": "U038AS2R6UV",
+        "ts": "1662497130.731169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/h6k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or i should idk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g2c4eee482c1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2c4eee482c1daf21ca41a736f9ca5bd1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Pottorff",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "ryan.pottorff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "33269929-b0db-4e69-82cd-e05e29a04cb9",
+        "type": "message",
+        "text": "I am down",
+        "user": "U02DWDDVAP7",
+        "ts": "1662497182.769759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OqOO8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am down"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "75b25d60-fbb1-481a-95d6-c1c9e924458b",
+        "type": "message",
+        "text": "Its called last breath of the billionaires.",
+        "user": "U02DWDDVAP7",
+        "ts": "1662497216.265749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vt2U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Its called last breath of the billionaires."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c4d7c2c6-85a9-426f-b6e1-d967818bb4ba",
+        "type": "message",
+        "text": "What is a code standard \/j",
+        "user": "U02DWDDVAP7",
+        "ts": "1662497231.489929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dw=q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What is a code standard \/j"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e943bdaa-f633-4179-bc69-d2a2fc543ef3",
+        "type": "message",
+        "text": "I feel like he's already accomplished that challenge... several times... I've seen code no man should ever have to witness",
+        "user": "U022WGTQ602",
+        "ts": "1662497253.385569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GY2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I feel like he's already accomplished that challenge... several times... I've seen code no man should ever have to witness"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1662497127.494889",
+        "parent_user_id": "U038AS2R6UV"
+    },
+    {
+        "client_msg_id": "3F293239-1D07-4E18-8CE2-E73D3997BDEB",
+        "type": "message",
+        "text": "you’re gonna be the new yandere dev",
+        "user": "U038AS2R6UV",
+        "ts": "1662497326.074779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DagL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you’re gonna be the new yandere dev"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g2c4eee482c1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2c4eee482c1daf21ca41a736f9ca5bd1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Pottorff",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "ryan.pottorff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ed3063b3-49f5-4f7e-8fb1-4aff95bc5312",
+        "type": "message",
+        "text": "for(int i=0; i&lt;arr.length; for( ; false; i++))",
+        "user": "U02DWDDVAP7",
+        "ts": "1662497362.412219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jv9+A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for(int i=0; i<arr.length; for( ; false; i++))"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02DWDDVAP7",
+            "ts": "1662497502.000000"
+        },
+        "thread_ts": "1662497127.494889",
+        "parent_user_id": "U038AS2R6UV"
+    }
+]

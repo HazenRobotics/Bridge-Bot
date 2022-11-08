@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "9D56AD21-1783-4876-996C-1DAF30E598A8",
+        "type": "message",
+        "text": "<!everyone> There’s an optional meeting tomorrow after school in the shop! Everyone who was part of the team last spring is encouraged to come, I want to get y’all started learning what you need for the season. We’re also going to be prepping for the introductory meeting on Wednesday, so I need experienced people to come as well. It’ll run until 4:30, let me know if you need a ride. If you can’t come on Wednesday, absolutely come tomorrow! ",
+        "user": "U012BUXVC6B",
+        "ts": "1630974969.036500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S3F2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " There’s an optional meeting tomorrow after school in the shop! Everyone who was part of the team last spring is encouraged to come, I want to get y’all started learning what you need for the season. We’re also going to be prepping for the introductory meeting on Wednesday, so I need experienced people to come as well. It’ll run until 4:30, let me know if you need a ride. If you can’t come on Wednesday, absolutely come tomorrow! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

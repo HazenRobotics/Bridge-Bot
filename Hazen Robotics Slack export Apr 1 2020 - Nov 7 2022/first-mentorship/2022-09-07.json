@@ -1,0 +1,109 @@
+[
+    {
+        "client_msg_id": "febfa370-0af4-4173-9772-c56e8c74cb01",
+        "type": "message",
+        "text": "<@U022WGTQ602> <@U02ENRPMDCZ> <@U038AS2R6UV> CC you in a email about honey dew",
+        "user": "U02DWDDVAP7",
+        "ts": "1662602276.090379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "26mW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02ENRPMDCZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U038AS2R6UV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " CC you in a email about honey dew"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1662602299.260469",
+        "user": "U022WGTQ602",
+        "text": "<@U022WGTQ602> has joined the channel"
+    },
+    {
+        "client_msg_id": "b9d52d42-1030-4ad5-81c3-4594f9824449",
+        "type": "message",
+        "text": "<@U01BCRC513K> What is a email you would like me to CC you with for honey dew",
+        "user": "U02DWDDVAP7",
+        "ts": "1662602355.195279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9rkj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01BCRC513K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " What is a email you would like me to CC you with for honey dew"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "1345d69f0915",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-25\/4285249398001_1345d69f0915bbc92727_72.png",
+            "first_name": "Conner",
+            "real_name": "Conner Brunner",
+            "display_name": "Conner Brunner",
+            "team": "T010YRDV4KB",
+            "name": "con-bru000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

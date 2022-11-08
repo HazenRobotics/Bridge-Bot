@@ -1,0 +1,47 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585811557.001000",
+        "user": "U010WTHDW5Q",
+        "text": "<@U010WTHDW5Q> has joined the channel"
+    },
+    {
+        "client_msg_id": "9ff8e032-fedf-4a2f-8d60-8543485b0757",
+        "type": "message",
+        "text": "we should have our next meeting on zoom",
+        "user": "U010YRDV4TT",
+        "ts": "1585844590.001400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hmf6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we should have our next meeting on zoom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g3c58ac9e5d1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3c58ac9e5d177e9459323afb1d66d346.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "fmiddelhoven",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "fmiddelhoven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

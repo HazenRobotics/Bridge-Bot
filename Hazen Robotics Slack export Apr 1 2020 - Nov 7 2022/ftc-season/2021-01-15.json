@@ -1,0 +1,180 @@
+[
+    {
+        "client_msg_id": "e3af91f0-661c-4981-ad53-cff59f3f6ce2",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=jAxH5NU0IMc>, <https:\/\/www.youtube.com\/watch?v=S4NkGYxixZg>,<https:\/\/www.youtube.com\/watch?v=V6BHIUtDAFA>,<https:\/\/www.youtube.com\/watch?v=WFalNQAXNJY>",
+        "user": "U018WC9RM3K",
+        "ts": "1610743957.000600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MYN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=jAxH5NU0IMc"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=S4NkGYxixZg"
+                            },
+                            {
+                                "type": "text",
+                                "text": ","
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=V6BHIUtDAFA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ","
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=WFalNQAXNJY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "FTC Ultimate Goal 360 Point Match - Official World Record",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=jAxH5NU0IMc",
+                "author_name": "Circuit Breakers 10435",
+                "author_link": "https:\/\/www.youtube.com\/c\/CircuitBreakers10435",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/jAxH5NU0IMc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: FTC Ultimate Goal 360 Point Match - Official World Record",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/jAxH5NU0IMc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=jAxH5NU0IMc",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=jAxH5NU0IMc"
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Barker Redbacks FTC 11148 - 357 Points WR",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=S4NkGYxixZg",
+                "author_name": "FRC Team 4613 - Barker Redbacks",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCrPaJ2cDBRG5anDkICpr5rg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/S4NkGYxixZg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Barker Redbacks FTC 11148 - 357 Points WR",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/S4NkGYxixZg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=S4NkGYxixZg",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 2,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=S4NkGYxixZg"
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "18219 Primitive Data | FTC Ultimate Goal 321 Point Former World Record",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=V6BHIUtDAFA",
+                "author_name": "FTC Primitive Data",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC1HbiK7keOPXQ03eAdf9uBA",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/V6BHIUtDAFA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: 18219 Primitive Data | FTC Ultimate Goal 321 Point Former World Record",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/V6BHIUtDAFA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=V6BHIUtDAFA",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 3,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=V6BHIUtDAFA"
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "RoboHawks Intake V4 - FTC Ultimate Goal 2020-2021",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=WFalNQAXNJY",
+                "author_name": "RoboHawks 5741",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCeSboHPQxmGPHXCb3UiHsWg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/WFalNQAXNJY\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: RoboHawks Intake V4 - FTC Ultimate Goal 2020-2021",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/WFalNQAXNJY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=WFalNQAXNJY",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 4,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=WFalNQAXNJY"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ECD784F0-5892-446F-89A5-B74CA1B12FD1",
+        "type": "message",
+        "text": "oh boy",
+        "user": "U012BUXVC6B",
+        "ts": "1610751525.000900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hIpCr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh boy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

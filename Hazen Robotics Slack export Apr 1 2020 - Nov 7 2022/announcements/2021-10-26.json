@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "c221a4db-f8c9-472e-bde5-8ba812e27cea",
+        "type": "message",
+        "text": "I know the deadline to submit round one is soon November 8th but I think we could create something to monitor water and air quality or sorting linked to salmon and ecosystems. <https:\/\/www.samsung.com\/us\/solvefortomorrow\/>",
+        "user": "U018WC9RM3K",
+        "ts": "1635282209.024000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pT2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know the deadline to submit round one is soon November 8th but I think we could create something to monitor water and air quality or sorting linked to salmon and ecosystems. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.samsung.com\/us\/solvefortomorrow\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Samsung Electronics America",
+                "title": "Solve for Tomorrow | Investing in Students | Samsung US",
+                "title_link": "https:\/\/www.samsung.com\/us\/solvefortomorrow\/",
+                "text": "Samsung's annual competition for public schools grades 6 - 12 encourages students to share their STEM project ideas for a chance to win prize money and mentorship.",
+                "fallback": "Samsung Electronics America: Solve for Tomorrow | Investing in Students | Samsung US",
+                "image_url": "http:\/\/image-us.samsung.com\/SamsungUS\/home\/samsung-logo-1-1.jpg?$seo-twitter-card-jpg$",
+                "from_url": "https:\/\/www.samsung.com\/us\/solvefortomorrow\/",
+                "image_width": 467,
+                "image_height": 250,
+                "image_bytes": 9152,
+                "service_icon": "https:\/\/www.samsung.com\/us\/smg\/etc\/designs\/samsung\/global\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.samsung.com\/us\/solvefortomorrow\/"
+            }
+        ]
+    }
+]

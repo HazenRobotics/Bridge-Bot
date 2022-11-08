@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "100cc8dd-fe8c-4c31-90ce-9add36a3a162",
+        "type": "message",
+        "text": "this book might be useful for new programmers if they aren't familiar with java (like me).  It's a more FTC focused course for programming in java. <https:\/\/github.com\/alan412\/LearnJavaForFTC>",
+        "user": "U022WGTQ602",
+        "ts": "1623026749.010100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JIA7V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this book might be useful for new programmers if they aren't familiar with java (like me).  It's a more FTC focused course for programming in java. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/alan412\/LearnJavaForFTC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "alan412\/LearnJavaForFTC",
+                "title_link": "https:\/\/github.com\/alan412\/LearnJavaForFTC",
+                "text": "This is for learning Java for FTC. Contribute to alan412\/LearnJavaForFTC development by creating an account on GitHub.",
+                "fallback": "GitHub: alan412\/LearnJavaForFTC",
+                "image_url": "https:\/\/opengraph.githubassets.com\/12b3a55910058a067b36aab32b617c1fe7c742dd4bd41b0f73fa9a0521b30687\/alan412\/LearnJavaForFTC",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "https:\/\/github.com\/alan412\/LearnJavaForFTC",
+                "image_bytes": 122932,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/alan412\/LearnJavaForFTC"
+            }
+        ]
+    }
+]

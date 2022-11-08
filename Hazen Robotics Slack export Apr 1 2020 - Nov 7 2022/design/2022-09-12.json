@@ -1,0 +1,137 @@
+[
+    {
+        "client_msg_id": "efdd9df0-c5bd-4f10-bfe0-7d5324ac28fd",
+        "type": "message",
+        "text": "i made one of those for my 5th grade science fair",
+        "user": "U038AS2R6UV",
+        "ts": "1663046159.506719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6LF19",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i made one of those for my 5th grade science fair"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g2c4eee482c1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2c4eee482c1daf21ca41a736f9ca5bd1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Pottorff",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "ryan.pottorff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dc8f4c19-0883-44a2-95d8-4ffbdb741498",
+        "type": "message",
+        "text": "out of legos i think",
+        "user": "U038AS2R6UV",
+        "ts": "1663046163.167589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9WmrY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "out of legos i think"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g2c4eee482c1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2c4eee482c1daf21ca41a736f9ca5bd1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Pottorff",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "ryan.pottorff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "23980a37-ba3c-49b5-9837-a3078ebf42a2",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=4Wst8eJKfBg>",
+        "user": "U022WGTQ602",
+        "ts": "1663049015.485839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EcC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=4Wst8eJKfBg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=4Wst8eJKfBg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/4Wst8eJKfBg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/4Wst8eJKfBg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Intake and Scoring 8680 Kraken-Pinion Robot in 30 Hours\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=4Wst8eJKfBg",
+                "fallback": "YouTube Video: Intake and Scoring 8680 Kraken-Pinion Robot in 30 Hours",
+                "title": "Intake and Scoring 8680 Kraken-Pinion Robot in 30 Hours",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=4Wst8eJKfBg",
+                "author_name": "First Updates Now",
+                "author_link": "https:\/\/www.youtube.com\/c\/FirstUpdatesNow",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    }
+]

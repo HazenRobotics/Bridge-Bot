@@ -1,0 +1,4104 @@
+[
+    {
+        "client_msg_id": "efd74cf5-a83f-4ca3-a280-09caf53bd848",
+        "type": "message",
+        "text": "Can anyone explain why we only use encoders from 2 motors, and more specifically, which 2?",
+        "user": "U02535ABH2A",
+        "ts": "1652827707.019469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TCF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can anyone explain why we only use encoders from 2 motors, and more specifically, which 2?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3414040e-ed3d-41dd-a859-a382d69afe00",
+        "type": "message",
+        "text": "?",
+        "user": "U022WGTQ602",
+        "ts": "1652827721.278109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Zh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1617ce1a-8716-43d8-b0d8-52c214f95e78",
+        "type": "message",
+        "text": "we use 4, 1 for each motor, 2 encoders is for dead wheels",
+        "user": "U022WGTQ602",
+        "ts": "1652827739.313589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ANBRU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we use 4, 1 for each motor, 2 encoders is for dead wheels"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "97ecb191-15e1-45fa-8e11-a111656465ee",
+        "type": "message",
+        "text": "Ohh",
+        "user": "U02535ABH2A",
+        "ts": "1652827749.157439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CAz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ohh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "06fab17b-d8b3-4018-9630-70fab365c02e",
+        "type": "message",
+        "text": "Did Sam just tell me how it would work for dead wheels earlier?",
+        "user": "U02535ABH2A",
+        "ts": "1652827766.193889",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lQD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Did Sam just tell me how it would work for dead wheels earlier?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a318ec3e-0656-4100-a31e-36240b71715e",
+        "type": "message",
+        "text": "he’s confused by the question",
+        "user": "U022WGTQ602",
+        "ts": "1652827790.324859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JG+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "he’s confused by the question"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bbbb9bbe-a5f9-4607-958f-3ca670f1760e",
+        "type": "message",
+        "text": "he says he didn’t say anything about dead wheels",
+        "user": "U022WGTQ602",
+        "ts": "1652827802.133429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ztMM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "he says he didn’t say anything about dead wheels"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b7680791-c697-44de-8356-788c82c3dbad",
+        "type": "message",
+        "text": "Hmm",
+        "user": "U02535ABH2A",
+        "ts": "1652827807.567399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6I=n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hmm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bffc6597-29e2-4072-b757-ee243caec955",
+        "type": "message",
+        "text": "Didn't he say something about 2 motors for encoders earlier?",
+        "user": "U02535ABH2A",
+        "ts": "1652827824.359219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hHQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Didn't he say something about 2 motors for encoders earlier?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e0195905-5847-4f94-8de3-34edebedcbd8",
+        "type": "message",
+        "text": "no?",
+        "user": "U022WGTQ602",
+        "ts": "1652827831.985239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vojSI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6b170c8b-f2f5-42db-b357-1814f93d0c35",
+        "type": "message",
+        "text": "Oh ok",
+        "user": "U02535ABH2A",
+        "ts": "1652827837.225869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lvgr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "de4207fc-69cd-4387-89d7-9c7d81908ea2",
+        "type": "message",
+        "text": "Brain go brr",
+        "user": "U02535ABH2A",
+        "ts": "1652827842.346399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kZ8=2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Brain go brr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Does everything look right in this block of code for teleop? Servos n' stuff",
+        "files": [
+            {
+                "id": "F03GKPYA8CQ",
+                "created": 1652831166,
+                "timestamp": 1652831166,
+                "name": "Screenshot 2022-05-17 4.38.01 PM.png",
+                "title": "Screenshot 2022-05-17 4.38.01 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02535ABH2A",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 82113,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F03GKPYA8CQ\/screenshot_2022-05-17_4.38.01_pm.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F03GKPYA8CQ\/download\/screenshot_2022-05-17_4.38.01_pm.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GKPYA8CQ-9e3ebb6169\/screenshot_2022-05-17_4.38.01_pm_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GKPYA8CQ-9e3ebb6169\/screenshot_2022-05-17_4.38.01_pm_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GKPYA8CQ-9e3ebb6169\/screenshot_2022-05-17_4.38.01_pm_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 284,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GKPYA8CQ-9e3ebb6169\/screenshot_2022-05-17_4.38.01_pm_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 379,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GKPYA8CQ-9e3ebb6169\/screenshot_2022-05-17_4.38.01_pm_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "original_w": 674,
+                "original_h": 532,
+                "thumb_tiny": "AwAlADCgCMUE+lC+9LgY5FADcmkp2BRxTAbRRRQAopefSkHtSnPrQAmfYUfgKMn1pMmgAopcn1pKAFHBpd3tSUlAC5ozRRQAlFLRQB\/\/2Q==",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U02535ABH2A\/F03GKPYA8CQ\/screenshot_2022-05-17_4.38.01_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F03GKPYA8CQ-8b1907f718",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02535ABH2A",
+        "display_as_bot": false,
+        "ts": "1652831195.508409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YwIl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does everything look right in this block of code for teleop? Servos n' stuff"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U02535ABH2A",
+            "ts": "1652831481.000000"
+        },
+        "client_msg_id": "56a5cce1-18da-4823-bd09-365288f76665"
+    },
+    {
+        "client_msg_id": "7b3c191d-1870-418d-850a-c0e760f21da7",
+        "type": "message",
+        "text": "oops, this is for teleop",
+        "user": "U02535ABH2A",
+        "ts": "1652831469.357949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CQy5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oops, this is for teleop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c7adecb6-8bb7-4300-b809-803e678ee41e",
+        "type": "message",
+        "text": "still, does it look good tho?",
+        "user": "U02535ABH2A",
+        "ts": "1652831470.193269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k0Nj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "still, does it look good tho?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4b2651c1-5255-44a6-b53f-55031cbe66c3",
+        "type": "message",
+        "text": "lol I found the reason why the bot was moving at a snail pace and not moving straight",
+        "user": "U02535ABH2A",
+        "ts": "1652838269.289509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=\/V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lol I found the reason why the bot was moving at a snail pace and not moving straight"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03FFNNT0LF",
+                "created": 1652838283,
+                "timestamp": 1652838283,
+                "name": "Screenshot 2022-05-17 6.43.22 PM.png",
+                "title": "Screenshot 2022-05-17 6.43.22 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02535ABH2A",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 18994,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F03FFNNT0LF\/screenshot_2022-05-17_6.43.22_pm.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F03FFNNT0LF\/download\/screenshot_2022-05-17_6.43.22_pm.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03FFNNT0LF-b344adfd2b\/screenshot_2022-05-17_6.43.22_pm_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03FFNNT0LF-b344adfd2b\/screenshot_2022-05-17_6.43.22_pm_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03FFNNT0LF-b344adfd2b\/screenshot_2022-05-17_6.43.22_pm_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 47,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03FFNNT0LF-b344adfd2b\/screenshot_2022-05-17_6.43.22_pm_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 62,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03FFNNT0LF-b344adfd2b\/screenshot_2022-05-17_6.43.22_pm_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03FFNNT0LF-b344adfd2b\/screenshot_2022-05-17_6.43.22_pm_720.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 720,
+                "thumb_720_h": 94,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03FFNNT0LF-b344adfd2b\/screenshot_2022-05-17_6.43.22_pm_800.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 104,
+                "original_w": 876,
+                "original_h": 114,
+                "thumb_tiny": "AwAGADDPBA7UuR6U2imAuaTNFFABmiiigD\/\/2Q==",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U02535ABH2A\/F03FFNNT0LF\/screenshot_2022-05-17_6.43.22_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F03FFNNT0LF-468fe287e1",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02535ABH2A",
+        "display_as_bot": false,
+        "ts": "1652838287.581699",
+        "client_msg_id": "7a83d4fe-6936-415e-8539-231bdb407041"
+    },
+    {
+        "client_msg_id": "7086f7d3-40ef-459d-bfc4-54246225db70",
+        "type": "message",
+        "text": "my brain is a toaster with just 1 piece of bread on the high setting",
+        "user": "U02535ABH2A",
+        "ts": "1652838307.069539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OKqbe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my brain is a toaster with just 1 piece of bread on the high setting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fd915ba1-0ba0-4a83-8917-ac7275a0fb97",
+        "type": "message",
+        "text": "weren't you just talking about that earlier???",
+        "user": "U022WGTQ602",
+        "ts": "1652838313.363999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ejArq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "weren't you just talking about that earlier???"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5a66af4a-5154-4b38-96dc-79f302f7ab65",
+        "type": "message",
+        "text": "yes, but I thought it was just the battery",
+        "user": "U02535ABH2A",
+        "ts": "1652838323.412309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "30t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, but I thought it was just the battery"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cb464aa1-7ae9-4ac9-aa9a-8ccad8e30c8c",
+        "type": "message",
+        "text": "bruh",
+        "user": "U022WGTQ602",
+        "ts": "1652838328.200349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+uT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bruh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c7a45476-0e3f-4d11-a3cc-e8391a71ab0a",
+        "type": "message",
+        "text": "<@U022WGTQ602> <@U022WGTQ602> <@U022WGTQ602> <@U022WGTQ602> <@U022WGTQ602> <@U022WGTQ602>\nRemember how my arrow key was stuck down on my computer today but only in the start menu and setting page? It's because my controller in my backpack was connected to it and the stick was pressed up. lololol",
+        "user": "U0118UR0J72",
+        "ts": "1652838508.329419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dgD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022WGTQ602"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nRemember how my arrow key was stuck down on my computer today but only in the start menu and setting page? It's because my controller in my backpack was connected to it and the stick was pressed up. lololol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0376c114-2b5c-45e5-aca4-2baaf53c7681",
+        "type": "message",
+        "text": "lmaooooo",
+        "user": "U022WGTQ602",
+        "ts": "1652838526.367279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8EMnm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lmaooooo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6adc54fb-b647-4a54-a504-7bb8101f9cad",
+        "type": "message",
+        "text": "It was out of control",
+        "user": "U018WC9RM3K",
+        "ts": "1652838540.166769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PCMC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It was out of control"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "301ab749-9abe-40bb-ba5c-970f6f9e6676",
+        "type": "message",
+        "text": "ive had the same issue before",
+        "user": "U022WGTQ602",
+        "ts": "1652838542.453019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yh2TC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ive had the same issue before"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a5209a4c-59e5-4d0e-829a-80617d90eec4",
+        "type": "message",
+        "text": "...",
+        "user": "U022WGTQ602",
+        "ts": "1652838546.972649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "43im9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7290a407-c000-4e41-b57a-511a1e6d4105",
+        "type": "message",
+        "text": "is there a better way to do this besides casting to a CRServo?",
+        "user": "U02535ABH2A",
+        "ts": "1652844094.674819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xbxH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is there a better way to do this besides casting to a CRServo?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03FPTZJ1N2",
+                "created": 1652844095,
+                "timestamp": 1652844095,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02535ABH2A",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 33586,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F03FPTZJ1N2\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F03FPTZJ1N2\/download\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03FPTZJ1N2-8e3863df6b\/image_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03FPTZJ1N2-8e3863df6b\/image_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03FPTZJ1N2-8e3863df6b\/image_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 59,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03FPTZJ1N2-8e3863df6b\/image_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 79,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03FPTZJ1N2-8e3863df6b\/image_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03FPTZJ1N2-8e3863df6b\/image_720.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 720,
+                "thumb_720_h": 119,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03FPTZJ1N2-8e3863df6b\/image_800.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 132,
+                "original_w": 932,
+                "original_h": 154,
+                "thumb_tiny": "AwAHADCnkUuRTaKAFyKOKSigBeKOPSkooA\/\/2Q==",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U02535ABH2A\/F03FPTZJ1N2\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F03FPTZJ1N2-ced9c7ef2f",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02535ABH2A",
+        "display_as_bot": false,
+        "ts": "1652844098.507819",
+        "client_msg_id": "d937e2c1-1bcd-4bfc-aadc-4868bf9b85ac"
+    },
+    {
+        "client_msg_id": "339a86ef-460a-4af1-9883-40bbb16e3b4d",
+        "type": "message",
+        "text": "hardwareMap.CRServo.get(\"\") im pretty sure",
+        "user": "U022WGTQ602",
+        "ts": "1652844146.698009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rk5z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hardwareMap.CRServo.get(\"\") im pretty sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "54c828fe-95e3-4a8a-821a-aeb9c4ac5e0a",
+        "type": "message",
+        "text": "that didn't work, but apparently it likes it to be all lower case",
+        "user": "U02535ABH2A",
+        "ts": "1652844269.527899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2EsE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that didn't work, but apparently it likes it to be all lower case"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "19747342-3b42-441a-92c5-fe12aa1b2af5",
+        "type": "message",
+        "text": "yea, i just checked the github and saw that",
+        "user": "U022WGTQ602",
+        "ts": "1652844286.090109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TkaED",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yea, i just checked the github and saw that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1407c004-8218-4cc9-913e-c6ff4a0cd2d1",
+        "type": "message",
+        "text": "yep",
+        "user": "U02535ABH2A",
+        "ts": "1652844292.171229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EY4W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yep"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "79569735-0a1f-4e33-8a5c-6a290ee17ff7",
+        "type": "message",
+        "text": "what's the difference between putting a name into the quotation marks as to not putting em there?",
+        "user": "U02535ABH2A",
+        "ts": "1652844328.631619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Ct",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what's the difference between putting a name into the quotation marks as to not putting em there?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2cbb547f-7ef2-44db-bf53-f19418cc5863",
+        "type": "message",
+        "text": "I was looking at some code and some has it, some doesn't",
+        "user": "U02535ABH2A",
+        "ts": "1652844343.803569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DsM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was looking at some code and some has it, some doesn't"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "41243f57-5a71-428f-8a80-7327807e4d8b",
+        "type": "message",
+        "text": "One person put it there because they hadn't finished their hardware map yet",
+        "user": "U0118UR0J72",
+        "ts": "1652844636.312999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yPS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One person put it there because they hadn't finished their hardware map yet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b4ee12ec-800f-46c4-b7af-7e7fcfa4d575",
+        "type": "message",
+        "text": "oh ok",
+        "user": "U02535ABH2A",
+        "ts": "1652844674.057469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M8eZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dd5fb188-019c-4b76-9f39-0e511f901572",
+        "type": "message",
+        "text": "so when I go to configure the hardware map, I just put those exact names in, right?",
+        "user": "U02535ABH2A",
+        "ts": "1652844692.219879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZFjh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so when I go to configure the hardware map, I just put those exact names in, right?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f3739728-01fc-40b2-9d56-51aa7cd54f08",
+        "type": "message",
+        "text": "Yup",
+        "user": "U0118UR0J72",
+        "ts": "1652844704.941069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sbG0f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2d41118a-66da-4748-90d7-fdbb91d308f5",
+        "type": "message",
+        "text": "woo, sounds good",
+        "user": "U02535ABH2A",
+        "ts": "1652844741.253959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0LW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "woo, sounds good"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e76d100a-4d4b-43e6-945f-63d21ecaa44c",
+        "type": "message",
+        "text": "Also, it would likely be hardwareMap.crservo.get( \"&lt;nameOfServo&gt;\" );",
+        "user": "U0118UR0J72",
+        "ts": "1652844744.123149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/bkM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, it would likely be hardwareMap.crservo.get( \"<nameOfServo>\" );"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3be995a3-2955-47fc-be92-2db2f664741e",
+        "type": "message",
+        "text": "Or you could do hardwareMap.get( CRServo.class, \"&lt;nameOfServo&gt;\" );",
+        "user": "U0118UR0J72",
+        "ts": "1652844782.635619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y\/9m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or you could do hardwareMap.get( CRServo.class, \"<nameOfServo>\" );"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "14275f1c-b125-45e0-8bb2-6ae1d20eeda3",
+        "type": "message",
+        "text": "what's with the arrows?",
+        "user": "U02535ABH2A",
+        "ts": "1652844798.867659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IKmer",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what's with the arrows?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f3f9f630-1e53-41ca-b93a-40a970a78b80",
+        "type": "message",
+        "text": "They're inside strings, don't worry about them. It's a naming convention for &lt;replaceThisLater&gt;",
+        "user": "U0118UR0J72",
+        "ts": "1652844830.290629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8bGFj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They're inside strings, don't worry about them. It's a naming convention for <replaceThisLater>"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b91274f4-b9ab-4399-a9fd-b9faff343750",
+        "type": "message",
+        "text": "Or like if you want someone else to &lt;put input here&gt;",
+        "user": "U0118UR0J72",
+        "ts": "1652844849.049629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q=Nf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or like if you want someone else to <put input here>"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "49d75a8c-4bd4-4a2c-8264-41bdba5d5563",
+        "type": "message",
+        "text": "oh rad, ok",
+        "user": "U02535ABH2A",
+        "ts": "1652844858.483959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Od3q3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh rad, ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fbdf7f4c-afc3-49c2-9b77-1cff099239b9",
+        "type": "message",
+        "text": "also, is there some example code for using encoders?",
+        "user": "U02535ABH2A",
+        "ts": "1652844868.620689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z3Dn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also, is there some example code for using encoders?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "df38365d-79df-49f6-a358-ff18a73ae3b4",
+        "type": "message",
+        "text": "I know we went over em earlier but having some basic code I can play with would be helpful",
+        "user": "U02535ABH2A",
+        "ts": "1652844980.056279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jZB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know we went over em earlier but having some basic code I can play with would be helpful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8c6de56d-778d-4ffe-8545-1f2512c49c2d",
+        "type": "message",
+        "text": "```DcMotorEx motor = hardwareMap.get( DcMotorEx.class, \"motor\" );\nmotor.setMode( RunMode.RUN_TO_POSITION );\nint ppr = 250; \/\/ number of pulses\/ticks in one revolution of the motor\nmotor.setTargetPosition( 3 * ppr); \/\/ distance of 3 rotations\nmotor.setPower( 0.75 );\nwhile( motor.isBusy( ) );\nmotor.setPower( 0 );```",
+        "user": "U0118UR0J72",
+        "ts": "1652845096.974749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VpHnI",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "DcMotorEx motor = hardwareMap.get( DcMotorEx.class, \"motor\" );\nmotor.setMode( RunMode.RUN_TO_POSITION );\nint ppr = 250; \/\/ number of pulses\/ticks in one revolution of the motor\nmotor.setTargetPosition( 3 * ppr); \/\/ distance of 3 rotations\nmotor.setPower( 0.75 );\nwhile( motor.isBusy( ) );\nmotor.setPower( 0 );"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0118UR0J72",
+            "ts": "1652845160.000000"
+        }
+    },
+    {
+        "client_msg_id": "9317e531-4811-4989-bf39-af058ebfd8e7",
+        "type": "message",
+        "text": "oh that's fantastic, great",
+        "user": "U02535ABH2A",
+        "ts": "1652845122.149309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jmf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh that's fantastic, great"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ed41a6cd-e673-4fe4-90b8-0dbc3fdac4f8",
+        "type": "message",
+        "text": "did you just write that lol",
+        "user": "U02535ABH2A",
+        "ts": "1652845135.902669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3c\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "did you just write that lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "73a7e077-40c1-45ca-8838-c96a09862638",
+        "type": "message",
+        "text": "I think that's right. Just typed it on the fly so remember to hover over variables\/methods to see what they do or the correct spellings of stuff",
+        "user": "U0118UR0J72",
+        "ts": "1652845144.254789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8lr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think that's right. Just typed it on the fly so remember to hover over variables\/methods to see what they do or the correct spellings of stuff"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e01e1eef-bcd9-4d24-b1cc-b4ea1238bf1b",
+        "type": "message",
+        "text": "aight, yes sir",
+        "user": "U02535ABH2A",
+        "ts": "1652845154.743909",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wqH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aight, yes sir"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a0782d4c-f7d3-4d9b-961e-f61721778cbc",
+        "type": "message",
+        "text": "did you just change the ex on the motor?",
+        "user": "U02535ABH2A",
+        "ts": "1652845181.437589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Gn3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "did you just change the ex on the motor?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2c5228f1-987c-4f41-939b-627c1d4ecefd",
+        "type": "message",
+        "text": "Yes, I accidently typed a period on my phone",
+        "user": "U0118UR0J72",
+        "ts": "1652845196.640369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6N0L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, I accidently typed a period on my phone"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0118UR0J72",
+            "ts": "1652845204.000000"
+        }
+    },
+    {
+        "client_msg_id": "f0d37be7-399e-4943-9197-7701cd7756e7",
+        "type": "message",
+        "text": "oh ok",
+        "user": "U02535ABH2A",
+        "ts": "1652845201.579679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K5F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0520dd84-53cd-467f-9902-1e89b2e247d8",
+        "type": "message",
+        "text": "You might also have to put something before RunMode if you don't import it directly like DcMotorSimple.RunMode... or DcMotor.RunMode... or DcMotorEx.RunMode...",
+        "user": "U0118UR0J72",
+        "ts": "1652845265.371369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0D6x8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You might also have to put something before RunMode if you don't import it directly like DcMotorSimple.RunMode... or DcMotor.RunMode... or DcMotorEx.RunMode..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "62c72f39-b5a1-4525-84e9-61b9fa6148c0",
+        "type": "message",
+        "text": "```frontLeft.setMode( DcMotorEx.RunMode.RUN_USING_ENCODER );\nbackLeft.setMode( DcMotorEx.RunMode.RUN_USING_ENCODER );\nfrontRight.setMode( DcMotorEx.RunMode.RUN_USING_ENCODER );\nbackRight.setMode( DcMotorEx.RunMode.RUN_USING_ENCODER );```",
+        "user": "U02535ABH2A",
+        "ts": "1652845306.381609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "igkA",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "frontLeft.setMode( DcMotorEx.RunMode.RUN_USING_ENCODER );\nbackLeft.setMode( DcMotorEx.RunMode.RUN_USING_ENCODER );\nfrontRight.setMode( DcMotorEx.RunMode.RUN_USING_ENCODER );\nbackRight.setMode( DcMotorEx.RunMode.RUN_USING_ENCODER );"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9365f285-fc73-4d78-8f34-d969a079fec3",
+        "type": "message",
+        "text": "I did this...",
+        "user": "U02535ABH2A",
+        "ts": "1652845325.426619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NQy4S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I did this..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5936c014-6287-4f73-be65-7d4c1ca97201",
+        "type": "message",
+        "text": "Cool",
+        "user": "U0118UR0J72",
+        "ts": "1652845328.939959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UyT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ab17aed6-414b-411e-87b9-74185c15f5dc",
+        "type": "message",
+        "text": "Wait",
+        "user": "U0118UR0J72",
+        "ts": "1652845335.406449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4VkIO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wait"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fc6854ff-890f-4c5e-844f-3b4a283b68e2",
+        "type": "message",
+        "text": "RUN_USING_ENCODER means it will track its position.",
+        "user": "U0118UR0J72",
+        "ts": "1652845349.999439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ld8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "RUN_USING_ENCODER means it will track its position."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0118UR0J72",
+            "ts": "1652845404.000000"
+        }
+    },
+    {
+        "client_msg_id": "52b6ba9f-477c-4fb2-93a3-8c4487151222",
+        "type": "message",
+        "text": "RUN_TO_POSITION needs to be put whenever\/before you use setTargetPosition",
+        "user": "U0118UR0J72",
+        "ts": "1652845372.577659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zf1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "RUN_TO_POSITION needs to be put whenever\/before you use setTargetPosition"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0118UR0J72",
+            "ts": "1652845388.000000"
+        }
+    },
+    {
+        "client_msg_id": "8ba8bef2-a259-4dad-903d-1120159b53ee",
+        "type": "message",
+        "text": "oh, I see",
+        "user": "U02535ABH2A",
+        "ts": "1652845432.763469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fsw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh, I see"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "684fea91-5c45-433d-8793-9d777e505c04",
+        "type": "message",
+        "text": "wait what is the point of RUN_USING_ENCODER? is it for like general movement tracking during testing?",
+        "user": "U022WGTQ602",
+        "ts": "1652845476.697009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hwed",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wait what is the point of RUN_USING_ENCODER? is it for like general movement tracking during testing?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1652845500.000000"
+        }
+    },
+    {
+        "client_msg_id": "ac2716f0-b2af-47c7-90bf-10a7c26a308e",
+        "type": "message",
+        "text": "Yup",
+        "user": "U0118UR0J72",
+        "ts": "1652845486.819089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lfpp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "58a8ac66-a03b-42e2-9c08-b42ae81e8b6e",
+        "type": "message",
+        "text": "Just to track position",
+        "user": "U0118UR0J72",
+        "ts": "1652845495.850859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JAH5N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just to track position"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8f9127e1-c5bc-40b0-8882-87f018b26db8",
+        "type": "message",
+        "text": "Like how we set up dead wheel encoders",
+        "user": "U0118UR0J72",
+        "ts": "1652845509.483259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eq\/CV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Like how we set up dead wheel encoders"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "05dc1ba1-b68b-4e8c-86f0-d04f496a9295",
+        "type": "message",
+        "text": "They would use that",
+        "user": "U0118UR0J72",
+        "ts": "1652845515.205059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+CWs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They would use that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "97614b36-ee62-441e-b01c-bfccbf83e17c",
+        "type": "message",
+        "text": "Or to track your position in TeleOp",
+        "user": "U0118UR0J72",
+        "ts": "1652845523.748449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vLTh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or to track your position in TeleOp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5aaf140f-9cd1-4e19-9973-23d26184194e",
+        "type": "message",
+        "text": "ohh, ok, that makes more sense, was just about to ask if we used it for anything",
+        "user": "U022WGTQ602",
+        "ts": "1652845530.697509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WjI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ohh, ok, that makes more sense, was just about to ask if we used it for anything"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1652845552.000000"
+        }
+    },
+    {
+        "client_msg_id": "37a5e9b1-0fae-4b9e-84b3-cf009088fd1f",
+        "type": "message",
+        "text": "Technically no since we use RR for everything which automatically does the required motor stuff",
+        "user": "U0118UR0J72",
+        "ts": "1652845554.719219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jZQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Technically no since we use RR for everything which automatically does the required motor stuff"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "74e26e36-8863-42a9-b809-bb3ec8d070b0",
+        "type": "message",
+        "text": "oh aight, so we just slap an encoder on the dead wheel and let RR do its thing? no RUN_USING_ENCODER stuff?",
+        "user": "U022WGTQ602",
+        "ts": "1652845613.624079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mkPK9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh aight, so we just slap an encoder on the dead wheel and let RR do its thing? no RUN_USING_ENCODER stuff?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022WGTQ602",
+            "ts": "1652845630.000000"
+        }
+    },
+    {
+        "client_msg_id": "a5abc117-3dda-4871-811d-3d8bdc1d30bc",
+        "type": "message",
+        "text": "Yup",
+        "user": "U0118UR0J72",
+        "ts": "1652845652.148519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b7ARW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7870f02e-1e04-4d43-bf74-1d36cba4787f",
+        "type": "message",
+        "text": "You can look at the dead wheel code under TwoWheelTrackingLocalizer.\nI belive it's under drives",
+        "user": "U0118UR0J72",
+        "ts": "1652845783.109079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EWKYa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can look at the dead wheel code under TwoWheelTrackingLocalizer.\nI belive it's under drives"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7312126b-4d68-4cd7-9512-e936cd88be2a",
+        "type": "message",
+        "text": "I believe I created an encoderTracker class that tracks the dead wheel encoder position under utils as well",
+        "user": "U0118UR0J72",
+        "ts": "1652845826.787489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FQ6pI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I believe I created an encoderTracker class that tracks the dead wheel encoder position under utils as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0118UR0J72",
+            "ts": "1652845833.000000"
+        }
+    },
+    {
+        "client_msg_id": "e7464d62-aa2f-4e4f-91cc-fe80f34ea513",
+        "type": "message",
+        "text": "do I have to set target positions for every motor (all 4)?",
+        "user": "U02535ABH2A",
+        "ts": "1652846018.878529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uwY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do I have to set target positions for every motor (all 4)?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fa8e3e52-81a6-4f22-95fb-81c7933eb913",
+        "type": "message",
+        "text": "If you're moving all 4",
+        "user": "U0118UR0J72",
+        "ts": "1652846033.975759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6=z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you're moving all 4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ef4035eb-4f5d-4938-b4a6-c85cc8038b8d",
+        "type": "message",
+        "text": "ok",
+        "user": "U02535ABH2A",
+        "ts": "1652846047.799039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xU+a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b8a33f4f-eff8-4fcc-a3f1-5c9f35defe2f",
+        "type": "message",
+        "text": "umm",
+        "user": "U02535ABH2A",
+        "ts": "1652849419.437209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Ketx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "umm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "23c9205d-b241-44eb-acdf-0ace25789ba4",
+        "type": "message",
+        "text": "I'm confused on how the encoder works when in relation with all 4 motors",
+        "user": "U02535ABH2A",
+        "ts": "1652849440.524089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5+FCT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm confused on how the encoder works when in relation with all 4 motors"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "94508d4c-0f97-49b5-8f08-459eb235be15",
+        "type": "message",
+        "text": "what're you confused abt?",
+        "user": "U022WGTQ602",
+        "ts": "1652849463.446689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GbX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what're you confused abt?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2b96c602-429c-415c-bae6-314529f3c4b2",
+        "type": "message",
+        "text": "does run to position include strafing calculation?",
+        "user": "U02535ABH2A",
+        "ts": "1652849469.737819",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zBCWY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "does run to position include strafing calculation?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "73d2a334-a56a-4256-ac41-0823a4703ee2",
+        "type": "message",
+        "text": "all i can say is that an encoder just tracks how far a motor has spun, not entirely sure how strafing translates to motor turns, since there's a lot of lost energy as motors fight against each other in order to strafe",
+        "user": "U022WGTQ602",
+        "ts": "1652849549.571919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6+db",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "all i can say is that an encoder just tracks how far a motor has spun, not entirely sure how strafing translates to motor turns, since there's a lot of lost energy as motors fight against each other in order to strafe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0145e18f-95b6-4134-868c-45b408a923ea",
+        "type": "message",
+        "text": "<@U0118UR0J72>?",
+        "user": "U022WGTQ602",
+        "ts": "1652849569.219079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fF0C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0118UR0J72"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0554adb0-3ad8-4e17-8c5d-ec85d0c641ad",
+        "type": "message",
+        "text": "Well yes",
+        "user": "U0118UR0J72",
+        "ts": "1652849599.379359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "57oS5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a926c354-e736-404a-a6e7-304d9ee373ad",
+        "type": "message",
+        "text": "also in the case that I'm moving forward and only forward, is there a better way to set power to all the motors at the same time?",
+        "user": "U02535ABH2A",
+        "ts": "1652849607.094459",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y0+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also in the case that I'm moving forward and only forward, is there a better way to set power to all the motors at the same time?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b941b7d3-e3a4-46ed-95e6-f73ee30caa9f",
+        "type": "message",
+        "text": "create a method?",
+        "user": "U022WGTQ602",
+        "ts": "1652849629.586489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OKlFh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "create a method?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c3083d4b-1ac0-4792-9b6e-30e733931df9",
+        "type": "message",
+        "text": "than just setting each one with the code that sam did up top?",
+        "user": "U02535ABH2A",
+        "ts": "1652849629.659839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iVl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "than just setting each one with the code that sam did up top?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9760862e-910a-4351-82df-0557b8097f7f",
+        "type": "message",
+        "text": "oh true",
+        "user": "U02535ABH2A",
+        "ts": "1652849635.568139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "duJ3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh true"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f88f5e76-12e9-4ab8-8e80-3ee641d93628",
+        "type": "message",
+        "text": "create a method that sets power to all 4 motors with either 1 or 4 input variables, do the same for things like RunMode, targetposition, etc.",
+        "user": "U0118UR0J72",
+        "ts": "1652849659.227219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ra6x4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "create a method that sets power to all 4 motors with either 1 or 4 input variables, do the same for things like RunMode, targetposition, etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e7e00ad4-c7f8-4f92-9554-c61e540c1a32",
+        "type": "message",
+        "text": "```public void setMotorPowers( double frontLeftPow, double backLeftPow, double frontRightPow, double backRightPow ) {\n    ...\n}\npublic void setMotorPowers( double power ) {\n    setMotorPowers( power, power, power, power );\n}```",
+        "user": "U0118UR0J72",
+        "ts": "1652849701.477989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Xkuk",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "public void setMotorPowers( double frontLeftPow, double backLeftPow, double frontRightPow, double backRightPow ) {\n    ...\n}\npublic void setMotorPowers( double power ) {\n    setMotorPowers( power, power, power, power );\n}"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0118UR0J72",
+            "ts": "1652849735.000000"
+        }
+    },
+    {
+        "client_msg_id": "df17c657-89f6-4617-83db-d761cfbb8cde",
+        "type": "message",
+        "text": "from what im reading online, the main way to get how encoder ticks converts when dealing with strafing is using the RUN_USING_ENCODER mode to track what strafing for like 3 seconds is like and how far that moves the robot, then when you have that you can derive an equation\/ratio for a strafe with encoders method",
+        "user": "U022WGTQ602",
+        "ts": "1652849741.493449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4g3Yb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "from what im reading online, the main way to get how encoder ticks converts when dealing with strafing is using the RUN_USING_ENCODER mode to track what strafing for like 3 seconds is like and how far that moves the robot, then when you have that you can derive an equation\/ratio for a strafe with encoders method"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3d4f45b1-4378-42e8-98b9-9daa4efa19bf",
+        "type": "message",
+        "text": "getPosition( ) will return how many ticks the motor has rotated so far",
+        "user": "U0118UR0J72",
+        "ts": "1652849789.202329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AdG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "getPosition( ) will return how many ticks the motor has rotated so far"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cfa2f4a1-1e4d-4dc1-b904-80409224536f",
+        "type": "message",
+        "text": "you can call motor.setMode( DcMotorEx.~STOP_AND_RESET_ENCODERS~ ) with the depreciated stop &amp; reset to stop the motor, and reset it's ticks traveled\/position 2 zero",
+        "user": "U0118UR0J72",
+        "ts": "1652849839.741549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ihX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can call motor.setMode( DcMotorEx."
+                            },
+                            {
+                                "type": "text",
+                                "text": "STOP_AND_RESET_ENCODERS",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ) with the depreciated stop & reset to stop the motor, and reset it's ticks traveled\/position 2 zero"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0118UR0J72",
+            "ts": "1652849929.000000"
+        }
+    },
+    {
+        "client_msg_id": "2006e669-b605-4500-b43b-0bbf8eb8f7ac",
+        "type": "message",
+        "text": "Or, you can just track the position at the beginning of a move vs after",
+        "user": "U0118UR0J72",
+        "ts": "1652849857.024609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qWT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or, you can just track the position at the beginning of a move vs after"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a476f884-0f22-4732-8045-c37bcac3566a",
+        "type": "message",
+        "text": "You'll have to do math if you want to know how far you've strafed",
+        "user": "U0118UR0J72",
+        "ts": "1652849878.784209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UDRea",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You'll have to do math if you want to know how far you've strafed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "72c453af-b9c5-4cfd-a37c-f7cb44e6f2ef",
+        "type": "message",
+        "text": "^^^",
+        "user": "U022WGTQ602",
+        "ts": "1652849885.873399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fnj8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "20455fa2-8f69-485e-9bc4-8bffd5c532c4",
+        "type": "message",
+        "text": "Plus there will be much slippage from the smaller wheels on the mecanum wheels which is why position tracking with them sucks",
+        "user": "U0118UR0J72",
+        "ts": "1652849908.216879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JDJK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plus there will be much slippage from the smaller wheels on the mecanum wheels which is why position tracking with them sucks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8c533b4e-e5d6-46bd-942c-22284f60d484",
+        "type": "message",
+        "text": "aight, my tiny brain is going to try to connect the dots for a couple minutes here",
+        "user": "U02535ABH2A",
+        "ts": "1652849955.938339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q4UVy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aight, my tiny brain is going to try to connect the dots for a couple minutes here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03GLGND0RE",
+                "created": 1652850126,
+                "timestamp": 1652850126,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0118UR0J72",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 40183,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F03GLGND0RE\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F03GLGND0RE\/download\/image.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GLGND0RE-c610b19647\/image_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GLGND0RE-c610b19647\/image_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GLGND0RE-c610b19647\/image_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 277,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03GLGND0RE-c610b19647\/image_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "original_w": 474,
+                "original_h": 365,
+                "thumb_tiny": "AwAkADC\/JIkZUMPvHAwKjlmCyiIDDHHPbmpJovMaM5xsbd9ainty8yyhvu4yDTdrAicjCZ2gn8qRiqRl2AAAyaRnjAPzLke9NbbPbnyyPmHBpDsIk6PC8mwgLnI71KhV0VgOGGRxVeKArC8B4DA\/MBx+FWIl2Rqmc7RjNGlhCnAIycZ6c012VcBmwTwMnrUdyju0JRc7XBPNQ3CMbxGwQoxlvx9ab0QCSWTFmbeOST0qS3h8iItI2M8kZ4FWOq5B4PtTZkZ4XUHkjjtU2W5bqSaswRw5OM7R\/Fng09VAzgk5OetU4Yn+xSoUIY5wCMdqswKVgjUjBCjIqraEElFFFIAooooAKKKKAP\/Z",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U0118UR0J72\/F03GLGND0RE\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F03GLGND0RE-819b1e6fbc",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0118UR0J72",
+        "display_as_bot": false,
+        "ts": "1652850128.458229",
+        "client_msg_id": "dd50a164-52b2-4913-aa22-a332b219c389"
+    },
+    {
+        "client_msg_id": "e7e73b77-8723-4b0c-88d1-bdac51e19dca",
+        "type": "message",
+        "text": "alternatively, you can keep it how the moving forward and backward with encoders works, then apply that same concept with strafing with strafe direction (+ - - +), and if you for example tell it to go 2 feet and it only goes 1.5 feet, then you know the ratio of forward\/backward to strafing and can just add a multiplier in the strafe method",
+        "user": "U022WGTQ602",
+        "ts": "1652850165.120799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rlt41",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alternatively, you can keep it how the moving forward and backward with encoders works, then apply that same concept with strafing with strafe direction (+ - - +), and if you for example tell it to go 2 feet and it only goes 1.5 feet, then you know the ratio of forward\/backward to strafing and can just add a multiplier in the strafe method"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "020f3ca5-07ac-43b9-9e7f-c5eead914f77",
+        "type": "message",
+        "text": "You probably just multiply the distance traveled by sqrt(2)\/2?",
+        "user": "U0118UR0J72",
+        "ts": "1652850179.931629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mfXU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You probably just multiply the distance traveled by sqrt(2)\/2?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "00e6c1ab-bbf6-4728-9e91-69775e903379",
+        "type": "message",
+        "text": "alright, I have no clue what I'm doing with encoders, I'll try to sleep on it and figure it out in first period tmrw",
+        "user": "U02535ABH2A",
+        "ts": "1652850857.903589",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gle",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alright, I have no clue what I'm doing with encoders, I'll try to sleep on it and figure it out in first period tmrw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8c3cab543fd9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-16\/2180170577059_8c3cab543fd935b1767b_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Wong",
+            "display_name": "Victor Wong",
+            "team": "T010YRDV4KB",
+            "name": "vic.won000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

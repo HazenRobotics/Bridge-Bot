@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "d8c37000-c0c4-4577-9e67-bcd68ff9ba57",
+        "type": "message",
+        "text": "<@U012BUXVC6B> did you delegate anyone to design a new shirt? Otherwise we might just have to settle for the ones we have",
+        "user": "U022WGTQ602",
+        "ts": "1639450452.468600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "URk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012BUXVC6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " did you delegate anyone to design a new shirt? Otherwise we might just have to settle for the ones we have"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

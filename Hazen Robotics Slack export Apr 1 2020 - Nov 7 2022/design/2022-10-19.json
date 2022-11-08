@@ -1,0 +1,196 @@
+[
+    {
+        "client_msg_id": "37c63e6a-47f6-4d32-bb0b-15fcfcbd1a8a",
+        "type": "message",
+        "text": "<@U018WC9RM3K> <https:\/\/www.homedepot.com\/p\/M3-0-5-x-50-mm-Internal-Hex-Metric-Socket-Head-Cap-Screw-2-Pack-844548\/204283597>",
+        "user": "U022WGTQ602",
+        "ts": "1666216345.499949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e5Vz8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U018WC9RM3K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.homedepot.com\/p\/M3-0-5-x-50-mm-Internal-Hex-Metric-Socket-Head-Cap-Screw-2-Pack-844548\/204283597"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "747c846ded5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2098572895346_747c846ded5f6d63f228_72.png",
+            "first_name": "",
+            "real_name": "Camden Harris",
+            "display_name": "Camden Harris",
+            "team": "T010YRDV4KB",
+            "name": "cam.har000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.homedepot.com\/p\/M3-0-5-x-50-mm-Internal-Hex-Metric-Socket-Head-Cap-Screw-2-Pack-844548\/204283597",
+                "thumb_url": "https:\/\/images.thdstatic.com\/productImages\/8909f610-a92c-4275-84c5-2c855f574a7e\/svn\/socket-head-cap-screws-844548-64_1000.jpg",
+                "thumb_width": 1000,
+                "thumb_height": 1000,
+                "service_icon": "https:\/\/www.homedepot.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.homedepot.com\/p\/M3-0-5-x-50-mm-Internal-Hex-Metric-Socket-Head-Cap-Screw-2-Pack-844548\/204283597",
+                "fallback": "The Home Depot: Everbilt M3-0.5 x 50 mm Internal Hex Metric Socket Head Cap Screw (2-Pack) 844548 - The Home Depot",
+                "text": "These metric socket cap screws are ideal for applications that require a well tooled appearance or broader bearing surface. This screw carries a recessed internal socket drive to add strength. They have",
+                "title": "Everbilt M3-0.5 x 50 mm Internal Hex Metric Socket Head Cap Screw (2-Pack) 844548 - The Home Depot",
+                "title_link": "https:\/\/www.homedepot.com\/p\/M3-0-5-x-50-mm-Internal-Hex-Metric-Socket-Head-Cap-Screw-2-Pack-844548\/204283597",
+                "service_name": "The Home Depot"
+            }
+        ],
+        "thread_ts": "1663713890.014839",
+        "parent_user_id": "U0118UR0J72"
+    },
+    {
+        "type": "message",
+        "text": "<@U038AS2R6UV>",
+        "files": [
+            {
+                "id": "F04774QNL93",
+                "created": 1666222302,
+                "timestamp": 1666222302,
+                "name": "TAZPRODE_Newerest Sleeve.gcode",
+                "title": "TAZPRODE_Newerest Sleeve.gcode",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U041K6T5YDA",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 18763544,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F04774QNL93\/tazprode_newerest_sleeve.gcode?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F04774QNL93\/download\/tazprode_newerest_sleeve.gcode?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U041K6T5YDA\/F04774QNL93\/tazprode_newerest_sleeve.gcode",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F04774QNL93-aaef998cb6",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U041K6T5YDA",
+        "display_as_bot": false,
+        "ts": "1666222307.171979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wk9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U038AS2R6UV"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "bc4760d0-15f1-48d1-8081-533d68f99d1c"
+    },
+    {
+        "type": "message",
+        "text": "Grabber thing <@U038AS2R6UV> <@U01AUMR0YG2> stl in case print fails again",
+        "files": [
+            {
+                "id": "F047A17C2TD",
+                "created": 1666222467,
+                "timestamp": 1666222467,
+                "name": "Cone Sleeve.stl",
+                "title": "Cone Sleeve.stl",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U041K6T5YDA",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 621084,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F047A17C2TD\/cone_sleeve.stl?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F047A17C2TD\/download\/cone_sleeve.stl?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U041K6T5YDA\/F047A17C2TD\/cone_sleeve.stl",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F047A17C2TD-b8c2f96872",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U041K6T5YDA",
+        "display_as_bot": false,
+        "ts": "1666222503.432039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5kjB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Grabber thing "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U038AS2R6UV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01AUMR0YG2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " stl in case print fails again"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "35239852-be4d-4a14-902b-42c9ff2eb697"
+    }
+]

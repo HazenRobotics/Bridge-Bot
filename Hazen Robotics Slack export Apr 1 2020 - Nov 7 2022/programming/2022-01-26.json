@@ -1,0 +1,397 @@
+[
+    {
+        "client_msg_id": "7f30a848-5374-44e5-9e66-589960ea09f4",
+        "type": "message",
+        "text": "<https:\/\/github.com\/wmlynar\/extended-kalman-filter>",
+        "user": "U018WC9RM3K",
+        "ts": "1643226252.055200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+cmK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/wmlynar\/extended-kalman-filter"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "color": "24292f",
+                "bot_id": "B02EXAE6AB1",
+                "app_unfurl_url": "https:\/\/github.com\/wmlynar\/extended-kalman-filter",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "wmlynar\/extended-kalman-filter",
+                "text": "Extended Kalman Filter implemented in Java with easy representation of model and observation functions",
+                "title": "wmlynar\/extended-kalman-filter",
+                "fields": [
+                    {
+                        "value": "13",
+                        "title": "Stars",
+                        "short": true
+                    },
+                    {
+                        "value": "Java",
+                        "title": "Language",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c96af5bb-fe2d-4290-be2f-3df74ee7dda0",
+        "type": "message",
+        "text": "<https:\/\/github.com\/Spartronics4915\/2020-InfiniteRecharge\/blob\/4125e0e49df507ea3c95faf81abe12893c37c74e\/src\/main\/java\/com\/spartronics4915\/lib\/subsystems\/estimator\/DrivetrainEstimator.java|https:\/\/github.com\/Spartronics4915\/2020-InfiniteRecharge\/blob\/4125e0e49df507ea3c95[…]artronics4915\/lib\/subsystems\/estimator\/DrivetrainEstimator.java>",
+        "user": "U018WC9RM3K",
+        "ts": "1643226568.055500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i+ulg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/Spartronics4915\/2020-InfiniteRecharge\/blob\/4125e0e49df507ea3c95faf81abe12893c37c74e\/src\/main\/java\/com\/spartronics4915\/lib\/subsystems\/estimator\/DrivetrainEstimator.java",
+                                "text": "https:\/\/github.com\/Spartronics4915\/2020-InfiniteRecharge\/blob\/4125e0e49df507ea3c95[…]artronics4915\/lib\/subsystems\/estimator\/DrivetrainEstimator.java"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "bot_id": "B02EXAE6AB1",
+                "app_unfurl_url": "https:\/\/github.com\/Spartronics4915\/2020-InfiniteRecharge\/blob\/4125e0e49df507ea3c95faf81abe12893c37c74e\/src\/main\/java\/com\/spartronics4915\/lib\/subsystems\/estimator\/DrivetrainEstimator.java",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "<https:\/\/github.com\/Spartronics4915\/2020-InfiniteRecharge\/blob\/4125e0e49df507ea3c95faf81abe12893c37c74e\/src\/main\/java\/com\/spartronics4915\/lib\/subsystems\/estimator\/DrivetrainEstimator.java | DrivetrainEstimator.java>",
+                "text": "```\npackage com.spartronics4915.lib.subsystems.estimator;\n\nimport java.io.File;\nimport java.io.FileNotFoundException;\nimport java.io.PrintWriter;\nimport java.io.UnsupportedEncodingException;\nimport java.util.ArrayList;\nimport java.util.function.BiConsumer;\n\nimport com.spartronics4915.lib.math.twodim.geometry.Pose2d;\nimport com.spartronics4915.lib.math.twodim.geometry.Rotation2d;\nimport com.spartronics4915.lib.util.VecBuilder;\nimport edu.wpi.first.wpilibj.Timer;\nimport edu.wpi.first.wpilibj.estimator.ExtendedKalmanFilter;\nimport edu.wpi.first.wpilibj.kinematics.DifferentialDriveWheelSpeeds;\nimport edu.wpi.first.wpilibj.estimator.KalmanFilterLatencyCompensator;\nimport edu.wpi.first.wpilibj.math.Discretization;\nimport edu.wpi.first.wpilibj.math.StateSpaceUtil;\nimport edu.wpi.first.wpiutil.math.MatBuilder;\nimport edu.wpi.first.wpiutil.math.Matrix;\nimport edu.wpi.first.wpiutil.math.MatrixUtils;\nimport edu.wpi.first.wpiutil.math.Nat;\nimport edu.wpi.first.wpiutil.math.numbers.N1;\nimport edu.wpi.first.wpiutil.math.numbers.N3;\nimport edu.wpi.first.wpiutil.math.numbers.N5;\nimport edu.wpi.first.wpiutil.math.numbers.N6;\n\n\/**\n * This class wraps an Extended Kalman Filter to fuse latency-compensated vision\n * measurements with differential drive encoder measurements. It will correct\n * for noisy vision measurements and encoder drift. It is intended to be an easy\n * drop-in for\n * {@link edu.wpi.first.wpilibj.kinematics.DifferentialDriveOdometry}; in fact,\n * if you never call {@link DrivetrainEstimator#addVisionMeasurement}\n * and only call {@link DrivetrainEstimator#update} then this will\n * behave exactly the same as DifferentialDriveOdometry.\n *\n * &lt;p&gt;{@link DrivetrainEstimator#update} should be called every robot\n * loop (if your robot loops are faster than the default then you should change\n * the {@link DrivetrainEstimator#DrivetrainEstimator(Rotation2d, Pose2d,\n * Matrix, Matrix, Matrix, double) nominal delta time}.)\n * {@link DrivetrainEstimator#addVisionMeasurement} can be called as\n * infrequently as you want; if you never call it then this class will behave\n * exactly like regular encoder odometry.\n *\n * &lt;p&gt;Our state-space system is:\n *\n * &lt;p&gt;x = [[x, y, theta, dist_l, dist_r]]^T in the field coordinate system (dist_* are wheel\n * distances.)\n *\n * &lt;p&gt;u = [[vx, vy, omega]]^T (robot-relative velocities) -- NB: using velocities make things\n * considerably easier, because it means that teams don't have to worry about getting an accurate\n * model. Basically, we suspect that it's easier for teams to get good encoder data than it is for\n * them to perform system identification well enough to get a good model.\n *\n * &lt;p&gt;y = [[x, y, theta]]^T from vision, or y = [[x_s, y_s, theta_s, dist_l, dist_r, theta_g]] from\n * encoders, VSLAM, and gyro (subscript s indicates VSLAM as the source)\n *\/\npublic class DrivetrainEstimator {\n    private final ExtendedKalmanFilter&lt;N5, N3, N6&gt; m_observer;\n    private final BiConsumer&lt;Matrix&lt;N3, N1&gt;, Matrix&lt;N3, N1&gt;&gt; m_visionCorrect;\n    private final KalmanFilterLatencyCompensator&lt;N5, N3, N6&gt; m_latencyCompensator;\n\n    private final double m_nominalDt; \/\/ Seconds\n    private double m_prevTimeSeconds = -1.0;\n\n    private Rotation2d m_gyroOffset;\n    private Rotation2d m_previousAngle;\n\n    \/**\n     * Constructs a DrivetrainEstimator.\n     *\n     * @param gyroAngle                The current gyro angle.\n     * @param initialPoseMeters        The starting pose estimate.\n     * @param stateStdDevs             Standard deviations of model states. Increase these numbers to\n     *                                 trust your wheel and gyro velocities less.\n     * @param localMeasurementStdDevs  Standard deviations of the encoder and gyro measurements.\n     *                                 Increase these numbers to trust encoder distances and gyro\n     *                                 angle less.\n     * @param visionMeasurementStdDevs Standard deviations of the encoder measurements. Increase\n     *                                 these numbers to trust vision less.\n     *\/\n    public DrivetrainEstimator(\n            Rotation2d gyroAngle, Pose2d initialPoseMeters,\n            Matrix&lt;N5, N1&gt; stateStdDevs,\n            Matrix&lt;N6, N1&gt; localMeasurementStdDevs, Matrix&lt;N3, N1&gt; visionMeasurementStdDevs\n    ) {\n        this(gyroAngle, initialPoseMeters,\n                stateStdDevs, localMeasurementStdDevs, visionMeasurementStdDevs, 0.02);\n    }\n\n    \/**\n     * Constructs a DrivetrainEstimator.\n     *\n     * @param gyroAngle                The current gyro angle.\n     * @param initialPoseMeters        The starting pose estimate.\n     * @param stateStdDevs             Standard deviations of model states. Increase these numbers to\n     *                                 trust your wheel and gyro velocities less.\n     * @param localMeasurementStdDevs  Standard deviations of the encoder and gyro measurements.\n     *                                 Increase these numbers to trust encoder distances and gyro\n     *                                 angle less.\n     * @param visionMeasurementStdDevs Standard deviations of the encoder measurements. Increase\n     *                                 these numbers to trust vision less.\n     * @param nominalDtSeconds         The time in seconds between each robot loop.\n     *\/\n    @SuppressWarnings(\"ParameterName\")\n    public DrivetrainEstimator(\n            Rotation2d gyroAngle, Pose2d initialPoseMeters,\n            Matrix&lt;N5, N1&gt; stateStdDevs,\n            Matrix&lt;N6, N1&gt; localMeasurementStdDevs, Matrix&lt;N3, N1&gt; visionMeasurementStdDevs,\n            double nominalDtSeconds\n    ) {\n        m_nominalDt = nominalDtSeconds;\n\n        m_observer = new ExtendedKalmanFilter&lt;&gt;(\n                Nat.N5(), Nat.N3(), Nat.N6(),\n                this::f,\n                (x, u) -&gt; VecBuilder.fill(\n                        x.get(0, 0), x.get(1, 0), x.get(2, 0),\n                        x.get(3, 0), x.get(4, 0),\n                        x.get(2, 0)\n                ),\n                stateStdDevs, localMeasurementStdDevs,\n                m_nominalDt\n        );\n        m_latencyCompensator = new KalmanFilterLatencyCompensator&lt;&gt;();\n\n        var visionContR = StateSpaceUtil.makeCovarianceMatrix(Nat.N3(), visionMeasurementStdDevs);\n        var visionDiscR = Discretization.discretizeR(visionContR, m_nominalDt);\n        m_visionCorrect = (u, y) -&gt; m_observer.correct(\n                Nat.N3(), u, y,\n                (x, u_) -&gt; new Matrix&lt;N3, N1&gt;(x.getStorage().extractMatrix(0, 3, 0, 1)),\n                visionDiscR\n        );\n\n        m_gyroOffset = initialPoseMeters.getRotation().rotateBy(gyroAngle.inverse());\n        m_previousAngle = initialPoseMeters.getRotation();\n        m_observer.setXhat(fillStateVector(initialPoseMeters, 0.0, 0.0));\n    }\n\n    @SuppressWarnings({\"ParameterName\", \"MethodName\"})\n    private Matrix&lt;N5, N1&gt; f(Matrix&lt;N5, N1&gt; x, Matrix&lt;N3, N1&gt; u) {\n        \/\/ Apply a rotation matrix. Note that we do *not* add x--Runge-Kutta does that for us.\n        var theta = x.get(2, 0);\n        var toFieldRotation = new MatBuilder&lt;&gt;(Nat.N5(), Nat.N5()).fill(\n                Math.cos(theta), -Math.sin(theta), 0, 0, 0,\n                Math.sin(theta), Math.cos(theta), 0, 0, 0,\n                0, 0, 1, 0, 0,\n                0, 0, 0, 1, 0,\n                0, 0, 0, 0, 1\n        );\n        return toFieldRotation.times(VecBuilder.fill(\n                u.get(0, 0), u.get(1, 0), u.get(2, 0), u.get(0, 0), u.get(1, 0)\n        ));\n    }\n\n    \/**\n     * Resets the robot's position on the field.\n     *\n     * &lt;p&gt;You NEED to reset your encoders (to zero) when calling this method.\n     *\n     * &lt;p&gt;The gyroscope angle does not need to be reset here on the user's robot code.\n     * The library automatically takes care of offsetting the gyro angle.\n     *\n     * @param poseMeters The position on the fiel…",
+                "title": "<https:\/\/github.com\/Spartronics4915\/2020-InfiniteRecharge\/blob\/4125e0e49df507ea3c95faf81abe12893c37c74e\/src\/main\/java\/com\/spartronics4915\/lib\/subsystems\/estimator\/DrivetrainEstimator.java | DrivetrainEstimator.java>",
+                "footer": "<https:\/\/github.com\/Spartronics4915\/2020-InfiniteRecharge|Spartronics4915\/2020-InfiniteRecharge>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1e413e44-56c2-4e03-bd68-87c91d9a9332",
+        "type": "message",
+        "text": "<https:\/\/www.chiefdelphi.com\/t\/state-estimation-using-kalman-filters\/383229\/16>",
+        "user": "U018WC9RM3K",
+        "ts": "1643226968.055800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IizBu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.chiefdelphi.com\/t\/state-estimation-using-kalman-filters\/383229\/16"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.chiefdelphi.com\/t\/state-estimation-using-kalman-filters\/383229\/16",
+                "ts": 1585532929,
+                "thumb_url": "https:\/\/www.chiefdelphi.com\/uploads\/default\/original\/1X\/8e74375c59848e271fde74991f61fffd3a63a1fd.png",
+                "thumb_width": 350,
+                "thumb_height": 350,
+                "service_icon": "https:\/\/www.chiefdelphi.com\/uploads\/default\/optimized\/1X\/23d75ff3e2d2783a7670500a6fc66cea5512d49e_2_180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.chiefdelphi.com\/t\/state-estimation-using-kalman-filters\/383229\/16",
+                "fallback": "Chief Delphi: State Estimation using Kalman Filters",
+                "text": "If you have more questions then the FRC Discord’s #programming-discussion channel is a great place for more “interactive” discussions. Tyler (who wrote the Controls Engineering in FRC book) also hangs out there and is always there to help with all my terribly misguided questions :slightly_smiling_face:. He might be willing to help you too.",
+                "title": "State Estimation using Kalman Filters",
+                "title_link": "https:\/\/www.chiefdelphi.com\/t\/state-estimation-using-kalman-filters\/383229\/16",
+                "service_name": "Chief Delphi"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "94d6bd75-764a-4a4a-8de3-390535215dd4",
+        "type": "message",
+        "text": "<https:\/\/mcm-frc-docs.readthedocs.io\/en\/latest\/docs\/software\/advanced-controls\/state-space\/state-space-pose_state-estimators.html>",
+        "user": "U018WC9RM3K",
+        "ts": "1643228294.056100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mEIV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mcm-frc-docs.readthedocs.io\/en\/latest\/docs\/software\/advanced-controls\/state-space\/state-space-pose_state-estimators.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/mcm-frc-docs.readthedocs.io\/en\/latest\/docs\/software\/advanced-controls\/state-space\/state-space-pose_state-estimators.html",
+                "thumb_url": "https:\/\/raw.githubusercontent.com\/wpilibsuite\/branding\/master\/png\/wpilib-128.png",
+                "thumb_width": 128,
+                "thumb_height": 128,
+                "service_icon": "https:\/\/mcm-frc-docs.readthedocs.io\/en\/latest\/_static\/FIRSTicon_RGB_withTM.ico",
+                "id": 1,
+                "original_url": "https:\/\/mcm-frc-docs.readthedocs.io\/en\/latest\/docs\/software\/advanced-controls\/state-space\/state-space-pose_state-estimators.html",
+                "fallback": "FIRST Robotics Competition Documentation: WPILib Pose and State Estimators",
+                "text": "WPILib includes pose and state estimators for differential, swerve and mecanum drivetrains. These estimators are designed to be drop-in replacements for the existing odometry classes, with added fe...",
+                "title": "WPILib Pose and State Estimators",
+                "title_link": "https:\/\/mcm-frc-docs.readthedocs.io\/en\/latest\/docs\/software\/advanced-controls\/state-space\/state-space-pose_state-estimators.html",
+                "service_name": "FIRST Robotics Competition Documentation"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "21c31809-209a-4f59-b780-2ad0a257f93e",
+        "type": "message",
+        "text": "<@U0119239VCY> were you able to figure out the distance sensor offset?",
+        "user": "U018WC9RM3K",
+        "ts": "1643245592.057100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+ugJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " were you able to figure out the distance sensor offset?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "015d06e7-d9cd-4cae-9277-24929a6a1440",
+        "type": "message",
+        "text": "I'm not sure that the trig that we did works since I wasn't sure what you do with the sensor reading, was I supposed to multiply it with the offset x tan equation?",
+        "user": "U0119239VCY",
+        "ts": "1643250869.058700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s6O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm not sure that the trig that we did works since I wasn't sure what you do with the sensor reading, was I supposed to multiply it with the offset x tan equation?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0119239VCY",
+            "ts": "1643250895.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "This is distance offset. You will have issues with 90 +n*180 because tan is undefined",
+        "files": [
+            {
+                "id": "F0313AREQUQ",
+                "created": 1643252000,
+                "timestamp": 1643252000,
+                "name": "Slack Image (2022-01-26_18-53-13-965).jpg",
+                "title": "Slack Image (2022-01-26_18-53-13-965).jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U018WC9RM3K",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 78153,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "subtype": "slack_image",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F0313AREQUQ\/slack_image__2022-01-26_18-53-13-965_.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F0313AREQUQ\/download\/slack_image__2022-01-26_18-53-13-965_.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0313AREQUQ-12c6815549\/slack_image__2022-01-26_18-53-13-965__64.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0313AREQUQ-12c6815549\/slack_image__2022-01-26_18-53-13-965__80.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0313AREQUQ-12c6815549\/slack_image__2022-01-26_18-53-13-965__360.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0313AREQUQ-12c6815549\/slack_image__2022-01-26_18-53-13-965__480.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0313AREQUQ-12c6815549\/slack_image__2022-01-26_18-53-13-965__160.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0313AREQUQ-12c6815549\/slack_image__2022-01-26_18-53-13-965__720.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0313AREQUQ-12c6815549\/slack_image__2022-01-26_18-53-13-965__800.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1422,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0313AREQUQ-12c6815549\/slack_image__2022-01-26_18-53-13-965__960.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F0313AREQUQ-12c6815549\/slack_image__2022-01-26_18-53-13-965__1024.jpg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 1920,
+                "thumb_tiny": "AwAwABtVhi5BRefammCPP3RUlDcnNAEXkR\/3aTyY\/SnscfhS0AOo7UlNY9h\/+ugAbP8AD19KWkySCSMUtAC0mBnpzRSZFABxRSE0maAP\/9k=",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U018WC9RM3K\/F0313AREQUQ\/slack_image__2022-01-26_18-53-13-965_.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F0313AREQUQ-e477b70f93",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U018WC9RM3K",
+        "display_as_bot": false,
+        "ts": "1643252082.060800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oF\/A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is distance offset. You will have issues with 90 +n*180 because tan is undefined"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3ef6cf63-9065-40f9-968b-8aa357653cac"
+    }
+]

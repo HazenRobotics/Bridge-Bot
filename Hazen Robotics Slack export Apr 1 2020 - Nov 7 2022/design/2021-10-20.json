@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "c5a0651a-a76a-4e27-a3f1-9afe2ca6a6be",
+        "type": "message",
+        "text": "<@U018B1TFE3Y> can you check in CAD to see if we need to change the lift angle or placement into the robot to drop into all three levels reliably?",
+        "user": "U012BUXVC6B",
+        "ts": "1634787130.000800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hVo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U018B1TFE3Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you check in CAD to see if we need to change the lift angle or placement into the robot to drop into all three levels reliably?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

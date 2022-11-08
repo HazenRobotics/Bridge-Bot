@@ -1,0 +1,158 @@
+[
+    {
+        "client_msg_id": "ae0b20ff-695e-4829-a064-95b901ee8ebf",
+        "type": "message",
+        "text": "<@U0118UR0J72> Can you get detailed plans and drawings done before tomorrow? Just listing out what moves and turns the robot is making, and which way it's going to be facing for each. It'll help design out quite a bit",
+        "user": "U012BUXVC6B",
+        "ts": "1611721568.002100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "56oJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0118UR0J72"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Can you get detailed plans and drawings done before tomorrow? Just listing out what moves and turns the robot is making, and which way it's going to be facing for each. It'll help design out quite a bit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c4eb5abf-66d0-4df2-91fd-862131dd239f",
+        "type": "message",
+        "text": "Do one for both the easy autonomous we're working on and a near-max point auto with placing the wobble goal and maybe intaking a ring, both using vision.",
+        "user": "U012BUXVC6B",
+        "ts": "1611721611.003000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t2AQc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do one for both the easy autonomous we're working on and a near-max point auto with placing the wobble goal and maybe intaking a ring, both using vision."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "20dccc37-476b-406d-b60c-c516aba4d575",
+        "type": "message",
+        "text": "Sorry to spring this on you so late, if you don't have time before tmr's meeting thats fine but It would be super handy",
+        "user": "U012BUXVC6B",
+        "ts": "1611721635.003600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uOnVw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry to spring this on you so late, if you don't have time before tmr's meeting thats fine but It would be super handy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "09a8c802-08e0-4199-93fa-0f08467b598e",
+        "type": "message",
+        "text": "I'll try for the easy, but Idk about the max point one",
+        "user": "U0118UR0J72",
+        "ts": "1611721836.004000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J3dM3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll try for the easy, but Idk about the max point one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

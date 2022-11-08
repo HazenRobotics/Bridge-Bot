@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "A7732817-5BC8-457A-861A-8FE89A21F169",
+        "type": "message",
+        "text": "Harper Engineering\nBrian Henderson\n700 SW 7th St\nRenton, WA 98057",
+        "user": "U0118LQKKEZ",
+        "ts": "1614208863.015300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ioIUX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Harper Engineering\nBrian Henderson\n700 SW 7th St\nRenton, WA 98057"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "ca034fd1769e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-02\/2115489678439_ca034fd1769e0a72e2f9_72.png",
+            "first_name": "Ellen",
+            "real_name": "Ellen Huynh",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "ellen.huynh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

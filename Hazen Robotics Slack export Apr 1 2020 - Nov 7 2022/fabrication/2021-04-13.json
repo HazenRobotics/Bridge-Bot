@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "05c90438-6fef-4da0-8ee1-2a68467e3bfa",
+        "type": "message",
+        "text": "<@U0119239VCY> let me know when you get here and you can checkin at the front",
+        "user": "U018WC9RM3K",
+        "ts": "1618333598.001600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8pt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " let me know when you get here and you can checkin at the front"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

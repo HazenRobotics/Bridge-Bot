@@ -1,0 +1,133 @@
+[
+    {
+        "client_msg_id": "1DF49F2A-10A9-4EBF-94E0-D1B6E6BD7830",
+        "type": "message",
+        "text": "<!everyone> meeting today at 3",
+        "user": "U012BUXVC6B",
+        "ts": "1608757264.302500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bGDY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " meeting today at 3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01BMGWR39S",
+                    "U0118UR0J72"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e09ac89e-217c-4e7d-8643-052468c10c9a",
+        "type": "message",
+        "text": "• Goals: \n\t-Fabricate all parts needed for new robot (Extrusion, 3D prints, Acrylic Panels) \n\t-Strip needed parts off old chassis  \n\t-Fix old chassis for programmers, test \n-Test anything possible \n-Test vision in classroom and other lighting conditions \n \n \n• Who's Bringing What \n\t-Corban: Field tiles, Rev one chassis, vuforia markers.  \n\t-Sam: Surface laptop, Battery Charger \n\t-Dylan: Gobilda kit, Sprockets, Scoring Elements, 20:1 Gearbox, Magazine  \n\t-Andrew: Gobilda kit, Sprockets Plywood if needed \n\t-Goldy: 1\/4in Endmill, Printed Parts \n\t-Peck: Gobilda Order, Printed Parts",
+        "user": "U012BUXVC6B",
+        "ts": "1608768222.303000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UIp",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Goals: "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\t-Fabricate all parts needed for new robot (Extrusion, 3D prints, Acrylic Panels) \n\t-Strip needed parts off old chassis  \n\t-Fix old chassis for programmers, test \n-Test anything possible \n-Test vision in classroom and other lighting conditions \n \n \n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Who's Bringing What "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\t-Corban: Field tiles, Rev one chassis, vuforia markers.  \n\t-Sam: Surface laptop, Battery Charger \n\t-Dylan: Gobilda kit, Sprockets, Scoring Elements, 20:1 Gearbox, Magazine  \n\t-Andrew: Gobilda kit, Sprockets Plywood if needed \n\t-Goldy: 1\/4in Endmill, Printed Parts \n\t-Peck: Gobilda Order, Printed Parts"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

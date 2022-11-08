@@ -1,0 +1,192 @@
+[
+    {
+        "client_msg_id": "cf36690e-e1f8-4d92-977d-7c0b8974e959",
+        "type": "message",
+        "text": "Few issues I'm running into, although I'm probably going to wrap it up for today:\n• RevHub gyro doesn't return anything\n• Can't find a way to reset the encoders (when I reset them, they don't work)\n• When I have it drive 4\" forward it goes 6\", and when I do 10\", it goes 15.75\"",
+        "user": "U0118UR0J72",
+        "ts": "1607219546.205900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z0stE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Few issues I'm running into, although I'm probably going to wrap it up for today:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "RevHub gyro doesn't return anything"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Can't find a way to reset the encoders (when I reset them, they don't work)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "When I have it drive 4\" forward it goes 6\", and when I do 10\", it goes 15.75\""
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0118UR0J72",
+            "ts": "1607302741.000000"
+        }
+    },
+    {
+        "client_msg_id": "079EBCAB-EB53-436F-8F88-1FD22C222756",
+        "type": "message",
+        "text": "For the encoder reset issue, if you have a running total of turns from when the code started running can’t you have another value that you subtract from the running total to zero it out?",
+        "user": "U012BUXVC6B",
+        "ts": "1607220742.207600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YjC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For the encoder reset issue, if you have a running total of turns from when the code started running can’t you have another value that you subtract from the running total to zero it out?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "279ab159-8cfa-46e9-97c9-12ef4cffc28d",
+        "type": "message",
+        "text": "That's what I did for the movement methods but id still like the encoders to be zero at the beginning.",
+        "user": "U0118UR0J72",
+        "ts": "1607220930.208500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q9OQ6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's what I did for the movement methods but id still like the encoders to be zero at the beginning."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "77c39262-cdff-4bb9-b33d-c1565af880ab",
+        "type": "message",
+        "text": "And if we wanna figure out how far we've gone we need another variable somewhere that stores the starting encoder amount.",
+        "user": "U0118UR0J72",
+        "ts": "1607220968.209300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TE0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And if we wanna figure out how far we've gone we need another variable somewhere that stores the starting encoder amount."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

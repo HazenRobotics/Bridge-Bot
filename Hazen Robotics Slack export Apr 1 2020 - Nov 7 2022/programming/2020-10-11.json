@@ -1,0 +1,246 @@
+[
+    {
+        "client_msg_id": "5180600B-BBA0-4AE1-97FC-CE576F571999",
+        "type": "message",
+        "text": "Yo <@U0119239VCY> <@U018WC9RM3K> Are we still struggling with getting encoders to work accurately with the mecanum wheels? I’ve been looking into ideas for redoing our chassis and some teams use a non-driven wheel in the center of the robot for odometry. Is that something we want to try?",
+        "user": "U012BUXVC6B",
+        "ts": "1602459048.013300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M4tsm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0119239VCY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U018WC9RM3K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Are we still struggling with getting encoders to work accurately with the mecanum wheels? I’ve been looking into ideas for redoing our chassis and some teams use a non-driven wheel in the center of the robot for odometry. Is that something we want to try?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "41CF21E1-C587-4816-BD4E-5798A355A90D",
+        "type": "message",
+        "text": "Or one on each side to deal with turning ",
+        "user": "U012BUXVC6B",
+        "ts": "1602459092.013700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qzcM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or one on each side to deal with turning "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c60c0e88-ed89-4243-902f-4de5378d3132",
+        "type": "message",
+        "text": "I'm pretty sure we never got that working accurately.",
+        "user": "U0118UR0J72",
+        "ts": "1602459118.014200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v7ZL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm pretty sure we never got that working accurately."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0891D867-12F0-4D4A-BAF4-F46C8A43041E",
+        "type": "message",
+        "text": "Ok sick. This might solve it then cause it eliminates any inaccuracies from slipping",
+        "user": "U012BUXVC6B",
+        "ts": "1602459158.015200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0X9k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok sick. This might solve it then cause it eliminates any inaccuracies from slipping"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "765d5aa2-27eb-4517-96a2-a3736be453b8",
+        "type": "message",
+        "text": "We'd need to get a rotary encoder if we put a dead wheel in the center though",
+        "user": "U0119239VCY",
+        "ts": "1602461066.016500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N2+E+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We'd need to get a rotary encoder if we put a dead wheel in the center though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5B78E0EE-234B-4A15-B799-1C367D2983B9",
+        "type": "message",
+        "text": "Ye that’s the idea, they make small ones that just attach to a shaft",
+        "user": "U012BUXVC6B",
+        "ts": "1602469402.017000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SCe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ye that’s the idea, they make small ones that just attach to a shaft"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,440 @@
+[
+    {
+        "type": "message",
+        "text": "Shooter autonomous movement!",
+        "files": [
+            {
+                "id": "F01PK471VPS",
+                "created": 1613977893,
+                "timestamp": 1613977893,
+                "name": "VID_20210221_230733201.mp4",
+                "title": "VID_20210221_230733201.mp4",
+                "mimetype": "video\/mp4",
+                "filetype": "mp4",
+                "pretty_type": "MPEG 4 Video",
+                "user": "U0119239VCY",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 56760402,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F01PK471VPS\/vid_20210221_230733201.mp4?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F01PK471VPS\/download\/vid_20210221_230733201.mp4?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "video",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F01PK471VPS-fae9c12bbb\/vid_20210221_230733201_thumb_video.jpeg?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U0119239VCY\/F01PK471VPS\/vid_20210221_230733201.mp4",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F01PK471VPS-e71a324413",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0119239VCY",
+        "display_as_bot": false,
+        "ts": "1613977988.003300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ToDqq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Shooter autonomous movement!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "68768a5f-b571-4975-a499-96f7e388fe4c"
+    },
+    {
+        "client_msg_id": "534b41da-e3f6-4afd-b243-a0fb29428d43",
+        "type": "message",
+        "text": "Not entirely sure why it thinks that it needs to shoot backwards so there's still a few kinks to work out, but other than that it's working really well",
+        "user": "U0119239VCY",
+        "ts": "1613978055.004600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GeDQD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not entirely sure why it thinks that it needs to shoot backwards so there's still a few kinks to work out, but other than that it's working really well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B84BEFE5-257C-4DD9-8991-672934254669",
+        "type": "message",
+        "text": "YOOOO let’s go",
+        "user": "U012BUXVC6B",
+        "ts": "1613978807.004800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T6sm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YOOOO let’s go"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7144CDC1-4A51-472E-8C91-DDBDA7F4D296",
+        "type": "message",
+        "text": "Any idea how accurate it is distance wise?",
+        "user": "U012BUXVC6B",
+        "ts": "1613978817.005200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HMvc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any idea how accurate it is distance wise?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "82f59f8f-f67d-4f72-b988-6efcf9f992a5",
+        "type": "message",
+        "text": "It seems to be pretty accurate, it drives up to right behind where the line would be to shoot so that's what we want and it does it really reliably each time",
+        "user": "U0119239VCY",
+        "ts": "1613978909.006800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K0N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It seems to be pretty accurate, it drives up to right behind where the line would be to shoot so that's what we want and it does it really reliably each time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5bf1d269-b403-4163-9d96-77c991078136",
+        "type": "message",
+        "text": "I'd check the distances but I can't find the tape measure at the moment",
+        "user": "U0119239VCY",
+        "ts": "1613978928.007400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KEGD3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd check the distances but I can't find the tape measure at the moment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "589b91e7-ec91-4685-910e-b5a064651668",
+        "type": "message",
+        "text": "I'm quite proud of the spline path tho",
+        "user": "U0119239VCY",
+        "ts": "1613979300.007900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "syvp7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm quite proud of the spline path tho"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "74E5D3E7-EB1E-4209-BFDF-9192998CB674",
+        "type": "message",
+        "text": "It’s so dang smooth ",
+        "user": "U012BUXVC6B",
+        "ts": "1613979454.008300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1iWhM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It’s so dang smooth "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "EBBA63EA-D4E8-46C9-A2E3-3F40A284F6F6",
+        "type": "message",
+        "text": "I’m gonna post it on insta and Twitter if that’s aight ",
+        "user": "U012BUXVC6B",
+        "ts": "1613979463.008600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nVP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m gonna post it on insta and Twitter if that’s aight "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F37CCD37-9B15-4A4B-84AE-AC0E15AD6F5A",
+        "type": "message",
+        "text": "Also having to robot repeat its path in reverse and seeing how close it is to the starting position is a good way of seeing how much random error you accumulate ",
+        "user": "U012BUXVC6B",
+        "ts": "1613979507.010000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iQJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also having to robot repeat its path in reverse and seeing how close it is to the starting position is a good way of seeing how much random error you accumulate "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c83efb3d-9d56-4381-9cbc-bced4f5637e7",
+        "type": "message",
+        "text": "Yeah, I think there's a bit of error since it's on the carpet and it's getting caught in a few places so we'll see how it does on hard floor next time we're in the shop",
+        "user": "U0119239VCY",
+        "ts": "1613979655.011800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F7P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, I think there's a bit of error since it's on the carpet and it's getting caught in a few places so we'll see how it does on hard floor next time we're in the shop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "g6e249337920",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e2493379201c47c9a0ec0bd66e1f521.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Corban",
+            "real_name": "Corban Thompson",
+            "display_name": "Corban",
+            "team": "T010YRDV4KB",
+            "name": "corbant25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

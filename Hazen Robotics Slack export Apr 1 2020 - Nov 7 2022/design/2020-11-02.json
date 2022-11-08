@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "3A488394-86FA-40F2-8792-F7F19485E40A",
+        "type": "message",
+        "text": "<!channel> yo, can I get progress reports from everyone here sometime today?",
+        "user": "U012BUXVC6B",
+        "ts": "1604357373.047100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6F3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " yo, can I get progress reports from everyone here sometime today?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "b11fbd82637a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-09\/1366619204193_b11fbd82637a332751de_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Lana",
+            "display_name": "",
+            "team": "T010YRDV4KB",
+            "name": "andrewlana16",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

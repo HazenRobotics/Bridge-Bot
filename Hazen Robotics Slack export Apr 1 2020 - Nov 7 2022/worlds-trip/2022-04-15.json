@@ -1,0 +1,129 @@
+[
+    {
+        "client_msg_id": "908edaf4-611c-44a3-abac-45708129b0ae",
+        "type": "message",
+        "text": "I forwarded it to them but for more emails: <mailto:ericdepoule@gmail.com|ericdepoule@gmail.com> &amp; <mailto:cindydepoule@gmail.com|cindydepoule@gmail.com>",
+        "user": "U0118UR0J72",
+        "ts": "1650031703.881029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NFt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I forwarded it to them but for more emails: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:ericdepoule@gmail.com",
+                                "text": "ericdepoule@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:cindydepoule@gmail.com",
+                                "text": "cindydepoule@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "8341efb67434",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1918276099570_8341efb67434b5b5386a_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam DePoule",
+            "display_name": "Sam DePoule",
+            "team": "T010YRDV4KB",
+            "name": "samdepoule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "There has been an update to our return flight was cancelled and that has changed our Saturday Schedule. Please see new flight details below.",
+        "files": [
+            {
+                "id": "F03BM1MP0E9",
+                "created": 1650044076,
+                "timestamp": 1650044076,
+                "name": "flights.png",
+                "title": "flights.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U018WC9RM3K",
+                "user_team": "T010YRDV4KB",
+                "editable": false,
+                "size": 61794,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F03BM1MP0E9\/flights.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T010YRDV4KB-F03BM1MP0E9\/download\/flights.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03BM1MP0E9-f82699947f\/flights_64.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03BM1MP0E9-f82699947f\/flights_80.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03BM1MP0E9-f82699947f\/flights_360.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 220,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03BM1MP0E9-f82699947f\/flights_480.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 293,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03BM1MP0E9-f82699947f\/flights_160.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03BM1MP0E9-f82699947f\/flights_720.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_720_w": 720,
+                "thumb_720_h": 439,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T010YRDV4KB-F03BM1MP0E9-f82699947f\/flights_800.png?t=xoxe-1032863990657-4337023212467-4360822493776-b1096f649e6573393d5fd990356841d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 488,
+                "original_w": 944,
+                "original_h": 576,
+                "thumb_tiny": "AwAdADDRCr6UtIMetLxg0AAwaOxx1oHTigY7CgBmJP8AZoCybhnbipKKVgGj2P6UvQdaMD0pcUwAHNIDmlooAKKKKAP\/2Q==",
+                "permalink": "https:\/\/hazen-robotics.slack.com\/files\/U018WC9RM3K\/F03BM1MP0E9\/flights.png",
+                "permalink_public": "https:\/\/slack-files.com\/T010YRDV4KB-F03BM1MP0E9-6908768a71",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U018WC9RM3K",
+        "display_as_bot": false,
+        "ts": "1650044079.291169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EZUc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There has been an update to our return flight was cancelled and that has changed our Saturday Schedule. Please see new flight details below."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "bc9f21f5-dc5e-440f-ab69-0ebe8cecd804"
+    }
+]

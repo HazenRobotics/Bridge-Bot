@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "ca29f85b-6898-42f6-bfa0-85f9f7bc160a",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=80lJaSKu5lA>",
+        "user": "U018WC9RM3K",
+        "ts": "1632421781.114200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hfokx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=80lJaSKu5lA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T010YRDV4KB",
+        "user_team": "T010YRDV4KB",
+        "source_team": "T010YRDV4KB",
+        "user_profile": {
+            "avatar_hash": "819705ae2a81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-08\/1295978635588_819705ae2a81c6d06b77_72.jpg",
+            "first_name": "",
+            "real_name": "Keith Peck",
+            "display_name": "Keith Peck",
+            "team": "T010YRDV4KB",
+            "name": "kpeck1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Freight Frenzy SDK Release Breakdown - FTC Updates Now",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=80lJaSKu5lA",
+                "author_name": "First Updates Now",
+                "author_link": "https:\/\/www.youtube.com\/c\/FirstUpdatesNow",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/80lJaSKu5lA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Freight Frenzy SDK Release Breakdown - FTC Updates Now",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/80lJaSKu5lA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=80lJaSKu5lA",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=80lJaSKu5lA"
+            }
+        ]
+    }
+]
